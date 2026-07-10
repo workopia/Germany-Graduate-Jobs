@@ -12,7 +12,7 @@ Gepflegt von [**Workopia**](https://workopia.io/browsejobs/de?utm_source=github&
 
 - 🎓 **[Absolventenprogramme & Ausbildung](#absolventenprogramme-ausbildung)** (173) — Praktika 80 · Absolventen 80 · Berufseinstieg 13
 - 💻 **[Technik & IT](#technik-it)** (93) — Praktika 6 · Absolventen 7 · Berufseinstieg 80
-- 📊 **[Data, AI & ML](#data-ai-ml)** (32) — Praktika 4 · Absolventen 0 · Berufseinstieg 28
+- 📊 **[Daten, KI & ML](#daten-ki-ml)** (32) — Praktika 4 · Absolventen 0 · Berufseinstieg 28
 - 💷 **[Finanzen & Buchhaltung](#finanzen-buchhaltung)** (71) — Praktika 2 · Absolventen 0 · Berufseinstieg 69
 - 🏥 **[Gesundheitswesen](#gesundheitswesen)** (61) — Berufseinstieg 61
 - 🔧 **[Handwerk & Ausbildung](#handwerk-ausbildung)** (80) — Berufseinstieg 80
@@ -46,7 +46,7 @@ Gepflegt von [**Workopia**](https://workopia.io/browsejobs/de?utm_source=github&
 
 > **Suchen Sie etwas anderes?**
 > 🔒 Geschlossene/ältere Stellen → [Inaktive Anzeigen](./README-Inactive.md)
-> 🌍 Andere Länder → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs)
+> 🌍 Andere Länder → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [Singapore](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs) · [Hong Kong](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs)
 > 🔎 Die komplette aktuelle Liste → [alle deutschen Jobs auf Workopia](https://workopia.io/browsejobs/de?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs)
 
 ## FAQs
@@ -394,7 +394,7 @@ Richten Sie auf Workopia einen Job-Alert nach Rolle + Stadt ein und wir benachri
 <sub>[⬆️ Nach oben](#jobs-fur-absolventen-werkstudenten-praktika-ausbildung-deutschland-2026)</sub>
 
 
-## 📊 Data, AI & ML
+## 📊 Daten, KI & ML
 
 > 💡 Keine "Absolventenstelle" hier gefunden? Schauen Sie sich **Berufseinstieg** unten an — auch ähnliche Rollen zählen (ein Software Engineer kann sich auf Backend / Full Stack / AI Engineer bewerben).
 
@@ -446,7 +446,7 @@ Richten Sie auf Workopia einen Job-Alert nach Rolle + Stadt ein und wir benachri
 </tbody>
 </table>
 
-🔎 **[Alle aktuellen Data, AI & ML-Jobs in Deutschland durchsuchen und filtern →](https://workopia.io/browsejobs/positions/de/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs)**
+🔎 **[Alle aktuellen Daten, KI & ML-Jobs in Deutschland durchsuchen und filtern →](https://workopia.io/browsejobs/positions/de/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs)**
 
 <sub>[⬆️ Nach oben](#jobs-fur-absolventen-werkstudenten-praktika-ausbildung-deutschland-2026)</sub>
 
