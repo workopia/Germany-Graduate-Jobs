@@ -9,10 +9,10 @@
   "site_slug": "germany",
   "lang": "de",
   "site_live": false,
-  "as_of": "2026-07-10",
+  "as_of": "2026-07-11",
   "window_days": 60,
   "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-10T11:24:06.368Z"
+  "generated_at": "2026-07-11T01:03:21.663Z"
  },
  "categories": [
   {
@@ -333,7 +333,7 @@
    "id": "a699909bfcd42dfae6180903b4b633de",
    "source": "Workopia",
    "company_name": "FRoSTA AG",
-   "company_hi_slug": null,
+   "company_hi_slug": "frosta-ag",
    "title": "Internship Quality Assurance Raw Material (f/m/d)",
    "location": "Bremerhaven",
    "skills": "Sample taking, Data documentation",
@@ -349,7 +349,7 @@
    "id": "b749c0a6d9e0926144b2afa97778c559",
    "source": "Workopia",
    "company_name": "FRoSTA AG",
-   "company_hi_slug": null,
+   "company_hi_slug": "frosta-ag",
    "title": "Internship In Production / Process Optimization (f/m/d)",
    "location": "Bremerhaven",
    "skills": "Process optimization, Technical department",
@@ -4397,7 +4397,7 @@
    "id": "7e0e181de0077acc78d538ad4aee0d43",
    "source": "Workopia",
    "company_name": "FRoSTA AG",
-   "company_hi_slug": null,
+   "company_hi_slug": "frosta-ag",
    "title": "Data Analyst & Process Automation Expert (f/m/d)",
    "location": "Bremerhaven +1",
    "skills": "Data analysis, Process automation",
@@ -6973,7 +6973,7 @@
    "id": "c11ebed58fa86275ed28c950bce2e183",
    "source": "Workopia",
    "company_name": "FRoSTA AG",
-   "company_hi_slug": null,
+   "company_hi_slug": "frosta-ag",
    "title": "Electrician Maintenance (f/m/d)",
    "location": "Bremerhaven",
    "skills": "Vocational training as, Experience in maintena",
