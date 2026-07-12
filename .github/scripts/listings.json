@@ -12,7 +12,7 @@
   "as_of": "2026-07-12",
   "window_days": 60,
   "total_site_jobs_str": "7.4M+",
-  "generated_at": "2026-07-12T00:49:41.492Z"
+  "generated_at": "2026-07-12T05:26:51.093Z"
  },
  "categories": [
   {
@@ -38,7 +38,7 @@
   },
   {
    "key": "finance",
-   "name": "Finance & Accounting",
+   "name": "Finance, Consulting & Accounting",
    "icon": "💷",
    "mode": "tiered",
    "l4slug": "graduate-analyst"
@@ -74,6 +74,7 @@
  ],
  "listings": [
   {
+   "salary_display": null,
    "id": "957bb608733d6005a7e39970fa483b21",
    "source": "Workopia",
    "company_name": "Johnson & Johnson Innovative Medicine",
@@ -90,6 +91,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "11eadba432534853d44231e48c64ff9d",
    "source": "Workopia",
    "company_name": "Johnson & Johnson Innovative Medicine",
@@ -106,6 +108,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "80da8a1696245321000470a8cb64d8ad",
    "source": "Workopia",
    "company_name": "Piller Blowers & Compressors GmbH",
@@ -122,6 +125,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f32e291867d1a1cbfb5e69c4973d18cc",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -138,6 +142,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "aaea98f2bb167cf4b6016db0390f6ee9",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -154,6 +159,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "bdee19b8497bd3ee839afda4c016d42c",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -170,6 +176,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e177d7fe48e8c3e7780afd7366e40a12",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -186,6 +193,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d9bdc8d446c238d6ba3adb7613480961",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -202,6 +210,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d0db331e0d1e727c621cf4784bc87c5e",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -218,6 +227,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c994ffa980e3d1f8b0e8692bbc5a02d1",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -234,6 +244,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f17f5edeb2c242ae32dfa369fefe0f3d",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -250,6 +261,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "517fa1bfd32da1d20489be2a95ed6f4f",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -266,6 +278,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ce60f2bb7f2bb87b56e3f48db9dceb35",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -282,6 +295,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "dfdaa4bb3b7e4d093e58c0b93269ba76",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -298,6 +312,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9df8273e442ffe724c18f773c2bfd748",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -314,6 +329,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "6d7eafece52fa0ae3acd70c2c67c9e65",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -330,6 +346,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9500a25fefcbc89aa0be208413c88c24",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -346,6 +363,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "€1,000–1,500/mo",
    "id": "bbab7b5cfa87b5e13b3aeb72d3bea68c",
    "source": "Workopia",
    "company_name": "Canon Production Printing Netherlands B.V",
@@ -362,6 +380,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d92554c312bd43145586a2cd1fdaf825",
    "source": "Workopia",
    "company_name": "SAMSON Group",
@@ -378,6 +397,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "79bb3ad2224814374fde124caaddeecc",
    "source": "Workopia",
    "company_name": "SICK AG",
@@ -394,6 +414,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ae0c40d74e6ffea0b2dad44df06001bb",
    "source": "Workopia",
    "company_name": "SICK AG",
@@ -410,6 +431,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5fe09cb183620fce168846106836d116",
    "source": "Workopia",
    "company_name": "SICK AG",
@@ -426,6 +448,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "004c38825486920756dcc60a98d9f19c",
    "source": "Workopia",
    "company_name": "SICK AG",
@@ -442,6 +465,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c9640e93e527ba78a64d93a9af116a4d",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -458,6 +482,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "feca214eb67f8d9e021dae801f1d0b3e",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -474,6 +499,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "3fad4270df4b17d5c9442e53f43b55ba",
    "source": "Workopia",
    "company_name": "MEGA eG",
@@ -490,6 +516,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "87d9612549219e41ffd1a127ecc00ce1",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -506,6 +533,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5c1fba3cb129d2b15c72132d751bb504",
    "source": "Workopia",
    "company_name": "RWE AG",
@@ -522,6 +550,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "6915cb869be6f7bee967f5a1bd6b6255",
    "source": "Workopia",
    "company_name": "RWE AG",
@@ -538,6 +567,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e3440e566a9188102d409f86555c0724",
    "source": "Workopia",
    "company_name": "RWE AG",
@@ -554,6 +584,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "77f1e67c59af2732c505e119622b47a2",
    "source": "Workopia",
    "company_name": "RWE AG",
@@ -570,6 +601,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "1ae62c8a55b28d4fba0cb5521b5a6c92",
    "source": "Workopia",
    "company_name": "RWE AG",
@@ -586,6 +618,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "0b7656f033ab722dab4e88f7c1a52c66",
    "source": "Workopia",
    "company_name": "Tenova S.p.A",
@@ -602,6 +635,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d086008d7577502b2521462baea2f53c",
    "source": "Workopia",
    "company_name": "HOERBIGER",
@@ -618,6 +652,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "09b2b258010c8c7c17548083d94dd171",
    "source": "Workopia",
    "company_name": "Coca-Cola HBC AG",
@@ -634,6 +669,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "47152fb2d462f8a217b5c4b7ec382292",
    "source": "Workopia",
    "company_name": "Busch Vacuum Solutions",
@@ -650,6 +686,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7675967f355ba8b54fda53121525667b",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -666,6 +703,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d5d1b96c850b4196ed29c15d69c3a9f9",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -682,6 +720,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d98041f80fe85d1c4aa0c52906dd8a5b",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -698,6 +737,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f057c475736448ea80adfd737b1df183",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -714,6 +754,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "3159d5a56b79296cc220961aed753b01",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -730,6 +771,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ddc962a93ddb6a5999a21497342244b7",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -746,6 +788,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "054d09d927bd169ef38005e95b0be3ff",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -762,6 +805,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "194ac19ed0b54674b19f4f0d1e7395b2",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -778,6 +822,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "1d5f92832387faae79baf8e2bf0144a1",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -794,6 +839,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "438dc8223896650043e4b932869689a1",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -810,6 +856,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "216c8daca6c38b30ab54c1b4311e4f3c",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -826,6 +873,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "fe7c89e201e077f6747757ccbd0f3ea7",
    "source": "Workopia",
    "company_name": "Pfeifer Holz GmbH & Co KG",
@@ -842,6 +890,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d1a66a320d5208ae878ddea692948040",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -858,6 +907,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "dde3caf99fa7cc4a81be8ea735b39734",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -874,6 +924,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "86c9540f6f125df27a95f9c4992097cb",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -890,6 +941,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "018ce6b17db9f4de1bab65b8ffd44749",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -906,6 +958,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e20aa71d1dfe5ed44aac4a37b8e8f81c",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -922,6 +975,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "22c3f72a7e810f0e428830e9025e1220",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -938,6 +992,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a95f4219df5a9ae3b97cade0264a5450",
    "source": "Workopia",
    "company_name": "prinzhorn-holding",
@@ -954,6 +1009,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "fb5fdade3dc3639f30f4595725b1eb3b",
    "source": "Workopia",
    "company_name": "Coty",
@@ -970,6 +1026,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "4ab9077796dca3a7df39a28e8a856ade",
    "source": "Workopia",
    "company_name": "GISA GmbH",
@@ -986,6 +1043,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "50e63a8284ae11195590858da841f41f",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1002,6 +1060,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e37070f5eaa7be87ff76308ac2aa68e8",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1018,6 +1077,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "61d340d4533def86072f6141a1518fa7",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1034,6 +1094,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e586b8fef5e69a930cde91d17342e3db",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1050,6 +1111,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "14406026a4d66e437af499188764441a",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1066,6 +1128,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "550373d7f44e09841a9ed3355109c22a",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1082,6 +1145,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ef8dd670f4b29e0131f5c1c822452cf8",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1098,6 +1162,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "83d9e8dfa21cbe7c638507271acfdd75",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1114,6 +1179,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "56bc76c2fc07e79d20f7453631567769",
    "source": "Workopia",
    "company_name": "Zdf",
@@ -1130,6 +1196,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b3abf2f8434a914d523b6fd97b04a7a3",
    "source": "Workopia",
    "company_name": "NORDLB - technisches LAN",
@@ -1146,6 +1213,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "103f87a65aef9e74170ef96d0ecfc829",
    "source": "Workopia",
    "company_name": "NORDLB - technisches LAN",
@@ -1162,6 +1230,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "63002a6554b8112cacd824e680ae3b64",
    "source": "Workopia",
    "company_name": "LBBW Webspace",
@@ -1178,6 +1247,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5464025a0937f938cbce06dc1fbfef90",
    "source": "Workopia",
    "company_name": "BDO AG Wirtschaftspruefungsgesellschaft",
@@ -1194,6 +1264,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "3f4664ea943e82b3bc2d86097493675b",
    "source": "Workopia",
    "company_name": "BDO AG Wirtschaftspruefungsgesellschaft",
@@ -1210,6 +1281,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "4bf5cf9d656c9b3af8c59fce1ffc0375",
    "source": "Workopia",
    "company_name": "BDO AG Wirtschaftspruefungsgesellschaft",
@@ -1226,6 +1298,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9d9d251f369ad8c11a41af5eedf8e3c9",
    "source": "Workopia",
    "company_name": "BDO AG Wirtschaftspruefungsgesellschaft",
@@ -1242,6 +1315,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "0ba6f1f464fa79b687fe922d3a865d50",
    "source": "Workopia",
    "company_name": "bayernlb",
@@ -1258,6 +1332,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "decdc8f6d0c25bfbf22d3b360dbb9b9c",
    "source": "Workopia",
    "company_name": "Surteco SE",
@@ -1274,6 +1349,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "90a7d7afe08a03be32e5eaf707605fe9",
    "source": "Workopia",
    "company_name": "Ferrero LADM",
@@ -1290,6 +1366,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "88d5d1fb10830ead9f1765991211f592",
    "source": "Workopia",
    "company_name": "Ferrero LADM",
@@ -1306,6 +1383,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e85d9e1f7985724c8f960a3df1178ddc",
    "source": "Workopia",
    "company_name": "Ferrero LADM",
@@ -1322,6 +1400,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8eb38246b09db3a82ed7968aca84383d",
    "source": "Workopia",
    "company_name": "Sanofi UK",
@@ -1338,6 +1417,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "189d131a38649139ad13d352dae523ae",
    "source": "Workopia",
    "company_name": "Sanofi UK",
@@ -1354,6 +1434,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "023179ca3fe470aef210f270805774c1",
    "source": "Workopia",
    "company_name": "Schwarz Produktion",
@@ -1370,6 +1451,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "589053e11bd858fa886f160a275d2bed",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -1386,6 +1468,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "eb25e511fd8b5dfb59c4c280f68d8e14",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -1402,6 +1485,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "1c741cbee78b9725e92c21923c0835f2",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -1418,6 +1502,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€55k–60k*",
    "id": "7843157d59651deb5b3a25a07c7d7567",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -1434,6 +1519,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "fb41f352d307fca7c0905545c5341ec8",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -1450,6 +1536,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "e74aa1ca83ddb326d98bca679c6cb1ee",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -1466,6 +1553,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "8a79b0042438b916e1f85293335fc88e",
    "source": "Workopia",
    "company_name": "Bundes-Gesellschaft fuer Endlagerung mbH",
@@ -1482,6 +1570,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "394a674562a2d81ad7c79c4d268bb32a",
    "source": "Workopia",
    "company_name": "Oxford Instruments",
@@ -1498,6 +1587,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d747e8f665304bd6cd690941a2f0ff5f",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1514,6 +1604,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d578ce54bbe8d7e751e3947ed7673b44",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1530,6 +1621,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "71a764e5ca41eaea41fab9df3c81487d",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1546,6 +1638,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "fdd7f787b26dd492d6612f9f53d45d5b",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1562,6 +1655,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "ec8023babc0bfc125cd90a6014e7e69d",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1578,6 +1672,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d14fb7a3ad16211c8664f836a8653194",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1594,6 +1689,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "3a8fbadee5ba61cb4078acd3fd5b169b",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1610,6 +1706,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "aa0b0688dc662c6a68cdc8635c964bd7",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1626,6 +1723,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "5d3e5b8c62db142db4ce745d2cf67e5d",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1642,6 +1740,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "b8296f97c89e59776e9c99cb83661b1b",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1658,6 +1757,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "3e6e90fe609230b54b03698dcf9fc8d3",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1674,6 +1774,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "176d2db9b2ddcd4a1692275a6e4d7421",
    "source": "Workopia",
    "company_name": "Viega Holding GmbH & Co. KG",
@@ -1690,6 +1791,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "69b54d2ee17687541bab1b397c984e26",
    "source": "Workopia",
    "company_name": "Mister Spex",
@@ -1706,6 +1808,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "045c569e077daaec1d5af950eca90b73",
    "source": "Workopia",
    "company_name": "LBBW Webspace",
@@ -1722,6 +1825,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€1,496–1,620/mo",
    "id": "b56ea88ddd3805c57ae19395f0316010",
    "source": "Workopia",
    "company_name": "LBBW Webspace",
@@ -1738,6 +1842,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9d2405f7a018740f469bd8a9054e4901",
    "source": "Workopia",
    "company_name": "BDO AG Wirtschaftspruefungsgesellschaft",
@@ -1754,6 +1859,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€57k–66k*",
    "id": "271b6d913efb8e48f535ca150b78fb55",
    "source": "Workopia",
    "company_name": "bayernlb",
@@ -1770,6 +1876,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€57k–66k*",
    "id": "72354bf311d954ac320144545ab3b520",
    "source": "Workopia",
    "company_name": "bayernlb",
@@ -1786,6 +1893,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€57k–66k*",
    "id": "ce6885c4ad166a56dd74959aed283998",
    "source": "Workopia",
    "company_name": "bayernlb",
@@ -1802,6 +1910,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "0bf4e6c6368596e57a680f99c07cf294",
    "source": "Workopia",
    "company_name": "vorwerkgroup",
@@ -1818,6 +1927,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "50cdf2de92adb81383ae004b15dd26e1",
    "source": "Workopia",
    "company_name": "vorwerkgroup",
@@ -1834,6 +1944,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "be14f6859d87eaae4ba41c76cd9ed16f",
    "source": "Workopia",
    "company_name": "Staedtler Pty",
@@ -1850,6 +1961,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "0130aea0b1d119e8b8da83097969f2a8",
    "source": "Workopia",
    "company_name": "cflex",
@@ -1866,6 +1978,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€45,000",
    "id": "f753faed8cdba3d288c13b14a564fe7a",
    "source": "Workopia",
    "company_name": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
@@ -1882,6 +1995,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "6daebf6718b78879cd79c343f1ab035c",
    "source": "Workopia",
    "company_name": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
@@ -1898,6 +2012,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "fd30de624e9e02dab5c37e7f420049c5",
    "source": "Workopia",
    "company_name": "eiffage-infra.de",
@@ -1914,6 +2029,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "78db8d05d2683cbe719622c9677f2ce2",
    "source": "Workopia",
    "company_name": "eiffage-infra.de",
@@ -1930,6 +2046,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "6d98923b55635af7829273e99ad54c75",
    "source": "Workopia",
    "company_name": "Octapharma AG",
@@ -1946,6 +2063,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "64f88a735291b1c06f08b9b1473e37b1",
    "source": "Workopia",
    "company_name": "SKF Group",
@@ -1962,6 +2080,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "89a04b16506a78c2eda2a5f838ffa66e",
    "source": "Workopia",
    "company_name": "SKF Group",
@@ -1978,6 +2097,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "f77872e526f17b5ebdb1e1d8a8d8254a",
    "source": "Workopia",
    "company_name": "SKF Group",
@@ -1994,6 +2114,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "cf3b0203e6357535a2f9dda221a009ac",
    "source": "Workopia",
    "company_name": "Telefonica",
@@ -2010,6 +2131,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "4c78a2202224073494d04618bf57aa52",
    "source": "Workopia",
    "company_name": "Telefonica",
@@ -2026,6 +2148,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "24dafe0e8144f60a7af9d73a25e12b94",
    "source": "Workopia",
    "company_name": "W Brisbane",
@@ -2042,6 +2165,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "11801e263d5388533e4984e68e7bc280",
    "source": "Workopia",
    "company_name": "KION",
@@ -2058,6 +2182,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "441e972c5328126ca174cff7b58c9cfe",
    "source": "Workopia",
    "company_name": "JYSK",
@@ -2074,6 +2199,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "43acd3a5005292d79799b0189c2cfc79",
    "source": "Workopia",
    "company_name": "JYSK",
@@ -2090,6 +2216,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "558d7d1c441dfc5541517240d0241929",
    "source": "Workopia",
    "company_name": "Medac",
@@ -2106,6 +2233,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "44f61e8e99e4bdb113728c7369ba4407",
    "source": "Workopia",
    "company_name": "IHG Hotels & Resorts",
@@ -2122,6 +2250,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "6f409f7acbc972f5d12513a51ee6a79d",
    "source": "Workopia",
    "company_name": "Valeo Service",
@@ -2138,6 +2267,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "8ce2a708d8d651811c92730201cac588",
    "source": "Workopia",
    "company_name": "ABB UK",
@@ -2154,6 +2284,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "76886d11f29adad531e48c502a24591d",
    "source": "Workopia",
    "company_name": "Kapoleicleaning",
@@ -2170,6 +2301,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "4af432c1c09f980464c1021fded91f46",
    "source": "Workopia",
    "company_name": "miet-stellenmarkt.de",
@@ -2186,6 +2318,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "5a0cb4430df4ee9f4b960a86af8307a1",
    "source": "Workopia",
    "company_name": "ABB Ltd",
@@ -2202,6 +2335,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "51eac6d91b59f8e3d1be1b4693f6be54",
    "source": "Workopia",
    "company_name": "ABB Ltd",
@@ -2218,6 +2352,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9cc9a314507677d4e4dba8b9649a1747",
    "source": "Workopia",
    "company_name": "ABB Ltd",
@@ -2234,6 +2369,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "a3cb25124de378f5dedaa19ecbd11c39",
    "source": "Workopia",
    "company_name": "Thermo Fisher Scientific UK",
@@ -2250,6 +2386,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "3dfbcad6007c31eaa3f8f000166fd01c",
    "source": "Workopia",
    "company_name": "Jobs Ups",
@@ -2266,6 +2403,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2751f18013076ac7d441a61b345380a1",
    "source": "Workopia",
    "company_name": "Jobs Ups",
@@ -2282,6 +2420,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "1b440ad795f89f579d77c3d179d272af",
    "source": "Workopia",
    "company_name": "Caterpillar of Australia",
@@ -2298,6 +2437,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "£9.75–10.55/hr",
    "id": "317a0178c0ae997d5368678782a7987d",
    "source": "Workopia",
    "company_name": "Superdrug",
@@ -2314,6 +2454,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "3e707f7d8b52d953b9df83c9ad4418bf",
    "source": "Workopia",
    "company_name": "ABB UK",
@@ -2330,6 +2471,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "38e2c7e63f27d55cb131d6a959f6a64d",
    "source": "Workopia",
    "company_name": "KION",
@@ -2346,6 +2488,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "54b26d3f24a491f68b6a328dd8aa8501",
    "source": "Workopia",
    "company_name": "KION",
@@ -2362,6 +2505,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "4fb312114f07fd525f3dee85721c27c1",
    "source": "Workopia",
    "company_name": "Philips",
@@ -2378,6 +2522,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "96eace0efca4fa16c10cf2bdc6b63793",
    "source": "Workopia",
    "company_name": "chemiepark-marl.de",
@@ -2394,6 +2539,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "eaa716e0601490560f00a4a90c4711da",
    "source": "Workopia",
    "company_name": "chemiepark-marl.de",
@@ -2410,6 +2556,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "e909f155af2fe2bf0a3d18faf29f6150",
    "source": "Workopia",
    "company_name": "chemiepark-marl.de",
@@ -2426,6 +2573,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "ede1247c65eeeb24d67894bb66df407a",
    "source": "Workopia",
    "company_name": "chemiepark-marl.de",
@@ -2442,6 +2590,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "11ce7bd6780affe589b4eb3f0c507a10",
    "source": "Workopia",
    "company_name": "chemiepark-marl.de",
@@ -2458,6 +2607,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "bab736e3675f49e3e41eedf1cd816a38",
    "source": "Workopia",
    "company_name": "alcon.mx",
@@ -2474,6 +2624,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "fccf9af4bd604900310990544dc67ce2",
    "source": "Workopia",
    "company_name": "Mister Spex",
@@ -2490,6 +2641,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "f0eca20cb987cd715a42524ef70cfcb9",
    "source": "Workopia",
    "company_name": "Mister Spex",
@@ -2506,6 +2658,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "1f1215adf01f24229b670f2a2089a411",
    "source": "Workopia",
    "company_name": "Mister Spex",
@@ -2522,6 +2675,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "e2f025ea8c11d4ba9c694546120f57bc",
    "source": "Workopia",
    "company_name": "Mister Spex",
@@ -2538,6 +2692,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2e9767c3ab9b4641fab978e5d7dc57c2",
    "source": "Workopia",
    "company_name": "karriere-plus.de",
@@ -2554,6 +2709,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "009c77541b2b06934cabb3b648a61090",
    "source": "Workopia",
    "company_name": "Evonik Industries AG",
@@ -2570,6 +2726,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "7f9692b0a7b574e6d3c0bb56a2c49dcb",
    "source": "Workopia",
    "company_name": "Woodward, Inc.",
@@ -2586,6 +2743,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "784dad809f37f6f2d12609db7e54b791",
    "source": "Workopia",
    "company_name": "VELUX Group",
@@ -2602,6 +2760,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "€110,000–143,000",
    "id": "435c8a1247997094e99d0f489fd070c2",
    "source": "Workopia",
    "company_name": "Rockwool AS",
@@ -2618,6 +2777,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d7440f2d1949c9442994f0853cccadcf",
    "source": "Workopia",
    "company_name": "Remeha GmbH",
@@ -2634,6 +2794,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9248b3e8b41c0ce5ea4703c652828086",
    "source": "Workopia",
    "company_name": "KraussMaffei Group",
@@ -2650,6 +2811,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dbf1ae928cfb25d93ba108e8f4109222",
    "source": "Workopia",
    "company_name": "KraussMaffei Group",
@@ -2666,6 +2828,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8b3980ca58882ed8618285caffc2db5e",
    "source": "Workopia",
    "company_name": "KraussMaffei Group",
@@ -2682,6 +2845,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€15k–23k*",
    "id": "55b4e84435b2ecd250aaddcebf3c8fb8",
    "source": "Workopia",
    "company_name": "aldi-sued",
@@ -2698,6 +2862,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6977a7a1baf2e30286260ac148d5df64",
    "source": "Workopia",
    "company_name": "Ammotec",
@@ -2714,6 +2879,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "48792df95792b259c61e4534a0753a87",
    "source": "Workopia",
    "company_name": "ElringKlinger Ltd",
@@ -2730,6 +2896,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d929567c18bfd3023ea09d2010d34430",
    "source": "Workopia",
    "company_name": "ElringKlinger Ltd",
@@ -2746,6 +2913,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ce767bfbc982e4f67f70dfe3cb11430f",
    "source": "Workopia",
    "company_name": "ElringKlinger Ltd",
@@ -2762,6 +2930,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "240da53c6b08b16550fc194be882f9b2",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -2778,6 +2947,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9297c0972c3d9de98c4dbdb8dbb18efb",
    "source": "Workopia",
    "company_name": "Elringklinger Group",
@@ -2794,6 +2964,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "da0e7d46b6b2bd1083830c7defa7ef45",
    "source": "Workopia",
    "company_name": "Elringklinger Group",
@@ -2810,6 +2981,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a1e2bb362ad645b0928499d93920f0b8",
    "source": "Workopia",
    "company_name": "Elringklinger Group",
@@ -2826,6 +2998,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e80a17eacd163a0cc4ee92b10f366f60",
    "source": "Workopia",
    "company_name": "Elringklinger Group",
@@ -2842,6 +3015,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€1,243/mo",
    "id": "51a93210b2d5da70a08e86b4fc3624f1",
    "source": "Workopia",
    "company_name": "SGL Carbon",
@@ -2858,6 +3032,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€1,243/mo",
    "id": "58d23459c7ff75428e7ebf1a743363c5",
    "source": "Workopia",
    "company_name": "SGL Carbon",
@@ -2874,6 +3049,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ae0ccb11e4a44988ad15d97915c10463",
    "source": "Workopia",
    "company_name": "ElringKlinger Ltd",
@@ -2890,6 +3066,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "584563ab4d7ce50ba253bc5c92b48824",
    "source": "Workopia",
    "company_name": "ElringKlinger Ltd",
@@ -2906,6 +3083,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dcdcca602cccb6cb0a6a4a0d2b5cb92f",
    "source": "Workopia",
    "company_name": "ElringKlinger Ltd",
@@ -2922,6 +3100,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d037e820a7268e225dbc0e84012843e3",
    "source": "Workopia",
    "company_name": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
@@ -2938,6 +3117,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "€18.53/hr",
    "id": "64a0535c673f628da1e00837df476046",
    "source": "Workopia",
    "company_name": "Airbus Operations GmbH",
@@ -2954,6 +3134,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "331759e2169cc26771bca24bf451633a",
    "source": "Workopia",
    "company_name": "Fritz Schaefer GmbH",
@@ -2970,6 +3151,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a742b00a306e2c6cbce86ca393d8fe0c",
    "source": "Workopia",
    "company_name": "DMA Inc",
@@ -2986,6 +3168,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b8ed4a93768364406cd086e6acb942dc",
    "source": "Workopia",
    "company_name": "Pfizer",
@@ -3002,6 +3185,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "0d2f78ee75bd05152a86790d86b4e1e3",
    "source": "Workopia",
    "company_name": "Hitachi Rail",
@@ -3018,6 +3202,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e75f75198d8796b258bc0e33001a0a09",
    "source": "Workopia",
    "company_name": "Hitachi Rail GTS",
@@ -3034,6 +3219,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a02ee0bb83056dd29d527e0d98cd509e",
    "source": "Workopia",
    "company_name": "IISBMS",
@@ -3050,6 +3236,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "7d9ab8fba52938608c068be09724e653",
    "source": "Workopia",
    "company_name": "Apple",
@@ -3066,6 +3253,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "07151995c55f1a4cec04071235e819c9",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -3082,6 +3270,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "322b4ccd697ad4c3426e319afae951e5",
    "source": "Workopia",
    "company_name": "Airbus SE",
@@ -3098,6 +3287,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "49ccee8402e3c9646f8cd183cd11f4fa",
    "source": "Workopia",
    "company_name": "Airbus Defence and Space GmbH",
@@ -3114,6 +3304,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2a89d0cf9a8d20398ac8c38b011d494a",
    "source": "Workopia",
    "company_name": "Airbus Defence and Space GmbH",
@@ -3130,6 +3321,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "74ef9e68dbf0186c64a733fedaeb91a3",
    "source": "Workopia",
    "company_name": "TAKKT AG",
@@ -3146,6 +3338,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "6a031d08b67a2954f0b77e11636c3a0c",
    "source": "Workopia",
    "company_name": "fisgruppe",
@@ -3162,6 +3355,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "72addc72a2421e1bb33a0d1c7b952bc2",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -3178,6 +3372,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c3d1fc9645061b7f94264f35299ad057",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -3194,6 +3389,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "22bb983b29994ed1f71ae14379d584fb",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -3210,6 +3406,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a5594e0f82f12fe252db04ffd43b750a",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -3226,6 +3423,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6668e7452ffd2b09660107325a41a82c",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -3242,6 +3440,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "248621113346ce958053dfa24b879303",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3258,6 +3457,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€96k–120k*",
    "id": "8f46d23cc25b12ea390e76de3c7430c5",
    "source": "Workopia",
    "company_name": "Google",
@@ -3274,6 +3474,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "934e4a2d8710701d6a1c2b909a6316ba",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3290,6 +3491,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a70c937adbf0b9fd73417af7270e04db",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3306,6 +3508,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "47faaf1cb0087702526d6c9d63c304d6",
    "source": "Workopia",
    "company_name": "SumUp",
@@ -3322,6 +3525,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d1ebd111127a4fac6eb203c6d84aff18",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3338,6 +3542,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€96k–120k*",
    "id": "cc0f75bd2c769efdda5f9f8ea15545f6",
    "source": "Workopia",
    "company_name": "Google",
@@ -3354,6 +3559,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€96k–120k*",
    "id": "114173046cbcc1490c0f335b4f8c91e6",
    "source": "Workopia",
    "company_name": "Google",
@@ -3370,6 +3576,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0ec9bb1b1d273a00a097cd23ed658dbe",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3386,6 +3593,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5586ff427ba7bf0533d4900cecc60467",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3402,6 +3610,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6568acb5d41ed114f7ad4321673a5650",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3418,6 +3627,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "82874fbe3ae72fe53da912cea000da44",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3434,6 +3644,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cad604ac920b50277d4eff8694b232f6",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3450,6 +3661,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "92672d5c76dc642c70600a6ee629fb97",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3466,6 +3678,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cb5c0db759c697923d9ecb439426f5fb",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3482,6 +3695,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "568eea8e86b8ff168a1343b22a48b6ea",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3498,6 +3712,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8064a1f8eb83a965426cba1dafc46f45",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3514,6 +3729,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9fa4e6b868d6a1d35eac80f2f7ce6721",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3530,6 +3746,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b69ad82df56f797fcfb495151582dda0",
    "source": "Workopia",
    "company_name": "N26 GmbH",
@@ -3546,6 +3763,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5cba351a4d75f9e888c578293141d37a",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3562,6 +3780,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e4ae0f16217efeebbff9af83a86f5a31",
    "source": "Workopia",
    "company_name": "Airbus Defence and Space GmbH",
@@ -3578,6 +3797,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2d87d568141bd1a098743677cfc3a4e",
    "source": "Workopia",
    "company_name": "aeroshiftedge.pics",
@@ -3594,6 +3814,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b9a0acf3cd28fc4311fde14f2c24e5c8",
    "source": "Workopia",
    "company_name": "ATR (Airbus/Leonardo)",
@@ -3610,6 +3831,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "395bb8fd89a7f6556de48ec0fd0221c0",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3626,6 +3848,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a10578e4ce01c2809b05cde866e8188a",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3642,6 +3865,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5d1b9ea06e5f3531b465f96266ade52f",
    "source": "Workopia",
    "company_name": "Wolters Kluwer N.V",
@@ -3658,6 +3882,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "48fd96173d853e1c11fd36c9c73632bc",
    "source": "Workopia",
    "company_name": "Talon",
@@ -3674,6 +3899,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6231a7523632f630af2e4ac57ae40f1e",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3690,6 +3916,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2661056",
    "source": "Workopia",
    "company_name": "Idealo Internet GmbH",
@@ -3706,6 +3933,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "25577597bd8da3d57ee832923cec4d6c",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3722,6 +3950,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0226d6a1590b08a3424b377171f7a217",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3738,6 +3967,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a10e0776bcad8ffbe4aeed556e713fd0",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3754,6 +3984,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "408ee357d8a1391c13723371f376eb9a",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3770,6 +4001,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e16e9b1f1f1577e506da54271f11fd1a",
    "source": "Workopia",
    "company_name": "Airbus Defence and Space GmbH",
@@ -3786,6 +4018,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "acbdc28759c73429787fcc4cae3a2457",
    "source": "Workopia",
    "company_name": "Danaher Corp",
@@ -3802,6 +4035,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "932da4c5d1f853190cb0ededf7c70d84",
    "source": "Workopia",
    "company_name": "Wolters Kluwer N.V",
@@ -3818,6 +4052,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "46671ca18846ca269ff8e439ed37f677",
    "source": "Workopia",
    "company_name": "s-management-services.de",
@@ -3834,6 +4069,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d48ed36589176cb51cf5e535b20c6026",
    "source": "Workopia",
    "company_name": "s-management-services.de",
@@ -3850,6 +4086,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9a9f688bb74f81347c50fc4ad4a6fb6e",
    "source": "Workopia",
    "company_name": "kanzlei-stellenmarkt.de",
@@ -3866,6 +4103,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "462c30918c238863a36321542ff10b10",
    "source": "Workopia",
    "company_name": "Sixt",
@@ -3882,6 +4120,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "872f86ad2fc1efda2c46a930b04d21b3",
    "source": "Workopia",
    "company_name": "Zurich Insurance Company Ltd",
@@ -3898,6 +4137,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3c7ccc34442a63005da9527e6d01287d",
    "source": "Workopia",
    "company_name": "Thales Group",
@@ -3914,6 +4154,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "af59a573aa3dff1b5cbdc30655daed9f",
    "source": "Workopia",
    "company_name": "Thales Group",
@@ -3930,6 +4171,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c70da54287e026342e90258d2b7d01aa",
    "source": "Workopia",
    "company_name": "Thales Group",
@@ -3946,6 +4188,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ee2cac0efe1b1ce3be557d08f7dfa2ca",
    "source": "Workopia",
    "company_name": "Bosch Rexroth Pty. Ltd.",
@@ -3962,6 +4205,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e3b20603320a15b1c21adcad3e0dc5ea",
    "source": "Workopia",
    "company_name": "Bosch Rexroth Pty. Ltd.",
@@ -3978,6 +4222,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5e4e0cbd622836f5d761898c0193b51d",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -3994,6 +4239,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e21a485d6e5f37df60b59e1f8bcbaa22",
    "source": "Workopia",
    "company_name": "Airbus Defence and Space GmbH",
@@ -4010,6 +4256,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "045a23e2d8afaa84d85cc9581d92e5f7",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4026,6 +4273,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d14f4f883b6fd7966102a83015ca582b",
    "source": "Workopia",
    "company_name": "N26 GmbH",
@@ -4042,6 +4290,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0d65430ea46bd319a14d8cb3d00e4cb6",
    "source": "Workopia",
    "company_name": "sonnen",
@@ -4058,6 +4307,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "757905a15f9e4b959f2d67724e3d3913",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4074,6 +4324,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9c3f45aeed4d6465a121828c99c19a0a",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4090,6 +4341,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fcdb203268f53bb36cae662f8fc6311b",
    "source": "Workopia",
    "company_name": "aeroshiftedge.pics",
@@ -4106,6 +4358,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "237c5e437387cfb482673b9f21aa4c0c",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4122,6 +4375,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "adb19b2a8d1d972988e8c375e88c1606",
    "source": "Workopia",
    "company_name": "SIGNAL IDUNA",
@@ -4138,6 +4392,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "330dd2fd5cb64e66c6830ac9d205c617",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4154,6 +4409,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bf9d397893d98b9de982ff3de8e94e5b",
    "source": "Workopia",
    "company_name": "Satair (an Airbus Services Company)",
@@ -4170,6 +4426,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f3fbfda76866de24a4e2d00bc36f2e18",
    "source": "Workopia",
    "company_name": "joinairbus.us",
@@ -4186,6 +4443,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5a8d4f6cc1d3042b824dfaf5160b1db5",
    "source": "Workopia",
    "company_name": "HENSOLDT Sensors GmbH",
@@ -4202,6 +4460,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "638dcf8c6f4f71aa7b028e09b01402f9",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4218,6 +4477,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ea2d4bb19e7fcf238c82e1a37c0c39a4",
    "source": "Workopia",
    "company_name": "Premium Aerotec",
@@ -4234,6 +4494,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b5c049673fa589d46eb4fbf932555fc5",
    "source": "Workopia",
    "company_name": "Allegion Corp",
@@ -4250,6 +4511,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "44be80a24aad8ed94c527d840465c271",
    "source": "Workopia",
    "company_name": "diconium GmbH",
@@ -4266,6 +4528,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "22ad2fc88bccb3ea2dcca440d962a9cb",
    "source": "Workopia",
    "company_name": "CGM",
@@ -4282,6 +4545,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2ff062e8b3c603e6a173c1c92799a7a6",
    "source": "Workopia",
    "company_name": "CGM",
@@ -4298,6 +4562,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a82adf1548f739bc1b215526bd1e32a4",
    "source": "Workopia",
    "company_name": "ATR (Airbus/Leonardo)",
@@ -4314,6 +4579,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ca67db1bde6c3e1309fdf2afc672f4d6",
    "source": "Workopia",
    "company_name": "VIE-INDIA",
@@ -4330,6 +4596,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "03ed66122f4fbec4f94ca0deaad0dda6",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -4346,6 +4613,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cc4163beda79f6b4897313e4be8f14db",
    "source": "Workopia",
    "company_name": "Satair (an Airbus Services Company)",
@@ -4362,6 +4630,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5d472def889df46729d68e429a579b5a",
    "source": "Workopia",
    "company_name": "KID-Systeme",
@@ -4378,6 +4647,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "29141211e986f9fb39e98626d08de7a3",
    "source": "Workopia",
    "company_name": "KID-Systeme",
@@ -4394,6 +4664,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4186402796dadf3e2b2b4fcb0b2b87c0",
    "source": "Workopia",
    "company_name": "Airbus",
@@ -4410,6 +4681,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c8f70855d9a6110da542790144c28488",
    "source": "Workopia",
    "company_name": "Airbus Defence and Space GmbH",
@@ -4426,6 +4698,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "031282cbca54e1ea9ae0c30aa7977961",
    "source": "Workopia",
    "company_name": "ArianeGroup",
@@ -4442,6 +4715,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "aac35615883da5f8ddcbe35679e85882",
    "source": "Workopia",
    "company_name": "1&1 Internet Inc",
@@ -4458,6 +4732,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9673eff19a441809286b53c62117bad8",
    "source": "Workopia",
    "company_name": "1&1 AG",
@@ -4474,6 +4749,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "179b0d88d6812fe01ac058adc6d77b41",
    "source": "Workopia",
    "company_name": "GEA",
@@ -4490,6 +4766,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "605cf0f0ccfde40948f84c4e6c7857d6",
    "source": "Workopia",
    "company_name": "BestSecret GmbH",
@@ -4506,6 +4783,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fa37937f93366408fcd033c05fbf112c",
    "source": "Workopia",
    "company_name": "SIGNAL IDUNA",
@@ -4522,6 +4800,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7e0e181de0077acc78d538ad4aee0d43",
    "source": "Workopia",
    "company_name": "FRoSTA AG",
@@ -4538,6 +4817,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a094e2279ea91d582b6b8eb50ffe9450",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4554,6 +4834,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "13323dc3176f9236fa60349811bc8057",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4570,6 +4851,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "edcf23a6b9f4f7f22d6f56694163b276",
    "source": "Workopia",
    "company_name": "OneMain Financial",
@@ -4586,6 +4868,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9dc085093c91b434111ffe04cbfd445a",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4602,6 +4885,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b4532bcc8d923d58c77602fc888e02d5",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4618,6 +4902,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "886ec2e12bd9a8f33c94be6f7ab70d32",
    "source": "Workopia",
    "company_name": "ATR (Airbus/Leonardo)",
@@ -4634,6 +4919,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€84,000–140,000",
    "id": "15e113f9184be587765e383d6b7b1bcb",
    "source": "Workopia",
    "company_name": "Gsicareers",
@@ -4650,6 +4936,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "24cb4fde7b49f3c736d5cfdbb64500c9",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4666,6 +4953,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "849644cc5a2a5ca40060ac0644e41954",
    "source": "Workopia",
    "company_name": "swisssalesjobs.ch",
@@ -4682,6 +4970,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "05bef72b7b9e906f64b1b769df520906",
    "source": "Workopia",
    "company_name": "Dyson",
@@ -4698,6 +4987,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bebc09e5d1b90f5a1c87966fd89872d6",
    "source": "Workopia",
    "company_name": "Houseoftechcommunity",
@@ -4714,6 +5004,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2cba2c6009e88b29a5385ceb28cab8b",
    "source": "Workopia",
    "company_name": "Valmont Industries, Inc",
@@ -4730,6 +5021,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€50,000",
    "id": "1ee67b7d6acd354960c8fc2418d8663a",
    "source": "Workopia",
    "company_name": "Ariston Holding N.V",
@@ -4746,6 +5038,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7d3de8ae9f987ee5784c7b5732329386",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4762,6 +5055,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€10,000–20,000",
    "id": "6f150352eb2da608ab2faf5b08cf1931",
    "source": "Workopia",
    "company_name": "gesundheits-stellenmarkt.de",
@@ -4778,6 +5072,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8caf25f40f6e34ae95aff3dbc37bcb67",
    "source": "Workopia",
    "company_name": "Woodward, Inc.",
@@ -4794,6 +5089,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d15990f14ccfeeacfaefd9ee2b55795f",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -4810,6 +5106,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0ae9d2ccd8a150b250741aae72c9edbb",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -4826,6 +5123,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€96k–120k*",
    "id": "a16d373f55382fe35bfd8ebb9b40038f",
    "source": "Workopia",
    "company_name": "Google",
@@ -4842,6 +5140,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b837146653f64bb41569724b562737c1",
    "source": "Workopia",
    "company_name": "KNDS Group",
@@ -4858,6 +5157,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "483f797a03b087b2daf3ef3c7533ffdc",
    "source": "Workopia",
    "company_name": "Tesat-Spacecom GmbH & Co. KG",
@@ -4874,6 +5174,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€55k–60k*",
    "id": "ffc5da550fbb698476c34b403937806c",
    "source": "Workopia",
    "company_name": "PwC PricewaterhouseCoopers GmbH",
@@ -4890,6 +5191,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2e0f1e848063321dae093b4b5a257d73",
    "source": "Workopia",
    "company_name": "ING",
@@ -4906,6 +5208,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0311672dd355b247e3ebed95319cadb4",
    "source": "Workopia",
    "company_name": "1&1 AG",
@@ -4922,6 +5225,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5b6b0285eb8e57919737e18973f02b9d",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -4938,6 +5242,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6e9c783570561045e8aff64de937b285",
    "source": "Workopia",
    "company_name": "Airbus Portugal SA",
@@ -4954,6 +5259,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5b49a3f19b034f411643c2605c2396dd",
    "source": "Workopia",
    "company_name": "ING",
@@ -4970,6 +5276,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "75a36eb00da225dfac68c00decc2ace5",
    "source": "Workopia",
    "company_name": "Satair (an Airbus Services Company)",
@@ -4986,6 +5293,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "52bae74fdef51fca4286674a03a26fb2",
    "source": "Workopia",
    "company_name": "Deloitte GmbH",
@@ -5002,6 +5310,24 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "€2,409/mo",
+   "id": "d258999dfc3f39abb0b0db13159409ed",
+   "source": "Workopia",
+   "company_name": "Nestlé SA",
+   "company_hi_slug": "nestle",
+   "title": "Praktikum Consulting Consumer Experience & Digital (m/w/d)",
+   "location": "Frankfurt Am Main",
+   "skills": "Active participation i, Development of digital",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-06-12T13:15:35.404Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d258999dfc3f39abb0b0db13159409ed",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "€2,500/mo",
    "id": "c210e7949cbeb402b7b345ba99514d09",
    "source": "Workopia",
    "company_name": "P&G",
@@ -5018,6 +5344,24 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
+   "id": "7607bfc5fa86ef66faaf288c9ea646c7",
+   "source": "Workopia",
+   "company_name": "Deloitte GmbH",
+   "company_hi_slug": "deloitte",
+   "title": "Praktikant / Werkstudent Versicherungssektor - Financial Services (m/w/d)",
+   "location": "Dusseldorf",
+   "skills": "Student of economics o, Strong German and Engl",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-05-29T10:39:03.530Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/7607bfc5fa86ef66faaf288c9ea646c7",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "3495e7c6c72167e52005983c2e907e23",
    "source": "Workopia",
    "company_name": "Crif S.p.a",
@@ -5034,6 +5378,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f4c23416f47ea8845dad3bce6ef67c7e",
    "source": "Workopia",
    "company_name": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -5050,6 +5395,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e79b44b960409b68ab89d569b6c32c3e",
    "source": "Workopia",
    "company_name": "SIGNAL IDUNA",
@@ -5066,6 +5412,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8799ce93e1ff2ec631dc38c9bce14642",
    "source": "Workopia",
    "company_name": "SIGNAL IDUNA",
@@ -5082,6 +5429,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b3caecc22a015b86e1a63c78f96054c2",
    "source": "Workopia",
    "company_name": "adesso Group",
@@ -5098,6 +5446,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cc84ae37af1fe21307d7e1d82afc785f",
    "source": "Workopia",
    "company_name": "Deutsche Automobil Treuhand GmbH",
@@ -5114,6 +5463,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "04fcfdf3870a7c0545c0d4e5f40be2f9",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -5130,6 +5480,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2c963ece5fedfa27011bc531da43ad8d",
    "source": "Workopia",
    "company_name": "1&1 Internet Inc",
@@ -5146,6 +5497,24 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€61k–81k*",
+   "id": "a49460cebd5536f9d4d6c8ef41699bfa",
+   "source": "Workopia",
+   "company_name": "Boston Consulting Group",
+   "company_hi_slug": "boston-consulting-group",
+   "title": "Traditional Consulting - Project Leader",
+   "location": "Germany",
+   "skills": "cross-functional team , client engagement mana",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-07T21:45:06.459Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a49460cebd5536f9d4d6c8ef41699bfa",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "c7553c73e51b52698ed52aca77937e0f",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -5162,6 +5531,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€53k–60k*",
    "id": "f2392cdcd0ed28e75cda64ba32a388d4",
    "source": "Workopia",
    "company_name": "Statkraft",
@@ -5178,6 +5548,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c783132005377db6b9e2fefe1dd5db62",
    "source": "Workopia",
    "company_name": "Deutsche WertpapierService Bank AG",
@@ -5194,6 +5565,24 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€61k–81k*",
+   "id": "a35fa879e1e8340da96bdb10769dc3c4",
+   "source": "Workopia",
+   "company_name": "Boston Consulting Group",
+   "company_hi_slug": "boston-consulting-group",
+   "title": "Visiting Associate Enterprise Solutions (all Genders) - Bcg Platinion",
+   "location": "SEARCH",
+   "skills": "ERP transformations, SAP S/4HANA",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-06-30T03:37:42.727Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a35fa879e1e8340da96bdb10769dc3c4",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "€55k–60k*",
    "id": "2aedd07fccba61b35d5c86601f0c73b1",
    "source": "Workopia",
    "company_name": "PwC PricewaterhouseCoopers GmbH",
@@ -5210,6 +5599,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9b8a0389bb6ea9fec61e570941ec8eb8",
    "source": "Workopia",
    "company_name": "ZOLL Medical Corporation",
@@ -5226,6 +5616,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e0e8a3e4127b61b1c915c6bfc3ad58b6",
    "source": "Workopia",
    "company_name": "Holman Enterprises",
@@ -5242,6 +5633,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c7bb26ca4981c289fd15304d700016e4",
    "source": "Workopia",
    "company_name": "Idighardware",
@@ -5258,6 +5650,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "85b0a918da8edeea0071ff795fdb9fcc",
    "source": "Workopia",
    "company_name": "Idighardware",
@@ -5274,6 +5667,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a504b57c056aa45e3f077e30b17eb594",
    "source": "Workopia",
    "company_name": "E.ON Digital Technology GmbH",
@@ -5290,6 +5684,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a1f62137fccae8bbad0180b53262b3f",
    "source": "Workopia",
    "company_name": "KION",
@@ -5306,6 +5701,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6025f53cdaa95de21dc56df459bf3ac1",
    "source": "Workopia",
    "company_name": "CoreOS",
@@ -5322,6 +5718,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€54k–72k*",
    "id": "ba2d3a0cf3dbb261c395db92bcde504e",
    "source": "Workopia",
    "company_name": "DekaBank Deutsche Girozentrale",
@@ -5338,6 +5735,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0d65763995ca988f62f2e6054c159e9c",
    "source": "Workopia",
    "company_name": "Athora",
@@ -5354,6 +5752,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b1d6d9aa67e4b97a5c7b2a69270da475",
    "source": "Workopia",
    "company_name": "Erepharm",
@@ -5370,6 +5769,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a8f9a1d7e6b798d4f07dae0670d3e80a",
    "source": "Workopia",
    "company_name": "ZOLL Medical Corporation",
@@ -5386,6 +5786,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "256a7c98dfc26d4ae8f3db0477648e48",
    "source": "Workopia",
    "company_name": "IFCO Group",
@@ -5402,6 +5803,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b78261c4d75ce706fd9254d3af7582fa",
    "source": "Workopia",
    "company_name": "ZEISS Group",
@@ -5418,6 +5820,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d9006c1b49b9d6c35b9082b4cb0b1588",
    "source": "Workopia",
    "company_name": "1&1 Internet Inc",
@@ -5434,6 +5837,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d7f6d1ddff38f31858c1e5008c9b10e2",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -5450,6 +5854,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cbd7c105edbbee5850d59ff686e84882",
    "source": "Workopia",
    "company_name": "adesso-group",
@@ -5466,6 +5871,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "27d663644725ed5f04f1a64870a893ae",
    "source": "Workopia",
    "company_name": "Hannover Rueck SE",
@@ -5482,6 +5888,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3c0bdf27fa1e7d538bd1a8e05c52347f",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -5498,6 +5905,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ac49eff997ad17603fd97d2176a66497",
    "source": "Workopia",
    "company_name": "Rewe Group",
@@ -5514,6 +5922,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8315b33a389ba00d99f63c9aab97b5d2",
    "source": "Workopia",
    "company_name": "Libryo",
@@ -5530,6 +5939,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d9b1815cd5366c78d7a7dd63ab971df2",
    "source": "Workopia",
    "company_name": "jaxlabs.be",
@@ -5546,6 +5956,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4efc6621317a51c9ad0d909f7c12bc9a",
    "source": "Workopia",
    "company_name": "bk-berater",
@@ -5562,6 +5973,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "63634297f6306e86ffb59beada6e71d9",
    "source": "Workopia",
    "company_name": "bk-berater",
@@ -5578,6 +5990,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "08f76ea008e80402d248e31dce2eae38",
    "source": "Workopia",
    "company_name": "NIQ",
@@ -5594,6 +6007,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€96k–120k*",
    "id": "4c098c26eddd6631e283c72788f7c90f",
    "source": "Workopia",
    "company_name": "Google",
@@ -5610,6 +6024,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f6d7b0f8b2270aaa64936c44019cbe70",
    "source": "Workopia",
    "company_name": "Carl Zeiss Pty Ltd",
@@ -5626,6 +6041,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "482a0bf13820a6073f2ead81bb900147",
    "source": "Workopia",
    "company_name": "CGM",
@@ -5642,6 +6058,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "882a252a015058b7be3f511fafa2cf61",
    "source": "Workopia",
    "company_name": "Abbott",
@@ -5658,6 +6075,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€54k–72k*",
    "id": "3985ec6a9edb0daed2b5264a45613c05",
    "source": "Workopia",
    "company_name": "DekaBank Deutsche Girozentrale",
@@ -5674,6 +6092,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "41e6145b05ea5ba28266c55cdaa724e0",
    "source": "Workopia",
    "company_name": "Nexus Schweiz GmbH",
@@ -5690,6 +6109,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€54k–72k*",
    "id": "2e874859f271c125f58db8acc95040e3",
    "source": "Workopia",
    "company_name": "DekaBank Deutsche Girozentrale",
@@ -5706,6 +6126,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1c228774b82f3c4cf81a6f9345ac2339",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -5722,6 +6143,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9bee260a4f2f06c6f7d2dde6ca6a7c3e",
    "source": "Workopia",
    "company_name": "Gv Management GmbH",
@@ -5738,6 +6160,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "27da7c68a8f81e3102915248926d3e50",
    "source": "Workopia",
    "company_name": "Group",
@@ -5754,6 +6177,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "57726bd306d5649169ee41a64e1a038c",
    "source": "Workopia",
    "company_name": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
@@ -5770,6 +6194,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe8e37865253a20e5ecd18bfd344857b",
    "source": "Workopia",
    "company_name": "Alfred Kaercher SE Co KG",
@@ -5786,6 +6211,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fcf168847c2946caa39789766181dca3",
    "source": "Workopia",
    "company_name": "der Stiftung kreuznacher diakonie",
@@ -5802,6 +6228,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a9eb27a725958ae1a928a193974d1ae",
    "source": "Workopia",
    "company_name": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
@@ -5818,6 +6245,24 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
+   "id": "0c7d8a52f156bd1b9acaccfbc9979fb6",
+   "source": "Workopia",
+   "company_name": "Liebherr-IT Services GmbH",
+   "company_hi_slug": "liebherr-it-services-gmbh",
+   "title": "It Business Partner Finance & Controlling (m/f/d)",
+   "location": "Oberopfingen",
+   "skills": "IT strategy and consul, Finance and Controllin",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-06-07T04:58:53.051Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/0c7d8a52f156bd1b9acaccfbc9979fb6",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "a1590ed2724e7735b38ced3d7907c5d5",
    "source": "Workopia",
    "company_name": "Zurich Insurance Company Ltd",
@@ -5834,6 +6279,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "09f16279122f10487e2251a5527fcc42",
    "source": "Workopia",
    "company_name": "Zurich Insurance Company Ltd",
@@ -5850,6 +6296,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cc264473978c1153065163064e0010ed",
    "source": "Workopia",
    "company_name": "Aareon",
@@ -5866,6 +6313,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ac29009e8b3e359f058a4929ad023350",
    "source": "Workopia",
    "company_name": "Deutsche Boerse AG",
@@ -5882,6 +6330,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d04af691577fd6e8ca6c22d63d51aa0a",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -5898,6 +6347,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2189ee91885f709dba93dca467b33792",
    "source": "Workopia",
    "company_name": "Salzgitter AG",
@@ -5914,6 +6364,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "950770d5b908f4d735206213950db7e3",
    "source": "Workopia",
    "company_name": "GEWISS",
@@ -5930,6 +6381,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3e1dd127b45bb84943024cde17e506e0",
    "source": "Workopia",
    "company_name": "NIQ",
@@ -5946,6 +6398,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3f4c949212e8005ba7c31b16fae67830",
    "source": "Workopia",
    "company_name": "SchillSeilacher GmbH",
@@ -5962,6 +6415,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c49975c7b8659cb7c850470a72d8df85",
    "source": "Workopia",
    "company_name": "FIS Global / Fidelity National Information Services",
@@ -5978,6 +6432,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7e0a98b9ec259a1f7091c2fbd65829db",
    "source": "Workopia",
    "company_name": "Humbaurkoegel",
@@ -5994,6 +6449,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9d55e5bb748b6d12158b7c255adb7c1b",
    "source": "Workopia",
    "company_name": "Jobgether",
@@ -6010,6 +6466,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cfb587fbc079077faa31a673e10f2263",
    "source": "Workopia",
    "company_name": "SimonsVoss Technologies GmbH",
@@ -6026,6 +6483,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "132fd5dd78489e64ffb8b824c5a23e71",
    "source": "Workopia",
    "company_name": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
@@ -6042,6 +6500,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "537c1ee178ebbb0955d42de25f810bd4",
    "source": "Workopia",
    "company_name": "Worldpay (FIS)",
@@ -6058,6 +6517,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€68k*",
    "id": "841de1870747592d328dcfc05319749f",
    "source": "Workopia",
    "company_name": "The Procter & Gamble Company",
@@ -6074,6 +6534,24 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
+   "id": "448a60b0da1fd8f3a4c09981b9735124",
+   "source": "Workopia",
+   "company_name": "Mercer Deutschland",
+   "company_hi_slug": "mercer-deutschland",
+   "title": "Berater* Betriebliche Altersversorgung",
+   "location": "Dusseldorf",
+   "skills": "Completed university d, First consulting exper",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-05-28T20:42:38.364Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/448a60b0da1fd8f3a4c09981b9735124",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "7f703b43479f91e9906fd7ae411614db",
    "source": "Workopia",
    "company_name": "Airbus Operations GmbH",
@@ -6090,6 +6568,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d438a4cdc8f8b852e9499ce578849237",
    "source": "Workopia",
    "company_name": "AIRBUS DS GEO SA",
@@ -6106,6 +6585,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4d041e22289cd166b4702299c23fc7f8",
    "source": "Workopia",
    "company_name": "Wolters Kluwer N.V",
@@ -6122,6 +6602,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89e842a4a95be28a9705ccac040c992e",
    "source": "Workopia",
    "company_name": "The Apex Group",
@@ -6138,6 +6619,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "268665dd844fc51faaf94cefa629ea6d",
    "source": "Workopia",
    "company_name": "STANLEY Access Technologies / SimonsVoss Technologies GmbH",
@@ -6154,6 +6636,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3859e3a749ff25d5d51baa5cacbdbcd8",
    "source": "Workopia",
    "company_name": "Procter & Gamble",
@@ -6170,6 +6653,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "20d530a2f818c7b41a11b0f68912372a",
    "source": "Workopia",
    "company_name": "Fidelity National Information Services",
@@ -6186,6 +6670,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f7e80129ba353e095fb223d38321225e",
    "source": "Workopia",
    "company_name": "Bosch Rexroth Pty. Ltd.",
@@ -6202,6 +6687,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$33–43/hr",
    "id": "7e4d41ba46b37987e7056e5d3ea6d289",
    "source": "Workopia",
    "company_name": "Bayada",
@@ -6218,6 +6704,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$41.28–66.05/hr",
    "id": "5f301f9a6d38607bd16af513eae1f1d7",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6234,6 +6721,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$35.39–56.63/hr",
    "id": "9570a540cca7e3156c757b4cc6abd99b",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6250,6 +6738,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e0cd53eace5fc8c1d41c7fde05e5a4b3",
    "source": "Workopia",
    "company_name": "Thermo Fisher Scientific UK",
@@ -6266,6 +6755,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c8dfa1ae6f327c43d35f51e9a47cf1c0",
    "source": "Workopia",
    "company_name": "Syneos Health",
@@ -6282,6 +6772,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "94323308dc57335cde0b17d0de730c7a",
    "source": "Workopia",
    "company_name": "Syneos Health",
@@ -6298,6 +6789,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$41.28–66.05/hr",
    "id": "9351985cb8fa59771b3fc216847739a3",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6314,6 +6806,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$12/hr",
    "id": "f80a03899ae561b9323744ce6c9ae227",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6330,6 +6823,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$41.28–66.05/hr",
    "id": "1701fa64a95a9c667fbfa133bb9237c2",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6346,6 +6840,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "94ad663f4f0cdcfd2eef2144083a5ce7",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6362,6 +6857,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$35.39–56.63/hr",
    "id": "3e69b1bbd6be54ac28a3d0b7a963f8be",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6378,6 +6874,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$41.28–66.05/hr",
    "id": "d756938e98248efe968e2924fdd9aa8b",
    "source": "Workopia",
    "company_name": "Christiana Care Home Health And Community Services Inc",
@@ -6394,6 +6891,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bbe917e605bef203a7fa1241ae4278d1",
    "source": "Workopia",
    "company_name": "539",
@@ -6410,6 +6908,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dcdfca61f9f1fc7525964a83f4b8b6be",
    "source": "Workopia",
    "company_name": "Kirchliche Hochschule Bethel",
@@ -6426,6 +6925,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4914a3388ecb09902780109fafa8f459",
    "source": "Workopia",
    "company_name": "cslbehring.de",
@@ -6442,6 +6942,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8fda17b4d3fb903c3dad8ddd3f99a3db",
    "source": "Workopia",
    "company_name": "cslbehring.de",
@@ -6458,6 +6959,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "97186e257094b94ddde0b98e4387b088",
    "source": "Workopia",
    "company_name": "der Stiftung kreuznacher diakonie",
@@ -6474,6 +6976,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e4f8711b20bcbdded74b2dd4e13f2708",
    "source": "Workopia",
    "company_name": "der Stiftung kreuznacher diakonie",
@@ -6490,6 +6993,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "82c58773c5f1828db9b6382cded2f3f6",
    "source": "Workopia",
    "company_name": "IQVIA Holdings",
@@ -6506,6 +7010,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4bc621f291d695e0db569c032379365f",
    "source": "Workopia",
    "company_name": "IQVIA",
@@ -6522,6 +7027,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "09b71f86dd77c61fa39eeb936fa77cb7",
    "source": "Workopia",
    "company_name": "uksh",
@@ -6538,6 +7044,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a541fc4312c7b19eeaf64f83f6ae4eb4",
    "source": "Workopia",
    "company_name": "Kirchliche Hochschule Bethel",
@@ -6554,6 +7061,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "079377bd941819f3bed66f0e46be6b0c",
    "source": "Workopia",
    "company_name": "Kirchliche Hochschule Bethel",
@@ -6570,6 +7078,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8cfab4dfcd0fbfa5b006b1c451d5fa13",
    "source": "Workopia",
    "company_name": "Kirchliche Hochschule Bethel",
@@ -6586,6 +7095,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b98e8e17bac9c9615a00ca66a2985e75",
    "source": "Workopia",
    "company_name": "Kirchliche Hochschule Bethel",
@@ -6602,6 +7112,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2571f5cdd8e24bb951477e6935b3374d",
    "source": "Workopia",
    "company_name": "ukdd",
@@ -6618,6 +7129,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "32588bf5b9f16a24641833ba3e32826e",
    "source": "Workopia",
    "company_name": "IQVIA Holdings",
@@ -6634,6 +7146,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9b1e6079dc9c1bd5e642e76372c7615f",
    "source": "Workopia",
    "company_name": "IQVIA Biotech",
@@ -6650,6 +7163,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fcb150bba6f697b7a78c1085d755d364",
    "source": "Workopia",
    "company_name": "IQVIA",
@@ -6666,6 +7180,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "99c4f9797a8801d225a36582720661a7",
    "source": "Workopia",
    "company_name": "ukdd",
@@ -6682,6 +7197,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "49ebcabbb7d3be311d5f367948a5651a",
    "source": "Workopia",
    "company_name": "ukdd",
@@ -6698,6 +7214,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d9955f59b63a15aada50e42a4f7de677",
    "source": "Workopia",
    "company_name": "CSL Plasma",
@@ -6714,6 +7231,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b4a66b75b820b8f6c4f76d9987d015bf",
    "source": "Workopia",
    "company_name": "DKMS Deutsche Knochenmarkspenderdatei gGmbH",
@@ -6730,6 +7248,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€122,000–128,000",
    "id": "72051ac3a05ceadf37951ae59c1d5a4f",
    "source": "Workopia",
    "company_name": "Airbus Aerostructures GmbH",
@@ -6746,6 +7265,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "52abc6348c00c6b4fe8edb441883303e",
    "source": "Workopia",
    "company_name": "CSL Plasma GmbH",
@@ -6762,6 +7282,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c00de9be3a1d9a6c29a94d3ab10c4477",
    "source": "Workopia",
    "company_name": "CSL Plasma GmbH",
@@ -6778,6 +7299,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d6684d4560c451eacb1eda92e3a361ac",
    "source": "Workopia",
    "company_name": "uksh",
@@ -6794,6 +7316,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dda3374c7fbd4eb6465c2fcc3c1f2ca8",
    "source": "Workopia",
    "company_name": "CSL Plasma GmbH",
@@ -6810,6 +7333,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f13cdd995d8c1b703fca640a9aeff3cd",
    "source": "Workopia",
    "company_name": "CSL Plasma GmbH",
@@ -6826,6 +7350,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9bbfac75337baadb22dc06728034f033",
    "source": "Workopia",
    "company_name": "uksh",
@@ -6842,6 +7367,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d8fbdb058c1e8462f4332e6cc5dcb9f6",
    "source": "Workopia",
    "company_name": "Seqirus",
@@ -6858,6 +7384,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ac165901ded3d1439fdbc28b869a10b9",
    "source": "Workopia",
    "company_name": "Seqirus / CSL Plasma GmbH",
@@ -6874,6 +7401,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5f18598f24648d169d232f0d7c9315ba",
    "source": "Workopia",
    "company_name": "Seqirus",
@@ -6890,6 +7418,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "46271cbe16341eced084cbfb3743238f",
    "source": "Workopia",
    "company_name": "Chlworks",
@@ -6906,6 +7435,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8ab18a02802c6494fa6836e8ba292b8e",
    "source": "Workopia",
    "company_name": "Centerforintegrationscience",
@@ -6922,6 +7452,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "560019e13ae6a2b0771f78e5fd7e18bc",
    "source": "Workopia",
    "company_name": "Admincsl",
@@ -6938,6 +7469,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9223d0463f2e1b0140eed3cfd368c43f",
    "source": "Workopia",
    "company_name": "Airbus Operations GmbH",
@@ -6954,6 +7486,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ed6af0aa11b3f349504ffb2d141645ca",
    "source": "Workopia",
    "company_name": "Seqirus",
@@ -6970,6 +7503,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "785bd72228b4089d2fd361fc7407a855",
    "source": "Workopia",
    "company_name": "ukdd",
@@ -6986,6 +7520,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2da18af49a4985990da36b415238c13",
    "source": "Workopia",
    "company_name": "ukdd",
@@ -7002,6 +7537,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d70f22936938565131c7f00ef0de9328",
    "source": "Workopia",
    "company_name": "Century Center / CSL Plasma GmbH",
@@ -7018,6 +7554,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d0ef9199f61121a07d9a1962427dc74b",
    "source": "Workopia",
    "company_name": "Century Center / CSL Plasma GmbH",
@@ -7034,6 +7571,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4f7b69fc904651a0195f3e85d6e41a60",
    "source": "Workopia",
    "company_name": "Century Center / CSL Plasma GmbH",
@@ -7050,6 +7588,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d1964fec49f454d30c34d612fd386c8f",
    "source": "Workopia",
    "company_name": "CSL SEQIRUS",
@@ -7066,6 +7605,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "751f1da97c3d8b23af46bb6212dcbb1f",
    "source": "Workopia",
    "company_name": "CSL Plasma GmbH",
@@ -7082,6 +7622,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "82b85ed732b6d5629bbddfca18aab1dc",
    "source": "Workopia",
    "company_name": "CSL SEQIRUS",
@@ -7098,6 +7639,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a09954f08485d2474eab5c673aa30dc7",
    "source": "Workopia",
    "company_name": "CSL BEHRING",
@@ -7114,6 +7656,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "63d4dde8c73602442e32b0550038eb58",
    "source": "Workopia",
    "company_name": "CSL BEHRING",
@@ -7130,6 +7673,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3719224f80d67a01d2843ac9704c1f1d",
    "source": "Workopia",
    "company_name": "CSL BEHRING",
@@ -7146,6 +7690,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "947e509249388b344ac993bb99672fa3",
    "source": "Workopia",
    "company_name": "der Stiftung kreuznacher diakonie",
@@ -7162,6 +7707,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "af9bf5ae1f47460b1db0a2509250cc5b",
    "source": "Workopia",
    "company_name": "der Stiftung kreuznacher diakonie",
@@ -7178,6 +7724,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c21d88371d36dff976933099b03fc143",
    "source": "Workopia",
    "company_name": "Johnson Controls Inc",
@@ -7194,6 +7741,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c91155a2f8f067e70fde8b636f6dfc1e",
    "source": "Workopia",
    "company_name": "Johnson Controls Inc",
@@ -7210,6 +7758,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e38840be4307fc3c16253df74b3415bb",
    "source": "Workopia",
    "company_name": "Johnson Controls Inc",
@@ -7226,6 +7775,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1687d47bab803015367c53785dac9fe2",
    "source": "Workopia",
    "company_name": "Johnson Controls Inc",
@@ -7242,6 +7792,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c72c20dfaefe1314e60e78a16ffeaf41",
    "source": "Workopia",
    "company_name": "Schwarz Produktion",
@@ -7258,6 +7809,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dd69012bb7435071714c7ca33ee1100e",
    "source": "Workopia",
    "company_name": "Schwarz Produktion",
@@ -7274,6 +7826,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0a08b4d64430cb4ceb4a4b3112456e0f",
    "source": "Workopia",
    "company_name": "Schwarz Produktion",
@@ -7290,6 +7843,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "48ce11473f1ec0774badb9528dc6cd0e",
    "source": "Workopia",
    "company_name": "ALSTOM TRANSPORT SA",
@@ -7306,6 +7860,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8f82cddc6c0f61c8d75fe70796f05ce4",
    "source": "Workopia",
    "company_name": "Ariston Holding N.V",
@@ -7322,6 +7877,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8f6d080de2608f07d54a6b24d729e958",
    "source": "Workopia",
    "company_name": "Ariston Holding N.V",
@@ -7338,6 +7894,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "259e7c9dd4329b5fb9f2b6702f893a50",
    "source": "Workopia",
    "company_name": "Ariston Holding N.V",
@@ -7354,6 +7911,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "abb46fda71421354b7a6577704c8e286",
    "source": "Workopia",
    "company_name": "Ariston Holding N.V",
@@ -7370,6 +7928,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ee54020daa353963eeafc1d4b40dfa41",
    "source": "Workopia",
    "company_name": "Ariston Holding N.V",
@@ -7386,6 +7945,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6ed8df7e9bc8497eb803c51817cff132",
    "source": "Workopia",
    "company_name": "Kistler Group",
@@ -7402,6 +7962,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e1435019a92afbb95c0afdcbe4080e28",
    "source": "Workopia",
    "company_name": "SAMSON Group",
@@ -7418,6 +7979,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c22cbed55b977406d49e344d3c223ac8",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -7434,6 +7996,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "23bb6edddb0f8eaecb28767eb462f43e",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -7450,6 +8013,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1081246f2c674389add269e749ef2469",
    "source": "Workopia",
    "company_name": "Fritz Egger GmbH & Co. OG",
@@ -7466,6 +8030,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3ba00934ffffc110979f3310b736f655",
    "source": "Workopia",
    "company_name": "karriere-plus.de",
@@ -7482,6 +8047,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0fca1f85b50f0787c1714d565d39e96d",
    "source": "Workopia",
    "company_name": "Heidelberg Materials US, Inc",
@@ -7498,6 +8064,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "382d6edb7c1d031535588f01742dd8fe",
    "source": "Workopia",
    "company_name": "Heidelberg Materials US, Inc",
@@ -7514,6 +8081,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c59a670eeb53280aba8e4f59c99e6b7f",
    "source": "Workopia",
    "company_name": "Vossloh",
@@ -7530,6 +8098,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€66,000–110,000",
    "id": "cf97cad5cd9f70b21509d6f250514c75",
    "source": "Workopia",
    "company_name": "Swiss Re",
@@ -7546,6 +8115,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "45a664ff9b6b0fc7ca57cc99193e4a3e",
    "source": "Workopia",
    "company_name": "Busch Vacuum Solutions",
@@ -7562,6 +8132,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4c7b4a2eb6c547125372863db932a6dc",
    "source": "Workopia",
    "company_name": "Busch Vacuum Solutions",
@@ -7578,6 +8149,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0472a4d7511df01787d4d51c9c865598",
    "source": "Workopia",
    "company_name": "Pfeifer Holz GmbH & Co KG",
@@ -7594,6 +8166,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2254a91df7f6bb6b22fc0dbe4bde2e7",
    "source": "Workopia",
    "company_name": "Sonae Arauco",
@@ -7610,6 +8183,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d23e3828cbbecfd1d97887c4e7bd98de",
    "source": "Workopia",
    "company_name": "Sonae Arauco",
@@ -7626,6 +8200,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7851fe8a145f4e6cd4a5e258910b702d",
    "source": "Workopia",
    "company_name": "RWS GmbH",
@@ -7642,6 +8217,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89b1b12a28be7bf34e474cef37cadd72",
    "source": "Workopia",
    "company_name": "Albrecht Jung GmbH & Co. KG",
@@ -7658,6 +8234,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ca87ee6b9767912d12779441f661ab43",
    "source": "Workopia",
    "company_name": "Vonovia SE",
@@ -7674,6 +8251,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1f229c796296b8a96cc878cb6f377df7",
    "source": "Workopia",
    "company_name": "Vonovia SE",
@@ -7690,6 +8268,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e06bbcd2805b9d66584b8be301260072",
    "source": "Workopia",
    "company_name": "Vonovia SE",
@@ -7706,6 +8285,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5c75a99a20794ab4d108f542d329ed79",
    "source": "Workopia",
    "company_name": "cflex",
@@ -7722,6 +8302,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6f487e50acdd9c2c53c2755602af0cd3",
    "source": "Workopia",
    "company_name": "cflex",
@@ -7738,6 +8319,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e5f2f908fb949fe792b6764b493da7da",
    "source": "Workopia",
    "company_name": "Scania CV AB",
@@ -7754,6 +8336,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "70ca812c931e4e23ce0cfa579492cfd6",
    "source": "Workopia",
    "company_name": "Arkema S.A.",
@@ -7770,6 +8353,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b67f967f678c73dca42e0bb2bb6dfd3c",
    "source": "Workopia",
    "company_name": "Altana AG",
@@ -7786,6 +8370,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b503a79d7584599645974a2763fc85c9",
    "source": "Workopia",
    "company_name": "Otisjob",
@@ -7802,6 +8387,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "35c7167ab8c5ddcaf59d3ccfda1ff707",
    "source": "Workopia",
    "company_name": "Otisjob",
@@ -7818,6 +8404,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7e868bebc49ac950f2da69e0796f0b0d",
    "source": "Workopia",
    "company_name": "Otisjob",
@@ -7834,6 +8421,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0bba72ecc9f8005dfe489c7633c2456f",
    "source": "Workopia",
    "company_name": "Kraftverkehr Nagel SE & Co. KG",
@@ -7850,6 +8438,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b3eee17cde410a1a6f1d2523200eb155",
    "source": "Workopia",
    "company_name": "Trek Bicycle",
@@ -7866,6 +8455,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c11ebed58fa86275ed28c950bce2e183",
    "source": "Workopia",
    "company_name": "FRoSTA AG",
@@ -7882,6 +8472,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b44cd4c3436f8633fea7288e894afaca",
    "source": "Workopia",
    "company_name": "Genpt",
@@ -7898,6 +8489,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8c5aeb506661833a3d93cbe23395336b",
    "source": "Workopia",
    "company_name": "Mecanicien.ca",
@@ -7914,6 +8506,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2ee71597c86ff2c2af250ed6d254df9c",
    "source": "Workopia",
    "company_name": "Amazon",
@@ -7930,6 +8523,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "803bd24bfd584cc8d9a84a95d68bd799",
    "source": "Workopia",
    "company_name": "Otis Worldwide",
@@ -7946,6 +8540,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "46f56510409decc43df801a5a9e4924c",
    "source": "Workopia",
    "company_name": "OTIS",
@@ -7962,6 +8557,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8de6cd590524049c8abe19ca200e5f66",
    "source": "Workopia",
    "company_name": "Ascenseur Nsa",
@@ -7978,6 +8574,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2671687",
    "source": "Workopia",
    "company_name": "PREDICTAME GmbH",
@@ -7994,6 +8591,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d09005521bba4d930c65b21ae62918ba",
    "source": "Workopia",
    "company_name": "Hirschvogel Incorporated",
@@ -8010,6 +8608,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4bf0399d1810452635f59ec846e17e5b",
    "source": "Workopia",
    "company_name": "Bosch Rexroth Pty. Ltd.",
@@ -8026,6 +8625,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "494b85d6b11496c6bcfbb69c08d408c4",
    "source": "Workopia",
    "company_name": "OTIS",
@@ -8042,6 +8642,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cec1e29ea61d537f16273e36c69bd540",
    "source": "Workopia",
    "company_name": "Ascenseur Nsa",
@@ -8058,6 +8659,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "50af85577bc8cf489655981bac804cf0",
    "source": "Workopia",
    "company_name": "Heidelbergmaterials",
@@ -8074,6 +8676,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "32dcc398e04c023540a0bb46a05044fd",
    "source": "Workopia",
    "company_name": "heidelbergmaterials.pl",
@@ -8090,6 +8693,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "32f4ba4dbc15389195b9397f6c835fe8",
    "source": "Workopia",
    "company_name": "Diversey Com Hr",
@@ -8106,6 +8710,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "18c7197d6ed895056b2005659cb0e591",
    "source": "Workopia",
    "company_name": "700",
@@ -8122,6 +8727,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2baa7d86e76b643f682959250d0c6467",
    "source": "Workopia",
    "company_name": "57",
@@ -8138,6 +8744,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€46k–54k*",
    "id": "aac25d86f271bec4ef842e3c8c288176",
    "source": "Workopia",
    "company_name": "DHL Group",
@@ -8154,6 +8761,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€48,700–97,108",
    "id": "c5c2a39643cda4ade7b592a1875cbc2d",
    "source": "Workopia",
    "company_name": "Carrier Global",
@@ -8170,6 +8778,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ea478f7c84b104faf61e1f0a3f1c8834",
    "source": "Workopia",
    "company_name": "GENUINE PARTS COMPANY",
@@ -8186,6 +8795,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a6a9faf655b08282d8041d3c1f3b9d44",
    "source": "Workopia",
    "company_name": "Amazon",
@@ -8202,6 +8812,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "198c560b24243ae982c1e6a1a83b8ef9",
    "source": "Workopia",
    "company_name": "Amazon",
@@ -8218,6 +8829,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "043505be0e9440ec08ad7d559c74c581",
    "source": "Workopia",
    "company_name": "Dematic Corp",
@@ -8234,6 +8846,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "215c753b021862dbca6ce9db4d4d1f7a",
    "source": "Workopia",
    "company_name": "Kion Na",
@@ -8250,6 +8863,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b73d23700dcbedf977c38ac9ac130814",
    "source": "Workopia",
    "company_name": "KION North America Corporation",
@@ -8266,6 +8880,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d94fb5e2613e2178bac8092ca16b63ed",
    "source": "Workopia",
    "company_name": "Otis Worldwide Corporation",
@@ -8282,6 +8897,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bf9c4285b93ad04313cd79d071c9d690",
    "source": "Workopia",
    "company_name": "Ascenseur Nsa",
@@ -8298,6 +8914,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cac769c65350d82ec9e39cea2c71ff41",
    "source": "Workopia",
    "company_name": "asud-ascenseur.fr",
@@ -8314,6 +8931,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dc45a04e2db78c3dce2344d83e3a4f29",
    "source": "Workopia",
    "company_name": "Carrier",
@@ -8330,6 +8948,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2b9ae8287d0bc96ad37d9a5de8017d7a",
    "source": "Workopia",
    "company_name": "Carrier Global",
@@ -8346,6 +8965,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a29020ddccaeaa1b8b2570d507e80e2f",
    "source": "Workopia",
    "company_name": "Carrier Corporation",
@@ -8362,6 +8982,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "06c58158312550105df2c6b6bc38257e",
    "source": "Workopia",
    "company_name": "Cantire",
@@ -8378,6 +8999,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "19c0c43491b20557d3340a0a2b118dfa",
    "source": "Workopia",
    "company_name": "Carrier",
@@ -8394,6 +9016,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bcc9c9c272b36c5b87a9806143e79784",
    "source": "Workopia",
    "company_name": "Carrier Global",
@@ -8410,6 +9033,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "25258f27c47e8c4f3b40a1c57e581462",
    "source": "Workopia",
    "company_name": "eos-apac.info",
@@ -8426,6 +9050,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "691716d901d6027fd493a929302d5cc8",
    "source": "Workopia",
    "company_name": "Amazon",
@@ -8442,6 +9067,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "24cd6543fd13f909550da19eb8a576a1",
    "source": "Workopia",
    "company_name": "ABB Ltd",
@@ -8458,6 +9084,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "de4783edf0f45197d69dc02883a22288",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8474,6 +9101,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "e2bc58da9042e30589fb05b776c9829c",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8490,6 +9118,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "72d7cc175e5398a6f3d52f7835afffa5",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8506,6 +9135,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "46991f7c8ff29667390440884736927f",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8522,6 +9152,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "b87547847e81487d7d3e64188280fabb",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8538,6 +9169,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "24e09ecabbb36800205fe0cf59f9475e",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8554,6 +9186,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "100061fa254c87666043d32f24dfa11b",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8570,6 +9203,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5/hr",
    "id": "329ccc819aa2ad70d8d1782adad9c9cd",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8586,6 +9220,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€19.5–30/hr",
    "id": "04f041c4c19117df1e18a17c6b4c58d8",
    "source": "Workopia",
    "company_name": "Hornbach Baumarkt AG",
@@ -8602,6 +9237,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€15k–23k*",
    "id": "cadb69709ddf5c280638603e6d154152",
    "source": "Workopia",
    "company_name": "aldi-sued",
@@ -8618,6 +9254,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€15k–23k*",
    "id": "aac1b13f8f722ab1d0f364b88cde86f8",
    "source": "Workopia",
    "company_name": "aldi-sued",
@@ -8634,6 +9271,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€15k–23k*",
    "id": "3df6bd9b8325fa01d13079df4d6a4c5a",
    "source": "Workopia",
    "company_name": "aldi-sued",
@@ -8650,6 +9288,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5eb37181885946f0565cd65cf37afb1b",
    "source": "Workopia",
    "company_name": "vorwerkgroup",
@@ -8666,6 +9305,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c3f73a7cf951b2c28f6b3301e22e5439",
    "source": "Workopia",
    "company_name": "vorwerkgroup",
@@ -8682,6 +9322,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9e6dd4bb727e7fefccbb69be3700d9d3",
    "source": "Workopia",
    "company_name": "vorwerkgroup",
@@ -8698,6 +9339,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89fed4fe45d4eea188cc8727bc0b2a74",
    "source": "Workopia",
    "company_name": "Coloplast AS",
@@ -8714,6 +9356,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1205219781c9f9e172823dcb9348573c",
    "source": "Workopia",
    "company_name": "Coop Genossenschaft",
@@ -8730,6 +9373,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3f23ec364e8fc16a49c1d94f192e3f5f",
    "source": "Workopia",
    "company_name": "Nike",
@@ -8746,6 +9390,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d5fad5b07687485d65df92a70037f115",
    "source": "Workopia",
    "company_name": "portal2go.de",
@@ -8762,6 +9407,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f72d7d1297feab9083da45a4187393f2",
    "source": "Workopia",
    "company_name": "stellenmarktneu.de",
@@ -8778,6 +9424,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b9841c9f567857fb33212b3f4413c88c",
    "source": "Workopia",
    "company_name": "Dnsdblookup",
@@ -8794,6 +9441,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5209b99f005caf0db3f75a800bd25f22",
    "source": "Workopia",
    "company_name": "Deutsche Bank",
@@ -8810,6 +9458,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2670285",
    "source": "Workopia",
    "company_name": "Natuvion GmbH",
@@ -8826,6 +9475,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "286064",
    "source": "Workopia",
    "company_name": "Vodafone",
@@ -8842,6 +9492,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "278827",
    "source": "Workopia",
    "company_name": "Vodafone",
@@ -8858,6 +9509,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e316b6c2d900842154047409a3a6ff1a",
    "source": "Workopia",
    "company_name": "Mango",
@@ -8874,6 +9526,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0658823683766186db4a495c82158061",
    "source": "Workopia",
    "company_name": "Levis Media",
@@ -8890,6 +9543,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5670004c9ffd0fea2bb6998234b5c7e6",
    "source": "Workopia",
    "company_name": "jobpraktikum.de",
@@ -8906,6 +9560,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c2da1387c20e19bc4c2c0432e49ee0a8",
    "source": "Workopia",
    "company_name": "stellenangebote-in.de",
@@ -8922,6 +9577,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2671253",
    "source": "Workopia",
    "company_name": "It's all about Christmas",
@@ -8938,6 +9594,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2671251",
    "source": "Workopia",
    "company_name": "It's all about Christmas",
@@ -8954,6 +9611,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2671248",
    "source": "Workopia",
    "company_name": "It's all about Christmas",
@@ -8970,6 +9628,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "53e2ddaf778e99ba8d6c2485bc3e7281",
    "source": "Workopia",
    "company_name": "Chanel",
@@ -8986,6 +9645,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "eb0848c1c7b4569c9d0ffdce57982759",
    "source": "Workopia",
    "company_name": "G&F Châtelain",
@@ -9002,6 +9662,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b1134ccb4696e5f3b25c8f6116eea57f",
    "source": "Workopia",
    "company_name": "Deutsche Bank UK",
@@ -9018,6 +9679,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7aa29b5ffb8d1ca8f179c6985b76f2ed",
    "source": "Workopia",
    "company_name": "Bdbk010",
@@ -9034,6 +9696,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6544a97443e764f996c7ae3f37c69fd9",
    "source": "Workopia",
    "company_name": "JYSK",
@@ -9050,6 +9713,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cce765335ae2292dac27dc3228c97393",
    "source": "Workopia",
    "company_name": "Nike",
@@ -9066,6 +9730,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€46k–54k*",
    "id": "347946175fe2353d1d276219356cae09",
    "source": "Workopia",
    "company_name": "DHL Group",
@@ -9082,6 +9747,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€46k–54k*",
    "id": "bbe792610a8f1fbb01b57cb5922b78c9",
    "source": "Workopia",
    "company_name": "DHL Group",
@@ -9098,6 +9764,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€46k–54k*",
    "id": "8300a364fc9d25c48340613c5fd96218",
    "source": "Workopia",
    "company_name": "DHL Group",
@@ -9114,6 +9781,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "838f3d19a0af89306bccd4935ef6168c",
    "source": "Workopia",
    "company_name": "The TJX Companies, Inc",
@@ -9130,6 +9798,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "777d94d623935de49300ca1a3056af3f",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9146,6 +9815,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d7f05ecffe62e1dedf0b8ae15e55c8c1",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9162,6 +9832,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€1,430/mo",
    "id": "54ca4525af59c872316ae6c388ef1c14",
    "source": "Workopia",
    "company_name": "Sixt",
@@ -9178,6 +9849,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "42a32beeb74a152a90221478d91a5a48",
    "source": "Workopia",
    "company_name": "Levis Media",
@@ -9194,6 +9866,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "79e0c4455dc30f1ab84e46f35c4320b7",
    "source": "Workopia",
    "company_name": "skechers.cl",
@@ -9210,6 +9883,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a3e9e896c35faccd21aa92c4939785d8",
    "source": "Workopia",
    "company_name": "Rewe Group",
@@ -9226,6 +9900,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "166d89253c99a4c267767513fb62a986",
    "source": "Workopia",
    "company_name": "Rewe Group",
@@ -9242,6 +9917,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8a14a76937347c882c01afe454060220",
    "source": "Workopia",
    "company_name": "JYSK",
@@ -9258,6 +9934,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6238b0aa36fab20d26cc0ea8025d465d",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9274,6 +9951,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e9b071ec347a83ba76bfb5ea084579ac",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9290,6 +9968,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3bfe87dab3187e6c25b9e39371678bd6",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9306,6 +9985,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a94b70369dfb1bf5039d5dee34153cb1",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9322,6 +10002,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "443ab05bf06a9460f62b5fdfebd0aa1c",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9338,6 +10019,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "79617b476f9bf3296300bc3f9a0d1ddb",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9354,6 +10036,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ce6a6003d5f08bd19ccfd19d312623a4",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9370,6 +10053,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "219866a49f270c4cebf575e2a88937d2",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9386,6 +10070,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "748cd11bcc679eb722f0be9a8a270824",
    "source": "Workopia",
    "company_name": "Pfh",
@@ -9402,6 +10087,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1746b32e2d07b8db4b3bf25f69abc983",
    "source": "Workopia",
    "company_name": "PVH Corp.",
@@ -9418,6 +10104,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d99ab0275607811da8649f7df989f181",
    "source": "Workopia",
    "company_name": "Dmhvh",
@@ -9434,6 +10121,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€51,600–77,400",
    "id": "1f767b29fee5e65157f1370e2d29480d",
    "source": "Workopia",
    "company_name": "MEDTRONIC",
@@ -9450,6 +10138,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "67520b9ba0c6dc29ea982724ca4c1597",
    "source": "Workopia",
    "company_name": "Zalando",
@@ -9466,6 +10155,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f33aca25a85acbed6d08612ec5bbd255",
    "source": "Workopia",
    "company_name": "Levis Media",
@@ -9482,6 +10172,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d639f5b835bc7c24f34c659eb89fcf50",
    "source": "Workopia",
    "company_name": "Legocareersvirginia",
@@ -9498,6 +10189,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c8b06ef456fe822dadb1fda8a980d40c",
    "source": "Workopia",
    "company_name": "Pfh",
@@ -9514,6 +10206,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "be55af31ad041c4547ea25919e32acb9",
    "source": "Workopia",
    "company_name": "PVH Corp.",
@@ -9530,6 +10223,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€14.6/hr",
    "id": "be35f0b90bb28a8c76acf68d0520aa39",
    "source": "Workopia",
    "company_name": "Golden Palms Rehabilitation and Retirement",
@@ -9546,6 +10240,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€14.6/hr",
    "id": "8826f7c409191722b8fda38a44748c48",
    "source": "Workopia",
    "company_name": "belantis.de",
@@ -9562,6 +10257,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6154fd43c1b7807ec97f25b5649e59f3",
    "source": "Workopia",
    "company_name": "Airbus Logistik GmbH",
@@ -9578,6 +10274,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6ba6b1d0f73521ea85dda5983b4fd61e",
    "source": "Workopia",
    "company_name": "Mango",
@@ -9594,6 +10291,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "42ff9137cde33243d1c41877cda2ec9a",
    "source": "Workopia",
    "company_name": "Designeroutletberlin",
@@ -9610,6 +10308,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9f22a22b80c95d4b674a41374f471a85",
    "source": "Workopia",
    "company_name": "misterspex.jobs",
@@ -9626,6 +10325,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a7cec19f4fc68d72ca58e67702cb6a09",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -9642,6 +10342,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€2,884/mo",
    "id": "097c0c7d1a268607a528ff2ecbf63655",
    "source": "Workopia",
    "company_name": "Sixt",
@@ -9658,6 +10359,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "670bcb63091c29eeae790097afe181e9",
    "source": "Workopia",
    "company_name": "Sixt",
@@ -9674,6 +10376,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d26cc3adc18a79c29e266068e423146b",
    "source": "Workopia",
    "company_name": "Dyson",
@@ -9690,6 +10393,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2f1c606a78b8b12c445cdcea54ab195f",
    "source": "Workopia",
    "company_name": "JYSK",
@@ -9706,6 +10410,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9d9cbf9e62d3e19872ea40ff607606fb",
    "source": "Workopia",
    "company_name": "JYSK",
@@ -9722,6 +10427,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9118150a1075fd817e74881d6cc7bae4",
    "source": "Workopia",
    "company_name": "SKECHERS USA Inc",
@@ -9738,6 +10444,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0d36e794ebe2371216cc43c848a2d027",
    "source": "Workopia",
    "company_name": "Atos",
@@ -9754,6 +10461,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4cfca201dae8b1667422ecc8af4c3b4c",
    "source": "Workopia",
    "company_name": "GISA GmbH",
@@ -9770,6 +10478,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "17e7142d03a49f162ec17e1799ff04d1",
    "source": "Workopia",
    "company_name": "RWS GmbH",
@@ -9786,6 +10495,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4f92e996b58bff85191b34743fcecaf5",
    "source": "Workopia",
    "company_name": "Vonovia SE",
@@ -9802,6 +10512,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4b4c92b03f455c203afa59304f694e3f",
    "source": "Workopia",
    "company_name": "Altana AG",
@@ -9818,6 +10529,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "450f067398681b6b27eda867759ce966",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -9834,6 +10546,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€71,400–120,360",
    "id": "39acefca4468d2eecfcb1fb09f229301",
    "source": "Workopia",
    "company_name": "Sailpoint Technologies Inc",
@@ -9850,6 +10563,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€71,400–120,360",
    "id": "da94798a6f7b5f67c5b9d9a352540ae3",
    "source": "Workopia",
    "company_name": "Salpoint",
@@ -9866,6 +10580,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "216decefcbe1cd255a43aa259e550d08",
    "source": "Workopia",
    "company_name": "INNIO",
@@ -9882,6 +10597,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d944717a44e3405cf77e05784f5deb53",
    "source": "Workopia",
    "company_name": "Magna",
@@ -9898,6 +10614,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "985789536cb9377dd2df35c364962484",
    "source": "Workopia",
    "company_name": "Magna Electronics Inc.",
@@ -9914,6 +10631,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6440eed94411c41981e5b68b157d872e",
    "source": "Workopia",
    "company_name": "Navvis",
@@ -9930,6 +10648,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6c22667714a24c73e2a56d0c3b76949d",
    "source": "Workopia",
    "company_name": "AstraZeneca Pharmaceuticals LP",
@@ -9946,6 +10665,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1025115c52a4d09e6ef4d7827973bd5d",
    "source": "Workopia",
    "company_name": "AstraZeneca",
@@ -9962,6 +10682,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b6d31fad750209256c86ce03be92df53",
    "source": "Workopia",
    "company_name": "Meteomatics GmbH",
@@ -9978,6 +10699,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2667783",
    "source": "Workopia",
    "company_name": "ChurchDesk GmbH",
@@ -9994,6 +10716,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0bf5b10c9cc658da2ad520d974e126c7",
    "source": "Workopia",
    "company_name": "The Church of Jesus Christ of Latter-day Saints",
@@ -10010,6 +10733,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f5743acaca650f7dbf39dd3f8ac95763",
    "source": "Workopia",
    "company_name": "Heidelberg Materials US, Inc",
@@ -10026,6 +10750,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "398f56dec93f32b3f24b1a6b85df1212",
    "source": "Workopia",
    "company_name": "heidelbergmaterials.pl",
@@ -10042,6 +10767,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dd712006bbe0f131a183a53e1f732eaf",
    "source": "Workopia",
    "company_name": "Howden Deutschland AG",
@@ -10058,6 +10784,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "db03d2ad55b74680c060b888926b317b",
    "source": "Workopia",
    "company_name": "stellenmarktneu.de",
@@ -10074,6 +10801,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dd8f3129cd12d0b7ac6a62a6b208afbb",
    "source": "Workopia",
    "company_name": "Dun & Bradstreet",
@@ -10090,6 +10818,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "00e644a9a1abb91fa248e23059d6685b",
    "source": "Workopia",
    "company_name": "karriere-im-postbank-filialvertrieb.de",
@@ -10106,6 +10835,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2392f16b3f8d9f0e5276ec361176193",
    "source": "Workopia",
    "company_name": "Alle Stellenangebote",
@@ -10122,6 +10852,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d63ec340253afee064c24a783de8130d",
    "source": "Workopia",
    "company_name": "RTX (Raytheon Technologies)",
@@ -10138,6 +10869,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "69c2c9d2f5e8645e6771953a08a32f9a",
    "source": "Workopia",
    "company_name": "Pfh",
@@ -10154,6 +10886,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3794216ca3b48fb01c5c3318070d4b14",
    "source": "Workopia",
    "company_name": "Thermo Fisher Scientific UK",
@@ -10170,6 +10903,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6f398693aa45f7b04785642242ac301c",
    "source": "Workopia",
    "company_name": "jobs.abbott",
@@ -10186,6 +10920,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€55k–60k*",
    "id": "7d165d4da58ef7bcc9543f412ba82d32",
    "source": "Workopia",
    "company_name": "PwC PricewaterhouseCoopers GmbH",
@@ -10202,6 +10937,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€55k–60k*",
    "id": "40327fc1a50daa01f2dc97515fee575f",
    "source": "Workopia",
    "company_name": "PwC PricewaterhouseCoopers GmbH",
@@ -10218,6 +10954,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€55k–60k*",
    "id": "6c57a2ddf5b8b677c6a4a4c6555e708e",
    "source": "Workopia",
    "company_name": "PwC PricewaterhouseCoopers GmbH",
@@ -10234,6 +10971,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4e3827f98276eacca7ed4f1bdd5c43e4",
    "source": "Workopia",
    "company_name": "heidelbergmaterials.pl",
@@ -10250,6 +10988,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4ad77fb742d1b0e6ee5675bf4463d538",
    "source": "Workopia",
    "company_name": "Careers Philips",
@@ -10266,6 +11005,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c5ecaab10f39787820905fbee87e3e1e",
    "source": "Workopia",
    "company_name": "Careers Philips",
@@ -10282,6 +11022,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "81cd77b4be2940722ae035ca8f09660d",
    "source": "Workopia",
    "company_name": "Fresenius Medical Care",
@@ -10298,6 +11039,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1896aba81ad499be0da3fc083b55f2c9",
    "source": "Workopia",
    "company_name": "Mercer",
@@ -10314,6 +11056,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c46f8fd6c3b7d847ce2adb6d58e73a8f",
    "source": "Workopia",
    "company_name": "karrierepodium.de",
@@ -10330,6 +11073,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6ba78cce671d74487872ce3f7586f0c9",
    "source": "Workopia",
    "company_name": "Vontobel",
@@ -10346,6 +11090,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "82a15a0a57aa1184e6fe196603bcda48",
    "source": "Workopia",
    "company_name": "SEDGWICK",
@@ -10362,6 +11107,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5468d9b3b2812a1d5998967612f321b2",
    "source": "Workopia",
    "company_name": "Marsh & McLennan Companies Inc",
@@ -10378,6 +11124,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4554054db6f18bd022bdb27053a67942",
    "source": "Workopia",
    "company_name": "Smavagmbh",
@@ -10394,6 +11141,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "280126",
    "source": "Workopia",
    "company_name": "Vodafone",
@@ -10410,6 +11158,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f564d35fa2133ceb0f751c20bb99c32c",
    "source": "Workopia",
    "company_name": "ABB UK",
@@ -10426,6 +11175,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c417f5e81f781f4a065e62be1ff250fc",
    "source": "Workopia",
    "company_name": "Zeppelin Systems",
@@ -10442,6 +11192,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8a4cae948d341d6cf21261da2f54d2cc",
    "source": "Workopia",
    "company_name": "DSV Panalpina AS",
@@ -10458,6 +11209,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e64b7a1c5ca76c87418aa867f403100c",
    "source": "Workopia",
    "company_name": "Logicalis Inc",
@@ -10474,6 +11226,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7e530c7192edd5ce9c9c212ffe61163c",
    "source": "Workopia",
    "company_name": "Dieter Maier GmbH",
@@ -10490,6 +11243,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "54ecebb8aea3617512155cb6adeb813f",
    "source": "Workopia",
    "company_name": "Dieter Maier GmbH",
@@ -10506,6 +11260,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "762575e1b10749a9c8ea4655c731868f",
    "source": "Workopia",
    "company_name": "Dieter Maier GmbH",
@@ -10522,6 +11277,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "aa7b7c37c8f454c85f066c1279bd0b68",
    "source": "Workopia",
    "company_name": "Delo Adhesives",
@@ -10538,6 +11294,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "43f73a9683639af46cce1f319adbf7c2",
    "source": "Workopia",
    "company_name": "Arrive",
@@ -10554,6 +11311,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a6efdcf3faef079c3327047803063f9",
    "source": "Workopia",
    "company_name": "Syneos Health",
@@ -10570,6 +11328,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "edf39f2a5409284f2603a1263fe88e4e",
    "source": "Workopia",
    "company_name": "Real Time Executives Inc",
@@ -10586,6 +11345,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe65cb694d579237a3fff313f226dc4b",
    "source": "Workopia",
    "company_name": "Church of Jesus Christ",
@@ -10602,6 +11362,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0d08ad497d5f85bd140d3a16ed968909",
    "source": "Workopia",
    "company_name": "The Church of Jesus Christ of Latter-day Saints",
@@ -10618,6 +11379,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7aa6806144a9487c6d313210419317cf",
    "source": "Workopia",
    "company_name": "Tenbrinke",
@@ -10634,6 +11396,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8eea0b38390ba904aec62efa54f1230a",
    "source": "Workopia",
    "company_name": "Hogan Lovells",
@@ -10650,6 +11413,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "547884bb135dac3404daacea1ac8434b",
    "source": "Workopia",
    "company_name": "1&1 Internet Inc",
@@ -10666,6 +11430,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0f2116faeb5a8ee8f98e8a12da5d0673",
    "source": "Workopia",
    "company_name": "Sanrafaelvet",
@@ -10682,6 +11447,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8038581b36dae545c37d069607d28ddb",
    "source": "Workopia",
    "company_name": "Leonardo",
@@ -10698,6 +11464,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "€1,560/mo",
    "id": "2647910",
    "source": "Workopia",
    "company_name": "die Bayerische",
@@ -10714,6 +11481,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "71e4906c23bd0a42ec86a2695433fb1e",
    "source": "Workopia",
    "company_name": "Hellmann",
@@ -10730,6 +11498,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "475a08301a7fe23460e97bed5317491e",
    "source": "Workopia",
    "company_name": "Kirchliche Hochschule Bethel",
@@ -10746,6 +11515,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2c507f550372bfeeca2344cc9b3e36b3",
    "source": "Workopia",
    "company_name": "caritas-nah-am-naechsten",
@@ -10762,6 +11532,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "30ea265b2fcd612542a914038311dd14",
    "source": "Workopia",
    "company_name": "Yara International ASA",
@@ -10778,6 +11549,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "243ec181e6d94a047eba07a7fa95692f",
    "source": "Workopia",
    "company_name": "Howdencma",
@@ -10794,6 +11566,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4a2a892071574fe2dbe69fd13f7ffb83",
    "source": "Workopia",
    "company_name": "Howden Deutschland AG",
@@ -10810,6 +11583,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1d77978578836952e551fcde751ebac2",
    "source": "Workopia",
    "company_name": "Caterpillar of Australia",
@@ -10826,6 +11600,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e66556ded771b73555d7c5470ace81f5",
    "source": "Workopia",
    "company_name": "Valspar",
@@ -10842,6 +11617,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1f48784b8a8461db7d5b636880844331",
    "source": "Workopia",
    "company_name": "Thompson's WaterSeal",
@@ -10858,6 +11634,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a7acf0ed8173deec5bf030bc6a0c4066",
    "source": "Workopia",
    "company_name": "Sherwin-Williams 2",
@@ -10874,6 +11651,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe526567d6d690ef6b7664b8d3c3852d",
    "source": "Workopia",
    "company_name": "Sherwin-Williams",
@@ -10890,6 +11668,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4ef5698ed89fcf2a3d632517c4ebf7f1",
    "source": "Workopia",
    "company_name": "ATR (Airbus/Leonardo)",
@@ -10906,6 +11685,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8cd2879bbc6a8e81a0628887c067237b",
    "source": "Workopia",
    "company_name": "aeroshiftedge.pics",
@@ -10922,6 +11702,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f367219e0cd00b0846af74d33867029a",
    "source": "Workopia",
    "company_name": "Philips",
@@ -10938,6 +11719,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f6f6934395132bd03cdb10e0c8fcbe84",
    "source": "Workopia",
    "company_name": "Hiab",
@@ -10954,6 +11736,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "70fa4bd17ad1191ca486208c7926007b",
    "source": "Workopia",
    "company_name": "Satair (an Airbus Services Company)",
@@ -10970,6 +11753,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cc264a8406b27014425fade34905723e",
    "source": "Workopia",
    "company_name": "Primark",
@@ -10986,6 +11770,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9d0b2b8210f0112e8eb482bb3f714187",
    "source": "Workopia",
    "company_name": "Testia",
@@ -11002,6 +11787,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e67f4750b5f33a52d9d989e7282a1627",
    "source": "Workopia",
    "company_name": "Airbus",

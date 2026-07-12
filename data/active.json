@@ -1,6 +1,6 @@
 {
  "asOf": "2026-07-12",
- "count": 684,
+ "count": 690,
  "jobs": {
   "278827": {
    "id": "278827",
@@ -1910,11 +1910,23 @@
    "role": "Werkstudent Business Analyst (m/w/d)",
    "location": "Frankfurt (Main)"
   },
+  "d258999dfc3f39abb0b0db13159409ed": {
+   "id": "d258999dfc3f39abb0b0db13159409ed",
+   "company": "Nestlé SA",
+   "role": "Praktikum Consulting Consumer Experience & Digital (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
   "c210e7949cbeb402b7b345ba99514d09": {
    "id": "c210e7949cbeb402b7b345ba99514d09",
    "company": "P&G",
    "role": "Analytics & Insights Internship (m/f/d)",
    "location": "Frankfurt Am Main"
+  },
+  "7607bfc5fa86ef66faaf288c9ea646c7": {
+   "id": "7607bfc5fa86ef66faaf288c9ea646c7",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Versicherungssektor - Financial Services (m/w/d)",
+   "location": "Dusseldorf"
   },
   "3495e7c6c72167e52005983c2e907e23": {
    "id": "3495e7c6c72167e52005983c2e907e23",
@@ -1964,6 +1976,12 @@
    "role": "Business Analyst 5g Deployment (m/w/d)",
    "location": "Dusseldorf"
   },
+  "a49460cebd5536f9d4d6c8ef41699bfa": {
+   "id": "a49460cebd5536f9d4d6c8ef41699bfa",
+   "company": "Boston Consulting Group",
+   "role": "Traditional Consulting - Project Leader",
+   "location": "Germany"
+  },
   "c7553c73e51b52698ed52aca77937e0f": {
    "id": "c7553c73e51b52698ed52aca77937e0f",
    "company": "Jobgether",
@@ -1981,6 +1999,12 @@
    "company": "Deutsche WertpapierService Bank AG",
    "role": "Business Analyst (m/w/d) – Orderabrechnung & Pricing",
    "location": "Frankfurt Am Main"
+  },
+  "a35fa879e1e8340da96bdb10769dc3c4": {
+   "id": "a35fa879e1e8340da96bdb10769dc3c4",
+   "company": "Boston Consulting Group",
+   "role": "Visiting Associate Enterprise Solutions (all Genders) - Bcg Platinion",
+   "location": "SEARCH"
   },
   "2aedd07fccba61b35d5c86601f0c73b1": {
    "id": "2aedd07fccba61b35d5c86601f0c73b1",
@@ -2216,6 +2240,12 @@
    "role": "Sachbearbeiter Finanzbuchhaltung (m/w/d)",
    "location": "Selbin"
   },
+  "0c7d8a52f156bd1b9acaccfbc9979fb6": {
+   "id": "0c7d8a52f156bd1b9acaccfbc9979fb6",
+   "company": "Liebherr-IT Services GmbH",
+   "role": "It Business Partner Finance & Controlling (m/f/d)",
+   "location": "Oberopfingen"
+  },
   "a1590ed2724e7735b38ced3d7907c5d5": {
    "id": "a1590ed2724e7735b38ced3d7907c5d5",
    "company": "Zurich Insurance Company Ltd",
@@ -2311,6 +2341,12 @@
    "company": "The Procter & Gamble Company",
    "role": "Working Student – Consumer Learning At P&g’s German Innovation Center (m/f/d)",
    "location": "Frankfurt Am Main"
+  },
+  "448a60b0da1fd8f3a4c09981b9735124": {
+   "id": "448a60b0da1fd8f3a4c09981b9735124",
+   "company": "Mercer Deutschland",
+   "role": "Berater* Betriebliche Altersversorgung",
+   "location": "Dusseldorf"
   },
   "7f703b43479f91e9906fd7ae411614db": {
    "id": "7f703b43479f91e9906fd7ae411614db",
