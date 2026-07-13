@@ -208,4 +208,154 @@
 <tr><td>Hannover Life Reassurance Company of America (Hannover Re)</td><td>Administrative Assistant</td><td>Germany</td><td>2026-07-12</td></tr>
 <tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Germany</td><td>2026-07-12</td></tr>
 <tr><td>Dachser SE</td><td>Kaufleute Internationale Speditionslogistik Efz</td><td>Germany</td><td>2026-07-12</td></tr>
+<tr><td>PREDICTAME GmbH</td><td>Anlagenmechaniker / Servicetechniker (m/w/d)</td><td>GroßRaum Mainz</td><td>2026-07-13</td></tr>
+<tr><td>MEGA eG</td><td>Kaufmännisches Praktikum Mega Gruppe</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Deutschland</td><td>Darmstadt</td><td>2026-07-13</td></tr>
+<tr><td>RWE AG</td><td>Visiting Consultant D/f/m</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>RWE AG</td><td>Praktikum / Werkstudent Im Betriebsrat D/w/m</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>RWE AG</td><td>Visiting Consultant D/w/m</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>RWE AG</td><td>Praktikant (d/w/m) Learning & Employee Experience</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>RWE AG</td><td>Praktikum Personaldiagnostik (ab August) Im Bereich Transformation D/w/m</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>Tenova S.p.A</td><td>Internship Industrial Furnaces / Plant Engineering</td><td>Dusseldorf</td><td>2026-07-13</td></tr>
+<tr><td>HOERBIGER</td><td>Bewerbung Schnupperpraktikum</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Strategy</td><td>Berlin</td><td>2026-07-13</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Working Student/intern (f/m/d) It Communications, Operations & Strategic Projects</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sap Globalization Ixp Intern (f/m/d)- User Assistance Developer</td><td>St. Leon</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Bachelor Of Science (b.sc.) (m/w/d) Intern. Wirtschaftsinformatik (ibait) Start 2027 (star)</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Marketing Associate In Emarsys Integration</td><td>Berlin +1</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sommerpraktikum Für Schüler:innen (m/w/d) Standort Markdorf 03.08 - 06.08.2026 (star)</td><td>Constance</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sommerpraktikum Für Schüler:innen (m/w/d) Standort Walldorf 28.07. - 31.07.2026 (star)</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Quality Assurance Process And Communication Support</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Hcm (human Capital Management) Solution Advisory</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Working Student/sap Ixp Intern (f/m/d) For Intern. Communication-office Of The Chief Partner Officer</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Communication For Customer Engagement Tools</td><td>St. Leon</td><td>2026-07-13</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Go-to-market Strategy To Execution</td><td>Mannheim</td><td>2026-07-13</td></tr>
+<tr><td>Pfeifer Holz GmbH & Co KG</td><td>Praktikant (m/w/d)</td><td>Unterbernbach</td><td>2026-07-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-07-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-07-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold</td><td>Bielefeld</td><td>2026-07-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2026 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-07-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-07-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-07-13</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Hamburger Containerboard Standort Spremberg</td><td>Spremberg</td><td>2026-07-13</td></tr>
+<tr><td>Coty</td><td>Intern Sales (m/w/d)</td><td>Darmstadt</td><td>2026-07-13</td></tr>
+<tr><td>GISA GmbH</td><td>Werkstudent:in Marketing (m/w/d)*</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Referendar*in Wahlstation Rechtemanagement</td><td>Darmstadt</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Saarland</td><td>Saarbruecken</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Tagesmagazine Berlin</td><td>Berlin</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Red. Religion Und Leben</td><td>Darmstadt</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Nano</td><td>Darmstadt</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Sachsen</td><td>Dresden</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Nordrhein-westfalen</td><td>Dusseldorf</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Niedersachsen</td><td>Hanover</td><td>2026-07-13</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Baden-württemberg</td><td>Stuttgart</td><td>2026-07-13</td></tr>
+<tr><td>NORDLB - technisches LAN</td><td>Praktikant/-in Mf/stab (m/w/d)</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>NORDLB - technisches LAN</td><td>Praktikant:in Risikocontrolling - Projekt Eba Stresstest 2027 (m/w/d)</td><td>Hanover</td><td>2026-07-13</td></tr>
+<tr><td>LBBW Webspace</td><td>Praktikant (m/w/d) Im Bereich Multinational Coporates</td><td>Stuttgart</td><td>2026-07-13</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Deal Advisory - Power, Energy & Utilities (w/m/d)</td><td>Hamburg</td><td>2026-07-13</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Deal Advisory Large Cap (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Advisory Financial Services (w/m/d)</td><td>Dusseldorf</td><td>2026-07-13</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikant/ Werkstudent Wirtschaftsprüfung/ Audit (w/m/d)</td><td>Hamburg</td><td>2026-07-13</td></tr>
+<tr><td>bayernlb</td><td>Praktikum (m/w/d) Organisation, Digitalisierung & Innovation</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Surteco SE</td><td>Ferienjob / (schul-)praktikum Standort Dunningen</td><td>Freiburg Im Breisgau</td><td>2026-07-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Category Management & Shopper Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Fbc Ff Nlp Production November 2027</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Fbc Ff Nlp Production November 2026</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>chemiepark-marl.de</td><td>Ausbildung 2027 Fachkraft Für Lagerlogistik (m/w/d) - Essen</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>chemiepark-marl.de</td><td>Ausbildung 2027 Chemikant (m/w/d) - Wesseling</td><td>Cologne</td><td>2026-07-13</td></tr>
+<tr><td>chemiepark-marl.de</td><td>Ausbildung 2027 Elektroniker Für Automatisierungstechnik Bachelor Of Engineering (m/w/d) - Marl</td><td>Dortmund</td><td>2026-07-13</td></tr>
+<tr><td>alcon.mx</td><td>Auszubildende (m/w/d) Zur Fachkraft Für Lagerlogistik Für 2027</td><td>GroßWallstadt</td><td>2026-07-13</td></tr>
+<tr><td>Mister Spex</td><td>Ausbildung Zum Augenoptiker (m/w/d) - Berlin</td><td>Berlin</td><td>2026-07-13</td></tr>
+<tr><td>Mister Spex</td><td>Ausbildung Zum Augenoptiker (m/w/d) - Köln 2026</td><td>Cologne</td><td>2026-07-13</td></tr>
+<tr><td>Mister Spex</td><td>Ausbildung Zum Augenoptiker (m/w/d) - Bochum 2026</td><td>Dortmund</td><td>2026-07-13</td></tr>
+<tr><td>Mister Spex</td><td>Ausbildung Zum Augenoptiker (m/w/d) - Bonn 2026</td><td>Cologne</td><td>2026-07-13</td></tr>
+<tr><td>karriere-plus.de</td><td>Ausbildung Anlagenmechaniker:in (m/w/d)</td><td>Philippsthal</td><td>2026-07-13</td></tr>
+<tr><td>Evonik Industries AG</td><td>Ausbildung 2026 Fachlagerist (m/w/d) - Essen</td><td>Wuppertal</td><td>2026-07-13</td></tr>
+<tr><td>Woodward, Inc.</td><td>Ausbildung Zum Industriemechaniker (m/w/d) Für 2027</td><td>Glatten</td><td>2026-07-13</td></tr>
+<tr><td>VELUX Group</td><td>Ausbildung Industriekaufmann/kauffrau (m/w/d)</td><td>Sonneborn</td><td>2026-07-13</td></tr>
+<tr><td>Rockwool AS</td><td>Ausbildung Zur Industriekauffrau/ Zum Industriekaufmann (m/w/d) – Start 01.08.2026</td><td>Dortmund</td><td>2026-07-13</td></tr>
+<tr><td>Remeha GmbH</td><td>Ausbildung - Fachkraft Für Lagerlogistik (*)</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-07-13</td></tr>
+<tr><td>VIE-INDIA</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-07-13</td></tr>
+<tr><td>adesso-group</td><td>Full Stack Engineer (all Genders)</td><td>Nach Standort Suchen</td><td>2026-07-13</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Simulation Software Developer (m/f/d) For Eurodrone Virtual Engineering – Join Our Innovative Team!</td><td>Ingolstadt</td><td>2026-07-13</td></tr>
+<tr><td>KID-Systeme</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-07-13</td></tr>
+<tr><td>KID-Systeme</td><td>Simulation Software Developer (m/f/d) For Eurodrone Virtual Engineering – Join Our Innovative Team!</td><td>Ingolstadt</td><td>2026-07-13</td></tr>
+<tr><td>Airbus</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-07-13</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Simulation Software Developer (m/f/d) For Eurodrone Virtual Engineering – Join Our Innovative Team!</td><td>Ingolstadt</td><td>2026-07-13</td></tr>
+<tr><td>STANLEY Access Technologies / SimonsVoss Technologies GmbH</td><td>Business Analyst (m/w/d) - Schwerpunkt Web Technologien</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Procter & Gamble</td><td>Working Student – Consumer Learning At P&g’s German Innovation Center (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Fidelity National Information Services</td><td>Business Analyst - Zahlungsverkehr (m/w/d)</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Business Analyst (w/m/div.) - Schwerpunkt Europäische Business Units</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-07-13</td></tr>
+<tr><td>Pfeifer Holz GmbH & Co KG</td><td>Industriemechaniker/ Betriebsschlosser (m/w/d) Unbefristet</td><td>Unterbernbach</td><td>2026-07-13</td></tr>
+<tr><td>Sonae Arauco</td><td>Industriemechaniker (m/w/d)</td><td>JüBar OT Nettgau</td><td>2026-07-13</td></tr>
+<tr><td>Sonae Arauco</td><td>Elektroniker (m/w/d)</td><td>JüBar OT Nettgau</td><td>2026-07-13</td></tr>
+<tr><td>RWS GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Im Bereich Electrical Maintenance</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Albrecht Jung GmbH & Co. KG</td><td>Servicetechniker - Knx / Jung Systeme Für München (m/w/d)</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Vonovia SE</td><td>Servicetechniker (m/w/d) Wasserschäden / Trocknung</td><td>Berlin</td><td>2026-07-13</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker Shk Für Kundendienst Und Wartung - Mühldorf (m/w/d)</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Vonovia SE</td><td>Servicetechniker (m/w/d) Für Gartentechnik - Teilzeit (20 Stunden) In Hamburg</td><td>Hamburg</td><td>2026-07-13</td></tr>
+<tr><td>cflex</td><td>Industriemechaniker*in Für Den Bereich Instandhaltung (m/w/d)</td><td>Pirk</td><td>2026-07-13</td></tr>
+<tr><td>cflex</td><td>Elektroniker*in (m/w/d)</td><td>Pirk</td><td>2026-07-13</td></tr>
+<tr><td>Scania CV AB</td><td>Servicetechniker (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Arkema S.A.</td><td>Industriemechaniker Instandhaltung / Industrial Mechanic (maintenance) (m/w/d)</td><td>Albertshausen</td><td>2026-07-13</td></tr>
+<tr><td>Altana AG</td><td>Mitarbeiter Facility Management (m/w/d)</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Otis/dat - Nrw</td><td>DAT KöLn</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Hannover</td><td>Hanover</td><td>2026-07-13</td></tr>
+<tr><td>Otisjob</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Berlin</td><td>Berlin-Ost</td><td>2026-07-13</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Mechaniker / Anlagenbediener (m/w/d)</td><td>Emleben</td><td>2026-07-13</td></tr>
+<tr><td>Trek Bicycle</td><td>Production Technician</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>FRoSTA AG</td><td>Electrician Maintenance (f/m/d)</td><td>Bremerhaven</td><td>2026-07-13</td></tr>
+<tr><td>Genpt</td><td>Servicetechniker (m/w/d)</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Mecanicien.ca</td><td>Servicetechniker (m/w/d)</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Elektroniker / Mechatroniker</td><td>Suelzetal</td><td>2026-07-13</td></tr>
+<tr><td>Otis Worldwide</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) München</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>OTIS</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) München</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) München</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Elektroniker (m/w/d) - Einstieg In Automatisierung & Instandhaltung</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Kundendiensttechniker Industrieanwendungen Raum Hannover (w/m/div.)</td><td>Isernhagen</td><td>2026-07-13</td></tr>
+<tr><td>OTIS</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Leipzig</td><td>Leipzig</td><td>2026-07-13</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Leipzig</td><td>Leipzig</td><td>2026-07-13</td></tr>
+<tr><td>Heidelbergmaterials</td><td>Instandhalter / Industriemechaniker (w/m/d)</td><td>Oranienbaum-WöRlitz</td><td>2026-07-13</td></tr>
+<tr><td>heidelbergmaterials.pl</td><td>Instandhalter / Industriemechaniker (w/m/d)</td><td>Oranienbaum-WöRlitz</td><td>2026-07-13</td></tr>
+<tr><td>Diversey Com Hr</td><td>Service Technician (m/f/d)</td><td>Rhein-Main-Gebiet</td><td>2026-07-13</td></tr>
+<tr><td>700</td><td>Service Technician (m/f/d)</td><td>Rhein-Main-Gebiet</td><td>2026-07-13</td></tr>
+<tr><td>57</td><td>Mechatroniker, Elektroniker Als Servicetechnikerin (m/w/d) Für Aufzüge Und Rolltreppen</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>DHL Group</td><td>Elektroniker / Mechatroniker (m/w/d)</td><td>Saulheim</td><td>2026-07-13</td></tr>
+<tr><td>Carrier Global</td><td>Systemintegrator</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Servicetechniker (m/w/d)</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Elektriker/ Mechatroniker/ Industriemechaniker (m/w/d)</td><td>Borgstedt</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Instandhaltungstechniker</td><td>Horn-Bad Meinberg</td><td>2026-07-13</td></tr>
+<tr><td>Dematic Corp</td><td>Technical Support Engineer (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Kion Na</td><td>Technical Support Engineer (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>KION North America Corporation</td><td>Technical Support Engineer (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Otis Worldwide Corporation</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Berlin</td><td>Berlin-Ost</td><td>2026-07-13</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Berlin</td><td>Berlin-Ost</td><td>2026-07-13</td></tr>
+<tr><td>asud-ascenseur.fr</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Berlin</td><td>Berlin-Ost</td><td>2026-07-13</td></tr>
+<tr><td>Carrier</td><td>Commercial Servicetechniker Im Außendienst (m/w/d) Bayern/ Baden-württemberg</td><td>Bayern +1</td><td>2026-07-13</td></tr>
+<tr><td>Carrier Global</td><td>Commercial Servicetechniker Im Außendienst (m/w/d) Bayern/ Baden-württemberg</td><td>Bayern +1</td><td>2026-07-13</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker Im Außendienst (m/w/d) - Grosswärmepumpe</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Cantire</td><td>Servicetechniker Im Außendienst (m/w/d) - Grosswärmepumpe</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker Im Außendienst (m/w/d) - München</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker Im Außendienst (m/w/d) - München</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>eos-apac.info</td><td>Second Level Support Specialist (m/w/d)</td><td>Munich</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Instandhaltungstechniker (all genders)</td><td>Hoppegarten</td><td>2026-07-13</td></tr>
+<tr><td>ABB Ltd</td><td>Field Service Monteur (m/w/d) Mit Bundesweiten Baustelleneinsätzen</td><td>Germany</td><td>2026-07-13</td></tr>
+<tr><td>Sixt</td><td>Airport Summer Job Germany - Verkaufsberater (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-13</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Hamburg</td><td>2026-07-13</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Bochum Höntrup (18,5 Std)</td><td>Dortmund</td><td>2026-07-13</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lagertätigkeit (m/w/d) – Rheinbach (32 Std)</td><td>Cologne</td><td>2026-07-13</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Berlin Boulevard - Verkäufer (m/w/d) In Teilzeit</td><td>Berlin</td><td>2026-07-13</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Sachbearbeiter Security Administration (m/w/d)</td><td>Augsburg</td><td>2026-07-13</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Sachbearbeiter Security Administration (m/w/d)</td><td>Augsburg</td><td>2026-07-13</td></tr>
+<tr><td>Philips</td><td>R&d Team Assistant- Befristet Auf 2 Jahre (all Genders)</td><td>Stuttgart</td><td>2026-07-13</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Augsburg</td><td>2026-07-13</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Sachbearbeiter Security Administration (m/w/d)</td><td>Augsburg</td><td>2026-07-13</td></tr>
+<tr><td>Primark</td><td>De2 - Retail Assistant M/w/d - Mitarbeiter Im Verkauf (m/w/d)</td><td>Lambrechtshagen</td><td>2026-07-13</td></tr>
+<tr><td>Testia</td><td>Sachbearbeiter Security Administration (m/w/d)</td><td>Augsburg</td><td>2026-07-13</td></tr>
+<tr><td>Airbus</td><td>Sachbearbeiter Security Administration (m/w/d)</td><td>Augsburg</td><td>2026-07-13</td></tr>
 </table>
