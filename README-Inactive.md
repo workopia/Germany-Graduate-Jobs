@@ -468,4 +468,85 @@
 <tr><td>Thompson's WaterSeal</td><td>Logistikkoordinator (m/w/d)</td><td>Germany</td><td>2026-07-14</td></tr>
 <tr><td>Sherwin-Williams 2</td><td>Logistikkoordinator (m/w/d)</td><td>Germany</td><td>2026-07-14</td></tr>
 <tr><td>Sherwin-Williams</td><td>Logistikkoordinator (m/w/d)</td><td>Germany</td><td>2026-07-14</td></tr>
+<tr><td>die Bayerische</td><td>Werkstudent Kampagnenmanagement / E-mail-marketing (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>It's all about Christmas</td><td>Verkaufsmitarbeiter:in (vollzeit) Weihnachtsladen Hohe Straße Köln</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>It's all about Christmas</td><td>Verkaufsmitarbeiter:in (teilzeit) Weihnachtsladen Hohe Straße Köln</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>It's all about Christmas</td><td>Minijob / Studentische Aushilfe Im Verkauf Weihnachtsladen Hohe Straße Köln</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikum Corporate Strategy (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Pflichtpraktikant Im Bereich Adas (m/w/d)</td><td>Stuttgart</td><td>2026-07-15</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Im Bereich Corporate M&a (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Ai Transformation (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Talent Development & Culture (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>easa</td><td>Study Placement Scheme</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>PALFINGER AG</td><td>Internship Procurement Excellence (f/m/d)</td><td>Duren</td><td>2026-07-15</td></tr>
+<tr><td>Bilfinger SE</td><td>Praktikum Im Rahmen Einer Umschulung</td><td>Augsburg</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikum (m/w/d)</td><td>33335</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Corporate Responsibility (m/w/d)</td><td>33335</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Intern (f/m/d) Controlling / Reporting</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Redaktion (w/m/d)</td><td>Kiel</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Im Bereich Kommunikation Und Events</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>33335</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>33335</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant*in (m/w/d) Im Bereich Presse Goldmann Ratgeber Südwest/irisiana/ Arkana, Kailash, Mosaik</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum In Der Radioredaktion</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Hris (m/w/d)</td><td>Bielefeld</td><td>2026-07-15</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikum (studierende)</td><td>33332</td><td>2026-07-15</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-07-15</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Gaming-news 4p.de (m/w/d)</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Redaktion - Hamburger Abendblatt & Bergedorfer Zeitung (m/w/d)</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum - Business Development & Ai Innovation (m/w/d)</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikant Investments (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>InterContinental Hotels Group (IHG)</td><td>Ausbildung Zur Hotelfachfrau / Zum Hotelfachmann (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-15</td></tr>
+<tr><td>Valeo Service</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-07-15</td></tr>
+<tr><td>ABB UK</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026</td><td>Germany</td><td>2026-07-15</td></tr>
+<tr><td>Kapoleicleaning</td><td>Ausbildung Mechatroniker:in (m/w/d)</td><td>Zielitz</td><td>2026-07-15</td></tr>
+<tr><td>SGL Carbon</td><td>Ausbildungsplatz Zum Industriemechaniker (m/w/d) Zum 01.09.2026</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>Premium Aerotec</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-07-15</td></tr>
+<tr><td>Allegion Corp</td><td>Software-developer .net (m/w/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>KNDS Group</td><td>Data Analyst (m/w/d) Procurement</td><td>Germany</td><td>2026-07-15</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Workflowmanagementsystem (all Genders)</td><td>Berlin +1</td><td>2026-07-15</td></tr>
+<tr><td>Mercer Deutschland</td><td>Berater* Betriebliche Altersversorgung</td><td>Dusseldorf</td><td>2026-07-15</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Business Analyst - Configuration Management (d/f/m)</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>AIRBUS DS GEO SA</td><td>Business Analyst - Configuration Management (d/f/m)</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Magdeburg Und Umgebung</td><td>Genshagen</td><td>2026-07-15</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)</td><td>Hanover</td><td>2026-07-15</td></tr>
+<tr><td>Kistler Group</td><td>Service Techniker Prüfstands- Und Messtechnik (w/m/d)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>SAMSON Group</td><td>Mechatroniker Als Servicetechniker (w/m/d) Im Außendienst</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektriker / Elektroniker (w/m/d)</td><td>Markt Bibart</td><td>2026-07-15</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Betriebstechnik (w/m/d)</td><td>Bevern</td><td>2026-07-15</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Industriemechaniker / Schlosser (w/m/d)</td><td>Markt Bibart</td><td>2026-07-15</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Servicemonteur (m/w/d)</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>Holcim</td><td>Industriemechaniker (m/w/d)</td><td>Germany</td><td>2026-07-15</td></tr>
+<tr><td>Holcim</td><td>Elektroniker (m/w/d)</td><td>Duisburg-Schwelgern</td><td>2026-07-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-07-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Rottenburg An Neckar / Tübingen</td><td>Rottenburg Am Neckar +1</td><td>2026-07-15</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-07-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-07-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Offenburg</td><td>Freiburg Im Breisgau</td><td>2026-07-15</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum München</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Chanel</td><td>Verkäufer:in (m/w/d) Chanel Parfums & Beauté Boutique Alsterhaus Hamburg</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>G&F Châtelain</td><td>Verkäufer:in (m/w/d) Chanel Parfums & Beauté Boutique Alsterhaus Hamburg</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>Deutsche Bank UK</td><td>Mitarbeiter Service Und Verkauf (d/m/w), Filiale Marl / Münster (befristet)</td><td>Dortmund</td><td>2026-07-15</td></tr>
+<tr><td>Bdbk010</td><td>Mitarbeiter Service Und Verkauf (d/m/w), Filiale Marl / Münster (befristet)</td><td>Dortmund</td><td>2026-07-15</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Holzkirchen (30 Std)</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Nike</td><td>​verkäufer (athlete) (w/m/d) – 25h Flex – Zweibrücken</td><td>Saarbruecken</td><td>2026-07-15</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 78343 Gaienhofen In Geringfügigkeit (minijob)</td><td>Constance</td><td>2026-07-15</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 69257 Wiesenbach In Teilzeit (svpflichtig)</td><td>Mannheim</td><td>2026-07-15</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 42929 Wermelskirchen In Teilzeit (svpflichtig)</td><td>Wuppertal</td><td>2026-07-15</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Lagermitarbeiter (m/w/d)</td><td>KöLn-Weiden</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Ekt Farmsen Hamburg-wandsbek (m/w/d)</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Kurzfristige Beschäftigung - Ekt Farmsen Hamburg-wandsbek (m/w/d)</td><td>Hamburg</td><td>2026-07-15</td></tr>
+<tr><td>Sixt</td><td>Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Wuppertal</td><td>2026-07-15</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Teilzeit</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>skechers.cl</td><td>Zweibrücken Verkäufer (m/w/d) Im Einzelhandel</td><td>Saarbruecken</td><td>2026-07-15</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Königswinter (20 Std)</td><td>Cologne</td><td>2026-07-15</td></tr>
+<tr><td>Leonardo</td><td>Working Student Für Administrative Unterstützung</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Hellmann</td><td>Disponent Fernverkehr Spedition Und Logistik (m/w/d)</td><td>Germany</td><td>2026-07-15</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Assistenz It-abteilung (m/w/d)</td><td>Berlin</td><td>2026-07-15</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Verwaltungsmitarbeiter (m/w/d) Für Die Obdachlosenhilfe</td><td>Munich</td><td>2026-07-15</td></tr>
+<tr><td>Yara International ASA</td><td>Mitarbeiter Logistik / Logistikkoordinator Transport & Versand (m/w/d)</td><td>Poppendorf</td><td>2026-07-15</td></tr>
 </table>
