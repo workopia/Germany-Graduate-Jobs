@@ -549,4 +549,58 @@
 <tr><td>Kirchliche Hochschule Bethel</td><td>Assistenz It-abteilung (m/w/d)</td><td>Berlin</td><td>2026-07-15</td></tr>
 <tr><td>caritas-nah-am-naechsten</td><td>Verwaltungsmitarbeiter (m/w/d) Für Die Obdachlosenhilfe</td><td>Munich</td><td>2026-07-15</td></tr>
 <tr><td>Yara International ASA</td><td>Mitarbeiter Logistik / Logistikkoordinator Transport & Versand (m/w/d)</td><td>Poppendorf</td><td>2026-07-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/d/m) Esports & Gaming</td><td>Hamburg +1</td><td>2026-07-16</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin/praktikant (w/m/d) Brand Consulting/sponsoring Concepts Borussia Dortmund</td><td>Dortmund</td><td>2026-07-16</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Sponsorship Intelligence (ffm)</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Brand Concepts</td><td>Hamburg</td><td>2026-07-16</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Brand Consulting & Sponsoring Concepts - Team Hsv</td><td>Hamburg</td><td>2026-07-16</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Premium Partnerships/strategic Brand Partnerships</td><td>Hamburg +1</td><td>2026-07-16</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Praktikant (m/w/d) Im Strategischen Einkauf</td><td>Stuttgart</td><td>2026-07-16</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Werkstudent (w/m/d) Marketing</td><td>Germany</td><td>2026-07-16</td></tr>
+<tr><td>covestro.cn</td><td>Intern Public Relations - Mit Gehaltsangabe</td><td>Germany</td><td>2026-07-16</td></tr>
+<tr><td>beeline GmbH</td><td>Praktikant Hr Talent Acquisition (w/m/d), Pflichtpraktikum</td><td>Cologne</td><td>2026-07-16</td></tr>
+<tr><td>Kws Group</td><td>Internship (m/f/d) - Unsolicited Application</td><td>Berlin</td><td>2026-07-16</td></tr>
+<tr><td>Kws Group</td><td>Praktikant (m/w/d) - Initiativbewerbung</td><td>Berlin</td><td>2026-07-16</td></tr>
+<tr><td>Kws Group</td><td>Intern Ifrs & Group Accounting (m/w/d)</td><td>Berlin +1</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Content-manager Live-interactions (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Taff (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Customer Marketing - Fokus Channel Marketing (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Marketing Channels & Content / Pro7 & Joyn (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Tv-produktion Magazine & News (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Legal Affairs (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Galileo (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Marketing / Produkt Management Music & Live Entertainment (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Marketing- Licensing (m/w/d)</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Praktikum</td><td>Germany</td><td>2026-07-16</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Consulting & Strategy (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Business Process Management Und Ai</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>Hager Group</td><td>Corporate Sustainability Intern (m/f/d)</td><td>Saarbruecken</td><td>2026-07-16</td></tr>
+<tr><td>SKF Group</td><td>Ausbildung - Mechatroniker (m/w/d)</td><td>Hamburg</td><td>2026-07-16</td></tr>
+<tr><td>SKF Group</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-07-16</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-07-16</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Fachinformatiker Anwendungsentwicklung 2027 (m/w/d) In München</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>W Brisbane</td><td>Ausbildung Im Hotelfach (m/w/d)</td><td>Cologne</td><td>2026-07-16</td></tr>
+<tr><td>Marriott International</td><td>Ausbildung Im Hotelfach (m/w/d)</td><td>Cologne</td><td>2026-07-16</td></tr>
+<tr><td>KION</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) - Start 01.09.2027</td><td>Germany</td><td>2026-07-16</td></tr>
+<tr><td>JYSK</td><td>Filialleiter/in Trainee (m/w/d) - Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>JYSK</td><td>Filialleiter/in Trainee (m/w/d) - Wittenberge</td><td>Wittenberge</td><td>2026-07-16</td></tr>
+<tr><td>Medac</td><td>Ausbildung Industriekaufmann Zum 01.08.2027 (m/w/d)</td><td>Hamburg</td><td>2026-07-16</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Ausbildung Zur Hotelfachfrau / Zum Hotelfachmann (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>IHG</td><td>Ausbildung Zur Hotelfachfrau / Zum Hotelfachmann (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>The Procter & Gamble Company</td><td>Working Student – Consumer Learning At P&g’s German Innovation Center (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-07-16</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Kundendiensttechniker Stationäre Löschtechnik (m/w/d)</td><td>Germany</td><td>2026-07-16</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Service Technician (m/f/d) Security Technology In Germany</td><td>Munich</td><td>2026-07-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker / Elektriker / Mechatroniker - Instandhaltung (w/m/d)</td><td>Halle (Saale)</td><td>2026-07-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker, Mechatroniker - Bereich Instandhaltung (w/m/d)</td><td>Neuensalz</td><td>2026-07-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)</td><td>RoßBach</td><td>2026-07-16</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Trouble Shooter / Servicetechniker 1</td><td>Berlin</td><td>2026-07-16</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Industrie Servicetechniker (m/w/d) Region Fulda</td><td>MöRfelden</td><td>2026-07-16</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Südl. Berlin / Brandenburg</td><td>Genshagen</td><td>2026-07-16</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Berlin Und Umgebung (mitte)</td><td>Genshagen</td><td>2026-07-16</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) In Teilzeit 20 Std./w. / Königstraße</td><td>Stuttgart</td><td>2026-07-16</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist / Verkäufer (m/w/d) In Teilzeit</td><td>Dusseldorf</td><td>2026-07-16</td></tr>
+<tr><td>jobpraktikum.de</td><td>Mitarbeiter Service Und Verkauf (d/m/w), Filiale Marl / Münster (befristet)</td><td>Dortmund</td><td>2026-07-16</td></tr>
+<tr><td>stellenangebote-in.de</td><td>Mitarbeiter Service Und Verkauf (d/m/w), Filiale Marl / Münster (befristet)</td><td>Dortmund</td><td>2026-07-16</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Sales Campaign Specialist B2b - Campaign Execution (w/m/d)</td><td>Dusseldorf</td><td>2026-07-16</td></tr>
+<tr><td>Sanrafaelvet</td><td>Quality Assurance Specialist Sterilproduktion Biologics Drug Product (all Genders) - 2 Jahre Befristet</td><td>Germany</td><td>2026-07-16</td></tr>
 </table>
