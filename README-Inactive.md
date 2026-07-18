@@ -747,4 +747,48 @@
 <tr><td>The Church of Jesus Christ of Latter-day Saints</td><td>Administrative Assistant Special Projects Department / Frankfurt (germany) / Temporary (part-time, 10 Hours/week)</td><td>Frankfurt Am Main</td><td>2026-07-17</td></tr>
 <tr><td>Tenbrinke</td><td>Projektassistenz / Assistenz Der Projektleitung (m/w/d) / Frankfurt / Voll -und Teilzeit</td><td>Frankfurt Am Main</td><td>2026-07-17</td></tr>
 <tr><td>Hogan Lovells</td><td>Partner- Und Teamassistenz (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-17</td></tr>
+<tr><td>Vodafone</td><td>Teamassistenz/ Betriebsratsassistenz (m/w/d) In Teilzeit (20h)</td><td>Hamburg</td><td>2026-07-18</td></tr>
+<tr><td>Bosch Group</td><td>Mandatory Internship Ai And Robotics</td><td>Stuttgart</td><td>2026-07-18</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Internship In The Field Of Military Aviation</td><td>Ingolstadt</td><td>2026-07-18</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler Im Gewerblichen Bereich (m/w/d)</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-07-18</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>TE Connectivity</td><td>Co-op/intern</td><td>Waiblingen</td><td>2026-07-18</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Internationalen Brand Management</td><td>Wernau (Neckar)</td><td>2026-07-18</td></tr>
+<tr><td>Sixt</td><td>Internship In Inhouse Consulting</td><td>Munich</td><td>2026-07-18</td></tr>
+<tr><td>CandA</td><td>Intern Go-to-market (w/m/d)</td><td>DüSseldorf +1</td><td>2026-07-18</td></tr>
+<tr><td>HARTMANN</td><td>Intern International Marketing (f/m/d)</td><td>Heidenheim +1</td><td>2026-07-18</td></tr>
+<tr><td>Bitzer SE</td><td>Initiativbewerbung Praktikum / Abschlussarbeit (m/w/d)</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>Bitzer SE</td><td>Praktikum Human Resources (m/w/d)</td><td>Stuttgart</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Strategy (w/m/d)</td><td>Berlin +1</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Decision Modelling & Economics (w/m/d)</td><td>Dusseldorf</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Valuation Transactions And Corporate Finance (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Strategy And Execution - Deal Management (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Financial Due Diligence (w/m/d)</td><td>Hamburg</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Strategy (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant It-beratung/prüfung Schwerpunkt Banken Oder Versicherungen (financial Services) (w/m/d)</td><td>Dusseldorf</td><td>2026-07-18</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Industriemechaniker (all Genders) - Start 08/2027 - Werk Großheringen</td><td>GroßHeringen</td><td>2026-07-18</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Werkzeugmechaniker (all Genders) - Start 08/2027 Standort Lennestadt-elspe</td><td>Lennestadt-Elspe</td><td>2026-07-18</td></tr>
+<tr><td>sonnen</td><td>Software Engineer Elixir / Rust (m/w/d)</td><td>Wildpoldsried +1</td><td>2026-07-18</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Für Wartungs- Und Betriebsservicearbeiten (m/w/d)</td><td>Hanover</td><td>2026-07-18</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Deutschlandweit</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Elektriker / Elektroniker / Servicetechniker (m/w/d)</td><td>Munich</td><td>2026-07-18</td></tr>
+<tr><td>KAESER KOMPRESSOREN</td><td>Servicemonteur Drucklufttechnik Stuttgart (m/w/d)</td><td>Stuttgart</td><td>2026-07-18</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Hv For Wind Turbines In Southeastern Brandenburg</td><td>Berlin</td><td>2026-07-18</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Tensbüttel</td><td>TensbüTtel</td><td>2026-07-18</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Hv In Großweitzschen</td><td>GroßWeitzschen</td><td>2026-07-18</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Jaderberg</td><td>Jaderberg</td><td>2026-07-18</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Bernau</td><td>Berlin</td><td>2026-07-18</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Wiesen</td><td>Wiesen</td><td>2026-07-18</td></tr>
+<tr><td>aldi-sued</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-07-18</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store Konstanz (m/w/d) (20 Std./wo.)</td><td>Constance</td><td>2026-07-18</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer (m/w/d) Im Store Frankfurt-hessen Center (20 Std./wo)</td><td>Frankfurt Am Main</td><td>2026-07-18</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)</td><td>Munich</td><td>2026-07-18</td></tr>
+<tr><td>Coloplast AS</td><td>Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)</td><td>Hamburg</td><td>2026-07-18</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Kaufmännische Mitarbeitende* - Office Support Mit Schwerpunkt Unterstützungskasse</td><td>Stuttgart</td><td>2026-07-18</td></tr>
+<tr><td>Smavagmbh</td><td>It Support Specialist (w/m/d) - Teilzeit 30std/woche</td><td>Berlin</td><td>2026-07-18</td></tr>
+<tr><td>ABB UK</td><td>Sales Specialist (f/m/d) – Process Automation</td><td>Germany</td><td>2026-07-18</td></tr>
+<tr><td>Zeppelin Systems</td><td>Corporate Communications Specialist (m/w/d)</td><td>Hamburg-Bahrenfeld</td><td>2026-07-18</td></tr>
 </table>
