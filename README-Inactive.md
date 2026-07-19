@@ -791,4 +791,163 @@
 <tr><td>Smavagmbh</td><td>It Support Specialist (w/m/d) - Teilzeit 30std/woche</td><td>Berlin</td><td>2026-07-18</td></tr>
 <tr><td>ABB UK</td><td>Sales Specialist (f/m/d) – Process Automation</td><td>Germany</td><td>2026-07-18</td></tr>
 <tr><td>Zeppelin Systems</td><td>Corporate Communications Specialist (m/w/d)</td><td>Hamburg-Bahrenfeld</td><td>2026-07-18</td></tr>
+<tr><td>Busch Dienste GmbH</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-07-19</td></tr>
+<tr><td>DHL Group</td><td>Praktikant (m/w/d) Für Den Bereich Zoll Bei Post & Paket Deutschland</td><td>Cologne</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Controlling / Business Planning & Analysis - Brand & Product (m/w/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Concept Design Boss Womenswear (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Design Boss Black Mw Woven,outerwear & Leather Garments (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Digital Supply Chain (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship It Service Management, Automation & Ai (m/w/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Concept Design Boss Menswear Black And Camel (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Digital Creation & Operations (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Merchandise Planning (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Global Collaborations (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Process Excellence (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Brand Communications (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship It Finance & Controlling (fi/co) (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Praktikum Global Content Production (m/w/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Product Management In-season Response (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Design Boss Mw Smart Casual Jersey (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Creative Content Design & Corporate Channels (m/f/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Praktikum (d/m/w) Im Operativen Einkauf</td><td>Augsburg</td><td>2026-07-19</td></tr>
+<tr><td>AIRBUS HELICOPTERS DEUTSCHLAND GmbH</td><td>Praktikum (d/m/w) Im Operativen Einkauf</td><td>Augsburg</td><td>2026-07-19</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Praktikum (d/m/w) In Der Entwicklung Von Space Mechanismen</td><td>Constance</td><td>2026-07-19</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Praktikum (d/m/w) In Der Entwicklung Von Space Mechanismen</td><td>Constance</td><td>2026-07-19</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Internship (d/f/m) In Quality Procurement</td><td>Hamburg</td><td>2026-07-19</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Internship (d/f/m) In Quality Procurement</td><td>Hamburg</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum In Der Organisationsentwicklung - Mobility Purchasing</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Der Entwicklung Und Fertigung Von Mems Sensoren</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>Boston Consulting Group</td><td>Female Talent Internship - Bcg Platinion (all Genders)</td><td>SEARCH</td><td>2026-07-19</td></tr>
+<tr><td>Boston Consulting Group</td><td>Intern—recruiting And Event Management</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>Boston Consulting Group</td><td>Working Student —marketing Strategy & Campaigns (start Date: 01.08./01.09.2026)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-07-19</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Praktikum Für Frauen</td><td>Wuppertal</td><td>2026-07-19</td></tr>
+<tr><td>E.ON SE</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-07-19</td></tr>
+<tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Working Student Or Intern - Facility Management (f/m/d)</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>AbbVie</td><td>Werkstudent (all Genders) Marketing Im Bereich Rheumatologie</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Business Procurement</td><td>Ulm</td><td>2026-07-19</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Im Developing (w/m/d)</td><td>Ulm</td><td>2026-07-19</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Talent Development & Kommunikation (w/m/d)</td><td>Ulm</td><td>2026-07-19</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Entwicklung Und Konstruktion - Fahrsystem Knickgelenkte Muldenkipper</td><td>Kirchdorf An Der Iller</td><td>2026-07-19</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum/abschlussarbeit In Der Distributionslogistik</td><td>Ulm</td><td>2026-07-19</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Pflichtpraktikant Onboarding In Der Personalentwicklung Für 6 Monate (m/w/d)</td><td>Lindenberg Im AllgäU</td><td>2026-07-19</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikant Lean Academy (m/w/d)</td><td>Kirchdorf/Oberopfingen</td><td>2026-07-19</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Werkstudent / Praktikant (m/w/d) Im Bereich Language Data Management</td><td>Ulm</td><td>2026-07-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Supply Chain Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant /werkstudent (m/w/d) Fendt Go-to-market - Team Logistics (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Für Das Produkt Marketing Fendtone & Smart Farming (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) In Der Entwicklung Für Den Bereich Data Processing (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Aftersales Training (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Fendt Product Marketing Harvesting (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant/werkstudent (m/w/d) Im Bereich Fendt Product Marketing Arable (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Fendt Go-to-market Training (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Werkstudent/praktikant (m/w/d) Fendt Product Und Pricing Traktoren & Fendtone (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>AGCO</td><td>Praktikant/werkstudent (m/w/d) Für Den Bereich Recht Und Compliance (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-19</td></tr>
+<tr><td>ferring.fr</td><td>Praktikant Production (m/w/d)</td><td>Kiel</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Produktmanagement Fahrgestell (w/m/div.)</td><td>Karlsruhe</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Group</td><td>Internship Product Management Chassi</td><td>Karlsruhe</td><td>2026-07-19</td></tr>
+<tr><td>Interbrand Corporation</td><td>Praktikum Brand Design // Intern Brand Design (all Genders)</td><td>Cologne</td><td>2026-07-19</td></tr>
+<tr><td>Interbrand Corporation</td><td>Praktikum Brand Strategy // Intern Brand Strategy (all Genders)</td><td>Cologne</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum Business Model Innovation</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Business Model Innovation</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Werkstudent Affiliate-/influencer-marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>Sonymusicentertainment</td><td>Werkstudent:in Marketing Für Die Labels Epic & Nitron</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Change Management & Organisationsentwicklung</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>ATS Corporation</td><td>Abschlussarbeit / Praktikum</td><td>Mannheim</td><td>2026-07-19</td></tr>
+<tr><td>abat AG</td><td>Praxissemester (pflichtpraktika) M/w/d</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>abat AG</td><td>Abschlussarbeit M/w/d</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>TRATON Group</td><td>Intern / Group Accounting (m/f/d)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>TRATON Group</td><td>Intern / Compliance (m/f/d)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>TRATON Group</td><td>Intern / Finance & Controlling (m/f/d)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Quality Assurance</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Technisches Projektmanagement / Internship Technical Project Management</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Konzernkonsolidierung</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>RINA S.p.A</td><td>Internship: Environmental Plan Approval Technician (jc_0597)</td><td>Hamburg</td><td>2026-07-19</td></tr>
+<tr><td>Institutehumanbiology</td><td>Internship Sequencing Service & Support Emea-latam - Axelios 1</td><td>Mannheim</td><td>2026-07-19</td></tr>
+<tr><td>Roche UK</td><td>Internship Sequencing Service & Support Emea-latam - Axelios 1</td><td>Mannheim</td><td>2026-07-19</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Internship Sequencing Service & Support Emea-latam - Axelios 1</td><td>Mannheim</td><td>2026-07-19</td></tr>
+<tr><td>DATEV Software and Consulting</td><td>Duales Studium Bachelor Of Arts In Bwl-dienstleistungsmanagement In Der Niederlassung Mannheim (m/w/d), Ab 09/2027</td><td>Mannheim</td><td>2026-07-19</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zur Fachkraft Für Metalltechnik (m/w/d) Ausbildungsstart September 2026</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>Schreiner Group GmbH und Co. KG</td><td>Ausbildung Zum Fachlagerist (m/w/d) 2026</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Ausbildung Fachkraft Für Lagerlogistik (m/w/d) - Beginn 2026</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Risikoanalyse & Nachhaltigkeitsrisiken Wertpapierfonds</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Hager Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer M/w/d (ottfingen)</td><td>Ottfingen</td><td>2026-07-19</td></tr>
+<tr><td>CMA CGM Group</td><td>Auszubildender Im Bereich Fachkraft Für Lagerlogistik (m/w/d)</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>createyourowncareer</td><td>Ausbildung Zum Fachinformatiker Bei Bertelsmann 2027 (m/w/d)</td><td>33335</td><td>2026-07-19</td></tr>
+<tr><td>createyourowncareer</td><td>Trainee Sap Key User & Business Process Management (m/w/x)</td><td>33333</td><td>2026-07-19</td></tr>
+<tr><td>createyourowncareer</td><td>Aspire Logistics Management Traineeship</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Autoneum</td><td>Apprentice Industrial Mechanic - Beginning Summer 2026</td><td>Bocholt</td><td>2026-07-19</td></tr>
+<tr><td>Autoneum</td><td>Apprentice Machine Operator - Beginning Summer 2026</td><td>Dortmund</td><td>2026-07-19</td></tr>
+<tr><td>Salzgitter AG</td><td>Ausbildung Industriemechaniker 2026 (w/m/d)</td><td>Fridingen</td><td>2026-07-19</td></tr>
+<tr><td>Hydro</td><td>Ausbildung Zum Gießereimechaniker (m/w/d) - Druck- Und Kokillenguss 2026</td><td>Rackwitz</td><td>2026-07-19</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>Halle (Saale)</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Trainee Zum Bereichsleiter Markt (gn)</td><td>Dresden Kaditz</td><td>2026-07-19</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>One Nexus / Trainee (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Ausbildung Zum Fachinformatiker (m/w/d) Für Anwendungsentwicklung - Berlin</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>Deloitte GmbH</td><td>Ausbildung Steuerfachangestellter 2027 (m/w/d)</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Zum Fachlagerist (w/m/d)</td><td>Markt Bibart</td><td>2026-07-19</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Bevern</td><td>Bevern</td><td>2026-07-19</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>St. Ingbert</td><td>2026-07-19</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-07-19</td></tr>
+<tr><td>Schindler Group</td><td>Auszubildende*r Mechatroniker*in (m/w/d) In Arnsdorf Ab September 2026</td><td>Arnsdorf</td><td>2026-07-19</td></tr>
+<tr><td>Schindler Group</td><td>Trainee (m/w/d) Als Assistenz Der Geschäftsleitung Mit Entwicklungsmöglichkeit In Arnsdorf</td><td>Arnsdorf</td><td>2026-07-19</td></tr>
+<tr><td>Bundes-Gesellschaft fuer Endlagerung mbH</td><td>Ausbildung Zum/zur Industriemechaniker*in (m/w/d)</td><td>Konrad</td><td>2026-07-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Embedded Softwareentwickler Für Die Automatisierung Mobiler Arbeitsmaschinen (w/m/div.)</td><td>Elchingen</td><td>2026-07-19</td></tr>
+<tr><td>Jobgether</td><td>Junior Full-stack Engineer (ai Code Evaluation)</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-07-19</td></tr>
+<tr><td>Jobgether</td><td>Middle Node.js Backend Developer</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Payments</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Test- Und Releasemanagement Im Projektumfeld</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>GEWISS</td><td>Accounting</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>NIQ</td><td>Junior Insights Analyst (w/m/d) - German Speaker</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>SchillSeilacher GmbH</td><td>Sachbearbeiter Buchhaltung (m/w/d) 1</td><td>Alle</td><td>2026-07-19</td></tr>
+<tr><td>FIS Global / Fidelity National Information Services</td><td>Business Analyst - Zahlungsverkehr (m/w/d)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>Humbaurkoegel</td><td>Mitarbeiter Finanzbuchhaltung - Kreditor (m/w/d)</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Jobgether</td><td>Technical & Reporting Accountant</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>SimonsVoss Technologies GmbH</td><td>Business Analyst (m/w/d) - Schwerpunkt Web Technologien</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>Korber AG</td><td>Vision Expert Field Service (m/w/d)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>Voith</td><td>Servicemonteur (m/w/d) Außendienst Schienenfahrzeuge</td><td>Kiel</td><td>2026-07-19</td></tr>
+<tr><td>EndressHauser AG</td><td>Mitarbeiter Facility Management - Infrastruktur / Hausmeister (w/m/d)</td><td>Nesselwang</td><td>2026-07-19</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker / Elektroniker Region Berlin (m/w/d)</td><td>Gruensfeld</td><td>2026-07-19</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker / Elektroniker Raum Lüdenscheid (m/w/d)</td><td>Gruensfeld</td><td>2026-07-19</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker / Elektroniker Raum Augsburg/donauwörth/ingolstadt (m/w/d)</td><td>Gruensfeld</td><td>2026-07-19</td></tr>
+<tr><td>ABB Ltd</td><td>Field Service Monteur (m/w/d) Mit Bundesweiten Baustelleneinsätzen</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>ABB Ltd</td><td>Service Inbetriebnehmer (m/w/d) Mit Nationalen Und Internationalen Baustelleneinsätzen</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>ABB UK</td><td>Field Service Monteur (m/w/d) Mit Bundesweiten Baustelleneinsätzen</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Fluidmanagement (m/w/d)</td><td>Hanover</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Schönhauser Allee Berlin (m/w/d)</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Elbe Einkaufszentrum Hamburg-osdorf (m/w/d)</td><td>Hamburg</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Saarbasar Saarbrücken (m/w/d)</td><td>Saarbruecken</td><td>2026-07-19</td></tr>
+<tr><td>Capri</td><td>Sales Associate (m/d/f/v) Teilzeit</td><td>Saarbruecken</td><td>2026-07-19</td></tr>
+<tr><td>Capri</td><td>Verkaufsberater In Teilzeit (m/w/d) 12h / Woche, Kurfürstendamm - Berlin, Deutschland</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Schwabach (m/w/d)</td><td>Nuremberg</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Kurzfristige Beschäftigung - Tübingen (m/w/d)</td><td>Reutlingen</td><td>2026-07-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Ausbildung Zum Verkäufer Frische (m/w/d) 2026</td><td>Berlin</td><td>2026-07-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Frankfurt Am Main</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holzzuschnitt (gn)</td><td>Dortmund</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten - Pflanzen (gn)</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten / Pflanzen (gn) Vollzeit Oder Teilzeit</td><td>Hamburg</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben (gn)</td><td>Mannheim</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn)</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten / Hartware (gn)</td><td>Dusseldorf</td><td>2026-07-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten / Pflanzen (gn) - Befristet 3 Monate</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken</td><td>Saarbruecken</td><td>2026-07-19</td></tr>
+<tr><td>sportsconnection.dk</td><td>Köln Schildergasse - Verkäufer (m/w/d) In Teilzeit</td><td>Cologne</td><td>2026-07-19</td></tr>
+<tr><td>Skechers</td><td>Köln Schildergasse - Verkäufer (m/w/d) In Teilzeit</td><td>Cologne</td><td>2026-07-19</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Freising (20 Std)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-07-19</td></tr>
+<tr><td>aldi-sued</td><td>Minijob / Aushilfe Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-07-19</td></tr>
+<tr><td>Careers Philips</td><td>R&d Team Assisstant- 2 Jahre Befristet (all Genders)</td><td>Stuttgart</td><td>2026-07-19</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Customer Service Specialist</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Mercer</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Dusseldorf</td><td>2026-07-19</td></tr>
+<tr><td>karrierepodium.de</td><td>Marketing Communication Specialist</td><td>Germany</td><td>2026-07-19</td></tr>
+<tr><td>Vontobel</td><td>Team Assistant Private Clients (m/w/d Teilzeit)</td><td>Munich</td><td>2026-07-19</td></tr>
+<tr><td>SEDGWICK</td><td>Assistenz (w/m/d) - Home-office</td><td>Dusseldorf</td><td>2026-07-19</td></tr>
 </table>
