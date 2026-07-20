@@ -950,4 +950,69 @@
 <tr><td>karrierepodium.de</td><td>Marketing Communication Specialist</td><td>Germany</td><td>2026-07-19</td></tr>
 <tr><td>Vontobel</td><td>Team Assistant Private Clients (m/w/d Teilzeit)</td><td>Munich</td><td>2026-07-19</td></tr>
 <tr><td>SEDGWICK</td><td>Assistenz (w/m/d) - Home-office</td><td>Dusseldorf</td><td>2026-07-19</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-20</td></tr>
+<tr><td>Bosch Group</td><td>Internship Product Management Chassis</td><td>Karlsruhe</td><td>2026-07-20</td></tr>
+<tr><td>Mars</td><td>Intern Brand Marketing Gum&mints Portfolio</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>Klingele Papierwerke GmbH & Co. KG</td><td>Praktikant (m/w/d)</td><td>Grunbach</td><td>2026-07-20</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Praktikum (m/w/d) Initiativ</td><td>Schweitenkirchen</td><td>2026-07-20</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Praktikum (m/w/d) Bereich Hr</td><td>Emleben</td><td>2026-07-20</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Jahreshauptversammlung (m/w/d)</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Kinderschutz (m/w/d)</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Products & Rights (m/w/d)</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Internationaler Nachwuchsfußball (m/w/d)</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Recovery And Resolution Planning (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Corporate Design Services (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Ipo & Growth Financing Am Börsenplatz (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Regulatory Admissions & Governance (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Business Resilience (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-07-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Group Audit Development & Strategy (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Claas Inside Group Compliance</td><td>Bielefeld</td><td>2026-07-20</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kunststoff-/kautschuktechnologen (all Genders)- Start '26 - Standort Lennestadt-elspe</td><td>Lennestadt-Elspe</td><td>2026-07-20</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2026 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-07-20</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Kiel</td><td>2026-07-20</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Stuttgart</td><td>2026-07-20</td></tr>
+<tr><td>Dachser SE</td><td>Management Trainee (m/w/d) Spedition</td><td>Rottenburg Am Neckar</td><td>2026-07-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Trainee Commercial Insurance Bei Der Zurich Gruppe Deutschland (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) 2026</td><td>Schwedt</td><td>2026-07-20</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zum Fachlagerist (m/w/d) Start 2026</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zum Zerspanungsmechaniker (m/w/d) - Start 2026</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zum Präzisionswerkzeugmechaniker (m/w/d) Ausbildungsstart September 2026</td><td>Reutlingen</td><td>2026-07-20</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Abiturientenprogramm Filiale Handelsfachwirt (m/w/d) 2026</td><td>Cologne</td><td>2026-07-20</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Embedded Software Developer For The Automation Of Mobile Work Machines (f/m/div.)</td><td>Elchingen</td><td>2026-07-20</td></tr>
+<tr><td>thermofin GmbH</td><td>Bilanzbuchhalter (m/w/d)</td><td>Heinsdorfergrund</td><td>2026-07-20</td></tr>
+<tr><td>Christiana Care Home Health And Community Services Inc</td><td>Registered Nurse (rn) - Medical Telemetry - Night Shift</td><td>Newark</td><td>2026-07-20</td></tr>
+<tr><td>UPM Nordland Papier</td><td>Industriemechaniker / Mechatroniker (m/w/d) Wartung & Instandhaltung Walzenwerkstatt</td><td>DöRpen</td><td>2026-07-20</td></tr>
+<tr><td>Upmchina</td><td>Industriemechaniker / Mechatroniker (m/w/d) Wartung & Instandhaltung Walzenwerkstatt</td><td>DöRpen</td><td>2026-07-20</td></tr>
+<tr><td>BWB</td><td>Servicetechniker:in Für Kanalinspektions- Und Sanierungstechnik Im Innendienst (w/m/d)</td><td>Berlin</td><td>2026-07-20</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Anlagenmechaniker Wartung Instandhaltung Shk (m/w/d)</td><td>Germany</td><td>2026-07-20</td></tr>
+<tr><td>Webasto SE</td><td>Maintenance Technician Electrical (f/m/x)</td><td>Bayern</td><td>2026-07-20</td></tr>
+<tr><td>Bitzer SE</td><td>Mechatroniker Instandhaltung (m/w/d)</td><td>Rottenburg-Ergenzingen</td><td>2026-07-20</td></tr>
+<tr><td>Likewize</td><td>Mobile Repair Technician</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Servicetechniker International - Schwerpunkt Europa (m/w/d)</td><td>Himmelkron +1</td><td>2026-07-20</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Servicetechniker Norddeutschland Mit Kundenakquise (m/w/d)</td><td>Himmelkron</td><td>2026-07-20</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Stelle Servicetechniker Im Außendienst (m/w/d) - Region Niederrhein</td><td>Niederrhein</td><td>2026-07-20</td></tr>
+<tr><td>Carrier Global</td><td>Stelle Servicetechniker Im Außendienst (m/w/d) - Region Niederrhein</td><td>Niederrhein</td><td>2026-07-20</td></tr>
+<tr><td>Carrier</td><td>Stelle Servicetechniker Im Außendienst (m/w/d) - Region Niederrhein</td><td>Niederrhein</td><td>2026-07-20</td></tr>
+<tr><td>Sesotec GmbH</td><td>Service Technician Sorting (m/w/d)</td><td>SchöNberg</td><td>2026-07-20</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Wittstock Dosse</td><td>Finowfurt</td><td>2026-07-20</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker Qualität Betonbau & Hybridturm (m/w/d)</td><td>Rostock +1</td><td>2026-07-20</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Germany</td><td>2026-07-20</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Eggebek</td><td>Eggebek</td><td>2026-07-20</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Wartung Windenergieanlagen</td><td>Kist</td><td>2026-07-20</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-07-20</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-07-20</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Berlin</td><td>2026-07-20</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Freising</td><td>Munich</td><td>2026-07-20</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (rhein-center)</td><td>Cologne</td><td>2026-07-20</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (mülheim)</td><td>Cologne</td><td>2026-07-20</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Hamburg (bramfeld)</td><td>Hamburg</td><td>2026-07-20</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bergisch Gladbach</td><td>Cologne</td><td>2026-07-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Frankfurt Zeil (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Minijob - Frankfurt Zeil (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-20</td></tr>
+<tr><td>EndressHauser AG</td><td>Warenannehmer (w/m/d)</td><td>Maulburg</td><td>2026-07-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-07-20</td></tr>
+<tr><td>sonnen</td><td>Sustainability Specialist (m/w/d) In Teilzeit</td><td>Wildpoldsried</td><td>2026-07-20</td></tr>
+<tr><td>sonnen</td><td>Assistenz Der Geschäftsführung In Teilzeit (m/w/d)</td><td>Wildpoldsried</td><td>2026-07-20</td></tr>
+<tr><td>heidelbergmaterials.pl</td><td>Administrative Assistant / Teamassistenz Group Compliance & Data Protection (w/m/d)</td><td>Mannheim</td><td>2026-07-20</td></tr>
+<tr><td>Careers Philips</td><td>R&d Team Assistant- Befristet Auf 2 Jahre (all Genders)</td><td>Stuttgart</td><td>2026-07-20</td></tr>
 </table>
