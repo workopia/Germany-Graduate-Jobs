@@ -1015,4 +1015,86 @@
 <tr><td>sonnen</td><td>Assistenz Der Geschäftsführung In Teilzeit (m/w/d)</td><td>Wildpoldsried</td><td>2026-07-20</td></tr>
 <tr><td>heidelbergmaterials.pl</td><td>Administrative Assistant / Teamassistenz Group Compliance & Data Protection (w/m/d)</td><td>Mannheim</td><td>2026-07-20</td></tr>
 <tr><td>Careers Philips</td><td>R&d Team Assistant- Befristet Auf 2 Jahre (all Genders)</td><td>Stuttgart</td><td>2026-07-20</td></tr>
+<tr><td>RWE AG</td><td>Praktikant (d/w/m) Learning & Employee Experience</td><td>Wuppertal</td><td>2026-07-21</td></tr>
+<tr><td>Tenova S.p.A</td><td>Internship Industrial Furnaces / Plant Engineering</td><td>Dusseldorf</td><td>2026-07-21</td></tr>
+<tr><td>Coty</td><td>Intern Sales (m/w/d)</td><td>Darmstadt</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Bachelor Of Science (b.sc.) (m/w/d) Intern. Wirtschaftsinformatik (ibait) Start 2027 (star)</td><td>Mannheim</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Marketing Associate In Emarsys Integration</td><td>Berlin +1</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Sommerpraktikum Für Schüler:innen (m/w/d) Standort Markdorf 03.08 - 06.08.2026 (star)</td><td>Constance</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Quality Assurance Process And Communication Support</td><td>Mannheim</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Hcm (human Capital Management) Solution Advisory</td><td>Mannheim</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Communication For Customer Engagement Tools</td><td>St. Leon</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Diploma Student / Intern</td><td>Mannheim</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Sap Sustainability Ixp Intern (f/m/d) - Business And Human Rights</td><td>Mannheim</td><td>2026-07-21</td></tr>
+<tr><td>SAP SE</td><td>Diploma Student/intern (m/f/d) - Global Ombuds Office / Learning & Development / Conflict Management</td><td>Mannheim</td><td>2026-07-21</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Abschlussarbeit (m/w/d)</td><td>Spremberg</td><td>2026-07-21</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Hamburger Containerboard Standort Spremberg</td><td>Spremberg</td><td>2026-07-21</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Deutschland</td><td>Darmstadt</td><td>2026-07-21</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Saarland</td><td>Saarbruecken</td><td>2026-07-21</td></tr>
+<tr><td>Hitachi Rail</td><td>Praktikant/-in - Gas Life Cycle (f/m/d)</td><td>Karlstein Am Main</td><td>2026-07-21</td></tr>
+<tr><td>HITACHI ENERGY GERMANY AG</td><td>Praktikant/-in - Gas Life Cycle (f/m/d)</td><td>Karlstein Am Main</td><td>2026-07-21</td></tr>
+<tr><td>vorwerkgroup</td><td>Werkstudent People & Culture (m/w/d) (20 Std./wo.) (befr. Für 6 Monate)</td><td>Wuppertal</td><td>2026-07-21</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Corporate Finance / M&a Am Standort Frankfurt In Q1 / Q2 2027</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikum Cmc Compliance (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-07-21</td></tr>
+<tr><td>Sonymusicentertainment</td><td>Werkstudent (m/w/d) Marketing Für Die Labels Epic & Nitron</td><td>Berlin</td><td>2026-07-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant /werkstudent (m/w/d) Fendt Go-to-market - Team Logistics (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Für Das Produkt Marketing Fendtone & Smart Farming (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) In Der Entwicklung Für Den Bereich Data Processing (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-21</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Projekte & Prozesse Zahlungsservice / Finanzinstrumente</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Generalist Coo Asset Management Wertpapiere</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker (m/w/d) Für Berlin/ludwigsfelde</td><td>Genshage</td><td>2026-07-21</td></tr>
+<tr><td>Ardagh Group</td><td>Ausbildung Mechatroniker 2026 (m/w/d)</td><td>Hanover</td><td>2026-07-21</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Industriekaufmann (m/w/d) // Sindelfingen Und Rottenburg // Beginn: 09.2027</td><td>Stuttgart</td><td>2026-07-21</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachinformatiker - Systemintegration (m/w/d) // Beginn: 09.2027</td><td>Stuttgart</td><td>2026-07-21</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprentice Industrial Mechanic (m/f/d) 2026 In Eurasburg / Bavaria</td><td>Eurasburg</td><td>2026-07-21</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Dual Study Bachelor's Degree Courses Business Administration - Management In Industry 2027 (m/f/d)</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>ABB Ltd</td><td>Ausbildung Stanz- Und Umformmechaniker (m/w/d) 2026</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>ABB Ltd</td><td>Ausbildung Werkzeugmechaniker/in (m/w/d) -2026</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Auszubildende Zum Elektroniker 2026 (m/w/d)</td><td>Bad Berneck</td><td>2026-07-21</td></tr>
+<tr><td>Chart Industries Inc</td><td>Apprentice Production Assembler</td><td>Gablingen</td><td>2026-07-21</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt</td><td>Freistatt</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) München (pasing)</td><td>Munich</td><td>2026-07-21</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Hanover</td><td>2026-07-21</td></tr>
+<tr><td>Thales Group</td><td>It Office Support Engineer (w/m/d)</td><td>Berlin</td><td>2026-07-21</td></tr>
+<tr><td>Thales Group</td><td>Embedded Software Engineer (m/f/d) Ai & Rapid Prototyping</td><td>Stuttgart</td><td>2026-07-21</td></tr>
+<tr><td>Thales Group</td><td>Embedded Software Engineer (m/f/d) Gpu & Edge Ai Signal Processing</td><td>Stuttgart</td><td>2026-07-21</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Produkte Private Altersvorsorge Und Vermögensaufbau</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Depotservice</td><td>Nach Standort Suchen</td><td>2026-07-21</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Functional Analyst - D7 Platform (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>Jobgether</td><td>Accounting Associate(appfolio)</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>Salzgitter AG</td><td>Spezialist Vertriebssteuerung Data Analytics & Edi (m/w/d)</td><td>Dusseldorf</td><td>2026-07-21</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-07-21</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-07-21</td></tr>
+<tr><td>Oerlikon</td><td>Mechatroniker (gn) Instandhaltung</td><td>Barchfeld</td><td>2026-07-21</td></tr>
+<tr><td>Altra Industrial Motion Corp</td><td>Mechatroniker (m/w/d)</td><td>Waldenburg</td><td>2026-07-21</td></tr>
+<tr><td>381</td><td>Servicetechniker (m/w/d)</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>Klckner Pentaplast Group</td><td>Schicht-industrieelektroniker (m/w/d)</td><td>Gendorf</td><td>2026-07-21</td></tr>
+<tr><td>KNDS Group</td><td>Industriemechaniker/in (m/w/d)</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>KNDS Group</td><td>Service-techniker (m/w/d) Simulatoren</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>KNDS Group</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>TE Connectivity</td><td>Maintenance Mechanic (m,f,d)</td><td>Ottobrunn</td><td>2026-07-21</td></tr>
+<tr><td>JYSK</td><td>Betriebstechniker:in (m/w/d)</td><td>Zarrentin Am Schaalsee</td><td>2026-07-21</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Nordhorn (m/w/d)</td><td>Munster</td><td>2026-07-21</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Siegburg (m/w/d)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Kurzfristige Beschäftigung - Siegburg (m/w/d)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Quarree Wandsbek Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarbrücken</td><td>Saarbruecken</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Warenverräumer (m/w/d), Aushilfe, Osterode</td><td>Osterode</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (hbf)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d, Teilzeit, Saarlouis</td><td>Saarbruecken</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Köln (frankfurter Str.)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Bergisch Gladbach</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, München (schwabach)</td><td>Munich</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Leverkusen (opladen)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Bonn (innenstadt)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Bonn (beuel)</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Siegburg</td><td>Cologne</td><td>2026-07-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Frankfurt (nordwestzentrum)</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Underwriting Service Specialist Haftpflicht Industriekunden (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
+<tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Administrative Assistant - Itsdc (proby)</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Secretaria Ejecutiva</td><td>Germany</td><td>2026-07-21</td></tr>
 </table>
