@@ -1097,4 +1097,49 @@
 <tr><td>Zurich Insurance UK</td><td>Underwriting Service Specialist Haftpflicht Industriekunden (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-21</td></tr>
 <tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Administrative Assistant - Itsdc (proby)</td><td>Germany</td><td>2026-07-21</td></tr>
 <tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Secretaria Ejecutiva</td><td>Germany</td><td>2026-07-21</td></tr>
+<tr><td>My Jewellery</td><td>Verkaufstalent Berlin (m/w/d)</td><td>Berlin</td><td>2026-07-22</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Innovation Management - Garage For Tax & Legal (m/w/d)</td><td>Dusseldorf</td><td>2026-07-22</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Internationale Mitarbeiterentsendung - Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-07-22</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fsi - Managementberatung Regionalbanken (m/w/d)</td><td>Hamburg</td><td>2026-07-22</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent It-audit - Financial Services (m/w/d)</td><td>Frankfurt (Main) +3</td><td>2026-07-22</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Resource Management (m/w/d)</td><td>Frankfurt (Main) +5</td><td>2026-07-22</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Government & Finance Support Public Services (m/w/d)</td><td>Frankfurt (Main)</td><td>2026-07-22</td></tr>
+<tr><td>224</td><td>Praktikant Human Resources – Business Partner Coo, Cio & Wb (w/m/d) In Frankfurt / Nürnberg</td><td>Frankfurt Am Main</td><td>2026-07-22</td></tr>
+<tr><td>itinfinance.nl</td><td>Praktikant Human Resources – Business Partner Coo, Cio & Wb (w/m/d) In Frankfurt / Nürnberg</td><td>Frankfurt Am Main</td><td>2026-07-22</td></tr>
+<tr><td>MEGA eG</td><td>Kaufmännisches Praktikum Mega Gruppe</td><td>Germany</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Tagesmagazine Berlin</td><td>Berlin</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*in Logo! (2. Quartal 2027)</td><td>Darmstadt</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Nano</td><td>Darmstadt</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Red. Religion Und Leben</td><td>Darmstadt</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*in Team Pur+</td><td>Darmstadt</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Hr Fernsehfilm/serie Ii</td><td>Darmstadt</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Sachsen</td><td>Dresden</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*innen Gf Nrw</td><td>Dusseldorf</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Nordrhein-westfalen</td><td>Dusseldorf</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Niedersachsen</td><td>Hanover</td><td>2026-07-22</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Baden-württemberg</td><td>Stuttgart</td><td>2026-07-22</td></tr>
+<tr><td>RWE AG</td><td>Praktikum / Werkstudent Im Betriebsrat D/w/m</td><td>Wuppertal</td><td>2026-07-22</td></tr>
+<tr><td>RWE AG</td><td>Werkstudent Gaskraftwerk Biblis D/w/m</td><td>Mannheim</td><td>2026-07-22</td></tr>
+<tr><td>RWE AG</td><td>Praktikum Personaldiagnostik (ab August) Im Bereich Transformation D/w/m</td><td>Wuppertal</td><td>2026-07-22</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Ausbildung 2026 - Fachlagerist / Fachkraft Für Lagerlogistik (m/w/d)</td><td>Sch Nberg</td><td>2026-07-22</td></tr>
+<tr><td>KNDS Group</td><td>*2027* Ausbildung Zum Industriekaufmann (m/w/d)</td><td>Germany</td><td>2026-07-22</td></tr>
+<tr><td>HARTMANN</td><td>Auszubildender (w/m/d) Zur Fachkraft Für Lagerlogistik Standort Brück (start 2026)</td><td>Munich</td><td>2026-07-22</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachkraft Für Lagerlogistik (m/w/d) // Rottenburg // Beginn: 09.2027</td><td>Reutlingen</td><td>2026-07-22</td></tr>
+<tr><td>Bosch Group</td><td>Embedded Softwareentwickler Für Die Automatisierung Mobiler Arbeitsmaschinen (w/m/div.)</td><td>Elchingen</td><td>2026-07-22</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>It-fachberater Als Spezialist It Field Service & Agentursupport (m/w/d)</td><td>Region/Land</td><td>2026-07-22</td></tr>
+<tr><td>Aareon</td><td>Specialist Accounting & Reporting (m/w/d)</td><td>Germany</td><td>2026-07-22</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-07-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-07-22</td></tr>
+<tr><td>Arkema France</td><td>Industriemechaniker Instandhaltung / Industrial Mechanic (maintenance) (m/w/d)</td><td>Albertshausen</td><td>2026-07-22</td></tr>
+<tr><td>Oerlikon</td><td>Servicetechniker (gn)</td><td>Freiburg Im Breisgau</td><td>2026-07-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dusseldorf</td><td>2026-07-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-07-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-07-22</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Karlstadt Am Main (28 Std)</td><td>Wurzburg</td><td>2026-07-22</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH</td><td>Verkaufsberater (m/w/d) In Teilzeit</td><td>Cologne</td><td>2026-07-22</td></tr>
+<tr><td>Deckers</td><td>Sales Associate / Verkaufsmitarbeiter (m/w/d) In Teilzeit (8-24 Std./woche) – Hoka, Kudamm</td><td>Berlin</td><td>2026-07-22</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Frankfurt Konstablerwache (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-22</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-07-22</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Buchholz (m/w/d)</td><td>Hamburg</td><td>2026-07-22</td></tr>
+<tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Administrative Assistant</td><td>Germany</td><td>2026-07-22</td></tr>
 </table>
