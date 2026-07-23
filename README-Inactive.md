@@ -1142,4 +1142,61 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-07-22</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Buchholz (m/w/d)</td><td>Hamburg</td><td>2026-07-22</td></tr>
 <tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Administrative Assistant</td><td>Germany</td><td>2026-07-22</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Praktikant (m/w/d) Im Strategischen Einkauf</td><td>Stuttgart</td><td>2026-07-23</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Controlling</td><td>Constance</td><td>2026-07-23</td></tr>
+<tr><td>CLAAS</td><td>Praktikum / Abschlussarbeit Im Entwicklungsbereich Für Den Xerion</td><td>Bielefeld</td><td>2026-07-23</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Claas Inside Group Compliance</td><td>Bielefeld</td><td>2026-07-23</td></tr>
+<tr><td>CLAAS E-Systems GmbH</td><td>Claas Inside Web User Interface</td><td>Dissen Am Teutoburger Wald</td><td>2026-07-23</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Im Bereich Digital Channels & Ai Solutions</td><td>Herzebrock</td><td>2026-07-23</td></tr>
+<tr><td>Festo</td><td>Praktikum In Der Logistik</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-07-23</td></tr>
+<tr><td>Pfeifer Holz GmbH & Co KG</td><td>Praktikant (m/w/d)</td><td>Unterbernbach</td><td>2026-07-23</td></tr>
+<tr><td>Hollister Incorporated</td><td>Praktikant Marketing (m/w/d)</td><td>Munich</td><td>2026-07-23</td></tr>
+<tr><td>AGCO</td><td>Praktikant/werkstudent (m/w/d) Für Den Bereich Recht Und Compliance (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-23</td></tr>
+<tr><td>AGCO</td><td>Werkstudent/praktikant (m/w/d) Fendt Product Und Pricing Traktoren & Fendtone (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-23</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-23</td></tr>
+<tr><td>AGCO</td><td>Praktikant /werkstudent (m/w/d) Fendt Go-to-market - Team Logistics (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-23</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-23</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Für Das Produkt Marketing Fendtone & Smart Farming (wise 26/27)</td><td>Kempten Allgau</td><td>2026-07-23</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-07-23</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Versuch E-komponente (d/m/w)</td><td>Karlsruhe</td><td>2026-07-23</td></tr>
+<tr><td>Recordati Industria Chimica e Farmaceutica S.p.A</td><td>Werkstudent/in Otc Marketing (w/m/d)</td><td>Ulmer Oststadt</td><td>2026-07-23</td></tr>
+<tr><td>Barilla Group</td><td>Praktikum Im Trade Marketing - Barilla Pesto</td><td>Cologne</td><td>2026-07-23</td></tr>
+<tr><td>Voith</td><td>Internship (m/f/d) - Central Technology Tools Automation</td><td>Heidenheim</td><td>2026-07-23</td></tr>
+<tr><td>Excelitas Technologies Corporation</td><td>Working Student / Intern (f/m/d) Human Resources</td><td>Munich</td><td>2026-07-23</td></tr>
+<tr><td>EY</td><td>Ey-parthenon Praktikant Sports Industry Group - Strategy And Execution (w/m/d)</td><td>MüNchen +1</td><td>2026-07-23</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Logistik (supply Chain Management) (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-23</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-07-23</td></tr>
+<tr><td>Kws Group</td><td>Intern Ifrs & Group Accounting (m/w/d)</td><td>Berlin</td><td>2026-07-23</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Customer Marketing - Fokus Channel Marketing (m/w/d)</td><td>Munich</td><td>2026-07-23</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Marketing- Licensing (m/w/d)</td><td>Germany</td><td>2026-07-23</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship It Training @ It Strategy & Transformation Management (m/f/d)</td><td>Reutlingen</td><td>2026-07-23</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Collection Management & Design - Hugo Womenswear (m/f/d)</td><td>Reutlingen</td><td>2026-07-23</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship People Development (m/f/d)</td><td>Reutlingen</td><td>2026-07-23</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Hochschulpraktikum Im Bereich Parken Und Mobilität - Business Development</td><td>Frankfurt Am Main</td><td>2026-07-23</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Im Bereich Aviation Corporate Security - Qualitätsmanagement</td><td>Frankfurt Am Main</td><td>2026-07-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Human Capital (m/w/d)</td><td>Berlin</td><td>2026-07-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Working Student Startup Intelligence - 27pilots (m/w/d)</td><td>MüNchen +1</td><td>2026-07-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Turnaround & Restructuring - Performance Improvement (m/w/d)</td><td>Dusseldorf</td><td>2026-07-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Risk & Compliance - Manufacturing / Automotive (m/w/d)</td><td>Stuttgart</td><td>2026-07-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Public Sector - Defense (m/w/d)</td><td>Berlin</td><td>2026-07-23</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-07-23</td></tr>
+<tr><td>Oerlikon</td><td>Auszubildender Maschinen & Anlagenführer (gn)</td><td>WöRnitz</td><td>2026-07-23</td></tr>
+<tr><td>ElringKlinger Ltd</td><td>Auszubildenden Zum Mechatroniker (m/w/d) / Ausbildungsbeginn: 01.09.2026</td><td>Reutlingen</td><td>2026-07-23</td></tr>
+<tr><td>adesso-group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-07-23</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Engineer Für Autonome Systeme</td><td>Munich</td><td>2026-07-23</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d)</td><td>Germany</td><td>2026-07-23</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Und Bankfachlicher Designer (w/m/d) Retail-depotplattform</td><td>Germany</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Bremen</td><td>Bremen</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Düsseldorf / Neuss</td><td>Dusseldorf</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Bergisch Gladbach / Lohmar / Lindlar</td><td>Cologne</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Großraum Neuss</td><td>Dusseldorf</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-07-23</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Rottenburg An Neckar / Tübingen</td><td>Rottenburg Am Neckar +1</td><td>2026-07-23</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lagertätigkeit (m/w/d) – Berlin-pankow (20 Std)</td><td>Berlin</td><td>2026-07-23</td></tr>
+<tr><td>jobs.abbott</td><td>Studentische Aushilfe Kaufmännische Assistenz (m/w/d)</td><td>Hamburg</td><td>2026-07-23</td></tr>
 </table>
