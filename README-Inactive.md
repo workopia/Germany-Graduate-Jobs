@@ -1319,4 +1319,135 @@
 <tr><td>Villeroy & Boch</td><td>Weihnachtsaushilfe Verkauf (m/w/d) Auf Minijob-basis In Köln</td><td>Cologne</td><td>2026-07-24</td></tr>
 <tr><td>sonnen</td><td>Sustainability Specialist (m/w/d) In Teilzeit</td><td>Wildpoldsried</td><td>2026-07-24</td></tr>
 <tr><td>sonnen</td><td>Assistenz Der Geschäftsführung In Teilzeit (m/w/d)</td><td>Wildpoldsried</td><td>2026-07-24</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Praktikum (d/m/w) Im Bereich Produktion Faserverbund/composites</td><td>Augsburg</td><td>2026-07-25</td></tr>
+<tr><td>SIXT</td><td>Praktikant Controlling (m/w/d) Vollzeit</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Internship In International Product Management</td><td>Leinfelden</td><td>2026-07-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Internationalen Produktmanagement</td><td>Leinfelden</td><td>2026-07-25</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Praktikant (m/w/d) Im Strategischen Einkauf</td><td>Stuttgart</td><td>2026-07-25</td></tr>
+<tr><td>beeline GmbH</td><td>Praktikant Hr Talent Acquisition (w/m/d), Pflichtpraktikum</td><td>Cologne</td><td>2026-07-25</td></tr>
+<tr><td>Kws Group</td><td>Internship (m/f/d) - Unsolicited Application</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Kws Group</td><td>Praktikant (m/w/d) - Initiativbewerbung</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Kws Group</td><td>Intern Ifrs & Group Accounting (m/w/d)</td><td>Berlin +1</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Design Boss Menswear Clothing (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship It Project Management - Focus Pmo & Agile (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Praktikum Unlocking Ai With Copilot (m/w/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Design Boss Black Mw Woven,outerwear & Leather Garments (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Concept Design Boss Womenswear (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Concept Design Boss Menswear Black And Camel (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Process Excellence (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship It Finance & Controlling (fi/co) (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Praktikum Global Content Production (m/w/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Merchandise Planning (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Global Collaborations (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Product Management In-season Response (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Design Boss Mw Smart Casual Jersey (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Creative Content Design & Corporate Channels (m/f/d)</td><td>Reutlingen</td><td>2026-07-25</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bünde</td><td>Bielefeld</td><td>2026-07-25</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bevern</td><td>Bevern</td><td>2026-07-25</td></tr>
+<tr><td>AptarGroup</td><td>Praktika / Abschlussarbeiten (bachelor/master) Bei Der Aptar Freyung Gmbh</td><td>Freyung</td><td>2026-07-25</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Kindergarten St. Michael Peiting</td><td>Kempten Allgau</td><td>2026-07-25</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Jahreshauptversammlung (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Kinderschutz (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Products & Rights (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Internationaler Nachwuchsfußball (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum News-redakteur Text (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Tagesmagazine Berlin</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Red. Religion Und Leben</td><td>Darmstadt</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Sachsen</td><td>Dresden</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Nordrhein-westfalen</td><td>Dusseldorf</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Niedersachsen</td><td>Hanover</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Baden-württemberg</td><td>Stuttgart</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Deutschland</td><td>Darmstadt</td><td>2026-07-25</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*in Team Pur+</td><td>Darmstadt</td><td>2026-07-25</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2026 - Standort Niederwinkling</td><td>Niederwinkling</td><td>2026-07-25</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Berufskraftfahrer (all Genders) - Start 08/2026 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-07-25</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>SKF Group</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>JYSK</td><td>Filialleiter/in Trainee (m/w/d) - Isernhagen</td><td>Isernhagen</td><td>2026-07-25</td></tr>
+<tr><td>JYSK</td><td>Filialleiter/in Trainee (m/w/d) - Leer</td><td>Leer (Ostfriesland)</td><td>2026-07-25</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Celle</td><td>Hanover</td><td>2026-07-25</td></tr>
+<tr><td>Rewe Group</td><td>Trainee (m/w/d) Zum/zur Selbstständigen Rewe-kaufmann/-frau</td><td>Frankfurt Am Main</td><td>2026-07-25</td></tr>
+<tr><td>ABB UK</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>ABB Inc</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>ABB UK</td><td>Ausbildung Werkzeugmechaniker/in (m/w/d) -2026</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>ABB UK</td><td>Ausbildung Stanz- Und Umformmechaniker/in 2026</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>KNDS Group</td><td>Softwareentwickler Schwerpunkt Anwendungsentwicklung (m/w/d)</td><td>Constance</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Fullstack Engineer</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>Bosch Group</td><td>Softwareentwickler & Applikateur Für Kamera- Und Umfeldsensoriksysteme (w/m/div.)</td><td>Elchingen</td><td>2026-07-25</td></tr>
+<tr><td>Danaher Corp</td><td>Java Software Engineer</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Wolters Kluwer N.V</td><td>Backend Product Software Engineer (go)</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>s-management-services.de</td><td>Java Softwareentwickler (m/w/d)</td><td>Stuttgart</td><td>2026-07-25</td></tr>
+<tr><td>s-management-services.de</td><td>It-service-desk-mitarbeiter (m/w/d)</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>kanzlei-stellenmarkt.de</td><td>Mitarbeiter It-support (m/w/d)</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Sachbearbeiter Finanzbuchhaltung (m/w/d)</td><td>Selbin</td><td>2026-07-25</td></tr>
+<tr><td>Liebherr-IT Services GmbH</td><td>It Business Partner Finance & Controlling (m/f/d)</td><td>Oberopfingen</td><td>2026-07-25</td></tr>
+<tr><td>Danfoss AS</td><td>Service Engineer (m/f/d)</td><td>Offenbach Am Main</td><td>2026-07-25</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Freital Und Umgebung (dresden)</td><td>Genshagen</td><td>2026-07-25</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Soltau / Lüneburg Und Umgebung</td><td>Hanover</td><td>2026-07-25</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Für Heizung / Wärmepumpen In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-07-25</td></tr>
+<tr><td>Scania CV AB</td><td>Servicetechniker (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>SSI Schaefer</td><td>Instandhalter - Grafschaft (w/m/d)</td><td>Giebelstadt</td><td>2026-07-25</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-07-25</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-07-25</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-07-25</td></tr>
+<tr><td>Magna</td><td>Instandhalter (m/w/x)</td><td>Elsendorf</td><td>2026-07-25</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Instandhalter (m/w/x)</td><td>Elsendorf</td><td>2026-07-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Kundendiensttechniker Raum Stralsund/greifswald (w/m/div.)</td><td>Neubrandenburg</td><td>2026-07-25</td></tr>
+<tr><td>Free2move</td><td>Operations Service Technician</td><td>Dusseldorf</td><td>2026-07-25</td></tr>
+<tr><td>cflex</td><td>Industriemechaniker*in Für Den Bereich Instandhaltung (m/w/d)</td><td>Pirk</td><td>2026-07-25</td></tr>
+<tr><td>Arkema S.A.</td><td>Industriemechaniker Instandhaltung / Industrial Mechanic (maintenance) (m/w/d)</td><td>Albertshausen</td><td>2026-07-25</td></tr>
+<tr><td>Salzgitter AG</td><td>Servicetechniker Sicherheitstechnik (w/m/d) In Hamburg</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Service-monteur (m/w/d) Powergen Datacenter Frankfurt Elektronik</td><td>Frankfurt Am Main</td><td>2026-07-25</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>Mechatroniker/elektroniker Als Servicetechniker Für Aufzüge (m/w/d) Berlin-brandenburg</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>diversey.cz</td><td>Servicetechniker Im Außendienst (m/w/d)</td><td>Nordrhein-Westfalen</td><td>2026-07-25</td></tr>
+<tr><td>Diversey Com Hr</td><td>Servicetechniker Im Außendienst (m/w/d)</td><td>Nordrhein-Westfalen</td><td>2026-07-25</td></tr>
+<tr><td>diversey.si</td><td>Servicetechniker Im Außendienst (m/w/d)</td><td>Nordrhein-Westfalen</td><td>2026-07-25</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Maintenance For Wind Turbines In Templin</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Prenzlau</td><td>Prenzlau</td><td>2026-07-25</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Hv For Wind Turbines In Greifswald</td><td>Greifswald</td><td>2026-07-25</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker / Elektriker - Bereich Instandhaltung</td><td>ÜBach</td><td>2026-07-25</td></tr>
+<tr><td>2009 Schonmackers Umweltdienste GmbH</td><td>Anlagenmechaniker (m/w/d)</td><td>DüSseldorf-Reisholz</td><td>2026-07-25</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-07-25</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-07-25</td></tr>
+<tr><td>Vonovia SE</td><td>Servicetechniker (m/w/d) Wasserschäden / Trocknung</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker Shk Für Kundendienst Und Wartung - München (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Pfeifer Holz GmbH & Co KG</td><td>Industriemechaniker/ Betriebsschlosser (m/w/d) Unbefristet</td><td>Unterbernbach</td><td>2026-07-25</td></tr>
+<tr><td>E.ON SE</td><td>Elektroniker / Mechatroniker - Netzbetrieb Strom (m/w/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker (m/w/d) Batterie-speichersysteme</td><td>Ulm</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau</td><td>Schockau</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker Armaturen (m/w/d)</td><td>Schkopau</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Neukieritzsch</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Frankfurt Am Main</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Mechatroniker Druckluft/kälte (m/w/d)</td><td>Neukieritzsch</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Rga/sme)</td><td>Rosengarten</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschland</td><td>Buseck</td><td>2026-07-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Buseck</td><td>2026-07-25</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Bereich Großreparatur</td><td>Dusseldorf</td><td>2026-07-25</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Augsburg / München</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Bitzer SE</td><td>Mechatroniker Instandhaltung (m/w/d)</td><td>Rottenburg - Ergenzingen</td><td>2026-07-25</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Servicemonteur (m/w/d)</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)</td><td>Hanover</td><td>2026-07-25</td></tr>
+<tr><td>Micron</td><td>It Field Service Tech (m/f/d)</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Clariant International</td><td>Techniker*in Mechanik</td><td>Gendorf</td><td>2026-07-25</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Mechaniker / Anlagenbediener (m/w/d)</td><td>Emleben</td><td>2026-07-25</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-07-25</td></tr>
+<tr><td>DHL Group</td><td>Elektroniker / Mechatroniker (m/w/d)</td><td>Saulheim</td><td>2026-07-25</td></tr>
+<tr><td>Bosch Group</td><td>Elektroniker / Sicherheitstechniker Für Ela/saa - Gebiet Hannover/hildesheim/braunschweig (w/m/div.)</td><td>Isernhagen</td><td>2026-07-25</td></tr>
+<tr><td>Bosch Group</td><td>Elektroniker / Sicherheitstechniker – Gebiet Herrenberg/reutlingen (w/m/div.)</td><td>Stuttgart</td><td>2026-07-25</td></tr>
+<tr><td>SIXT</td><td>Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Mannheim</td><td>2026-07-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Marktplatz Galerie Hamburg-bramfeld (m/w/d)</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Spitalerstraße Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Lager (minijobber/in) (m/w/d) - Reinbek</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>ZG Raiffeisen</td><td>Verkäufer (m/w/d) Garten Und Pflanzen</td><td>Constance</td><td>2026-07-25</td></tr>
+<tr><td>Orthopedicjobs</td><td>Warehouse Associate I (grecia, Manufacturing Site)</td><td>Grecia</td><td>2026-07-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Mannheim (m/w/d)</td><td>Mannheim</td><td>2026-07-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Minijob - Nürnberg (m/w/d)</td><td>Nuremberg</td><td>2026-07-25</td></tr>
+<tr><td>Capri</td><td>Michael Kors Munich Flagship - Lagerist (m/w/d) In Teilzeit Für 20h/woche – München, Deutschland</td><td>Munich</td><td>2026-07-25</td></tr>
+<tr><td>Alle Stellenangebote</td><td>Assistenz Produktions- Und Betriebsbüro (m/w/d)</td><td>Berlin</td><td>2026-07-25</td></tr>
+<tr><td>RTX (Raytheon Technologies)</td><td>Teamassistenz Business Support (m/f/d)</td><td>Mannheim</td><td>2026-07-25</td></tr>
+<tr><td>Pfh</td><td>Stock Coordinator Hamburg Alte Post Tommy Hilfiger (m/w/d)</td><td>Hamburg</td><td>2026-07-25</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Koordinator (m/w/d) Logistik & Versand - Befristet Für 12 Monate</td><td>Germany</td><td>2026-07-25</td></tr>
 </table>
