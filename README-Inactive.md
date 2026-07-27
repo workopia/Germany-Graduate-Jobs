@@ -1617,4 +1617,101 @@
 <tr><td>Howden Deutschland AG</td><td>Hr Specialist Personalentwicklung & Ausbildung (m/w/d)</td><td>Munich</td><td>2026-07-26</td></tr>
 <tr><td>Dun & Bradstreet</td><td>Finance Coordinator M/f/d (r-19501)</td><td>Frankfurt Am Main</td><td>2026-07-26</td></tr>
 <tr><td>karriere-im-postbank-filialvertrieb.de</td><td>Personal Assistant (d/m/w)</td><td>Germany</td><td>2026-07-26</td></tr>
+<tr><td>ChurchDesk GmbH</td><td>Support Specialist</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>Kws Group</td><td>Internship (m/f/d) - Unsolicited Application</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Haus Für Kinder Isardamm</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Hpt Josefine-kramer</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>RWE AG</td><td>Praktikum Personaldiagnostik (ab August) Im Bereich Transformation D/w/m</td><td>Wuppertal</td><td>2026-07-27</td></tr>
+<tr><td>RWE AG</td><td>Praktikant (d/w/m) Learning & Employee Experience</td><td>Wuppertal</td><td>2026-07-27</td></tr>
+<tr><td>RWE AG</td><td>Praktikum / Werkstudent Im Betriebsrat D/w/m</td><td>Wuppertal</td><td>2026-07-27</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Customer Marketing - Fokus Channel Marketing (m/w/d)</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Taff (m/w/d)</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Tv-produktion Magazine & News (m/w/d)</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Galileo (m/w/d)</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum News-redakteur Text (m/w/d)</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Business Process Management Und Ai</td><td>Frankfurt Am Main</td><td>2026-07-27</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Im Bereich Vip-services Mit Schwerpunkt Marketing & Eventmanagement</td><td>Frankfurt Am Main</td><td>2026-07-27</td></tr>
+<tr><td>Hager Group</td><td>Corporate Sustainability Intern (m/f/d)</td><td>Saarbruecken</td><td>2026-07-27</td></tr>
+<tr><td>COTY Inc</td><td>Working Student/intern Marketing (m/w/d)</td><td>Darmstadt +2</td><td>2026-07-27</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-07-27</td></tr>
+<tr><td>ING Group</td><td>Praktikant Marketing & Kommunikation – Engineering & Reliability (w/m/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>www.think-ing.de</td><td>Praktikant Marketing & Kommunikation – Engineering & Reliability (w/m/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-07-27</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-07-27</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kaufmann (all Genders) Speditions-/logistikdienstl. - Start 08/2026 - Standort Ennest</td><td>Attendorn-Ennest</td><td>2026-07-27</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2027 Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-07-27</td></tr>
+<tr><td>vorwerkgroup</td><td>Ausbildung 2026 Industrieelektriker (m/w/d)</td><td>Wuppertal</td><td>2026-07-27</td></tr>
+<tr><td>Salzgitter AG</td><td>Ausbildung Industriemechaniker 2026 (w/m/d)</td><td>Fridingen</td><td>2026-07-27</td></tr>
+<tr><td>Benteler Group</td><td>Ausbildung Zum Industriemechaniker (m/w/d) - Start 2027</td><td>Lichtenau-Kleinenberg +1</td><td>2026-07-27</td></tr>
+<tr><td>aeg-powertools.eu</td><td>Sales Trainee Milwaukee (w/m/d) Im Außendienst - Mitteldeutschland</td><td>Mitteldeutschland</td><td>2026-07-27</td></tr>
+<tr><td>tti-careers.eu</td><td>Sales Trainee Milwaukee (w/m/d) Im Außendienst - Mitteldeutschland</td><td>Mitteldeutschland</td><td>2026-07-27</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Generalist Coo Asset Management Wertpapiere</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Projekte & Prozesse Zahlungsservice / Finanzinstrumente</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>ALTANA AG</td><td>Ausbildung Zum Industriekaufmann (m/w/d) - Start 2027</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>ALTANA AG</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Start 2027</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>ALTANA AG</td><td>Ausbildung Zum Lacklaboranten (m/w/d) Start 2027</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Abiturientenprogramm: Ausbildung Zum Kaufmann Im Einzelhandel Und Handelsfachwirt (gn) Für 2026</td><td>Vogelsdorf</td><td>2026-07-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Trainee Zum Bereichsleiter Markt (gn)</td><td>Jena Lobeda</td><td>2026-07-27</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Finanzen - Controlling, Accounting, Regulatory Reporting & Steuern (m/w/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Credit Risk Management (m/w/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>bayernlb</td><td>Allgemeines Traineeprogramm (m/w/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Fachkraft Lagerlogistik (m/w/d) 2026 Für München/oberschleißheim</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>Clariant International</td><td>Ausbildungsplatz Chemielaborant (m/w/d) Am Standort Heufeld</td><td>Heufeld</td><td>2026-07-27</td></tr>
+<tr><td>adesso-group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-07-27</td></tr>
+<tr><td>ElringKlinger Ltd</td><td>Auszubildenden Zum Kunststoff- Und Kautschuktechnologe (m/w/d) / Ausbildungsbeginn: 01.09.2026</td><td>Reutlingen</td><td>2026-07-27</td></tr>
+<tr><td>ElringKlinger Ltd</td><td>Auszubildenden Zum Werkzeugmechaniker (m/w/d) / Ausbildungsbeginn: 01.09.2027</td><td>Reutlingen</td><td>2026-07-27</td></tr>
+<tr><td>ElringKlinger Ltd</td><td>Auszubildenden Zum Kunststoff- Und Kautschuktechnologe (m/w/d) / Ausbildungsbeginn: 01.09.2027</td><td>Reutlingen</td><td>2026-07-27</td></tr>
+<tr><td>ElringKlinger Group</td><td>Auszubildenden Zum Kunststoff- Und Kautschuktechnologe (m/w/d) / Ausbildungsbeginn: 01.09.2026</td><td>Reutlingen</td><td>2026-07-27</td></tr>
+<tr><td>Hitachi Rail GTS</td><td>Werkstudent Im Bereich Bedienoberflächenentwicklung (m/w/d)</td><td>Stuttgart</td><td>2026-07-27</td></tr>
+<tr><td>SYCOR GmbH</td><td>Werkstudent - Service Desk Sap Managed Services (m/w/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python - Container Images</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Bilanzbuchhalter (w/m/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Betriebsarzt/facharzt (d/m/w) Für Arbeitsmedizin Am Standort Bremen</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>Seqirus</td><td>Center Arzt Bremen City (m/w/x)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>Parexel</td><td>Associate Clinical Research Physician</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>ICON plc</td><td>Site Management Associate</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>ukdd</td><td>Pflegefachkraft (m/w/d) Im Interdisziplinären Einsatz (diabetologie &amp; Op)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>ukdd</td><td>Pflegefachkraft (m/w/d) In Anerkennung</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Century Center / CSL Plasma GmbH</td><td>Center Arzt Bremen City (m/w/x)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>Century Center / CSL Plasma GmbH</td><td>Center Arzt Bremen Weserpark (m/w/d)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>Century Center / CSL Plasma GmbH</td><td>Center Arzt Hamburg (m/w/x)</td><td>Hamburg</td><td>2026-07-27</td></tr>
+<tr><td>CSL SEQIRUS</td><td>Center Arzt Bremen City (m/w/x)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>CSL Plasma GmbH</td><td>Center Arzt Bremen City (m/w/x)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>CSL SEQIRUS</td><td>Center Arzt Hamburg (m/w/x)</td><td>Hamburg</td><td>2026-07-27</td></tr>
+<tr><td>CSL BEHRING</td><td>Center Arzt Bremen Weserpark (m/w/d)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>CSL BEHRING</td><td>Center Arzt Bremen City (m/w/x)</td><td>Bremen</td><td>2026-07-27</td></tr>
+<tr><td>CSL BEHRING</td><td>Center Arzt Hamburg (m/w/x)</td><td>Hamburg</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Pflegefachkraft (w/m/d) Für Die Abteilung Innere Medizin</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Generalistischen Ausbildung Zur/zum Pflegefachfrau/ Pflegefachmann (w/m/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Ausbildung Pflegefachmann (w/m/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Mfa (w/m/d) In Der Pflege Für Die Neurologie</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Ausbildung Als Pflegefachfrau/-mann</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Generalistische Ausbildung Zur/zum Pflegefachfrau/pflegefachmann (w/m/d)</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>der Stiftung kreuznacher diakonie</td><td>Pflegefachkraft (w/m/d) Für Die Gynäkologie</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Elektroniker (m/w/d) Instandhaltung</td><td>Obersontheim</td><td>2026-07-27</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Tbd</td><td>2026-07-27</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Region Rostock</td><td>Tbd</td><td>2026-07-27</td></tr>
+<tr><td>Oerlikon</td><td>Mechatroniker (gn) Instandhaltung</td><td>Barchfeld</td><td>2026-07-27</td></tr>
+<tr><td>Oerlikon</td><td>Servicetechniker (gn)</td><td>Freiburg Im Breisgau</td><td>2026-07-27</td></tr>
+<tr><td>TE Connectivity</td><td>Maintenance Mechanic (m,f,d)</td><td>Ottobrunn</td><td>2026-07-27</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker Qualität Betonbau & Hybridturm (m/w/d)</td><td>Rostock +1</td><td>2026-07-27</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Eggebek</td><td>Eggebek</td><td>2026-07-27</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Wartung Windenergieanlagen</td><td>Kist</td><td>2026-07-27</td></tr>
+<tr><td>Webasto SE</td><td>Maintenance Technician Electrical (f/m/x)</td><td>Bayern</td><td>2026-07-27</td></tr>
+<tr><td>Bitzer SE</td><td>Mechatroniker Instandhaltung (m/w/d)</td><td>Rottenburg-Ergenzingen</td><td>2026-07-27</td></tr>
+<tr><td>Bilfinger SE</td><td>Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker (m/w/d) Instandhaltung - Getriebe, Motoren & Pumpen</td><td>Germany</td><td>2026-07-27</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer (m/w/d) Im Store Frankfurt-hessen Center (20 Std./wo)</td><td>Frankfurt Am Main</td><td>2026-07-27</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)</td><td>Munich</td><td>2026-07-27</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) Befristet - Fo Zweibrücken</td><td>Saarbruecken</td><td>2026-07-27</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-07-27</td></tr>
+<tr><td>Ssp Group</td><td>Verkäufer Bäckerei (m/w/d) - Kamps Hbf Berlin (25024)</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>SSP Group plc</td><td>Verkäufer Bäckerei (m/w/d) - Kamps Hbf Berlin (25024)</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-07-27</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Associate Therapy Sales Specialist (m/w/d) Neuromodulation</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-07-27</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghip Store Berlin</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghsip Store Berlin</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>Meteomatics GmbH</td><td>It Support Specialist (f/m/d)</td><td>Berlin</td><td>2026-07-27</td></tr>
 </table>
