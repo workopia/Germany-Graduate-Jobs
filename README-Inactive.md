@@ -1714,4 +1714,58 @@
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghip Store Berlin</td><td>Berlin</td><td>2026-07-27</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghsip Store Berlin</td><td>Berlin</td><td>2026-07-27</td></tr>
 <tr><td>Meteomatics GmbH</td><td>It Support Specialist (f/m/d)</td><td>Berlin</td><td>2026-07-27</td></tr>
+<tr><td>Idealo Internet GmbH</td><td>Staff Engineer (m/w/d)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Mytheresa Com GmbH</td><td>Intern Global Events (f/m/d)</td><td>Munich +1</td><td>2026-07-28</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum Kommunikation Und Medien</td><td>Saarbruecken</td><td>2026-07-28</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>Saarland</td><td>2026-07-28</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-07-28</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Duales Studium - Bogy & Studienorientierung</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-07-28</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum In Der Logistik</td><td>Germany</td><td>2026-07-28</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Kaufmännisch</td><td>Stuttgart</td><td>2026-07-28</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant International Club Media & Content (m/w/d)</td><td>MüNchen +1</td><td>2026-07-28</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Corporate Hr (m/w/d)</td><td>Munich</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Corporate Design Services (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Ipo & Growth Financing Am Börsenplatz (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Group Audit Development & Strategy (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Group Risk Governance & Internal Controls (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikant*in / Werkstudent*in - Human Resources - Fokus Recruitment (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Strategy & Executive Office (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Digital Marketing & Content Management (w/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-07-28</td></tr>
+<tr><td>Kws Group</td><td>Praktikant (m/w/d) - Initiativbewerbung</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-07-28</td></tr>
+<tr><td>Oxford Instruments</td><td>Trainee Wholesale</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Festo</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-07-28</td></tr>
+<tr><td>Festo</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-07-28</td></tr>
+<tr><td>JYSK</td><td>Filialleiter/in Trainee (m/w/d) - Singen</td><td>Singen (Hohentwiel)</td><td>2026-07-28</td></tr>
+<tr><td>Staedtler Pty</td><td>Ausbildung Zum Fachlageristen (m/w/d)</td><td>Germany</td><td>2026-07-28</td></tr>
+<tr><td>Chlworks</td><td>Center Arzt Berlin Lindencenter (m/w/d)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Centerforintegrationscience</td><td>Center Arzt Berlin Lindencenter (m/w/d)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Admincsl</td><td>Center Arzt Berlin Lindencenter (m/w/d)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum München</td><td>Munich</td><td>2026-07-28</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Leipzig</td><td>Leipzig</td><td>2026-07-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash Frankfurt</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Elektriker*in / Mechatroniker*in (m/w/d) - Fokus Reparatur (befristet 12 Monate)</td><td>Ahorn</td><td>2026-07-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Hamburg</td><td>2026-07-28</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) In Teilzeit 30 Std./w.</td><td>Dusseldorf</td><td>2026-07-28</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 30 Std./w. / Neuhauser</td><td>Munich</td><td>2026-07-28</td></tr>
+<tr><td>Tumi</td><td>Sales Advisor (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Wiesbaden Kirchgasse (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Kurfürstendamm (m/w/d)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Vestas</td><td>Offshore Stock Keeper (m/f/d) Deutsche Bucht</td><td>Hamburg</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Saarlouis (m/w/d)</td><td>Saarbruecken</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - München Weinstraße (m/w/d)</td><td>Munich</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Köln (m/w/d)</td><td>Cologne</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Bergisch Gladbach (m/w/d)</td><td>Cologne</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Minijob - Mercado Center Hamburg-altona (m/w/d)</td><td>Hamburg</td><td>2026-07-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Mercado Center Hamburg-altona (m/w/d)</td><td>Hamburg</td><td>2026-07-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn)</td><td>Stuttgart</td><td>2026-07-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Wuppertal</td><td>2026-07-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baufertigteile (gn)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Mannheim</td><td>2026-07-28</td></tr>
+<tr><td>Coloplast AS</td><td>Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)</td><td>Hamburg</td><td>2026-07-28</td></tr>
+<tr><td>Kamps Hbf Berlin</td><td>Verkäufer Bäckerei (m/w/d) - Kamps Hbf Berlin (25024)</td><td>Berlin</td><td>2026-07-28</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Buttenheim</td><td>2026-07-28</td></tr>
 </table>
