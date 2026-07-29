@@ -1768,4 +1768,29 @@
 <tr><td>Coloplast AS</td><td>Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)</td><td>Hamburg</td><td>2026-07-28</td></tr>
 <tr><td>Kamps Hbf Berlin</td><td>Verkäufer Bäckerei (m/w/d) - Kamps Hbf Berlin (25024)</td><td>Berlin</td><td>2026-07-28</td></tr>
 <tr><td>Rewe Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Buttenheim</td><td>2026-07-28</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Germany</td><td>2026-07-29</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler Im Gewerblichen Bereich (m/w/d)</td><td>Germany</td><td>2026-07-29</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-07-29</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-07-29</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Kiel 2027</td><td>Kiel</td><td>2026-07-29</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-07-29</td></tr>
+<tr><td>Hitachi Rail</td><td>Werkstudent Im Bereich Bedienoberflächenentwicklung (m/w/d)</td><td>Stuttgart</td><td>2026-07-29</td></tr>
+<tr><td>TAKKT AG</td><td>Duales Studium Zum Bachelor Of Science - Wirtschaftsinformatik Oder Informatik (all Genders) 2026</td><td>Stuttgart</td><td>2026-07-29</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Versicherungssektor - Financial Services (m/w/d)</td><td>Dusseldorf</td><td>2026-07-29</td></tr>
+<tr><td>1&1 AG</td><td>Business Analyst 5g Deployment (m/w/d)</td><td>Dusseldorf</td><td>2026-07-29</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Finanzbuchhalter (m/w/d) Forderungs- Und Reklamationsmanagement</td><td>Germany</td><td>2026-07-29</td></tr>
+<tr><td>uksh</td><td>Pflegefachmann / Pflegefachfrau (m/w/d) - Stroke Unit</td><td>Germany</td><td>2026-07-29</td></tr>
+<tr><td>Syneos Health</td><td>Cra - Germany - Single Sponsor</td><td>Germany</td><td>2026-07-29</td></tr>
+<tr><td>Seqirus</td><td>Center Arzt Bremen Weserpark (m/w/d)</td><td>Bremen</td><td>2026-07-29</td></tr>
+<tr><td>Seqirus / CSL Plasma GmbH</td><td>Center Arzt Bonn (m/w/x)</td><td>Cologne</td><td>2026-07-29</td></tr>
+<tr><td>Seqirus</td><td>Center Arzt Hamburg (m/w/x)</td><td>Hamburg</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Großraum Neuss</td><td>Dusseldorf</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-07-29</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Rottenburg An Neckar / Tübingen</td><td>Rottenburg Am Neckar +1</td><td>2026-07-29</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Kaufmann Im Einzelhandel / Verkäufer (m/w/d) - Bereich Garten</td><td>Frankfurt Am Main</td><td>2026-07-29</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Verkäufer (m/w/d)</td><td>Munich</td><td>2026-07-29</td></tr>
+<tr><td>AstraZeneca Pharmaceuticals LP</td><td>Teamassistenz (m/w/d) Onkologie</td><td>Hamburg</td><td>2026-07-29</td></tr>
+<tr><td>AstraZeneca</td><td>Teamassistenz (m/w/d) Onkologie</td><td>Hamburg</td><td>2026-07-29</td></tr>
 </table>

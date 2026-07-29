@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-28",
- "count": 711,
+ "asOf": "2026-07-29",
+ "count": 703,
  "jobs": {
   "5021": {
    "id": "5021",
@@ -13,6 +13,30 @@
    "company": "Vodafone",
    "role": "Sales Associate (m/w/d) B2b Für Die Region Baden-württemberg",
    "location": "Stuttgart"
+  },
+  "d9b96730f6381c7472ee90fdf1942ba2": {
+   "id": "d9b96730f6381c7472ee90fdf1942ba2",
+   "company": "282",
+   "role": "Intern Corporate Sector Lending – Wholesale Banking (f/m/x)",
+   "location": "Frankfurt Am Main"
+  },
+  "3757d1090ab6321d093a191bb263e90c": {
+   "id": "3757d1090ab6321d093a191bb263e90c",
+   "company": "RBC (Royal Bank of Canada)",
+   "role": "2027 Global Investment Banking Internship - Frankfurt",
+   "location": "Frankfurt Am Main"
+  },
+  "340d2638b83e9d9c81b902eac264f48e": {
+   "id": "340d2638b83e9d9c81b902eac264f48e",
+   "company": "RWE AG",
+   "role": "Praktikant (d/w/m) Learning & Employee Experience",
+   "location": "Wuppertal"
+  },
+  "b35c63ae77ee43b7eccdacc9f280fd9b": {
+   "id": "b35c63ae77ee43b7eccdacc9f280fd9b",
+   "company": "RWE AG",
+   "role": "Praktikum / Werkstudent Im Betriebsrat D/w/m",
+   "location": "Wuppertal"
   },
   "0cfc034318782328560d352a90800e6f": {
    "id": "0cfc034318782328560d352a90800e6f",
@@ -464,29 +488,17 @@
    "role": "Intern (m/f/d) - Research & Development - Stock Preparation",
    "location": "Heidenheim"
   },
-  "30d0a6e3adec3ae696302ea7cdbce442": {
-   "id": "30d0a6e3adec3ae696302ea7cdbce442",
-   "company": "KNDS Group",
-   "role": "Praktikum Für Schüler In Nicht-gewerblichen Bereichen",
-   "location": "Germany"
+  "f9c32817078bbb252b7df15fc413c20d": {
+   "id": "f9c32817078bbb252b7df15fc413c20d",
+   "company": "ENERCON IT Service GmbH",
+   "role": "Ausbildung Zum Fachinformatiker Fr Anwendungsentwicklung M/w/d 2026",
+   "location": "Aurich-Tannenhausen"
   },
-  "cda5f00a26901170ec0ba68b6f336b68": {
-   "id": "cda5f00a26901170ec0ba68b6f336b68",
-   "company": "KNDS Group",
-   "role": "Praktikum Für Schüler Im Gewerblichen Bereich (m/w/d)",
-   "location": "Germany"
-  },
-  "c8117d113c36e9dea75e9e886acd51e1": {
-   "id": "c8117d113c36e9dea75e9e886acd51e1",
-   "company": "KNDS Group",
-   "role": "Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)",
-   "location": "Germany"
-  },
-  "fe4fa44024abd957cb7c8b71e8713684": {
-   "id": "fe4fa44024abd957cb7c8b71e8713684",
-   "company": "KNDS Group",
-   "role": "Praktikant (m/w/d)",
-   "location": "Saarbruecken"
+  "fa8d762680b4acf82e02c6fde8961ede": {
+   "id": "fa8d762680b4acf82e02c6fde8961ede",
+   "company": "ZF Friedrichshafen AG",
+   "role": "Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover",
+   "location": "Hanover"
   },
   "f6fa77f8aafdf57c02171daf767b2455": {
    "id": "f6fa77f8aafdf57c02171daf767b2455",
@@ -956,18 +968,6 @@
    "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027",
    "location": "Cologne"
   },
-  "074c778f7a588be8093e78f04d5410d5": {
-   "id": "074c778f7a588be8093e78f04d5410d5",
-   "company": "Telefonica",
-   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Kiel 2027",
-   "location": "Kiel"
-  },
-  "bc3c2ca2f0aa0807f92cff4321c84e34": {
-   "id": "bc3c2ca2f0aa0807f92cff4321c84e34",
-   "company": "Telefonica",
-   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027",
-   "location": "Wuppertal"
-  },
   "9248b3e8b41c0ce5ea4703c652828086": {
    "id": "9248b3e8b41c0ce5ea4703c652828086",
    "company": "KraussMaffei Group",
@@ -1154,12 +1154,6 @@
    "role": "Data Analytics And Full Stack Developer Intern",
    "location": "Germany"
   },
-  "0d2f78ee75bd05152a86790d86b4e1e3": {
-   "id": "0d2f78ee75bd05152a86790d86b4e1e3",
-   "company": "Hitachi Rail",
-   "role": "Werkstudent Im Bereich Bedienoberflächenentwicklung (m/w/d)",
-   "location": "Stuttgart"
-  },
   "a02ee0bb83056dd29d527e0d98cd509e": {
    "id": "a02ee0bb83056dd29d527e0d98cd509e",
    "company": "IISBMS",
@@ -1195,12 +1189,6 @@
    "company": "Airbus Defence and Space GmbH",
    "role": "Duales Studium B.sc. Informatik - Angewandte Informatik (d/m/w) Zum 01.09.2027",
    "location": "Munich"
-  },
-  "74ef9e68dbf0186c64a733fedaeb91a3": {
-   "id": "74ef9e68dbf0186c64a733fedaeb91a3",
-   "company": "TAKKT AG",
-   "role": "Duales Studium Zum Bachelor Of Science - Wirtschaftsinformatik Oder Informatik (all Genders) 2026",
-   "location": "Stuttgart"
   },
   "afd928e841cf831c399485046fd191d3": {
    "id": "afd928e841cf831c399485046fd191d3",
@@ -2030,10 +2018,16 @@
    "role": "Analytics & Insights Internship (m/f/d)",
    "location": "Frankfurt Am Main"
   },
-  "7607bfc5fa86ef66faaf288c9ea646c7": {
-   "id": "7607bfc5fa86ef66faaf288c9ea646c7",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant / Werkstudent Versicherungssektor - Financial Services (m/w/d)",
+  "1b6b47f0deb859aa54b2562a02c895af": {
+   "id": "1b6b47f0deb859aa54b2562a02c895af",
+   "company": "1&1 AG",
+   "role": "Business Analyst 5g Deployment (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "d9f10d8e5722f05bc07d713e73cd1bad": {
+   "id": "d9f10d8e5722f05bc07d713e73cd1bad",
+   "company": "Deutsche WertpapierService Bank AG",
+   "role": "Business Analyst Settlement / Depotüberträge (m/w/d)",
    "location": "Dusseldorf"
   },
   "6d3ad9d73e8cf6e7e7fcba1630d97fab": {
@@ -2101,12 +2095,6 @@
    "company": "DekaBank Deutsche Girozentrale",
    "role": "Business Analyst (w/m/d) Und Bankfachlicher Designer (w/m/d) Retail-depotplattform",
    "location": "Frankfurt Am Main"
-  },
-  "5f190700e0fece76438f09c43ecd41f7": {
-   "id": "5f190700e0fece76438f09c43ecd41f7",
-   "company": "1&1 AG",
-   "role": "Business Analyst 5g Deployment (m/w/d)",
-   "location": "Dusseldorf"
   },
   "e79b44b960409b68ab89d569b6c32c3e": {
    "id": "e79b44b960409b68ab89d569b6c32c3e",
@@ -2510,12 +2498,6 @@
    "role": "Business analyst (m/w/d) – lohn- und gehaltsabrechnung",
    "location": "Stuttgart"
   },
-  "fe8e37865253a20e5ecd18bfd344857b": {
-   "id": "fe8e37865253a20e5ecd18bfd344857b",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Finanzbuchhalter (m/w/d) Forderungs- Und Reklamationsmanagement",
-   "location": "Germany"
-  },
   "1701fa64a95a9c667fbfa133bb9237c2": {
    "id": "1701fa64a95a9c667fbfa133bb9237c2",
    "company": "Christiana Care Home Health And Community Services Inc",
@@ -2804,35 +2786,35 @@
    "role": "Center Arzt Hamburg (m/w/x)",
    "location": "Hamburg"
   },
-  "9bbfac75337baadb22dc06728034f033": {
-   "id": "9bbfac75337baadb22dc06728034f033",
-   "company": "uksh",
-   "role": "Pflegefachmann / Pflegefachfrau (m/w/d) - Stroke Unit",
-   "location": "Germany"
+  "0f43a7bde568c8a03155a91e6a6a1492": {
+   "id": "0f43a7bde568c8a03155a91e6a6a1492",
+   "company": "Westlaketalent",
+   "role": "Servicetechniker Technik Monomer Gdf",
+   "location": "Gendorf"
   },
-  "878ed3b70a6c25eeace5f7b02de80c7b": {
-   "id": "878ed3b70a6c25eeace5f7b02de80c7b",
-   "company": "Syneos Health",
-   "role": "Cra - Germany - Single Sponsor",
-   "location": "Germany"
+  "f2cf7e4ce98875430eeae9b2e74bf75e": {
+   "id": "f2cf7e4ce98875430eeae9b2e74bf75e",
+   "company": "ENERCON IT Service GmbH",
+   "role": "Mechaniker (m/w/d) Für Raum Ostalb",
+   "location": "Aalen-Ebnat"
   },
-  "d8fbdb058c1e8462f4332e6cc5dcb9f6": {
-   "id": "d8fbdb058c1e8462f4332e6cc5dcb9f6",
-   "company": "Seqirus",
-   "role": "Center Arzt Bremen Weserpark (m/w/d)",
-   "location": "Bremen"
+  "1e78c74fd1acf64357da2ad7c8af7f7f": {
+   "id": "1e78c74fd1acf64357da2ad7c8af7f7f",
+   "company": "ENERCON IT Service GmbH",
+   "role": "Service Technician Electrician",
+   "location": "Sibenik +1"
   },
-  "ac165901ded3d1439fdbc28b869a10b9": {
-   "id": "ac165901ded3d1439fdbc28b869a10b9",
-   "company": "Seqirus / CSL Plasma GmbH",
-   "role": "Center Arzt Bonn (m/w/x)",
-   "location": "Cologne"
+  "dd65172b0e12b821332f963396abf3a6": {
+   "id": "dd65172b0e12b821332f963396abf3a6",
+   "company": "ZF Friedrichshafen AG",
+   "role": "Servicemonteur (m/w/d)",
+   "location": "Berlin"
   },
-  "5f18598f24648d169d232f0d7c9315ba": {
-   "id": "5f18598f24648d169d232f0d7c9315ba",
-   "company": "Seqirus",
-   "role": "Center Arzt Hamburg (m/w/x)",
-   "location": "Hamburg"
+  "a7509f60110add00ef6446bbda823593": {
+   "id": "a7509f60110add00ef6446bbda823593",
+   "company": "Schwarz Produktion",
+   "role": "Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)",
+   "location": "RoßBach"
   },
   "140e008b7021323477b1b5569af89f9b": {
    "id": "140e008b7021323477b1b5569af89f9b",
@@ -3284,35 +3266,17 @@
    "role": "Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin",
    "location": "Berlin"
   },
-  "d254e3111794c5e5ea8417954a66d007": {
-   "id": "d254e3111794c5e5ea8417954a66d007",
-   "company": "Schindler Elevator Ltd",
-   "role": "Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg",
-   "location": "Hamburg"
-  },
-  "b915145c9268cee3460f5357d3ceb11f": {
-   "id": "b915145c9268cee3460f5357d3ceb11f",
-   "company": "Schindler Elevator Ltd",
-   "role": "Servicetechniker (m/w/d) Für Aufzugsanlagen Im Großraum Neuss",
+  "R168991": {
+   "id": "R168991",
+   "company": "Kering",
+   "role": "Dodo Client Advisor Dusseldorf (fixed Term, Full-time 40h, M/f/x)",
    "location": "Dusseldorf"
   },
-  "530521e65ecc609cf3922fb1a2335bb5": {
-   "id": "530521e65ecc609cf3922fb1a2335bb5",
-   "company": "Schindler Elevator Ltd",
-   "role": "Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet",
-   "location": "Oberursel (Taunus)"
-  },
-  "1e482e8dd8264bbdb5101f57b3cb7ff7": {
-   "id": "1e482e8dd8264bbdb5101f57b3cb7ff7",
-   "company": "Schindler Elevator Ltd",
-   "role": "Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin",
-   "location": "Berlin"
-  },
-  "8fa0340d5c601f30bddcdab813d4b2ee": {
-   "id": "8fa0340d5c601f30bddcdab813d4b2ee",
-   "company": "Schindler Elevator Ltd",
-   "role": "Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Rottenburg An Neckar / Tübingen",
-   "location": "Rottenburg Am Neckar +1"
+  "0ff78147183732cba7fa9c1a76f0509d": {
+   "id": "0ff78147183732cba7fa9c1a76f0509d",
+   "company": "Ebury",
+   "role": "Sales - Fx & Netting Solutions",
+   "location": "Frankfurt Am Main"
   },
   "d0bd6a1facfb931a4c7ee89d7a2418a4": {
    "id": "d0bd6a1facfb931a4c7ee89d7a2418a4",
@@ -3776,17 +3740,23 @@
    "role": "Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - 15h Teilzeit - Cologne/köln, De",
    "location": "Cologne"
   },
-  "8641438f95ab37849ee41221f5521b11": {
-   "id": "8641438f95ab37849ee41221f5521b11",
-   "company": "Rewe Group",
-   "role": "Ausbildung Kaufmann Im Einzelhandel / Verkäufer (m/w/d) - Bereich Garten",
-   "location": "Frankfurt Am Main"
+  "ceabd333ceec258cd34065d30d0eda3b": {
+   "id": "ceabd333ceec258cd34065d30d0eda3b",
+   "company": "Brambles",
+   "role": "Payroll Coordinator (1 Jahr Befristung) Mit Adp",
+   "location": "Cologne"
   },
-  "083a056281f332285269590e3c4c4531": {
-   "id": "083a056281f332285269590e3c4c4531",
-   "company": "Rewe Group",
-   "role": "Ausbildung Verkäufer (m/w/d)",
+  "2c9fceaeb2497b992962205dd6c884f0": {
+   "id": "2c9fceaeb2497b992962205dd6c884f0",
+   "company": "caritas-nah-am-naechsten",
+   "role": "Verwaltungsmitarbeiter (m/w/d) Kinder- Und Familienzentrum Pasing",
    "location": "Munich"
+  },
+  "d53c2b9e0dd06d5fa79a6010fe3e4feb": {
+   "id": "d53c2b9e0dd06d5fa79a6010fe3e4feb",
+   "company": "1&1 AG",
+   "role": "Bereichsassistenz (m/w/d)",
+   "location": "Dusseldorf"
   },
   "3a4b1c57199cf37004f9a8544bf12747": {
    "id": "3a4b1c57199cf37004f9a8544bf12747",
@@ -4196,12 +4166,6 @@
    "role": "Team Assistant (maternity Cover) (m/f/d)",
    "location": "Berlin"
   },
-  "d53c2b9e0dd06d5fa79a6010fe3e4feb": {
-   "id": "d53c2b9e0dd06d5fa79a6010fe3e4feb",
-   "company": "1&1 AG",
-   "role": "Bereichsassistenz (m/w/d)",
-   "location": "Dusseldorf"
-  },
   "4f92e996b58bff85191b34743fcecaf5": {
    "id": "4f92e996b58bff85191b34743fcecaf5",
    "company": "Vonovia SE",
@@ -4255,18 +4219,6 @@
    "company": "Navvis",
    "role": "Working Student - Integrated Marketing Campaigns (f/m/d)",
    "location": "Munich"
-  },
-  "6c22667714a24c73e2a56d0c3b76949d": {
-   "id": "6c22667714a24c73e2a56d0c3b76949d",
-   "company": "AstraZeneca Pharmaceuticals LP",
-   "role": "Teamassistenz (m/w/d) Onkologie",
-   "location": "Hamburg"
-  },
-  "1025115c52a4d09e6ef4d7827973bd5d": {
-   "id": "1025115c52a4d09e6ef4d7827973bd5d",
-   "company": "AstraZeneca",
-   "role": "Teamassistenz (m/w/d) Onkologie",
-   "location": "Hamburg"
   }
  }
 }
