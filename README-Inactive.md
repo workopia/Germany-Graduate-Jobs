@@ -1793,4 +1793,76 @@
 <tr><td>Rewe Group</td><td>Ausbildung Verkäufer (m/w/d)</td><td>Munich</td><td>2026-07-29</td></tr>
 <tr><td>AstraZeneca Pharmaceuticals LP</td><td>Teamassistenz (m/w/d) Onkologie</td><td>Hamburg</td><td>2026-07-29</td></tr>
 <tr><td>AstraZeneca</td><td>Teamassistenz (m/w/d) Onkologie</td><td>Hamburg</td><td>2026-07-29</td></tr>
+<tr><td>adesso Group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-07-30</td></tr>
+<tr><td>Infineon</td><td>Internship - Diversity And Inclusion (f/m/div)</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Praktikum (m/w/d) Initiativ</td><td>Schweitenkirchen</td><td>2026-07-30</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Praktikum (m/w/d) Bereich Hr</td><td>Emleben</td><td>2026-07-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Intern - Order Fulfilment Platform (m/f/d)</td><td>Ingolstadt</td><td>2026-07-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Praktikant Logistics & Partners (m/w/d)</td><td>Ingolstadt</td><td>2026-07-30</td></tr>
+<tr><td>Klingele Papierwerke GmbH & Co. KG</td><td>Praktikant (m/w/d)</td><td>Grunbach</td><td>2026-07-30</td></tr>
+<tr><td>FRoSTA AG</td><td>Internship Quality Assurance Raw Material (f/m/d)</td><td>Bremerhaven</td><td>2026-07-30</td></tr>
+<tr><td>FRoSTA AG</td><td>Internship In Production / Process Optimization (f/m/d)</td><td>Bremerhaven</td><td>2026-07-30</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Initiativbewerbung Pflichtpraktikum</td><td>Denklingen +1</td><td>2026-07-30</td></tr>
+<tr><td>PERI GmbH</td><td>Praktikant (m/w/d) Corporate Strategy & Innovation</td><td>Ulm</td><td>2026-07-30</td></tr>
+<tr><td>CLAAS Group</td><td>Praktikum/ Claas Inside (m/w/d) Global Supply Chain Management - Service Function Material Manageme</td><td>Bielefeld</td><td>2026-07-30</td></tr>
+<tr><td>CLAAS</td><td>Praktikum/ Claas Inside (m/w/d) Global Supply Chain Management - Service Function Material Manageme</td><td>Bielefeld</td><td>2026-07-30</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Im Developing (w/m/d)</td><td>Ulm</td><td>2026-07-30</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Im Bereich Werkslogistik</td><td>Ulm</td><td>2026-07-30</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Talent Development & Kommunikation (w/m/d)</td><td>Ulm</td><td>2026-07-30</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Business Procurement</td><td>Ulm</td><td>2026-07-30</td></tr>
+<tr><td>Boeing Co</td><td>Mandatory Internship - Future Flight Operations Research M/f/d</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>Boeing Aerostructures Australia</td><td>Mandatory Internship - Future Flight Operations Research M/f/d</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Financial Services - Insurance (m/w/d)</td><td>Dusseldorf</td><td>2026-07-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a / Transactions - Sport Business Group (m/w/d)</td><td>Dusseldorf</td><td>2026-07-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Global Trade Advisory - Indirect Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-07-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Business & Ai Insights (m/w/d)</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Fsi Technology Strategy (m/w/d)</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Customer & Marketing (m/w/d) - Deloitte Digital</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>Nestlé</td><td>Praktikum Digital Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>Nestlé</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>Korber AG</td><td>Praktikant (m/w/d) Group Strategy, M&a And Venture Capital - Beginn: September 2026</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Internship (m/f/d) In Global Communications / Operational Excellence & Digital</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Internship/thesis (m/f/d) In Advanced Development - Modeling And Calculation With Fem</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Internship (m/f/d) - Business Development International Service</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Intern Material Testing</td><td>Salzgitter</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Praktikum (m/w/d) Im Bereich Forschung; Entwicklung; Konstruktion - Start: Flexibel</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Global Value Management - Cost-optimized Product Design</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Internship (with Optional Thesis) - Aftermarket Business/parts Management</td><td>Crailsheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Customer Service & Sales</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Hr / People & Culture</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Research & Development - Stock Preparation</td><td>Heidenheim</td><td>2026-07-30</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für Halle/landsberg</td><td>Land</td><td>2026-07-30</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für Geislingen/kuchen</td><td>Kuche</td><td>2026-07-30</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-07-30</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Werkstudent (m/w/d) It-support</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>Pfizer</td><td>Data Analytics And Full Stack Developer Intern</td><td>Germany</td><td>2026-07-30</td></tr>
+<tr><td>Talon</td><td>Frontend Engineer</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>Jobgether</td><td>Middle Full Stack Engineer For Relay</td><td>Germany</td><td>2026-07-30</td></tr>
+<tr><td>P&G</td><td>Analytics & Insights Internship (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>adesso-group</td><td>Business Analyst Workflowmanagementsystem (all Genders)</td><td>Berlin +1</td><td>2026-07-30</td></tr>
+<tr><td>Group</td><td>Product Analyst (m/f/d)</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>Wolters Kluwer Tax & Accounting Deutschland GmbH</td><td>Business analyst (m/w/d) – lohn- und gehaltsabrechnung</td><td>Stuttgart</td><td>2026-07-30</td></tr>
+<tr><td>CSL Plasma GmbH</td><td>Center Arzt Hamburg (m/w/x)</td><td>Hamburg</td><td>2026-07-30</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Servicebearbeiter Außendienst Energieversorgung (m/w/d)</td><td>Vogtlandkreis</td><td>2026-07-30</td></tr>
+<tr><td>LKQ Europe</td><td>Servicetechniker (m/w/d) Technischer Support Technisches Service Center</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>AVL List GmbH</td><td>Servicetechniker (m/w/d) Prüfstandstechnik</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>AVL List GmbH</td><td>Onsite-servicetechniker (m/w/d)</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Bremen</td><td>Bremen</td><td>2026-07-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-07-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-07-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-07-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Düsseldorf / Neuss</td><td>Dusseldorf</td><td>2026-07-30</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Hamburg</td><td>2026-07-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Cologne</td><td>2026-07-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Cologne</td><td>2026-07-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Munster</td><td>2026-07-30</td></tr>
+<tr><td>Sixt</td><td>Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Frankfurt Am Main</td><td>2026-07-30</td></tr>
+<tr><td>fabletics.se</td><td>Sales Advisor</td><td>Berlin</td><td>2026-07-30</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor (m/f/x) Bochum In Full Time Or Part Time</td><td>Dortmund</td><td>2026-07-30</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Bocholt</td><td>Dortmund</td><td>2026-07-30</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer/ Kundenberater (m/w/d) O2 Shop Reutlingen</td><td>Reutlingen</td><td>2026-07-30</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Köln 2027</td><td>Cologne</td><td>2026-07-30</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - 15h Teilzeit - Cologne/köln, De</td><td>Cologne</td><td>2026-07-30</td></tr>
 </table>
