@@ -2254,4 +2254,77 @@
 <tr><td>Knorr-Bremse AG</td><td>Bereichsassistenz Strategy / M&a (m/w/d)</td><td>Munich</td><td>2026-08-02</td></tr>
 <tr><td>der Stiftung kreuznacher diakonie</td><td>Mitarbeiter (w/m/d) Verwaltung</td><td>NiederwöRresbach</td><td>2026-08-02</td></tr>
 <tr><td>sefe</td><td>Team Assistant (maternity Cover) (m/f/d)</td><td>Berlin</td><td>2026-08-02</td></tr>
+<tr><td>CLAAS Group</td><td>Praktikum Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-08-03</td></tr>
+<tr><td>adesso-group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-08-03</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Bereich Prädiktive Regelung Von Heim-energiemanagementsystemen</td><td>Stuttgart</td><td>2026-08-03</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Der Entwicklung Von Festoxid-zellen (w/m/div.)</td><td>Stuttgart</td><td>2026-08-03</td></tr>
+<tr><td>Sixt</td><td>Praktikant Controlling (m/w/d) Vollzeit</td><td>Munich</td><td>2026-08-03</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Haus Für Kinder Isardamm</td><td>Munich</td><td>2026-08-03</td></tr>
+<tr><td>Hager Group</td><td>Corporate Sustainability Intern (m/f/d)</td><td>Saarbruecken</td><td>2026-08-03</td></tr>
+<tr><td>Flex Ltd.</td><td>Working Student / Intern Finance (accounts Payable & Controlling) (m/f/d)</td><td>Stuttgart</td><td>2026-08-03</td></tr>
+<tr><td>flexa.careers</td><td>Working Student / Intern Finance (accounts Payable & Controlling) (m/f/d)</td><td>Stuttgart</td><td>2026-08-03</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Red. Religion Und Leben</td><td>Darmstadt</td><td>2026-08-03</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Redaktion Kultur Berlin</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*in Logo! (2. Quartal 2027)</td><td>Darmstadt</td><td>2026-08-03</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*innen Gf Nrw</td><td>Dusseldorf</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum In Der Radioredaktion</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Media & Growth (w/m/d)</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung: Praktikum (m/w/d)</td><td>Karlsruhe</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Rtl+ Customer Care</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Design News Grafik</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Im Bereich Produktion (w/m/d)</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum - International Communication And Marketing</td><td>Hamburg</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant Redaktion Frankfurt (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Intern (f/m/d) Controlling / Reporting</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>Bielefeld</td><td>2026-08-03</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Redaktion (w/m/d)</td><td>Kiel</td><td>2026-08-03</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In Product Management: Reliable Control Technology</td><td>Freiburg Im Breisgau</td><td>2026-08-03</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In Training & Education: Technical And Product-related E-learning Courses</td><td>Freiburg Im Breisgau</td><td>2026-08-03</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In The Legal, Governance & Compliance Department</td><td>Freiburg Im Breisgau</td><td>2026-08-03</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In Logistics - With A Focus On The Control Center</td><td>Freiburg Im Breisgau</td><td>2026-08-03</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Praktikum Im Knowledge Management Im Bereich Technology Excellence (m/w/x)</td><td>Goppingen</td><td>2026-08-03</td></tr>
+<tr><td>Zeiss Group</td><td>Praktikum Im Knowledge Management Im Bereich Technology Excellence (m/w/x)</td><td>Goppingen</td><td>2026-08-03</td></tr>
+<tr><td>E.ON SE</td><td>Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027</td><td>Munich</td><td>2026-08-03</td></tr>
+<tr><td>E.ON SE</td><td>Auszubildende Industriekaufmann/-frau (m/w/d) (2027)</td><td>Saffig +1</td><td>2026-08-03</td></tr>
+<tr><td>vorwerkgroup</td><td>Ausbildung 2026 Industrieelektriker (m/w/d)</td><td>Wuppertal</td><td>2026-08-03</td></tr>
+<tr><td>Melia</td><td>Ausbildung Hotelfachmann / Hotelfachfrau (m/w/d) - Meliá Frankfurt City</td><td>Frankfurt Am Main</td><td>2026-08-03</td></tr>
+<tr><td>Rewe Group</td><td>Trainee - Nachwuchsführungskraft Für Die Zielposition Gartencenterleiter (m/w/d)</td><td>GroßRaum Dortmund</td><td>2026-08-03</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Ausbildung 2026 - Fachlagerist / Fachkraft Für Lagerlogistik (m/w/d)</td><td>Sch Nberg</td><td>2026-08-03</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Vertriebs-traineeprogramm Bei Mediamarktsaturn (m/w/d) - Deutschlandweit In Den Märkten</td><td>Deutschlandweit</td><td>2026-08-03</td></tr>
+<tr><td>eiffage-infra.de</td><td>Ausbildung Zum Straßenbauer (w/m/d) 2026</td><td>Schlierschied</td><td>2026-08-03</td></tr>
+<tr><td>eiffage-infra.de</td><td>Ausbildung Zum Kanalbauer (m/w/d) 2026</td><td>Dortmund</td><td>2026-08-03</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildender Konstruktionsmechaniker (m/w/d) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-08-03</td></tr>
+<tr><td>Sun Chemical</td><td>Ausbildung Industriekaufmann / Industriekauffrau (m/w/d) Start - August 2026</td><td>Osterode Am Harz</td><td>2026-08-03</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Trainee Zur Führungskraft - Filiale (m/w/d) 2026, Großraum Heiligenroth</td><td>Heiligenroth</td><td>2026-08-03</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Trainee Zur Führungskraft - Filiale (m/w/d) 2026, Großraum Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-08-03</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Golang (all Genders)</td><td>Nach Standort Suchen</td><td>2026-08-03</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Entwickler Für Automatisierte Testsysteme (w/m/d)</td><td>Ulm</td><td>2026-08-03</td></tr>
+<tr><td>Sopra Steria</td><td>Software Verification Engineer Mission Support Systems (d/f/m) [26121]</td><td>Ingolstadt</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Golang Software Engineer, Commercial Systems</td><td>Germany</td><td>2026-08-03</td></tr>
+<tr><td>Jobgether</td><td>Information Technology - Software Engineer</td><td>Germany</td><td>2026-08-03</td></tr>
+<tr><td>adesso-group</td><td>Business Analyst Workflowmanagementsystem (all Genders)</td><td>Nach Standort Suchen</td><td>2026-08-03</td></tr>
+<tr><td>E.ON SE</td><td>Business Analyst (m/w/d)</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Anlagenmechaniker Wartung Instandhaltung Shk (m/w/d)</td><td>Germany</td><td>2026-08-03</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Servicetechniker Außendienst Netzbetrieb (m/w/d)</td><td>Vogtlandkreis</td><td>2026-08-03</td></tr>
+<tr><td>Everllence</td><td>Servicemonteur / Mechaniker Für Schiffe Und Kraftwerke (m/w/d)</td><td>Hamburg</td><td>2026-08-03</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash Frankfurt</td><td>Frankfurt Am Main</td><td>2026-08-03</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Ruhrgebiet</td><td>2026-08-03</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Wartung Windenergieanlagen</td><td>Kist</td><td>2026-08-03</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Maintenance For Wind Turbines In Templin</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>Vestas</td><td>Blade Technician (m/w/d) For Wind Turbines Blades In Vogelsdorf</td><td>Berlin</td><td>2026-08-03</td></tr>
+<tr><td>Vestas</td><td>Blade Technician (m/w/d) For Wind Turbines Blades In Empfingen</td><td>Empfingen</td><td>2026-08-03</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Pritzwalk</td><td>Pritzwalk</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer M/w/d 10-20h</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Rheinpark-center Neuss (m/w/d)</td><td>Dusseldorf</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Köln/schildergasse (m/w/d)</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Bad Godesberg (m/w/d)</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Pep/münchen (m/w/d)</td><td>Munich</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - München Pasing (m/w/d)</td><td>Munich</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Minijob - Königstraße Stuttgart (m/w/d)</td><td>Stuttgart</td><td>2026-08-03</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Gerber/stuttgart (m/w/d)</td><td>Stuttgart</td><td>2026-08-03</td></tr>
+<tr><td>Dachser SE</td><td>Mitarbeiter (m/w/d) Administration Warehouse</td><td>Cologne</td><td>2026-08-03</td></tr>
+<tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-08-03</td></tr>
+<tr><td>ukdd</td><td>Fremdsprachensekretär/ Fremdsprachensekretärin (m/w/d) Institut Anatomie</td><td>Germany</td><td>2026-08-03</td></tr>
 </table>
