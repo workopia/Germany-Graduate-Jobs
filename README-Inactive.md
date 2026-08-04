@@ -2327,4 +2327,92 @@
 <tr><td>Dachser SE</td><td>Mitarbeiter (m/w/d) Administration Warehouse</td><td>Cologne</td><td>2026-08-03</td></tr>
 <tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-08-03</td></tr>
 <tr><td>ukdd</td><td>Fremdsprachensekretär/ Fremdsprachensekretärin (m/w/d) Institut Anatomie</td><td>Germany</td><td>2026-08-03</td></tr>
+<tr><td>apotal</td><td>Industriemechaniker / Elektroinstallateur / Anlagentechniker (m/w/x)</td><td>Niedersachsen</td><td>2026-08-04</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Kinderhaus St. Nikolaus</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Category Management & Shopper Marketing (w/m/d)</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Human Capital (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Audit (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Sap Consulting (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Mint - Tax (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Technology Strategy (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Analytics / Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Transfer Pricing (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Resource Management (m/w/d)</td><td>Frankfurt (Main) +5</td><td>2026-08-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Valuation & Modeling (m/w/d)</td><td>Stuttgart</td><td>2026-08-04</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Kinderschutz (m/w/d)</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Products & Rights (m/w/d)</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Internationaler Nachwuchsfußball (m/w/d)</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im It-support Und Controlling</td><td>Abstatt</td><td>2026-08-04</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im It-support Und Controlling</td><td>Abstatt</td><td>2026-08-04</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum In Hr, Social Media Und Digitales Lernen</td><td>Aschaffenburg</td><td>2026-08-04</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Hr, Social Media Und Digitales Lernen</td><td>Aschaffenburg</td><td>2026-08-04</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Supply Chain Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-04</td></tr>
+<tr><td>TE Connectivity</td><td>Strategic Procurement Intern (m/w/d)</td><td>Waiblingen</td><td>2026-08-04</td></tr>
+<tr><td>TE Connectivity</td><td>Co-op/intern</td><td>Waiblingen</td><td>2026-08-04</td></tr>
+<tr><td>Barilla Group</td><td>Praktikum Im Trade Marketing - Barilla Pesto</td><td>Cologne</td><td>2026-08-04</td></tr>
+<tr><td>EY</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>114</td><td>Is Working Student (m/f/d)</td><td>Karlsruhe</td><td>2026-08-04</td></tr>
+<tr><td>Valeo</td><td>Is Working Student (m/f/d)</td><td>Karlsruhe</td><td>2026-08-04</td></tr>
+<tr><td>valeo.in</td><td>Is Working Student (m/f/d)</td><td>Karlsruhe</td><td>2026-08-04</td></tr>
+<tr><td>Puma</td><td>Internship Design Accessories</td><td>Puma Way Headquarters</td><td>2026-08-04</td></tr>
+<tr><td>ThyssenKrupp AG</td><td>Praktikant:in (m/w/d) Medieneinsatz Im Bereich Downstream Operations</td><td>Hamborn</td><td>2026-08-04</td></tr>
+<tr><td>thyssenkrupp Steel Business Services GmbH</td><td>Praktikant:in (m/w/d) Medieneinsatz Im Bereich Downstream Operations</td><td>Hamborn</td><td>2026-08-04</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Praktikum (m/w/d)</td><td>Bad Berneck</td><td>2026-08-04</td></tr>
+<tr><td>Deutz AG</td><td>Praktikant / Umschüler (m/w/d) Gewerblich</td><td>Cologne</td><td>2026-08-04</td></tr>
+<tr><td>Roche Holding AG</td><td>Praktikum Im Bereich Learning & Organizational Development (m/w/d)</td><td>Freiburg Im Breisgau</td><td>2026-08-04</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Praktikum Im Bereich Learning & Organizational Development (m/w/d)</td><td>Freiburg Im Breisgau</td><td>2026-08-04</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Intern Computer Vision And Automation In Electron Microscopy (f/m/x)</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Kaufmännisch</td><td>Stuttgart</td><td>2026-08-04</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-08-04</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Stuttgart</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zur Fachkraft (all Genders) Für Lagerlogistik - Start 08/2027 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zur Fachkraft (all Genders) Für Lagerlogistik - Start 08/2026 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kunststoff- Und Kautschuktechnologen (all Genders) - Start 08/2027 Standort Le-elspe</td><td>Lennestadt-Elspe</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2026 - Standort Niederwinkling</td><td>Niederwinkling</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Berufskraftfahrer (all Genders) - Start 08/2026 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kunststoff-/kautschuktechnologen (all Genders)- Start '26 - Standort Lennestadt-elspe</td><td>Lennestadt-Elspe</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2026 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kaufmann (all Genders) Speditions-/logistikdienstl. - Start 08/2026 - Standort Ennest</td><td>Ennest</td><td>2026-08-04</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2027 Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-08-04</td></tr>
+<tr><td>LBBW Webspace</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Albstadt (2027)</td><td>Reutlingen</td><td>2026-08-04</td></tr>
+<tr><td>LBBW Webspace</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Gerlingen/leonberg (2027)</td><td>Stuttgart</td><td>2026-08-04</td></tr>
+<tr><td>E.ON SE</td><td>Ausbildung Fachkraft Für Lagerlogistik (m/w/d) Ponholz - Start 2027</td><td>Ponholz</td><td>2026-08-04</td></tr>
+<tr><td>Jobgether</td><td>C# Engineer</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>Sopra Steria UK</td><td>Software Verification Engineer Mission Support Systems (d/f/m) [26121]</td><td>Ingolstadt</td><td>2026-08-04</td></tr>
+<tr><td>GEA</td><td>Werkstudent (m/w/d) - Data Analyst / Data Science</td><td>Wallau</td><td>2026-08-04</td></tr>
+<tr><td>Google</td><td>Business Analyst, Devices And Services Partnerships, Dach</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Bilanzbuchhalter (m/w/d)</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>CGM</td><td>Business Analyst (m/w/d) Abrechnung</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>CSL Plasma</td><td>Center Arzt Berlin Lindencenter (m/w/d)</td><td>Berlin</td><td>2026-08-04</td></tr>
+<tr><td>SSI Schaefer</td><td>Instandhalter - Grafschaft (w/m/d)</td><td>Giebelstadt</td><td>2026-08-04</td></tr>
+<tr><td>KNDS Group</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker / Elektriker - Instandhaltung</td><td>ÜBach</td><td>2026-08-04</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker / Elektriker / Mechatroniker - Instandhaltung (w/m/d)</td><td>Halle (Saale)</td><td>2026-08-04</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Elektriker / Elektroniker (m/w/d)</td><td>Cologne</td><td>2026-08-04</td></tr>
+<tr><td>Swiss Re</td><td>Field Services Engineer (m/f/x/d)</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Hager Group</td><td>Elektroniker / Servicetechniker (m/w/d) Außendienst</td><td>Munich</td><td>2026-08-04</td></tr>
+<tr><td>Hager Group</td><td>Elektroniker/mechatroniker Für Betriebstechnik (m/w/d)</td><td>Hammersbach</td><td>2026-08-04</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik</td><td>Frankfurt Am Main</td><td>2026-08-04</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-08-04</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-08-04</td></tr>
+<tr><td>cflex</td><td>Industriemechaniker*in Für Den Bereich Instandhaltung (m/w/d)</td><td>Pirk</td><td>2026-08-04</td></tr>
+<tr><td>Altana</td><td>Employee Legacy Repair & Service Support (m/w/d)</td><td>Germany</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Instandhaltungsmonteur Im Bereich Reparatur Dienstleistungen (m/w/d)</td><td>Lindenberg Im AllgäU</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Mitarbeiter Im Technischen Support (m/w/d)</td><td>Dettingen</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d)</td><td>Stockach</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) Für Die Region Vorpommern-rügen</td><td>Vorpommern-RüGen</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen In Der Werkstatt (m/w/d)</td><td>MüNchen-Hohenlinden</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker (m/w/d) Batterie-speichersysteme</td><td>Ulm</td><td>2026-08-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Betontechnik Im Außendienst (m/w/d) - Region Berlin/brandenburg</td><td>Berlin-Kleinmachnow</td><td>2026-08-04</td></tr>
+<tr><td>Lucid Motors</td><td>Service Technician, Witten (m/f/d)</td><td>Dusseldorf</td><td>2026-08-04</td></tr>
+<tr><td>Pfh</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-08-04</td></tr>
+<tr><td>Pvhcc</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-08-04</td></tr>
+<tr><td>Seed ValleyEnza Zaden</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-08-04</td></tr>
+<tr><td>Coloplast</td><td>Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)</td><td>Hamburg</td><td>2026-08-04</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer M/w/d Minijob</td><td>Cologne</td><td>2026-08-04</td></tr>
+<tr><td>sonnen</td><td>Sustainability Specialist (m/w/d) In Teilzeit</td><td>Wildpoldsried</td><td>2026-08-04</td></tr>
+<tr><td>Dachser SE</td><td>Sachbearbeiter (m/w/d) Administration Warehouse</td><td>Berlin</td><td>2026-08-04</td></tr>
 </table>
