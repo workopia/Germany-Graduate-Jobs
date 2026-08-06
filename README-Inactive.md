@@ -2488,4 +2488,45 @@
 <tr><td>adidas AG</td><td>Retail Assistant - Minijob (m/f/d) - Factory Outlet Neumuenster</td><td>Kiel</td><td>2026-08-05</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Berlin</td><td>2026-08-05</td></tr>
 <tr><td>KNDS Group</td><td>Assistenz (m/w/d) Der Hauptabteilungsleitung</td><td>Germany</td><td>2026-08-05</td></tr>
+<tr><td>Busch Dienste GmbH</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Research & Development - Stock Preparation</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Corporate Sustainability</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Praktikum (m/w/d) Im Bereich Forschung; Entwicklung; Konstruktion - Start: Flexibel</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Internship (m/f/d) - Business Development International Service</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Intern Material Testing</td><td>Salzgitter</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Global Value Management - Cost-optimized Product Design</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Internship (with Optional Thesis) - Aftermarket Business/parts Management</td><td>Crailsheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Internship (m/f/d) In Global Communications / Operational Excellence & Digital</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Customer Service & Sales</td><td>Heidenheim</td><td>2026-08-06</td></tr>
+<tr><td>Dachser SE</td><td>Praktikant (m/w/d)</td><td>Amt Wachsenburg</td><td>2026-08-06</td></tr>
+<tr><td>Dachser SE</td><td>Praktikant (m/w/d) Fos - Jahrespraktikum</td><td>Saarbruecken</td><td>2026-08-06</td></tr>
+<tr><td>kanzlei-stellenmarkt.de</td><td>Praktikum - Experience@linklaters In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-06</td></tr>
+<tr><td>kanzlei-stellenmarkt.de</td><td>Praktikum - Experience@linklaters In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-08-06</td></tr>
+<tr><td>kanzlei-stellenmarkt.de</td><td>Praktikum - Experience@linklaters In München</td><td>Munich</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Intern Portfolio Planning & Project Execution (m/f/d)</td><td>Hamburg</td><td>2026-08-06</td></tr>
+<tr><td>why LLP</td><td>Praktikum - Experience@linklaters In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-06</td></tr>
+<tr><td>Linklaters</td><td>Praktikum - Experience@linklaters In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-06</td></tr>
+<tr><td>why LLP</td><td>Praktikum - Experience@linklaters In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-08-06</td></tr>
+<tr><td>Linklaters</td><td>Praktikum - Experience@linklaters In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-08-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Auszubildende/r Mechatronik 2027 (m/w/d)</td><td>Stuttgart</td><td>2026-08-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Zur Fachkraft Für Schutz Und Sicherheit (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-08-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-08-06</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-08-06</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Ausbildung Zum Fachinformatiker Fr Anwendungsentwicklung M/w/d 2026</td><td>Aurich-Tannenhausen</td><td>2026-08-06</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer – Intersystems Caché & Trakcare His</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>SumUp</td><td>Software Engineer - Global Expansion</td><td>Berlin</td><td>2026-08-06</td></tr>
+<tr><td>NIQ</td><td>Junior Industry Insight Analyst (m/w/d) German Speaking</td><td>Frankfurt Am Main</td><td>2026-08-06</td></tr>
+<tr><td>IQVIA Holdings</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Elektriker / Elektroniker / Servicetechniker (m/w/d)</td><td>Munich</td><td>2026-08-06</td></tr>
+<tr><td>RWS GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Im Bereich Electrical Maintenance</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>Salzgitter AG</td><td>Servicetechniker Sicherheitstechnik (w/m/d) In Hamburg</td><td>Hamburg</td><td>2026-08-06</td></tr>
+<tr><td>Aper</td><td>Field Application Engineer</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle Wittenberg +1</td><td>2026-08-06</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle Wittenberg +1</td><td>2026-08-06</td></tr>
+<tr><td>Holcim</td><td>Inspektor Vorbeugende Instandhaltung (m/w/d)</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>Albrecht Jung GmbH & Co. KG</td><td>Servicetechniker - Knx / Jung Systeme Für München (m/w/d)</td><td>Munich</td><td>2026-08-06</td></tr>
+<tr><td>DHL Group</td><td>Elektroniker / Mechatroniker (m/w/d)</td><td>Saulheim</td><td>2026-08-06</td></tr>
+<tr><td>Trane Technologies</td><td>Servicetechniker (w/m/d)</td><td>Rosengarten</td><td>2026-08-06</td></tr>
+<tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Germany</td><td>2026-08-06</td></tr>
 </table>
