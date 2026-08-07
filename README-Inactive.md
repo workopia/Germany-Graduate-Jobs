@@ -2529,4 +2529,100 @@
 <tr><td>DHL Group</td><td>Elektroniker / Mechatroniker (m/w/d)</td><td>Saulheim</td><td>2026-08-06</td></tr>
 <tr><td>Trane Technologies</td><td>Servicetechniker (w/m/d)</td><td>Rosengarten</td><td>2026-08-06</td></tr>
 <tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Germany</td><td>2026-08-06</td></tr>
+<tr><td>Bäcker Görtz</td><td>Mitarbeiter Im Verkauf (m/w/d) - Brühl</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Inhouse Consulting - Business Innovation</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>Brunswick Group</td><td>Internship Program Spring 2027, Frankfurt - Germany</td><td>Frankfurt Am Main</td><td>2026-08-07</td></tr>
+<tr><td>AptarGroup</td><td>Praktika / Abschlussarbeiten (bachelor/master) Bei Der Aptar Freyung Gmbh</td><td>Freyung</td><td>2026-08-07</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Praktikant (m/w/d) Im Strategischen Einkauf</td><td>Stuttgart</td><td>2026-08-07</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Public Affairs (d/m/w)</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>Coloplast</td><td>Praktikant / Intern R&d - Medical Device Development (m/w/d)</td><td>Darmstadt</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Sap Ixp Intern (f/m/d) - Go-to-market Strategy To Execution</td><td>Walldorf +1</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Diploma Student / Intern</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Diploma Student/intern (m/f/d) - Global Ombuds Office / Learning & Development / Conflict Management</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Sap Ixp Intern (f/m/d) - Project & Communications Management Support</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Bachelor Of Science (b.sc.) (m/w/d) Intern. Wirtschaftsinformatik (ibait) Start 2027 (star)</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Working Student (f/m/d) - Marketing Associate In Emarsys Integration</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Sap Ixp Intern (f/m/d) - Quality Assurance Process And Communication Support</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP Concur</td><td>Sap Ixp Intern (f/m/d) - Hcm (human Capital Management) Solution Advisory</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Taff (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Tv-produktion Magazine & News (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Galileo (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum News-redakteur Text (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Conception (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>COTY Inc</td><td>Working Student/intern Marketing (m/w/d)</td><td>Darmstadt +2</td><td>2026-08-07</td></tr>
+<tr><td>ALTANA AG</td><td>Marketing Praktikant (m/w/d)</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>Tiffany 2</td><td>Intern Marketing (m/f/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>Tiffany</td><td>Intern Marketing (m/f/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>Tenova S.p.A</td><td>Internship Industrial Furnaces / Plant Engineering</td><td>Dusseldorf</td><td>2026-08-07</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Gaming-news 4p.de (m/w/d)</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>(online-) Volontariat - Westfalenpost (m/w/d)</td><td>Dortmund</td><td>2026-08-07</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikant Investments (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Redaktion - Waz, Nrz & Westfalenpost (m/w/d)</td><td>Wuppertal</td><td>2026-08-07</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Marketing - Myself, Donna & Landidee (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>Brose Fahrzeugteile SE & Co. Kommanditgesellschaft</td><td>Internship Corporate Venture Capital - Brose Ventures</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Quality Assurance Process And Communication Support</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Hcm (human Capital Management) Solution Advisory</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern (w/m/d) - Hcm (human Capital Management) Solution Advisory</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>E.ON SE</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-08-07</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-08-07</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Praktikum Für Frauen</td><td>Wuppertal</td><td>2026-08-07</td></tr>
+<tr><td>CLAAS Group</td><td>Praktikum Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-08-07</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Hochschulpraktikum</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>ABB UK</td><td>Internship (m/f/d) - Global Optimization Of A Specific Nonlinear Optimization Problem</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>ABB Ltd</td><td>Internship (m/f/d) - Global Optimization Of A Specific Nonlinear Optimization Problem</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>adesso-group</td><td>Schulpraktikum (all Genders)</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>PERI GmbH</td><td>Pflichtpraktikum (m/w/d) - Hr Shared Service</td><td>Ulm</td><td>2026-08-07</td></tr>
+<tr><td>Altana</td><td>Ausbildung Zum Lacklaboranten (m/w/d) Start 2027</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Oberflächenbeschichter (m/w/d) - Ausbildungsbeginn: Herbst 2027</td><td>Lindenberg Im AllgäU</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Fachlagerist (m/w/d) Standort Lindenberg - Ausbildungsbeginn: Herbst 2027</td><td>Lindenberg Im AllgäU</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Industriekaufmann (m/w/d) Beginn 2027</td><td>Bad Schussenried</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Technischen Produktdesigner (m/w/d) - Ausbildungsbeginn: Herbst 2027</td><td>Lindenberg Im AllgäU</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2027 (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildende(r) Mechatroniker(in) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-08-07</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2026 (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-08-07</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Ausbildung Als Fachinformatiker (m/w/d) Ab 01.09.2027</td><td>Denklingen</td><td>2026-08-07</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Ausbildung Als Werkzeugmechaniker (m/w/d) Ab 01.09.2027</td><td>Denklingen +1</td><td>2026-08-07</td></tr>
+<tr><td>AGCO</td><td>Ausbildung Zum Industriemechaniker (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-Baeumenheim</td><td>2026-08-07</td></tr>
+<tr><td>Festo</td><td>Umschulung Mechatroniker (m/w/d)</td><td>St. Ingbert</td><td>2026-08-07</td></tr>
+<tr><td>SGL Carbon</td><td>Ausbildungsplatz Zum Maschinen- Und Anlagenführer (m/w/d) Zum 01.09.2026</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>createyourowncareer</td><td>C++ Engineer (f/m/d)</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>Thales Group</td><td>Java Softwareentwickler (m/w/d) Für Hmi</td><td>Stuttgart</td><td>2026-08-07</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Customer Risk Lifecycle</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Ai/ml, Gemini Integration/customisation</td><td>ZüRich +1</td><td>2026-08-07</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Prompt / Ai Engineer (m/w/d) Conversational Agents</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>bk-berater</td><td>Lohn- Und Gehaltsbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-08-07</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Assistenzarzt (m/w/d) Innere Medizin Und Geriatrie</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Facharzt Hygiene Und Umweltmedizin Oder Mikrobiologie, Virologie Und Infektionsepidemiologie (m/w/d)</td><td>Berlin</td><td>2026-08-07</td></tr>
+<tr><td>ukdd</td><td>Pflegefachkraft (m/w/d) Neurochirurgische Normal Care</td><td>Germany</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet</td><td>Frankfurt Am Main</td><td>2026-08-07</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-08-07</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-08-07</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-08-07</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-08-07</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-08-07</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Betriebstechnik (w/m/d)</td><td>Bevern</td><td>2026-08-07</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Maintenance Technician For Facility Management (f/m/d)</td><td>Eurasburg</td><td>2026-08-07</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Constance</td><td>2026-08-07</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer/ Kundenberater (m/w/d) O2 Shop Reutlingen</td><td>Reutlingen</td><td>2026-08-07</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-08-07</td></tr>
+<tr><td>aldi-sued</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-08-07</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Spitalerstraße Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-08-07</td></tr>
+<tr><td>376</td><td>Flexible Aushilfe Düsseldorf Calvin Klein (m/w/d)</td><td>Dusseldorf</td><td>2026-08-07</td></tr>
+<tr><td>Pfh</td><td>Flexible Aushilfe Düsseldorf Calvin Klein (m/w/d)</td><td>Dusseldorf</td><td>2026-08-07</td></tr>
+<tr><td>Designeroutletberlin</td><td>Flexible Aushilfe Düsseldorf Calvin Klein (m/w/d)</td><td>Dusseldorf</td><td>2026-08-07</td></tr>
+<tr><td>Dmhvh</td><td>Flexible Aushilfe Düsseldorf Calvin Klein (m/w/d)</td><td>Dusseldorf</td><td>2026-08-07</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Hamburg</td><td>2026-08-07</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Tostedt (25 Std)</td><td>Hamburg</td><td>2026-08-07</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Mutterstadt (18,5 Std)</td><td>Mannheim</td><td>2026-08-07</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Logistikmitarbeiter*in (m/w/d) Wareneingang</td><td>Obersontheim</td><td>2026-08-07</td></tr>
+<tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
 </table>
