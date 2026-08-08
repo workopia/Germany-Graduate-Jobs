@@ -2625,4 +2625,98 @@
 <tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Mutterstadt (18,5 Std)</td><td>Mannheim</td><td>2026-08-07</td></tr>
 <tr><td>Alfred Kaercher SE Co KG</td><td>Logistikmitarbeiter*in (m/w/d) Wareneingang</td><td>Obersontheim</td><td>2026-08-07</td></tr>
 <tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-08-07</td></tr>
+<tr><td>Panadol</td><td>Praktikant:in / Werkstudent:in Brand Management Oral Care (m/w/d)</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Der Entwicklung Und Fertigung Von Mems Sensoren</td><td>Reutlingen</td><td>2026-08-08</td></tr>
+<tr><td>CLAAS</td><td>Student (m/w/d) Claas Inside Im Bereich Fügetechnik</td><td>Bielefeld</td><td>2026-08-08</td></tr>
+<tr><td>Bosch Group</td><td>Mandatory Internship In The Strategic Purchasing For Turned Parts</td><td>Stuttgart</td><td>2026-08-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Your Tax Experience (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Transaction Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum M&a Advisory (m/w/d)</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Audit / Wirtschaftsprüfung (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Puma</td><td>Internship Global Sporting Moments</td><td>Puma Way Headquarters</td><td>2026-08-08</td></tr>
+<tr><td>Nordex SE</td><td>Working Student (m/f/d) Corporate Development & Strategy - Hamburg</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Nordex SE</td><td>Intern Portfolio Planning & Project Execution (m/f/d)</td><td>Hamburg +1</td><td>2026-08-08</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Fendt Product Marketing Harvesting (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-08</td></tr>
+<tr><td>DeepL</td><td>Working Student, It (werkstudent)</td><td>Cologne</td><td>2026-08-08</td></tr>
+<tr><td>Roche Holding AG</td><td>Praktikum (b.sc. / M.sc.) Innerhalb R&d Für Sequencing Projekte, Standort Penzberg (m/w/d)</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Praktikum (b.sc. / M.sc.) Innerhalb R&d Für Sequencing Projekte, Standort Penzberg (m/w/d)</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Praktikant (d/m/w) Im Bereich Der Airbus Industrial Academy</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Airbus SE</td><td>Praktikant (d/m/w) Im Bereich Der Airbus Industrial Academy</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship Strategic Programs & Negotiations (f/m/x)</td><td>Jena</td><td>2026-08-08</td></tr>
+<tr><td>Zeiss Group</td><td>Internship Strategic Programs & Negotiations (f/m/x)</td><td>Jena</td><td>2026-08-08</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Kinderhaus St. Nikolaus</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Tetra Pak</td><td>Intern Hr Country Services Germany & Austria</td><td>Frankfurt Am Main</td><td>2026-08-08</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-08-08</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler Im Gewerblichen Bereich (m/w/d)</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-08</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>One Nexus / Trainee (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-08</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Ausbildung Zum Fachinformatiker (m/w/d) Für Anwendungsentwicklung - Berlin</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Hager Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer M/w/d (ottfingen)</td><td>Ottfingen</td><td>2026-08-08</td></tr>
+<tr><td>createyourowncareer</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/x)</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Oxford Instruments</td><td>Trainee Wholesale</td><td>Frankfurt Am Main</td><td>2026-08-08</td></tr>
+<tr><td>SKF Group</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>SKF Sverige AB</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Festo</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-08</td></tr>
+<tr><td>Altana</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Start 2027</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>Elringklinger Group</td><td>Dhbw-student Maschinenbau (m/w/d) Kunststofftechnik / Ausbildungsbeginn: 06.09.2027</td><td>Reutlingen</td><td>2026-08-08</td></tr>
+<tr><td>Elringklinger Group</td><td>Auszubildenden Zum Industriekaufmann (m/w/d) / Ausbildungsbeginn: 06.09.2027</td><td>Reutlingen</td><td>2026-08-08</td></tr>
+<tr><td>Elringklinger Group</td><td>Auszubildenden Zum Mechatroniker (m/w/d) / Ausbildungsbeginn: 06.09.2027</td><td>Reutlingen</td><td>2026-08-08</td></tr>
+<tr><td>Elringklinger Group</td><td>Auszubildenden Zum Fachinformatiker Für Systemintegration (m/w/d) / Ausbildungsbeginn: 06.09.2027</td><td>Reutlingen</td><td>2026-08-08</td></tr>
+<tr><td>Liebherr-Werk Ehingen GmbH</td><td>Softwareingenieur (m/w/d) Im Bereich Statik Und Strukturmechanik</td><td>Ulm</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Growth Engineer</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>KNDS Group</td><td>Softwareentwickler (m/w/d) Für Konstruktive Simulationen</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>GK SOFTWARE SE</td><td>Java Developer (all Genders)</td><td>SchöNeck +1</td><td>2026-08-08</td></tr>
+<tr><td>EndressHauser AG</td><td>Software Ingenieur System Integration (w/m/d)</td><td>Nesselwang</td><td>2026-08-08</td></tr>
+<tr><td>Gebhardt Fordertechnik GmbH</td><td>It Service Desk Mitarbeiter (m/w/d)</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>fisgruppe</td><td>Mitarbeiter Im It-servicedesk / It-support (m/w/x)</td><td>Grafenrheinfeld</td><td>2026-08-08</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Javascript / Typescript Developer (m/w/d)</td><td>Ismaning +1</td><td>2026-08-08</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Softwareentwickler C# / .net Core - München (ismaning)</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>Libryo</td><td>Erfahrener Bilanzbuchhalter</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>jaxlabs.be</td><td>Financial Accountant (m/w/d) Im Private Banking</td><td>Frankfurt A.M.</td><td>2026-08-08</td></tr>
+<tr><td>bk-berater</td><td>Finanzbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-08-08</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Assistenzarzt Stationärer Und Teilstationärer Bereich Der Kjpp (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>uksh</td><td>Mfa / Gkp / Altenpfleger / Krankenpflegehelfer (m/w/d) Hno Ambulanz</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-08-08</td></tr>
+<tr><td>E.ON SE</td><td>Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>E.ON SE</td><td>Servicemonteur Cng Anlagen Für Süddeutschland (w/m/d)</td><td>Essen</td><td>2026-08-08</td></tr>
+<tr><td>E.ON SE</td><td>Servicetechniker Für Zählermontagen, Region Königs Wusterhausen (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>E.ON SE</td><td>Elektroniker / Mechatroniker - Netzbetrieb Strom (m/w/d)</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Mechatroniker / Mechatronikerin (m/w/d) Instandhaltung Schienenfahrzeuge</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Elektroniker / Elektronikerin (m/w/d) Instandhaltung Schienenfahrzeuge</td><td>Germany</td><td>2026-08-08</td></tr>
+<tr><td>Voith</td><td>Servicemonteur (m/w/d) Außendienst Schienenfahrzeuge</td><td>Kiel</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Rottenburg An Neckar / Tübingen</td><td>Rottenburg Am Neckar +1</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Großraum Neuss</td><td>Dusseldorf</td><td>2026-08-08</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-08-08</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum München</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Bereich Großreparatur</td><td>Dusseldorf</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum München</td><td>Munich</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Leipzig</td><td>Leipzig</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Bremen</td><td>Bremen</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-08-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Bruchsal / Hockenheim</td><td>Karlsruhe</td><td>2026-08-08</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 78343 Gaienhofen In Geringfügigkeit (minijob)</td><td>Constance</td><td>2026-08-08</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 69257 Wiesenbach In Teilzeit (svpflichtig)</td><td>Mannheim</td><td>2026-08-08</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 42929 Wermelskirchen In Teilzeit (svpflichtig)</td><td>Wuppertal</td><td>2026-08-08</td></tr>
+<tr><td>Sixt</td><td>Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Dusseldorf</td><td>2026-08-08</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Kranzler Eck Berlin (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Priorityhondaroanoke</td><td>Verkaufsberater In Vollzeit Berlin Kadewe Tommy Hilfiger Menswear(m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Verkäuferin (m/w/d)</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-08-08</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Verkäuferin / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-08</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist - Teilzeit (m/w/d)</td><td>Nuremberg</td><td>2026-08-08</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) Befristet - Fo Zweibrücken</td><td>Saarbruecken</td><td>2026-08-08</td></tr>
+<tr><td>Nilfisk</td><td>Warehouse Assistent</td><td>Bellenberg</td><td>2026-08-08</td></tr>
+<tr><td>Misterspex</td><td>Verkäufer (m/w/d) In Berlin</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Misterspex</td><td>Werkstudent Verkäufer (m/w/d) In Köln</td><td>Cologne</td><td>2026-08-08</td></tr>
+<tr><td>Fast Retailing</td><td>Verkäufer:in In Voll- Und Teilzeit (m/w/d) Uniqlo Hackescher Markt, Berlin</td><td>Berlin</td><td>2026-08-08</td></tr>
+<tr><td>Chnetwork</td><td>Pr Coordinator (m/w/d)</td><td>Hamburg</td><td>2026-08-08</td></tr>
+<tr><td>G&F Châtelain</td><td>Pr Coordinator (m/w/d)</td><td>Hamburg</td><td>2026-08-08</td></tr>
 </table>
