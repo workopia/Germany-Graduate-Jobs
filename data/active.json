@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-09",
- "count": 688,
+ "asOf": "2026-08-10",
+ "count": 686,
  "jobs": {
   "2645875": {
    "id": "2645875",
@@ -25,6 +25,90 @@
    "company": "Fairfamily",
    "role": "Junior Business Analyst (m/w/d) – Daten, Kpis & Reporting, Mit Ki-perspektive",
    "location": "Hamburg"
+  },
+  "4e7cb9a9cca96596fcea84012b8ca11a": {
+   "id": "4e7cb9a9cca96596fcea84012b8ca11a",
+   "company": "AGCO",
+   "role": "Praktikant/werkstudent (m/w/d) Für Den Bereich Recht Und Compliance (wise 26/27)",
+   "location": "Kempten Allgau"
+  },
+  "16726379fc62b1121e193273a4aa5c5e": {
+   "id": "16726379fc62b1121e193273a4aa5c5e",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Initiativbewerbung Für Ein Schulpraktikum Am Standort Winnenden",
+   "location": "Stuttgart"
+  },
+  "23145bc24f2d16319e44650f8b11692a": {
+   "id": "23145bc24f2d16319e44650f8b11692a",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Praktikum Konzernkonsolidierung",
+   "location": "Stuttgart"
+  },
+  "c1e20d9a5f391ecd498164816cd76d91": {
+   "id": "c1e20d9a5f391ecd498164816cd76d91",
+   "company": "Uniper Holding GmbH",
+   "role": "Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)",
+   "location": "Dusseldorf"
+  },
+  "49d69f37e8e08e1db15c722853d58ce5": {
+   "id": "49d69f37e8e08e1db15c722853d58ce5",
+   "company": "Bitzer SE",
+   "role": "Initiativbewerbung Praktikum / Abschlussarbeit (m/w/d)",
+   "location": "Rottenburg - Ergenzingen +3"
+  },
+  "ff263fc698e436c4ef697690620e5dcb": {
+   "id": "ff263fc698e436c4ef697690620e5dcb",
+   "company": "Bitzer SE",
+   "role": "Praktikum Human Resources (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "6351032e44dc6e64ed94f0fb023aa8c1": {
+   "id": "6351032e44dc6e64ed94f0fb023aa8c1",
+   "company": "Excelitas Technologies Corporation",
+   "role": "Working Student / Intern (f/m/d) Human Resources",
+   "location": "Munich"
+  },
+  "7c02252a3bae902796f766fc5702469e": {
+   "id": "7c02252a3bae902796f766fc5702469e",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Werkstudent / Praktikant (m/w/d) Im Bereich Language Data Management",
+   "location": "Ulm"
+  },
+  "621c42a144432482d85622e88ca1964c": {
+   "id": "621c42a144432482d85622e88ca1964c",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Praktikum/abschlussarbeit In Der Distributionslogistik",
+   "location": "Ulm"
+  },
+  "04c296fcb07c7e09280ceceb367ccf5b": {
+   "id": "04c296fcb07c7e09280ceceb367ccf5b",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Praktikum Im E-business - Business Intelligence & Digital Analyst - Ulm",
+   "location": "Ulm"
+  },
+  "1f6fbb4a8fc644b2b0018f1173714d07": {
+   "id": "1f6fbb4a8fc644b2b0018f1173714d07",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Pflichtpraktikant Onboarding In Der Personalentwicklung Für 6 Monate (m/w/d)",
+   "location": "Lindenberg Im AllgäU"
+  },
+  "7f694c927c9bb559fb4a3cf6334d3347": {
+   "id": "7f694c927c9bb559fb4a3cf6334d3347",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Praktikant Lean Academy (m/w/d)",
+   "location": "Kirchdorf/Oberopfingen"
+  },
+  "340d2638b83e9d9c81b902eac264f48e": {
+   "id": "340d2638b83e9d9c81b902eac264f48e",
+   "company": "RWE AG",
+   "role": "Praktikant (d/w/m) Learning & Employee Experience",
+   "location": "Wuppertal"
+  },
+  "2e4b476ca7435c38ea21ca626177c8a7": {
+   "id": "2e4b476ca7435c38ea21ca626177c8a7",
+   "company": "Fritz Schaefer GmbH",
+   "role": "Ausbildung Fachinformatiker Für Systemintegration (w/m/d) 2027",
+   "location": "Giebelstadt +1"
   },
   "785a73b69002870e9fefc70fa631e586": {
    "id": "785a73b69002870e9fefc70fa631e586",
@@ -137,6 +221,12 @@
   "8ee0e16dc58f86b0b87574006c3e1f4f": {
    "id": "8ee0e16dc58f86b0b87574006c3e1f4f",
    "company": "Roche Holding AG",
+   "role": "Praktikum Msat Process Science Technology (m/w/d)",
+   "location": "Munich"
+  },
+  "eaae8d21aa87be7c9d95644f900f9c41": {
+   "id": "eaae8d21aa87be7c9d95644f900f9c41",
+   "company": "healthsciencejobs.ch",
    "role": "Praktikum Msat Process Science Technology (m/w/d)",
    "location": "Munich"
   },
@@ -284,12 +374,6 @@
    "role": "Praktikant (m/w/d) - Initiativbewerbung",
    "location": "Berlin"
   },
-  "e4c6e80f4e61ee90c21c90bd1549aa15": {
-   "id": "e4c6e80f4e61ee90c21c90bd1549aa15",
-   "company": "Uniper Holding GmbH",
-   "role": "Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)",
-   "location": "Dusseldorf"
-  },
   "80da8a1696245321000470a8cb64d8ad": {
    "id": "80da8a1696245321000470a8cb64d8ad",
    "company": "Piller Blowers & Compressors GmbH",
@@ -422,89 +506,119 @@
    "role": "Praktikum Vertrieb Molbergen",
    "location": "Oldenburg"
   },
-  "1d04bda0f9266bbe49a3fccd924344e5": {
-   "id": "1d04bda0f9266bbe49a3fccd924344e5",
-   "company": "Festo",
-   "role": "Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder",
+  "3476bda7cd6d43c4182bdfcbf7292f11": {
+   "id": "3476bda7cd6d43c4182bdfcbf7292f11",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Auszubildende/r Mechatronik 2027 (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "0cb88aa089b48f8188799960a2f3e74a": {
+   "id": "0cb88aa089b48f8188799960a2f3e74a",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Ausbildung Zur Fachkraft Für Schutz Und Sicherheit (m/w/d) Am Standort Winnenden 2027",
+   "location": "Stuttgart"
+  },
+  "8b65fda12b52f354a960b5809324c65c": {
+   "id": "8b65fda12b52f354a960b5809324c65c",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027",
+   "location": "Stuttgart"
+  },
+  "ecf8d5c763ee3db1def00acf997d6e9a": {
+   "id": "ecf8d5c763ee3db1def00acf997d6e9a",
+   "company": "HAVI",
+   "role": "Auszubildende:r (m/w/d) Berufskraftfahrer (start 01.08.2026)",
+   "location": "Nach Standort Suchen"
+  },
+  "ac361f11ecb44d9c9b78f5e865d79bad": {
+   "id": "ac361f11ecb44d9c9b78f5e865d79bad",
+   "company": "Uniper Holding GmbH",
+   "role": "Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027",
+   "location": "Unterreit"
+  },
+  "c38aaa586206b4aa7be5048d16a36fb9": {
+   "id": "c38aaa586206b4aa7be5048d16a36fb9",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zum Industriekaufmann (m/w/d) Ab 2027",
+   "location": "Lindau"
+  },
+  "e4f4681e23aa1ef49e482308e31ed28d": {
+   "id": "e4f4681e23aa1ef49e482308e31ed28d",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2026 (m/w/d)",
+   "location": "Kirchdorf An Der Iller"
+  },
+  "4fc27b21e322c11645426fc8dd89efe9": {
+   "id": "4fc27b21e322c11645426fc8dd89efe9",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Auszubildende(r) Mechatroniker(in) Ab September 2027",
+   "location": "Kirchdorf An Der Iller"
+  },
+  "d97dc9fa04ff04560d1d1b2840db3327": {
+   "id": "d97dc9fa04ff04560d1d1b2840db3327",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Auszubildender Konstruktionsmechaniker (m/w/d) Ab September 2027",
+   "location": "Kirchdorf An Der Iller"
+  },
+  "9850b977762b3936727d6e16b96e8a59": {
+   "id": "9850b977762b3936727d6e16b96e8a59",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zum Kaufmann Für Digitalisierungsmanagement Ab September 2027",
+   "location": "Oberopfingen"
+  },
+  "79155e40e0511416bcd03e0e4380f9b0": {
+   "id": "79155e40e0511416bcd03e0e4380f9b0",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zum Fachlagerist (m/w/d) Standort Lindenberg - Ausbildungsbeginn: Herbst 2027",
+   "location": "Lindenberg Im AllgäU"
+  },
+  "1186b09ce372028cb902cd8663ac6010": {
+   "id": "1186b09ce372028cb902cd8663ac6010",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zum Industriekaufmann (m/w/d) Beginn 2027",
+   "location": "Bad Schussenried"
+  },
+  "115f14ddc503078b9478ce2627152756": {
+   "id": "115f14ddc503078b9478ce2627152756",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d) Ab 01.09.2027",
+   "location": "MüNchen-Hohenlinden"
+  },
+  "f154eef02ddd2cd9f1acad491a92b1d6": {
+   "id": "f154eef02ddd2cd9f1acad491a92b1d6",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2027 (m/w/d)",
+   "location": "Kirchdorf An Der Iller"
+  },
+  "170d1db5e28332ac6a23a4e3ec168892": {
+   "id": "170d1db5e28332ac6a23a4e3ec168892",
+   "company": "Festo AG & Co. KG",
+   "role": "Ausbildung Fachlagerist (m/w/d) 2027",
    "location": "Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen"
   },
-  "22022f52d78752e56b8ba7fc1d27808f": {
-   "id": "22022f52d78752e56b8ba7fc1d27808f",
-   "company": "Festo",
-   "role": "Praktikum Im Bereich Hr Employee Services Standort Saarland",
-   "location": "Saarland"
-  },
-  "ab524c03ff51fea407dfc76f3972c44a": {
-   "id": "ab524c03ff51fea407dfc76f3972c44a",
-   "company": "Festo",
-   "role": "Praktikum Duales Studium - Bogy & Studienorientierung",
-   "location": "Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen"
-  },
-  "14a5b50bf875915f6066a05878f5bfbb": {
-   "id": "14a5b50bf875915f6066a05878f5bfbb",
-   "company": "849",
-   "role": "Strategic Procurement Intern",
+  "ef3f8a4a2b24fb22348f33f8786a02a1": {
+   "id": "ef3f8a4a2b24fb22348f33f8786a02a1",
+   "company": "DekaBank Deutsche Girozentrale",
+   "role": "Trainee (w/m/d) Projekte & Prozesse Zahlungsservice / Finanzinstrumente",
    "location": "Frankfurt Am Main"
   },
-  "182aaaf56e8e87de424b68000f76eda2": {
-   "id": "182aaaf56e8e87de424b68000f76eda2",
-   "company": "SIGNAL IDUNA",
-   "role": "Praktikant (m/w/d) Aktuariat Lebensversicherung",
-   "location": "Dortmund"
+  "ab7fbc817c478ce80d4140b7ee4d4bcb": {
+   "id": "ab7fbc817c478ce80d4140b7ee4d4bcb",
+   "company": "Witzenmann GmbH",
+   "role": "Auszubildender Werkstoffprüfer 2027 (m/w/d)",
+   "location": "Nach Standort Suchen"
   },
-  "b014ddad97b7fa8c3fa4254652533c00": {
-   "id": "b014ddad97b7fa8c3fa4254652533c00",
-   "company": "SIGNAL IDUNA",
-   "role": "Praktikant (m/w/d) Im Aktuariat Komposit",
-   "location": "Germany"
+  "977cd3a5a0917f2c63ec12cf596d20fb": {
+   "id": "977cd3a5a0917f2c63ec12cf596d20fb",
+   "company": "Holcim",
+   "role": "Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)",
+   "location": "StraßBerg"
   },
-  "e30e82f254e3b10577978b5bf2a9dd6c": {
-   "id": "e30e82f254e3b10577978b5bf2a9dd6c",
-   "company": "Emerson Electric",
-   "role": "Internship Product Management (m/w/d)",
-   "location": "Hanover"
-  },
-  "c54c2c853b8973fd5279486ea1f95771": {
-   "id": "c54c2c853b8973fd5279486ea1f95771",
-   "company": "Bosch Group",
-   "role": "Praktikum Im Internationalen Produktmanagement",
-   "location": "Leinfelden"
-  },
-  "40403bccdffa5b50e73d83b5bf040928": {
-   "id": "40403bccdffa5b50e73d83b5bf040928",
-   "company": "TE Connectivity",
-   "role": "Co-op/intern",
-   "location": "Waiblingen"
-  },
-  "decdc8f6d0c25bfbf22d3b360dbb9b9c": {
-   "id": "decdc8f6d0c25bfbf22d3b360dbb9b9c",
-   "company": "Surteco SE",
-   "role": "Ferienjob / (schul-)praktikum Standort Dunningen",
-   "location": "Freiburg Im Breisgau"
-  },
-  "87e6146b3f794907c945f230eb17d7b4": {
-   "id": "87e6146b3f794907c945f230eb17d7b4",
-   "company": "849",
-   "role": "Marketing Intern - (german Speaker)",
-   "location": "Frankfurt Am Main"
-  },
-  "cc0a74dd7c48b4c06637aa02b83e9729": {
-   "id": "cc0a74dd7c48b4c06637aa02b83e9729",
-   "company": "849",
-   "role": "Growth Strategy Intern - (german Speaker)",
-   "location": "Frankfurt Am Main"
-  },
-  "d234de0ab05456b79197ec690ae45899": {
-   "id": "d234de0ab05456b79197ec690ae45899",
-   "company": "STADA",
-   "role": "School Student Internship (w/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "b36872fe83f039d7b120bec89e9e1d50": {
-   "id": "b36872fe83f039d7b120bec89e9e1d50",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikum Corporate Strategy (m/w/d)",
-   "location": "Munich"
+  "2e57c010202e5ddd90022ce277158a48": {
+   "id": "2e57c010202e5ddd90022ce277158a48",
+   "company": "Fritz Schaefer GmbH",
+   "role": "Ausbildung - Fachinformatiker Für Anwendungsentwicklung (w/m/d) 2027",
+   "location": "Giebelstadt"
   },
   "4339305b398e60559c250ffdd0e1d65b": {
    "id": "4339305b398e60559c250ffdd0e1d65b",
@@ -559,12 +673,6 @@
    "company": "Coperion GmbH",
    "role": "Administrative Services Apprentice-associate Specialist I",
    "location": "Industriestrasse 33"
-  },
-  "fbf31c46d8a63c362d78cf6c0ab5f145": {
-   "id": "fbf31c46d8a63c362d78cf6c0ab5f145",
-   "company": "Uniper Holding GmbH",
-   "role": "Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027",
-   "location": "Unterreit"
   },
   "1ea6669ebcbcd046c5051b350afe6df1": {
    "id": "1ea6669ebcbcd046c5051b350afe6df1",
@@ -878,113 +986,11 @@
    "role": "Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027",
    "location": "Munich"
   },
-  "a3ee862fcfa7d14745f1f81fcdf0dfd3": {
-   "id": "a3ee862fcfa7d14745f1f81fcdf0dfd3",
+  "5021a9a9a28ffdc7753b9c3668bf9ab8": {
+   "id": "5021a9a9a28ffdc7753b9c3668bf9ab8",
    "company": "Scania CV AB",
-   "role": "Ausbildung Fachkraft Lagerlogistik (m/w/d) 2026 Für München/oberschleißheim",
-   "location": "Munich"
-  },
-  "024a9f2a810e02d1b57db31c371c8bf0": {
-   "id": "024a9f2a810e02d1b57db31c371c8bf0",
-   "company": "ELIA SYSTEM OPERATOR NVSA",
-   "role": "Apprenticeship As Electronics Technician For Industrial Engineering, Wolmirstedt(f/m/d)",
-   "location": "Wolmirstedt"
-  },
-  "4f6203f1ecefe7f0ccd1c7fddca50557": {
-   "id": "4f6203f1ecefe7f0ccd1c7fddca50557",
-   "company": "Dachser SE",
-   "role": "Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik",
-   "location": "Berlin"
-  },
-  "57d7cb24258a2c37d7ce8073709f1b65": {
-   "id": "57d7cb24258a2c37d7ce8073709f1b65",
-   "company": "Dachser SE",
-   "role": "Auszubildender (m/w/d) Zum Fachlagerist",
-   "location": "Hanover"
-  },
-  "ba1c7323a222cd4a5f9c5846820b62da": {
-   "id": "ba1c7323a222cd4a5f9c5846820b62da",
-   "company": "Dachser SE",
-   "role": "Auszubildender (m/w/d) Zum Berufskraftfahrer",
-   "location": "Berlin"
-  },
-  "c5c8f2359c97eade3c79a45f0f2c19d9": {
-   "id": "c5c8f2359c97eade3c79a45f0f2c19d9",
-   "company": "Dachser SE",
-   "role": "Management Trainee (m/w/d) Spedition",
-   "location": "Rottenburg Am Neckar"
-  },
-  "e74aa1ca83ddb326d98bca679c6cb1ee": {
-   "id": "e74aa1ca83ddb326d98bca679c6cb1ee",
-   "company": "Fritz Egger GmbH & Co. OG",
-   "role": "Ausbildung Am Standort Bevern",
-   "location": "Bevern"
-  },
-  "3e83ec38ad107ea7302c81eeb1273535": {
-   "id": "3e83ec38ad107ea7302c81eeb1273535",
-   "company": "Fritz Egger GmbH & Co. OG",
-   "role": "Ausbildung Am Standort Marienmünster",
-   "location": "MarienmüNster"
-  },
-  "b98c2dce696bbe3584f554ca6b48932b": {
-   "id": "b98c2dce696bbe3584f554ca6b48932b",
-   "company": "Ardagh Group",
-   "role": "Ausbildung Mechatroniker 2026 (m/w/d)",
-   "location": "Hanover"
-  },
-  "50265bb186a36bc5462700b998fa55ee": {
-   "id": "50265bb186a36bc5462700b998fa55ee",
-   "company": "Telefonica",
-   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027",
-   "location": "Cologne"
-  },
-  "bc3c2ca2f0aa0807f92cff4321c84e34": {
-   "id": "bc3c2ca2f0aa0807f92cff4321c84e34",
-   "company": "Telefonica",
-   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027",
-   "location": "Wuppertal"
-  },
-  "da830dcacc1a35456b426f0fbdf37fb9": {
-   "id": "da830dcacc1a35456b426f0fbdf37fb9",
-   "company": "Salzgitter AG",
-   "role": "Ausbildung Industriemechaniker 2026 (w/m/d)",
-   "location": "Fridingen"
-  },
-  "f38557b038204530b77680b2325f39c1": {
-   "id": "f38557b038204530b77680b2325f39c1",
-   "company": "Oxford Instruments GmbH",
-   "role": "Trainee Wholesale",
-   "location": "Frankfurt Am Main"
-  },
-  "977cd3a5a0917f2c63ec12cf596d20fb": {
-   "id": "977cd3a5a0917f2c63ec12cf596d20fb",
-   "company": "Holcim",
-   "role": "Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)",
-   "location": "StraßBerg"
-  },
-  "9850b977762b3936727d6e16b96e8a59": {
-   "id": "9850b977762b3936727d6e16b96e8a59",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Ausbildung Zum Kaufmann Für Digitalisierungsmanagement Ab September 2027",
-   "location": "Oberopfingen"
-  },
-  "cbb5d428a09693fcc226b49bf8af7eda": {
-   "id": "cbb5d428a09693fcc226b49bf8af7eda",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Werkzeugmechaniker (all Genders) - Start 08/2027 Standort Lennestadt-elspe",
-   "location": "Lennestadt-Elspe"
-  },
-  "545dd1788ae8ed3218a2ecb1a5c6e23a": {
-   "id": "545dd1788ae8ed3218a2ecb1a5c6e23a",
-   "company": "ABB UK",
-   "role": "Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026",
-   "location": "Wuppertal"
-  },
-  "ceaa59050355a7c0441b31931ad5edc4": {
-   "id": "ceaa59050355a7c0441b31931ad5edc4",
-   "company": "ABB Ltd",
-   "role": "Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026",
-   "location": "Wuppertal"
+   "role": "Lehrling Betriebslogistik (m/w/d) Für Haid",
+   "location": "Haid"
   },
   "ede7a07a42596f1ba17ef7fc4df08654": {
    "id": "ede7a07a42596f1ba17ef7fc4df08654",
@@ -1165,6 +1171,24 @@
    "company": "adesso-group",
    "role": "Duales Studium Bachelor Of Engineering - Software Engineering (all Genders)",
    "location": "Hamburg"
+  },
+  "ef8c0f1efe6e762d309530b2365df65d": {
+   "id": "ef8c0f1efe6e762d309530b2365df65d",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Software-entwickler (m/w/d)",
+   "location": "Ulm"
+  },
+  "bfa67a8bb398d72a93193e9374e35a62": {
+   "id": "bfa67a8bb398d72a93193e9374e35a62",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Software Engineer Aerospace Test & Verifikation (m/w/d)",
+   "location": "Ulm"
+  },
+  "20d69ae88b969d49304530d2a054679a": {
+   "id": "20d69ae88b969d49304530d2a054679a",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Softwareentwickler Baumaschinen (m/w/d)",
+   "location": "Kirchdorf An Der Iller"
   },
   "d94c8238af977f15daa000f355c3e53b": {
    "id": "d94c8238af977f15daa000f355c3e53b",
@@ -1460,18 +1484,6 @@
    "role": "Frontend Engineer - Zeos (all Genders)",
    "location": "Berlin"
   },
-  "ef8c0f1efe6e762d309530b2365df65d": {
-   "id": "ef8c0f1efe6e762d309530b2365df65d",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Software-entwickler (m/w/d)",
-   "location": "Ulm"
-  },
-  "20d69ae88b969d49304530d2a054679a": {
-   "id": "20d69ae88b969d49304530d2a054679a",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Softwareentwickler Baumaschinen (m/w/d)",
-   "location": "Kirchdorf An Der Iller"
-  },
   "84b5dc0379dd02174f0c020444145bf9": {
    "id": "84b5dc0379dd02174f0c020444145bf9",
    "company": "Jobgether",
@@ -1507,12 +1519,6 @@
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "Experienced Software Engineer Customer Order Services (m/f/d)",
    "location": "Ingolstadt"
-  },
-  "bfa67a8bb398d72a93193e9374e35a62": {
-   "id": "bfa67a8bb398d72a93193e9374e35a62",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Software Engineer Aerospace Test & Verifikation (m/w/d)",
-   "location": "Ulm"
   },
   "14a2bb86abeb88f854a671f7afd5da6b": {
    "id": "14a2bb86abeb88f854a671f7afd5da6b",
@@ -1664,11 +1670,11 @@
    "role": "Werkstudent (w/m/d) - Quality Management Und Datenanalyse",
    "location": "Germany"
   },
-  "9673eff19a441809286b53c62117bad8": {
-   "id": "9673eff19a441809286b53c62117bad8",
-   "company": "1&1 AG",
-   "role": "Werkstudent (w/m/d) - Quality Management Und Datenanalyse",
-   "location": "Germany"
+  "11e6dc9978e1c0465deb948185c349f7": {
+   "id": "11e6dc9978e1c0465deb948185c349f7",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Ai Implementation Engineer (m/w/d)",
+   "location": "Oberopfingen"
   },
   "2eac48418e2d7ef7730a5d7f61b039f6": {
    "id": "2eac48418e2d7ef7730a5d7f61b039f6",
@@ -1723,12 +1729,6 @@
    "company": "Jobgether",
    "role": "Ai-native Software Developer",
    "location": "Germany"
-  },
-  "11e6dc9978e1c0465deb948185c349f7": {
-   "id": "11e6dc9978e1c0465deb948185c349f7",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Ai Implementation Engineer (m/w/d)",
-   "location": "Oberopfingen"
   },
   "47aecea84bb2a1fda8a39449e96524a9": {
    "id": "47aecea84bb2a1fda8a39449e96524a9",
@@ -1958,18 +1958,6 @@
    "role": "Etic, Ai Engineer - Associate",
    "location": "Germany"
   },
-  "2e0f1e848063321dae093b4b5a257d73": {
-   "id": "2e0f1e848063321dae093b4b5a257d73",
-   "company": "ING",
-   "role": "Data Analyst - Collections (w/m/d)",
-   "location": "Germany"
-  },
-  "5b6b0285eb8e57919737e18973f02b9d": {
-   "id": "5b6b0285eb8e57919737e18973f02b9d",
-   "company": "Jobgether",
-   "role": "Product Data Analyst",
-   "location": "Germany"
-  },
   "dd201171e131d61febd3ef127a777e89": {
    "id": "dd201171e131d61febd3ef127a777e89",
    "company": "EY",
@@ -2011,6 +1999,24 @@
    "company": "Nestlé SA",
    "role": "Praktikum Consulting Consumer Experience & Digital (m/w/d)",
    "location": "Frankfurt Am Main"
+  },
+  "6d3ad9d73e8cf6e7e7fcba1630d97fab": {
+   "id": "6d3ad9d73e8cf6e7e7fcba1630d97fab",
+   "company": "Datwyler Holding AG",
+   "role": "Bilanzbuchhalter In Teilzeit (50%)",
+   "location": "Cleebronn"
+  },
+  "c8fb6796bdb82b7ec5ee445907c99921": {
+   "id": "c8fb6796bdb82b7ec5ee445907c99921",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Business Analyst Produktion* (m/w/d)",
+   "location": "Rostock"
+  },
+  "4641e7533c540902fd75f58cbc0e13cd": {
+   "id": "4641e7533c540902fd75f58cbc0e13cd",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Finanzbuchhalter (m/w/d)",
+   "location": "Dettingen"
   },
   "30734cf5aa18eaa1f542137c103c8f0a": {
    "id": "30734cf5aa18eaa1f542137c103c8f0a",
@@ -2180,12 +2186,6 @@
    "role": "Mitarbeiter Rechnungsprüfung W/m/d (teilzeit)",
    "location": "Poppendorf"
   },
-  "4641e7533c540902fd75f58cbc0e13cd": {
-   "id": "4641e7533c540902fd75f58cbc0e13cd",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Finanzbuchhalter (m/w/d)",
-   "location": "Dettingen"
-  },
   "1b522f971c883a84ca5886722010111b": {
    "id": "1b522f971c883a84ca5886722010111b",
    "company": "envia Mitteldeutsche Energie AG",
@@ -2215,12 +2215,6 @@
    "company": "Deutsche WertpapierService Bank AG",
    "role": "Business Analyst Settlement / Depotüberträge (m/w/d)",
    "location": "Dusseldorf"
-  },
-  "6d3ad9d73e8cf6e7e7fcba1630d97fab": {
-   "id": "6d3ad9d73e8cf6e7e7fcba1630d97fab",
-   "company": "Datwyler Holding AG",
-   "role": "Bilanzbuchhalter In Teilzeit (50%)",
-   "location": "Cleebronn"
   },
   "6a3e87b17eab549d624e8e959eef16b3": {
    "id": "6a3e87b17eab549d624e8e959eef16b3",
@@ -2329,12 +2323,6 @@
    "company": "Boston Consulting Group",
    "role": "Associate - Ai Tech Consulting (all Genders) - Bcg Platinion",
    "location": "SEARCH"
-  },
-  "c8fb6796bdb82b7ec5ee445907c99921": {
-   "id": "c8fb6796bdb82b7ec5ee445907c99921",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Business Analyst Produktion* (m/w/d)",
-   "location": "Rostock"
   },
   "76cdafb079dbad1142d3d73559249343": {
    "id": "76cdafb079dbad1142d3d73559249343",
@@ -2708,6 +2696,60 @@
    "role": "Pflegefachkraft (w/m/d) Für Innere",
    "location": "Germany"
   },
+  "050c59f88a44859429202154fdd22157": {
+   "id": "050c59f88a44859429202154fdd22157",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet",
+   "location": "Ruhrgebiet"
+  },
+  "1e78c74fd1acf64357da2ad7c8af7f7f": {
+   "id": "1e78c74fd1acf64357da2ad7c8af7f7f",
+   "company": "ENERCON IT Service GmbH",
+   "role": "Service Technician Electrician",
+   "location": "Sibenik +1"
+  },
+  "ead3c1cc8e40737f0dd26bbea1e024cb": {
+   "id": "ead3c1cc8e40737f0dd26bbea1e024cb",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Servicetechniker (m/w/d) Batterie-speichersysteme",
+   "location": "Ulm"
+  },
+  "cad8de46952850107f53ab90c7d34812": {
+   "id": "cad8de46952850107f53ab90c7d34812",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d)",
+   "location": "Berlin-Kleinmachnow"
+  },
+  "196a9f6f76db4a33f307fd806babc26d": {
+   "id": "196a9f6f76db4a33f307fd806babc26d",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Servicetechniker Betontechnik Im Außendienst (m/w/d) - Region Berlin/brandenburg",
+   "location": "Berlin-Kleinmachnow"
+  },
+  "ca6f9e04d858126a401e886beb66ba16": {
+   "id": "ca6f9e04d858126a401e886beb66ba16",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Mitarbeiter Im Technischen Support (m/w/d)",
+   "location": "Dettingen"
+  },
+  "7583bdc589096c5f29cc20d422ae50ba": {
+   "id": "7583bdc589096c5f29cc20d422ae50ba",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) Für Die Region Vorpommern-rügen",
+   "location": "Vorpommern-RüGen"
+  },
+  "f9a82d691bbedf16ec4af123fcc3db46": {
+   "id": "f9a82d691bbedf16ec4af123fcc3db46",
+   "company": "Holcim",
+   "role": "Inspektor Vorbeugende Instandhaltung (m/w/d)",
+   "location": "Germany"
+  },
+  "cfd9f8cb1673c5d404c5f8edf7034ee0": {
+   "id": "cfd9f8cb1673c5d404c5f8edf7034ee0",
+   "company": "Ariston Holding N.V",
+   "role": "Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)",
+   "location": "Hanover"
+  },
   "d2364e41b296b44896f24e79d22435c8": {
    "id": "d2364e41b296b44896f24e79d22435c8",
    "company": "Ferrero LADM",
@@ -2815,12 +2857,6 @@
    "company": "Ariston Holding N.V",
    "role": "Servicetechniker (m/w/d) - Deutschland Mitte, Nord",
    "location": "Genshagen"
-  },
-  "ee54020daa353963eeafc1d4b40dfa41": {
-   "id": "ee54020daa353963eeafc1d4b40dfa41",
-   "company": "Ariston Holding N.V",
-   "role": "Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)",
-   "location": "Hanover"
   },
   "6580d000e894480fcdcb84d926180947": {
    "id": "6580d000e894480fcdcb84d926180947",
@@ -3140,53 +3176,29 @@
    "role": "Instandhalter - Grafschaft (w/m/d)",
    "location": "Grafschaft-Ringen"
   },
-  "a9ef6c0f5be6693b07ea281b956fee1f": {
-   "id": "a9ef6c0f5be6693b07ea281b956fee1f",
-   "company": "Johnson Controls",
-   "role": "Monteur Service Feuerschutz (m/w/d)",
+  "19b633aace17bfeab4b6230fd189ea23": {
+   "id": "19b633aace17bfeab4b6230fd189ea23",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Logistikmitarbeiter*in (m/w/d) Wareneingang",
+   "location": "Obersontheim"
+  },
+  "5005d8aa9dfb152a3172d33fee224095": {
+   "id": "5005d8aa9dfb152a3172d33fee224095",
+   "company": "Mango",
+   "role": "Lagerist (m/w/d) In Teilzeit 20 Std./w. / Spitaler",
+   "location": "Hamburg"
+  },
+  "89fed4fe45d4eea188cc8727bc0b2a74": {
+   "id": "89fed4fe45d4eea188cc8727bc0b2a74",
+   "company": "Coloplast AS",
+   "role": "Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)",
+   "location": "Hamburg"
+  },
+  "6051901002a5304875f1390f27a26f52": {
+   "id": "6051901002a5304875f1390f27a26f52",
+   "company": "TJX Winners HomeSense",
+   "role": "Verkäuferin / Mitarbeiter Im Verkauf (m/w/d)",
    "location": "Cologne"
-  },
-  "d18f7bd4ca6ff97a0c4b6bc12dd59d9f": {
-   "id": "d18f7bd4ca6ff97a0c4b6bc12dd59d9f",
-   "company": "Korber AG",
-   "role": "Vision Expert Field Service (m/w/d)",
-   "location": "Munich"
-  },
-  "e9982f7eea09990120c0fbfc393821bd": {
-   "id": "e9982f7eea09990120c0fbfc393821bd",
-   "company": "Korber AG",
-   "role": "Servicetechniker (m/w/d) Maschinenbau",
-   "location": "Munich"
-  },
-  "d6b18944493283e47f0f5963b539d9a0": {
-   "id": "d6b18944493283e47f0f5963b539d9a0",
-   "company": "Vestas",
-   "role": "Service Technician (m/f/d) For Wind Turbines In Prenzlau",
-   "location": "Prenzlau"
-  },
-  "1cbf7dbace056a999a3906337a741633": {
-   "id": "1cbf7dbace056a999a3906337a741633",
-   "company": "Vestas",
-   "role": "Service Technician (m/f/d) Hv For Wind Turbines In Southeastern Brandenburg",
-   "location": "Berlin"
-  },
-  "07b9e1f46a631d021cb60747420373af": {
-   "id": "07b9e1f46a631d021cb60747420373af",
-   "company": "Vestas",
-   "role": "Service Technician (m/f/d) For Wind Turbines Near Hollenstedt",
-   "location": "Hollenstedt"
-  },
-  "a31f5426a61ee1be1259480899b6dbb1": {
-   "id": "a31f5426a61ee1be1259480899b6dbb1",
-   "company": "Vestas",
-   "role": "Service Technician (m/f/d) Main Components In Mecklenburg-western Pomerania Region",
-   "location": "Berlin"
-  },
-  "e807b976ff43381d286c509ff97ecaaf": {
-   "id": "e807b976ff43381d286c509ff97ecaaf",
-   "company": "KNDS Group",
-   "role": "Mechatroniker (m/w/d) Werksinstandhaltung",
-   "location": "Germany"
   },
   "15cfb5393038744bfcf23bf1d1113613": {
    "id": "15cfb5393038744bfcf23bf1d1113613",
@@ -3224,6 +3236,12 @@
    "role": "Verkäuferin (m/w/d)",
    "location": "Berlin"
   },
+  "c34e1c43623c5251f629fa88021d8468": {
+   "id": "c34e1c43623c5251f629fa88021d8468",
+   "company": "Tjhcareers",
+   "role": "Verkäuferin (m/w/d)",
+   "location": "Berlin"
+  },
   "be3d5c0b9b63251531496b880c7c9b7e": {
    "id": "be3d5c0b9b63251531496b880c7c9b7e",
    "company": "PVH",
@@ -3234,6 +3252,18 @@
    "id": "fc3ed3d57561d327fda087b29d738e0e",
    "company": "PVH",
    "role": "Verkaufsberater In Teilzeit Nürnberg Tommy Hilfiger (m/w/d)",
+   "location": "Nuremberg"
+  },
+  "fad5239417b150b5bdece35c16ac3438": {
+   "id": "fad5239417b150b5bdece35c16ac3438",
+   "company": "Tommy Hilfiger",
+   "role": "Verkaufsberater In Teilzeit Nürnberg Tommy Hilfiger (m/w/d)",
+   "location": "Nuremberg"
+  },
+  "895aea20898d0167c643feae362fc0ff": {
+   "id": "895aea20898d0167c643feae362fc0ff",
+   "company": "Pvhcc",
+   "role": "Verkaufsberater In Vollzeit Nürnberg Tommy Hilfiger (m/w/d)",
    "location": "Nuremberg"
   },
   "8300a364fc9d25c48340613c5fd96218": {
@@ -3608,47 +3638,23 @@
    "role": "Michael Kors Verkaufsberater (m/w/d) In Vollzeit Für 40h/woche In Cologne – Köln, Deutschland",
    "location": "Cologne"
   },
-  "8ea86ab83cf084d5b0a65093eebf738a": {
-   "id": "8ea86ab83cf084d5b0a65093eebf738a",
-   "company": "Dachser SE",
-   "role": "Werkstudent (m/w/d) Kommissionierung",
-   "location": "Dortmund"
+  "5f0b1b99e4f8bfd17d9e1279cd982d4a": {
+   "id": "5f0b1b99e4f8bfd17d9e1279cd982d4a",
+   "company": "Liebherr Machines Bulle SA",
+   "role": "Assistenz (m/w/d) Der Kaufmännischen Geschäftsführung In Teilzeit",
+   "location": "Ulm"
   },
-  "cdc2d1a7d0ba2094eb5ad897ece608ba": {
-   "id": "cdc2d1a7d0ba2094eb5ad897ece608ba",
-   "company": "Tjhcareers",
-   "role": "Verkäufer / Mitarbeiter Im Verkauf (m/w/d)",
-   "location": "Cologne"
+  "5a0d16fa40e27b5ca53211278b66a3ce": {
+   "id": "5a0d16fa40e27b5ca53211278b66a3ce",
+   "company": "Holcim",
+   "role": "Mitarbeiter Auftragscenter / Speditionskaufmann (m/w/d)",
+   "location": "Germany"
   },
-  "6869fa0aded23c1b08d4d0308de1bb54": {
-   "id": "6869fa0aded23c1b08d4d0308de1bb54",
-   "company": "The TJX Companies, Inc",
-   "role": "Verkäufer / Mitarbeiter Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "202372170081392029adabdce57e9fdf": {
-   "id": "202372170081392029adabdce57e9fdf",
-   "company": "TJX Australia (TK Maxx)",
-   "role": "Verkäufer / Mitarbeiter Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "e747c70d88d1a7d0d47407e0df0591db": {
-   "id": "e747c70d88d1a7d0d47407e0df0591db",
-   "company": "Oberalp S.p.a",
-   "role": "Fachverkäufer In Teilzeit (m/w/d) Salewa Outlet Aschheim",
+  "0d36e794ebe2371216cc43c848a2d027": {
+   "id": "0d36e794ebe2371216cc43c848a2d027",
+   "company": "Atos",
+   "role": "Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)",
    "location": "Munich"
-  },
-  "f80c81f0956d605e647d214e389808a2": {
-   "id": "f80c81f0956d605e647d214e389808a2",
-   "company": "Oberalp S.p.a",
-   "role": "Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken",
-   "location": "Saarbruecken"
-  },
-  "3f253cf4487ea78f614bf303dabe8913": {
-   "id": "3f253cf4487ea78f614bf303dabe8913",
-   "company": "Aldi Süd",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Saarbruecken"
   },
   "1d5e5416a2ae3c2274ab9428eddbeda4": {
    "id": "1d5e5416a2ae3c2274ab9428eddbeda4",
@@ -3714,12 +3720,6 @@
    "id": "0562fb1ac102c73468a4285d29e83a74",
    "company": "Sixt",
    "role": "Executive Assistant To Legal & Compliance (m/w/d)",
-   "location": "Munich"
-  },
-  "6b36023596eb2c572687f32be4331d4f": {
-   "id": "6b36023596eb2c572687f32be4331d4f",
-   "company": "Atos",
-   "role": "Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)",
    "location": "Munich"
   },
   "2b23faebb6d18cbec1acd1b048a9dfdb": {
@@ -3889,12 +3889,6 @@
    "company": "Atos SE",
    "role": "Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)",
    "location": "Munich"
-  },
-  "5f0b1b99e4f8bfd17d9e1279cd982d4a": {
-   "id": "5f0b1b99e4f8bfd17d9e1279cd982d4a",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Assistenz (m/w/d) Der Kaufmännischen Geschäftsführung In Teilzeit",
-   "location": "Ulm"
   },
   "9b13f28bf73063e1b7003b2d42895450": {
    "id": "9b13f28bf73063e1b7003b2d42895450",
@@ -4121,12 +4115,6 @@
   "e11ef60ce6b1fa12c71ce0f3c0e5070a": {
    "id": "e11ef60ce6b1fa12c71ce0f3c0e5070a",
    "company": "Sanofi Genzyme",
-   "role": "Quality Assurance Specialist (all Genders) - Befristet Bis 31.12.2028",
-   "location": "Frankfurt Am Main"
-  },
-  "ca79562f74a427c95e84ef1c7e1f850b": {
-   "id": "ca79562f74a427c95e84ef1c7e1f850b",
-   "company": "Sanofi UK",
    "role": "Quality Assurance Specialist (all Genders) - Befristet Bis 31.12.2028",
    "location": "Frankfurt Am Main"
   }

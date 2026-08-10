@@ -2823,4 +2823,57 @@
 <tr><td>Jobgether</td><td>Accelerator Program - Content Specialist</td><td>Germany</td><td>2026-08-09</td></tr>
 <tr><td>GEA</td><td>Service Coordinator Marine (m/w/d) - Zunächst Befristet Für 12 Monate</td><td>Hamburg</td><td>2026-08-09</td></tr>
 <tr><td>workday.gea</td><td>Service Coordinator Marine (m/w/d) - Zunächst Befristet Für 12 Monate</td><td>Hamburg</td><td>2026-08-09</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)</td><td>Dusseldorf</td><td>2026-08-10</td></tr>
+<tr><td>Festo</td><td>Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-10</td></tr>
+<tr><td>Festo</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>Saarland</td><td>2026-08-10</td></tr>
+<tr><td>Festo</td><td>Praktikum Duales Studium - Bogy & Studienorientierung</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-10</td></tr>
+<tr><td>849</td><td>Strategic Procurement Intern</td><td>Frankfurt Am Main</td><td>2026-08-10</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Aktuariat Lebensversicherung</td><td>Dortmund</td><td>2026-08-10</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Im Aktuariat Komposit</td><td>Germany</td><td>2026-08-10</td></tr>
+<tr><td>Emerson Electric</td><td>Internship Product Management (m/w/d)</td><td>Hanover</td><td>2026-08-10</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Internationalen Produktmanagement</td><td>Leinfelden</td><td>2026-08-10</td></tr>
+<tr><td>TE Connectivity</td><td>Co-op/intern</td><td>Waiblingen</td><td>2026-08-10</td></tr>
+<tr><td>Surteco SE</td><td>Ferienjob / (schul-)praktikum Standort Dunningen</td><td>Freiburg Im Breisgau</td><td>2026-08-10</td></tr>
+<tr><td>849</td><td>Marketing Intern - (german Speaker)</td><td>Frankfurt Am Main</td><td>2026-08-10</td></tr>
+<tr><td>849</td><td>Growth Strategy Intern - (german Speaker)</td><td>Frankfurt Am Main</td><td>2026-08-10</td></tr>
+<tr><td>STADA</td><td>School Student Internship (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-10</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikum Corporate Strategy (m/w/d)</td><td>Munich</td><td>2026-08-10</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027</td><td>Unterreit</td><td>2026-08-10</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Fachkraft Lagerlogistik (m/w/d) 2026 Für München/oberschleißheim</td><td>Munich</td><td>2026-08-10</td></tr>
+<tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Apprenticeship As Electronics Technician For Industrial Engineering, Wolmirstedt(f/m/d)</td><td>Wolmirstedt</td><td>2026-08-10</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Berlin</td><td>2026-08-10</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Hanover</td><td>2026-08-10</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Berlin</td><td>2026-08-10</td></tr>
+<tr><td>Dachser SE</td><td>Management Trainee (m/w/d) Spedition</td><td>Rottenburg Am Neckar</td><td>2026-08-10</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Bevern</td><td>Bevern</td><td>2026-08-10</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Marienmünster</td><td>MarienmüNster</td><td>2026-08-10</td></tr>
+<tr><td>Ardagh Group</td><td>Ausbildung Mechatroniker 2026 (m/w/d)</td><td>Hanover</td><td>2026-08-10</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-08-10</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-08-10</td></tr>
+<tr><td>Salzgitter AG</td><td>Ausbildung Industriemechaniker 2026 (w/m/d)</td><td>Fridingen</td><td>2026-08-10</td></tr>
+<tr><td>Oxford Instruments GmbH</td><td>Trainee Wholesale</td><td>Frankfurt Am Main</td><td>2026-08-10</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Werkzeugmechaniker (all Genders) - Start 08/2027 Standort Lennestadt-elspe</td><td>Lennestadt-Elspe</td><td>2026-08-10</td></tr>
+<tr><td>ABB UK</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026</td><td>Wuppertal</td><td>2026-08-10</td></tr>
+<tr><td>ABB Ltd</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) 2026</td><td>Wuppertal</td><td>2026-08-10</td></tr>
+<tr><td>1&1 AG</td><td>Werkstudent (w/m/d) - Quality Management Und Datenanalyse</td><td>Germany</td><td>2026-08-10</td></tr>
+<tr><td>ING</td><td>Data Analyst - Collections (w/m/d)</td><td>Germany</td><td>2026-08-10</td></tr>
+<tr><td>Jobgether</td><td>Product Data Analyst</td><td>Germany</td><td>2026-08-10</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)</td><td>Hanover</td><td>2026-08-10</td></tr>
+<tr><td>Johnson Controls</td><td>Monteur Service Feuerschutz (m/w/d)</td><td>Cologne</td><td>2026-08-10</td></tr>
+<tr><td>Korber AG</td><td>Vision Expert Field Service (m/w/d)</td><td>Munich</td><td>2026-08-10</td></tr>
+<tr><td>Korber AG</td><td>Servicetechniker (m/w/d) Maschinenbau</td><td>Munich</td><td>2026-08-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Prenzlau</td><td>Prenzlau</td><td>2026-08-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Hv For Wind Turbines In Southeastern Brandenburg</td><td>Berlin</td><td>2026-08-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Hollenstedt</td><td>Hollenstedt</td><td>2026-08-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Main Components In Mecklenburg-western Pomerania Region</td><td>Berlin</td><td>2026-08-10</td></tr>
+<tr><td>KNDS Group</td><td>Mechatroniker (m/w/d) Werksinstandhaltung</td><td>Germany</td><td>2026-08-10</td></tr>
+<tr><td>Dachser SE</td><td>Werkstudent (m/w/d) Kommissionierung</td><td>Dortmund</td><td>2026-08-10</td></tr>
+<tr><td>Tjhcareers</td><td>Verkäufer / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-10</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Verkäufer / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-10</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Verkäufer / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-10</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer In Teilzeit (m/w/d) Salewa Outlet Aschheim</td><td>Munich</td><td>2026-08-10</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken</td><td>Saarbruecken</td><td>2026-08-10</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-08-10</td></tr>
+<tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-08-10</td></tr>
+<tr><td>Sanofi UK</td><td>Quality Assurance Specialist (all Genders) - Befristet Bis 31.12.2028</td><td>Frankfurt Am Main</td><td>2026-08-10</td></tr>
 </table>
