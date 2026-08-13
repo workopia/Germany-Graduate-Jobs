@@ -3103,4 +3103,39 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Siegburg (m/w/d)</td><td>Cologne</td><td>2026-08-12</td></tr>
 <tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Stavenhagen</td><td>2026-08-12</td></tr>
 <tr><td>Stora Enso Oyj</td><td>Customer Service Specialist</td><td>Dusseldorf</td><td>2026-08-12</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Business Recovery Services (m/w/d)</td><td>Munich</td><td>2026-08-13</td></tr>
+<tr><td>zdf</td><td>Praktikum Redaktion Wiso</td><td>Darmstadt</td><td>2026-08-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing - Innovation & Shopper Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Category Management & Shopper Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-13</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-13</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Hamburger Containerboard Standort Spremberg</td><td>Spremberg</td><td>2026-08-13</td></tr>
+<tr><td>LBBW Webspace</td><td>Schülerpraktikum Kaufleute Für Büromanagement In Mainz (m/w/d)</td><td>Darmstadt</td><td>2026-08-13</td></tr>
+<tr><td>LBBW Webspace</td><td>Praktikant (m/w/d) Produktion Banking Und Credit Im Backoffice Otc-derivate</td><td>Stuttgart</td><td>2026-08-13</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Berlin</td><td>Berlin</td><td>2026-08-13</td></tr>
+<tr><td>zdf</td><td>Praktiktikum Landesstudio Hessen</td><td>Frankfurt Am Main</td><td>2026-08-13</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Public Sector - Defense (m/w/d)</td><td>Berlin</td><td>2026-08-13</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-08-13</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Internationale Mitarbeiterentsendung - Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-08-13</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Steuerberatung - Japanese Services Group (m/w/d)</td><td>Dusseldorf</td><td>2026-08-13</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fsi - Managementberatung Regionalbanken (m/w/d)</td><td>Hamburg</td><td>2026-08-13</td></tr>
+<tr><td>Metabo</td><td>Industriekaufleute Ausbildung 2027 (apprenticeship For All Genders)</td><td>Reutlingen</td><td>2026-08-13</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachkraft Für Lagerlogistik (m/w/d) // Rottenburg // Beginn: 09.2027</td><td>Reutlingen</td><td>2026-08-13</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer</td><td>Germany</td><td>2026-08-13</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Infrastructure</td><td>Germany</td><td>2026-08-13</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)</td><td>RoßBach</td><td>2026-08-13</td></tr>
+<tr><td>Megger</td><td>Field Service & Application Specialist – Schwerpunkt Kabelprüfung & -diagnose (m/w/d)</td><td>Baunach</td><td>2026-08-13</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Mannheim</td><td>2026-08-13</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-08-13</td></tr>
+<tr><td>Levis Media</td><td>Verkäufer / Sales Stylist (m/w/d) In Teilzeit (20-30 Stunden)</td><td>Berlin</td><td>2026-08-13</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Flexible Aushilfe (m/w/d) - Flagshipstore Fc Bayern World</td><td>Munich</td><td>2026-08-13</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Sales Assistant (m/w/d) - Store Flughafen München</td><td>Munich</td><td>2026-08-13</td></tr>
+<tr><td>Lucid Motors</td><td>Sales Associate, Hamburg (m/f/d)</td><td>Hamburg</td><td>2026-08-13</td></tr>
+<tr><td>Lucid Motors</td><td>Sales Associate, Munich (m/f/d)</td><td>Munich</td><td>2026-08-13</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Berlin</td><td>2026-08-13</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Böblingen (m/w/d)</td><td>Stuttgart</td><td>2026-08-13</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Lager (minijobber/in) (m/w/d) - Neu-ulm</td><td>Neu</td><td>2026-08-13</td></tr>
+<tr><td>Capri</td><td>Sommeraushilfe Im Warenmanagement (m/w/d) 25h/woche, Munich – München, Deutschland</td><td>Munich</td><td>2026-08-13</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist (m/w/d) In Teilzeit 20 Std./woche</td><td>Constance</td><td>2026-08-13</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) Auf Werkstudentischer Basis</td><td>Cologne</td><td>2026-08-13</td></tr>
 </table>
