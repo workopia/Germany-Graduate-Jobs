@@ -3340,4 +3340,77 @@
 <tr><td>Red Hat</td><td>Administrative Assistant - Part Time (m/f/d)</td><td>Munich</td><td>2026-08-14</td></tr>
 <tr><td>Fsmjobs</td><td>Quality Assurance Specialist (m/w/d) – Medizintechnik</td><td>Duren</td><td>2026-08-14</td></tr>
 <tr><td>Fresenius Medical Care</td><td>Quality Assurance Specialist (m/w/d) – Medizintechnik</td><td>Duren</td><td>2026-08-14</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Digital Plattforms (m/w/d)</td><td>Munich</td><td>2026-08-15</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Digital Marketing & Content Management (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-15</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Business & Data Operations (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-15</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Group Risk Resilience / Recovery & Resolution Planning (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-08-15</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Market Data + Services / Products And Licensing (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-08-15</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikant*in / Werkstudent*in - Human Resources - Fokus Recruitment (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-15</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Financial Accounting (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-15</td></tr>
+<tr><td>DHL Group</td><td>Praktikant (m/w/d) Für Den Bereich Zoll Bei Post & Paket Deutschland</td><td>Cologne</td><td>2026-08-15</td></tr>
+<tr><td>PUMA</td><td>Internship Apparel And Graphic Design Motorsport</td><td>Puma Way Headquarters</td><td>2026-08-15</td></tr>
+<tr><td>Dachser SE</td><td>Praktikant (m/w/d)</td><td>Ulm</td><td>2026-08-15</td></tr>
+<tr><td>Dachser SE</td><td>Praktikant (m/w/d) Fos - Jahrespraktikum</td><td>Saarbruecken</td><td>2026-08-15</td></tr>
+<tr><td>Hollister Incorporated</td><td>Praktikant Marketing (m/w/d)</td><td>Munich</td><td>2026-08-15</td></tr>
+<tr><td>Schreiner Group GmbH und Co. KG</td><td>Werkstudent (m/w/d) - Strategisches Marketing Und Business Development</td><td>Munich</td><td>2026-08-15</td></tr>
+<tr><td>GRENKE KIRALAMA Ltd SIRKETI</td><td>Werkstudium Im Bereich Ism/bcm/osm (m/w/d)</td><td>Karlsruhe</td><td>2026-08-15</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Hr / People & Culture</td><td>Heidenheim</td><td>2026-08-15</td></tr>
+<tr><td>Voith</td><td>Praktikum (m/w/d) Im Bereich Forschung; Entwicklung; Konstruktion - Start: Flexibel</td><td>Heidenheim</td><td>2026-08-15</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Customer Service & Sales</td><td>Heidenheim</td><td>2026-08-15</td></tr>
+<tr><td>Voith</td><td>Intern Material Testing</td><td>Salzgitter</td><td>2026-08-15</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Global Value Management - Cost-optimized Product Design</td><td>Heidenheim</td><td>2026-08-15</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Research & Development - Stock Preparation</td><td>Heidenheim</td><td>2026-08-15</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-08-15</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>Zeiss Group</td><td>Internship In People & Organizational Development / Segment: Medical Technology (m/f/x)</td><td>Goppingen</td><td>2026-08-15</td></tr>
+<tr><td>TESTIA GmbH</td><td>Testia Gmbh - Praktikant*in Hr/recruiting (m/w/d)</td><td>Bremen</td><td>2026-08-15</td></tr>
+<tr><td>Airbus SE</td><td>Testia Gmbh - Praktikant*in Hr/recruiting (m/w/d)</td><td>Bremen</td><td>2026-08-15</td></tr>
+<tr><td>Caritas Kindergarten St. Michael Peiting</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Kindergarten St. Michael Peiting</td><td>Kempten Allgau</td><td>2026-08-15</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-08-15</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (w/m/d)</td><td>Markt Bibart</td><td>2026-08-15</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Finanzen - Controlling, Accounting, Regulatory Reporting & Steuern (m/w/d)</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Credit Risk Management (m/w/d)</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>Trimble Inc.</td><td>Backend Developer With A Focus On Network Gnss</td><td>HöHenkirchen</td><td>2026-08-15</td></tr>
+<tr><td>Trimble</td><td>Backend Developer With A Focus On Network Gnss</td><td>HöHenkirchen</td><td>2026-08-15</td></tr>
+<tr><td>SAP Ariba</td><td>Working Student (f/m/d) - Signavio Next Engineering (full-stack Llm Development)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Jobgether</td><td>Go Developer - Ai & Ml</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>Athora</td><td>Fachreferent Aktuariat (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-15</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>Bonback Halle GmbH</td><td>Elektroniker / Elektriker / Mechatroniker - Instandhaltung (w/m/d)</td><td>Halle (Saale)</td><td>2026-08-15</td></tr>
+<tr><td>Stadtwerke Dusseldorf</td><td>Servicetechniker Messstellenbetrieb (m/w/d)</td><td>Dusseldorf</td><td>2026-08-15</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Hubarbeitsbühnen (w/m/d)</td><td>Dusseldorf</td><td>2026-08-15</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Kran / Cws (w/m/d)</td><td>Dusseldorf</td><td>2026-08-15</td></tr>
+<tr><td>PALFINGER AG</td><td>Service Technician (m/f/d) - Marine</td><td>DäGeling</td><td>2026-08-15</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Aufbau/fahrzeugbau (w/m/d)</td><td>Dusseldorf</td><td>2026-08-15</td></tr>
+<tr><td>Albrecht Jung GmbH & Co. KG</td><td>Servicetechniker - Knx / Jung Systeme Für München (m/w/d)</td><td>Munich</td><td>2026-08-15</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Industrie Servicetechniker (m/w/d) Region Fulda</td><td>MöRfelden</td><td>2026-08-15</td></tr>
+<tr><td>Biovectra</td><td>Customer Support Engineer (ostdeutschland) – Genomics Instrumentation (m/f/d)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Agilent Technologies</td><td>Customer Support Engineer (ostdeutschland) – Genomics Instrumentation (m/f/d)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Semperit AG Holding</td><td>Anlagentechniker/instandhalter</td><td>HüCkelhoven-Baal</td><td>2026-08-15</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Servicemonteur (m/w/d)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Everllence</td><td>Servicemonteur / Mechaniker Für Schiffe Und Kraftwerke (m/w/d)</td><td>Hamburg</td><td>2026-08-15</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Servicetechniker Außendienst Netzbetrieb (m/w/d)</td><td>Vogtlandkreis</td><td>2026-08-15</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Jaderberg</td><td>Jaderberg</td><td>2026-08-15</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Bad Wünneberg</td><td>Bad WüNneberg</td><td>2026-08-15</td></tr>
+<tr><td>Webasto SE</td><td>Maintenance Technician Electrical (f/m/x)</td><td>Bayern</td><td>2026-08-15</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Ruhrgebiet</td><td>2026-08-15</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Service Technician Electrician</td><td>Sibenik +1</td><td>2026-08-15</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker (m/w/d) Batterie-speichersysteme</td><td>Ulm</td><td>2026-08-15</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d)</td><td>Berlin-Kleinmachnow</td><td>2026-08-15</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Betontechnik Im Außendienst (m/w/d) - Region Berlin/brandenburg</td><td>Berlin-Kleinmachnow</td><td>2026-08-15</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Mitarbeiter Im Technischen Support (m/w/d)</td><td>Dettingen</td><td>2026-08-15</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) Für Die Region Vorpommern-rügen</td><td>Vorpommern-RüGen</td><td>2026-08-15</td></tr>
+<tr><td>Holcim</td><td>Inspektor Vorbeugende Instandhaltung (m/w/d)</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)</td><td>Hanover</td><td>2026-08-15</td></tr>
+<tr><td>Ferrero LADM</td><td>Industriemechaniker (w/m/d)</td><td>Germany</td><td>2026-08-15</td></tr>
+<tr><td>Diptyque Paris</td><td>Client Advisor (m/w/d)</td><td>Dusseldorf</td><td>2026-08-15</td></tr>
+<tr><td>Deckers</td><td>Seasonal Minijobber, Ugg</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Deko (gn)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baufertigteile (gn)</td><td>Munich</td><td>2026-08-15</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>OTB S.p.A</td><td>Client Advisor (m/w/d)</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) Im Einzelhandel - Tauenzienstraße Berlin</td><td>Berlin</td><td>2026-08-15</td></tr>
+<tr><td>Mercer</td><td>Kaufmännische Mitarbeitende* - Office Support Mit Schwerpunkt Unterstützungskasse</td><td>Stuttgart</td><td>2026-08-15</td></tr>
 </table>
