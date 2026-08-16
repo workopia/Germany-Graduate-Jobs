@@ -3413,4 +3413,233 @@
 <tr><td>OTB S.p.A</td><td>Client Advisor (m/w/d)</td><td>Berlin</td><td>2026-08-15</td></tr>
 <tr><td>Skechers</td><td>Verkäufer (m/w/d) Im Einzelhandel - Tauenzienstraße Berlin</td><td>Berlin</td><td>2026-08-15</td></tr>
 <tr><td>Mercer</td><td>Kaufmännische Mitarbeitende* - Office Support Mit Schwerpunkt Unterstützungskasse</td><td>Stuttgart</td><td>2026-08-15</td></tr>
+<tr><td>Estée Lauder</td><td>Marketing Intern (m/w/d) Jo Malone London</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Deere & Company</td><td>Praktikum John Deere Financial Business Development (m/w/d)</td><td>Mannheim</td><td>2026-08-16</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Talent Development & Kommunikation (w/m/d)</td><td>Ulm</td><td>2026-08-16</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Im Bereich Werkslogistik</td><td>Ulm</td><td>2026-08-16</td></tr>
+<tr><td>Wiley</td><td>Intern Editorial Administration</td><td>Mannheim</td><td>2026-08-16</td></tr>
+<tr><td>Nexperia</td><td>Working Student Bg Logistics (m/w/f)</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>Halfspace ApS</td><td>Praktikum Strategy Consultant Public Sector (all Genders)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Markt Bibart</td><td>Markt Bibart</td><td>2026-08-16</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bünde</td><td>Bielefeld</td><td>2026-08-16</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bevern</td><td>Bevern</td><td>2026-08-16</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum/ Internship Robotik Bei Kärcher Singapur</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Konzernkonsolidierung</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Initiativbewerbung Für Ein Schulpraktikum Am Standort Winnenden</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>SGL Carbon</td><td>Praktikant (m/w/d) Im Bereich Site Environment, Health & Safety</td><td>Augsburg</td><td>2026-08-16</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Mandatory Internship In Renewable Energy (f/m/d)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Caritas Kinderhaus St. Nikolaus</td><td>Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Kinderhaus St. Nikolaus</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Covestro</td><td>Intern (m/f/d) In Procurement – With Salary Details</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (sose 2027)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>AGCO</td><td>Praktikant /werkstudent (m/w/d) Fendt Go-to-market - Team Logistics (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>ING</td><td>Praktikant Real Estate Finance Coverage Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>Alantra</td><td>Investment Banking, Q1 2027 M&a Intern (frankfurt, Germany)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Internationalen Produktmanagement</td><td>Leinfelden</td><td>2026-08-16</td></tr>
+<tr><td>Dentsusports</td><td>Praktikum Communications Consultant Public Sector (m/w/d) (6 Monate, Pflichtpraktikum))</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Mediasal</td><td>Praktikum Communications Consultant Public Sector (m/w/d) (6 Monate, Pflichtpraktikum))</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Publicity Intern (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>Bitmovin</td><td>Ai & Beyond Incubator (ongoing Intake)</td><td>Vienna +2</td><td>2026-08-16</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Kaufmännisch</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>Saarland</td><td>2026-08-16</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-16</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Duales Studium - Bogy & Studienorientierung</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-16</td></tr>
+<tr><td>Tchibo GmbH</td><td>Praktikum Customer Insights & Kundenbewertungen Tchibo Mobil (m/w/d)</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>Altana</td><td>Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Altana</td><td>Marketing Praktikant (m/w/d)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Esg-werkstudent (w/m/d) Vera Zur Eu-taxonomie-datenerfassung</td><td>Nach Standort Suchen</td><td>2026-08-16</td></tr>
+<tr><td>createyourowncareer</td><td>Werkstudent Redaktion (w/m/d)</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Praktikant Steuerberatung (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Duales Studium In Der Wirtschaftsprüfung / Audit (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Ey-parthenon Praktikant Performance Improvement - Operational Turnaround (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>Doctolib GmbH</td><td>Praktikum Product Marketing (x/f/m)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Kws Group</td><td>Praktikant (m/w/d) - Initiativbewerbung</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Kws Group</td><td>Internship (m/f/d) - Unsolicited Application</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>AbbVie</td><td>Werkstudent (w/m/d) Im Bereich Corporate Communication</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>SAMSON Group</td><td>Pflichtpraktikum/berufspraktische Phase Oder Abschlussarbeit Im Strategischen Marketing</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>ORAFOL Europe GmbH</td><td>Pflichtpraktikum Im Marketing</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Ausbildung Fachinformatiker Für Systemintegration (w/m/d) 2027</td><td>Giebelstadt</td><td>2026-08-16</td></tr>
+<tr><td>Tenova S.p.A</td><td>Internship Industrial Furnaces / Plant Engineering</td><td>Dusseldorf</td><td>2026-08-16</td></tr>
+<tr><td>IOM</td><td>Kvac Internship</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>MEGA eG</td><td>Kaufmännisches Praktikum Mega Gruppe</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>adesso Group</td><td>Schulpraktikum (all Genders)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Fendt Go-to-market Training (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Aftersales Training (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-16</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Praktikant Logistics & Partners (m/w/d)</td><td>Ingolstadt</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Praktikant It-beratung/prüfung Schwerpunkt Banken Oder Versicherungen (financial Services) (w/m/d)</td><td>Dusseldorf</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Praktikant Wirtschaftsprüfung (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Ey-parthenon Praktikant Deal Management & Deal Technology (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Praktikant Technology Risk (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Aktuariat Lebensversicherung</td><td>Dortmund</td><td>2026-08-16</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Im Aktuariat Komposit</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Werkstudent (m/w/d) Marketing & Communications</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Brand Management (m/w/d(</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>TE Connectivity</td><td>Co-op/intern</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>TE Connectivity</td><td>Strategic Procurement Intern (m/w/d)</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>Ernst & Young</td><td>Praktikant Technology Risk (w/m/d)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Ernst & Young</td><td>Ey-parthenon Praktikant Deal Management & Deal Technology (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>STADA</td><td>School Student Internship (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-16</td></tr>
+<tr><td>Bosch Group</td><td>Werkstudent In Der Organisations- Und Kulturentwicklung (w/m/div.)</td><td>Reutlingen</td><td>2026-08-16</td></tr>
+<tr><td>Festo</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>Saarland</td><td>2026-08-16</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Globalization Ixp Intern (f/m/d)- User Assistance Developer</td><td>Mannheim</td><td>2026-08-16</td></tr>
+<tr><td>Bosch Group</td><td>Internship In Project Management Support - Bosch Diagnostics Solutions Framework</td><td>Goppingen</td><td>2026-08-16</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikant In Quality Assurance (m/f/d)</td><td>Duren</td><td>2026-08-16</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikum Cmc Compliance (m/w/d)</td><td>Duren</td><td>2026-08-16</td></tr>
+<tr><td>stella-hr</td><td>Initiativbewerbung Praktikanten - Flörsheim (m/w/d)</td><td>FlöRsheim-Dalsheim</td><td>2026-08-16</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Bei Dunapack Packaging (eg)</td><td>Spremberg</td><td>2026-08-16</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Gelsenkirchen</td><td>Dortmund</td><td>2026-08-16</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum In Der Personalabteilung (m/w/div.)</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>AptarGroup Inc</td><td>Praktika / Abschlussarbeiten (bachelor/master) Bei Der Aptar Freyung Gmbh</td><td>Freyung</td><td>2026-08-16</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Corporate Hr (m/w/d)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Benteler Group</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2026</td><td>Lichtenau-Kleinenberg</td><td>2026-08-16</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>St. Ingbert</td><td>2026-08-16</td></tr>
+<tr><td>HiPP-Werk Georg Hipp OHG</td><td>Ausbildung Zum Elektroniker (w/m/d) 2027</td><td>Pfaffenhofen A. D. Ilm</td><td>2026-08-16</td></tr>
+<tr><td>fisgruppe</td><td>Ausbildung Zum Fachinformatiker Für Systemintegration (m/w/x) - Start 01.09.2027</td><td>Grafenrheinfeld</td><td>2026-08-16</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-08-16</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) 2027 Klein Wanzleben</td><td>Klein Wanzleben</td><td>2026-08-16</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-08-16</td></tr>
+<tr><td>Everllence</td><td>Ausbildung Als Anlagenmechaniker (m/w/d)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt</td><td>Freistatt</td><td>2026-08-16</td></tr>
+<tr><td>HAVI</td><td>Auszubildende:r (m/w/d) Berufskraftfahrer (start 01.08.2026)</td><td>Nach Standort Suchen</td><td>2026-08-16</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027</td><td>Unterreit</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Industriekaufmann (m/w/d) Ab 2027</td><td>Lindau</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2026 (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildende(r) Mechatroniker(in) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildender Konstruktionsmechaniker (m/w/d) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Kaufmann Für Digitalisierungsmanagement Ab September 2027</td><td>Oberopfingen</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Fachlagerist (m/w/d) Standort Lindenberg - Ausbildungsbeginn: Herbst 2027</td><td>Lindenberg Im AllgäU</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Industriekaufmann (m/w/d) Beginn 2027</td><td>Bad Schussenried</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d) Ab 01.09.2027</td><td>MüNchen-Hohenlinden</td><td>2026-08-16</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2027 (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-08-16</td></tr>
+<tr><td>Witzenmann GmbH</td><td>Auszubildender Werkstoffprüfer 2027 (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-08-16</td></tr>
+<tr><td>Holcim</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>StraßBerg</td><td>2026-08-16</td></tr>
+<tr><td>Westnetz GmbH</td><td>Auszubildende Industriekaufmann/-frau (m/w/d) (2027)</td><td>Saffig +1</td><td>2026-08-16</td></tr>
+<tr><td>Rogers Corporation</td><td>Apprentice It-systems Electronics Technician</td><td>Eschenbach</td><td>2026-08-16</td></tr>
+<tr><td>Rogers Corporation</td><td>Apprentice Surface Refinement</td><td>Eschenbach</td><td>2026-08-16</td></tr>
+<tr><td>Birkenhof Altenhilfe gGmbH von Bethel im Norden</td><td>Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt</td><td>Freistatt</td><td>2026-08-16</td></tr>
+<tr><td>SSI Schaefer</td><td>Ausbildung - Fachinformatiker Für Anwendungsentwicklung (w/m/d) 2027</td><td>Giebelstadt</td><td>2026-08-16</td></tr>
+<tr><td>Coperion GmbH</td><td>Administrative Services Apprentice-associate Specialist I</td><td>Industriestrasse 33</td><td>2026-08-16</td></tr>
+<tr><td>Marriott International</td><td>Cook-apprentice</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Cook-apprentice</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>KraussMaffei Group</td><td>Auszubildenden Zum Zerspanungsmechaniker (m/w/d) Ab 01.09.2026</td><td>Parsdorf Bei MüNchen</td><td>2026-08-16</td></tr>
+<tr><td>KraussMaffei Group</td><td>Schülerpraktikanten (m/w/d) Im Bereich Metallbearbeitung</td><td>Parsdorf Bei MüNchen</td><td>2026-08-16</td></tr>
+<tr><td>Scania CV AB</td><td>Lehrling Betriebslogistik (m/w/d) Für Haid</td><td>Haid</td><td>2026-08-16</td></tr>
+<tr><td>University Hospital Carl Gustav Carus</td><td>Schülerbetriebspraktikum In Der Lagerlogistik</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Clariant International</td><td>Ausbildungsplatz Chemielaborant (m/w/d) Am Standort Heufeld</td><td>Heufeld</td><td>2026-08-16</td></tr>
+<tr><td>RWS GmbH</td><td>Azubi Werkzeugmechaniker (m/w/d) 2026</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Webasto SE</td><td>Training As Industrial Mechanic (f/m/x) Starting 01.09.2026</td><td>Bayern</td><td>2026-08-16</td></tr>
+<tr><td>HARTMANN</td><td>Jetzt Bewerben » Jetzt Bewerben</td><td>Ochsenfurt-Hohestadt +1</td><td>2026-08-16</td></tr>
+<tr><td>KraussMaffei Group</td><td>Auszubildenden Zum Industriemechaniker (m/w/d) Zum 01.08.2026</td><td>Laatzen Bei Hannover</td><td>2026-08-16</td></tr>
+<tr><td>Kaserei Champignon Hofmeister GmbH</td><td>Schnupperpraktikum Industriemechaniker (m/w/d) - Mang Käsewerk</td><td>Kammlach</td><td>2026-08-16</td></tr>
+<tr><td>createyourowncareer</td><td>Azubi Fachkraft Für Lagerlogistik</td><td>82205</td><td>2026-08-16</td></tr>
+<tr><td>Apple</td><td>Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Sony Interactive Entertainment</td><td>Software Engineer I</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Grafana Labs</td><td>Software Engineer - Synthetic Monitoring / Germany / Remote</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>createyourowncareer</td><td>It Customer Support Specialist (m/w/d) - M365 & Azure Cloud</td><td>Rheda</td><td>2026-08-16</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Signavio Next Engineering (full-stack Llm Development)</td><td>Berlin +1</td><td>2026-08-16</td></tr>
+<tr><td>ArianeGroup</td><td>Praktikant (m/w/d) Im Bereich Commercial Management Datenanalyse</td><td>Lampoldshausen</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria UK</td><td>Werkstudent Data & Analytics Im Public Sektor (m/w/d)</td><td>Bundesweit</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria</td><td>Werkstudent Data & Analytics im Public Sektor (m/w/d)</td><td>Bundesweit</td><td>2026-08-16</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Werkstudent (w/m/d) - Quality Management Und Datenanalyse</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Ai/ml Engineer (w/m/d)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Salesforce UK</td><td>Ai Builder, Emerging Talent - Dach Market</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria UK</td><td>Ai Engineer Financial Services (m/w/d)</td><td>Bundesweit</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml Research Engineer</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Gsicareers</td><td>Aiml Engineer, Ai For Science</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Product Engineer, Ai</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Business Data Analyst</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Data Analyst Customer Interactions (w/m/d)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Ai & Agentic Solutions Engineer</td><td>Milano +2</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer - Performance Team</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>gesundheits-stellenmarkt.de</td><td>Customer Master Data Analyst - Full Time/part Time</td><td>Heidelberg</td><td>2026-08-16</td></tr>
+<tr><td>Woodward, Inc.</td><td>Datenanalyst (m/w/d) – Bereich: Engineering</td><td>Aken (Elbe)</td><td>2026-08-16</td></tr>
+<tr><td>Google</td><td>Ai Innovation Engineer, Google Cloud</td><td>Frankfurt Am Main +2</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Praktikant Unternehmensberatung - Business Transformation - Consulting (financial Services) (w/m/d)</td><td>MüNchen +1</td><td>2026-08-16</td></tr>
+<tr><td>Ernst & Young</td><td>Praktikant Unternehmensberatung - Business Transformation - Consulting (financial Services) (w/m/d)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Werkstudent Business Analyst (m/w/d)</td><td>Frankfurt (Main)</td><td>2026-08-16</td></tr>
+<tr><td>ANZ</td><td>Sap Successfactors Module Expert (all Genders)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Halfspace ApS</td><td>Sap Successfactors Module Expert (all Genders)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Compliance Analyst</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>adesso Group</td><td>Teamleitung Sap Consulting & Development (all Genders)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>BestSecret GmbH</td><td>Business Analyst Retail (m/w/d)</td><td>MüNchen</td><td>2026-08-16</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Berufseinstieg Consulting - Driven By Skills. Not By Job Titles (w/m/d)</td><td>Berlin +1</td><td>2026-08-16</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Business Analyst (m/w/d) Ai Contact Center</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Business Analyst (m/w/d) Ki-basiertes Inputmanagement</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Produkte Private Altersvorsorge Und Vermögensaufbau</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Berater Public Sector - Informationsmanagement (w/m/d)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Effective People</td><td>Sap Successfactors Business Analyst (remote)</td><td>Copenhagen +7</td><td>2026-08-16</td></tr>
+<tr><td>Boston Consulting Group</td><td>Associate - Ai Tech Consulting (all Genders) - Bcg Platinion</td><td>SEARCH</td><td>2026-08-16</td></tr>
+<tr><td>Fivestars</td><td>Commercial Planning Analyst</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>EY</td><td>Berater Government & Public Sector Sap - Finance (w/m/d)</td><td>Berlin +1</td><td>2026-08-16</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Wertpapierabrechnung & Plattformprojekt</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Ernst & Young</td><td>Berater Ai Transformation Von Finanzprozessen - Business Consulting (w/m/d)</td><td>Berlin +1</td><td>2026-08-16</td></tr>
+<tr><td>Sopra Steria UK</td><td>V.i.e Junior Business Analyst (h/f)</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>PwC PricewaterhouseCoopers GmbH</td><td>Etic, Business / Process Analyst - Associate (german Speaker)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>ZOLL Medical Corporation</td><td>Business Analyst (m/w/d) Schwerpunkt: Hr-controlling & Planning</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Idighardware</td><td>Business Analyst Im Bereich Erp & Eco Systeme (m/w/d)</td><td>Osterfeld</td><td>2026-08-16</td></tr>
+<tr><td>Ivivamedical</td><td>Trainee Clinical Research Associate (m/w/d), Home-office Throughout Germany</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Ivivamedical</td><td>Internship In Clinical Research (m/w/d), Home-based In Germany</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>IQVIA Holdings</td><td>Trainee Clinical Research Associate (m/w/d), Home-office Throughout Germany</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>IQVIA Holdings</td><td>Internship In Clinical Research (m/w/d), Home-based In Germany</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>pfizer.de</td><td>Clinical Research Associate (cra)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Bayada</td><td>Registered Nurse / Home Care</td><td>Middletown +5</td><td>2026-08-16</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Cra I/cra Ii (m/f/d) - Fsp Germany</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>Christiana Care Home Health And Community Services Inc</td><td>Registered Nurse (rn) - Medical Telemetry - Day Shift</td><td>Newark</td><td>2026-08-16</td></tr>
+<tr><td>Christiana Care Home Health And Community Services Inc</td><td>Registered Nurse (rn) - Day Shift</td><td>Wilmington</td><td>2026-08-16</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Fluidmanagement (m/w/d)</td><td>Hanover</td><td>2026-08-16</td></tr>
+<tr><td>Busch Dienste GmbH</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-08-16</td></tr>
+<tr><td>Busch Dienste GmbH</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-08-16</td></tr>
+<tr><td>HEINZ-GLAS GmbH</td><td>Mitarbeiter Im Bereich Elektroinstandhaltung</td><td>Spechtsbrunn</td><td>2026-08-16</td></tr>
+<tr><td>Voith</td><td>Servicemonteur (m/w/d) Außendienst Schienenfahrzeuge</td><td>Kiel</td><td>2026-08-16</td></tr>
+<tr><td>KNDS Group</td><td>Mechatroniker (m/w/d) Werksinstandhaltung</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>KNDS Group</td><td>Industriemechaniker/in (m/w/d)</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>KNDS Group</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-08-16</td></tr>
+<tr><td>AVL List GmbH</td><td>Onsite-servicetechniker (m/w/d)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>AVL List GmbH</td><td>Servicetechniker (m/w/d) Prüfstandstechnik</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Kardex</td><td>Servicetechniker (m/w/d) Region Bielefeld /osnabrück /minden</td><td>Neuburg An Der Kammel</td><td>2026-08-16</td></tr>
+<tr><td>MEG Roßbach GmbH</td><td>Instandhaltung - Mechanik (w/m/d)</td><td>RoßBach</td><td>2026-08-16</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechatroniker - Instandhaltung (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-08-16</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Willkommensprämie* Bis Zu 3.000€</td><td>Rostock Roggentin</td><td>2026-08-16</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Mechanical Maintenance (f/m/d)</td><td>Eurasburg</td><td>2026-08-16</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Mechanical Maintenance (f/m/d) - Limited For 1 Year</td><td>Eurasburg</td><td>2026-08-16</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Servicemonteur (m/w/d)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Getinge AB</td><td>Infection Control Servicetechniker (m/w/d) Medizintechnik - Nrw</td><td>Karlsruhe</td><td>2026-08-16</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker Druckluft/kälte (m/w/d)</td><td>Neukieritzsch</td><td>2026-08-16</td></tr>
+<tr><td>JYSK</td><td>Betriebstechniker (m/w/d)</td><td>Zarrentin Am Schaalsee</td><td>2026-08-16</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Südl. Berlin / Brandenburg</td><td>Genshagen</td><td>2026-08-16</td></tr>
+<tr><td>MediaMarktSaturn Deutschland</td><td>Kundenberater Verkauf (m/w/d)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>MediaMarktSaturn Deutschland</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Constance</td><td>2026-08-16</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>(studentische) Aushilfe Im Verkauf (m/w/d)</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Nuremberg</td><td>2026-08-16</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>Levis Media</td><td>Verkäufer / Sales Stylist (m/w/d) In Teilzeit (20-30 Stunden)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Temporary Seasonal Sales Associate Mini Job (w/m/d) In Ingolstadt</td><td>Ingolstadt</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sales Associate (m/d/f/v) Teilzeit</td><td>Saarbruecken</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sales Associate - (m/w/d) Für 20h/woche In Ingolstadt</td><td>Ingolstadt</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Michael Kors Verkaufsberater (m/w/d) In Teilzeit In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Michael Kors Aushilfe Im Verkauf (m/w/d) Für 10h/woche, Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Michael Kors Verkaufsberater (m/w/d) In Vollzeit Für 40h/woche In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Michael Kors Verkaufsberater (m/w/d) In Teilzeit Für 25h/woche In Kurfürstendamm – Berlin, Deutschland</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Breuningerland/sindelfingen (m/w/d)</td><td>Stuttgart</td><td>2026-08-16</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Lager (minijobber/in) (m/w/d) - Weil Am Rhein</td><td>Freiburg Im Breisgau</td><td>2026-08-16</td></tr>
+<tr><td>Sixt</td><td>Verkaufsberater/ Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Mannheim</td><td>2026-08-16</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>Legocareersvirginia</td><td>Verkäufer (m/w/d) - Lego Store Mall Of Berlin - Teilzeit</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Jobs Ups</td><td>Lagermitarbeiter Teilzeit (m/w/d) In Der Abendsortierung In Hh-stellingen</td><td>Hamburg North Center</td><td>2026-08-16</td></tr>
+<tr><td>Ibstock</td><td>Lagermitarbeiter Teilzeit (m/w/d) In Der Abendsortierung In Hh-stellingen</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>Dachser SE</td><td>Werkstudent (m/w/d) Kommissionierung</td><td>Dortmund</td><td>2026-08-16</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Jettingen</td><td>2026-08-16</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-08-16</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer Bedientheke In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Schrobenhausen (20 Std)</td><td>Ingolstadt</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate / Verkaufsberater In Teilzeit (m/w/d)</td><td>Hamburg</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/f/d)</td><td>Dusseldorf</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/w/d)</td><td>Berlin</td><td>2026-08-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Junior Client Advisor (m/f/d)</td><td>Munich</td><td>2026-08-16</td></tr>
+<tr><td>Jti Macdonald Corp</td><td>Commercial Finance Coordinator</td><td>Cologne</td><td>2026-08-16</td></tr>
+<tr><td>Yara International</td><td>Mitarbeiter Logistik / Logistikkoordinator Transport & Versand (m/w/d)</td><td>Poppendorf</td><td>2026-08-16</td></tr>
 </table>
