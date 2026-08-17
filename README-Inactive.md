@@ -3642,4 +3642,93 @@
 <tr><td>Richemont Australia Pty Ltd</td><td>Junior Client Advisor (m/f/d)</td><td>Munich</td><td>2026-08-16</td></tr>
 <tr><td>Jti Macdonald Corp</td><td>Commercial Finance Coordinator</td><td>Cologne</td><td>2026-08-16</td></tr>
 <tr><td>Yara International</td><td>Mitarbeiter Logistik / Logistikkoordinator Transport & Versand (m/w/d)</td><td>Poppendorf</td><td>2026-08-16</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Controlling Consumer Unit (m/w/d) In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Programme Und Strategien Des Vodafone Instituts (m/w/d) In Berlin</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Finance Enterp., Schwerp. Performance Controlling Am Stand. (m/w/d) In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Controlling (m/w/d) In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Product Innovation & Future Business (m/w/d) In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Public Affairs (m/w/d) In Berlin</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Facility Management (m/w/d) In Unterföhring</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Business Development - Innovation (m/w/d) In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant:in Future Business Und Innovation Visibility (m/w/d) In Düsseldorf</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Human Resources (m/w/d) In Ratingen (hybrid)</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Michelin</td><td>Pflichtpraktikum im Bereich Pr Und Unternehmenskommunikation (alle)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Claas Inside Group Compliance</td><td>Bielefeld</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Praktikum/claas Inside Group Hr Development / Learning & Training</td><td>Bielefeld</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Human Resources</td><td>Bielefeld</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS</td><td>Student (m/w/d) Claas Inside Global Supply Chain Management - Material Management</td><td>Bielefeld</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Im Bereich Digital Channels & Ai Solutions</td><td>Herzebrock-Clarholz</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Vertrieb Molbergen</td><td>Oldenburg</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS</td><td>Praktikum / Abschlussarbeit Vorentwicklung</td><td>Constance</td><td>2026-08-17</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Controlling</td><td>Constance</td><td>2026-08-17</td></tr>
+<tr><td>Festo</td><td>Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-17</td></tr>
+<tr><td>Festo</td><td>Praktikum Duales Studium - Bogy & Studienorientierung</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-17</td></tr>
+<tr><td>itinfinance.nl</td><td>Praktikant Sustainable Solutions Group (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>itinfinance.nl</td><td>Praktikant Defense Security (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>ING Group</td><td>Praktikant Defense Security (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>ING Group</td><td>Praktikant Sustainable Solutions Group (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Value Creation Services (m/w/d)</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Fsi Technology Strategy (m/w/d)</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent It-audit - Financial Services (m/w/d)</td><td>Frankfurt (Main) +3</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Risk & Compliance / Internal Audit (m/w/d)</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Financial Services - Insurance (m/w/d)</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent / Aushilfe Public Funds Assurance (m/w/d)</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Mint - Tax (m/w/d)</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Global Trade Advisory - Indirect Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Analytics / Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Business & Ai Insights (m/w/d)</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>HITACHI ENERGY GERMANY AG</td><td>Duales Studium Bwl – Industrial Business Management (w/m/d) 2027</td><td>Mannheim</td><td>2026-08-17</td></tr>
+<tr><td>HanseWerk AG</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-08-17</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-08-17</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-08-17</td></tr>
+<tr><td>Surteco SE</td><td>Auszubildender Kunststoff-und Kautschuktechnologe (m/w/d) Für 2027</td><td>Dortmund</td><td>2026-08-17</td></tr>
+<tr><td>Sixt</td><td>Management Trainee Filiale (m/w/d) Van & Truck</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>eiffage-infra</td><td>Ausbildung Zum Kanalbauer (m/w/d) 2026</td><td>Dortmund</td><td>2026-08-17</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Zum Berufskraftfahrer (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>Dentsusports</td><td>Trainee - Mediaberatung (m/w/d)</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Dentsu B2B APAC</td><td>Trainee - Mediaberatung (m/w/d)</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>dentsu Germany</td><td>Trainee - Mediaberatung (m/w/d)</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>Howmet Aerospace</td><td>Apprentice Industrial Business Administration</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>E.ON SE</td><td>Auszubildende Fachkraft Für Lagerlogistik (2027)</td><td>Cologne</td><td>2026-08-17</td></tr>
+<tr><td>ABB UK</td><td>Trainee (m/w/d) Technisches Produktmanagement - Grid Components Medium Voltage</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>EY</td><td>Consultant Risk Management - Fast Track Trainee Program (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Consultant Risk Management - Fast Track Trainee Program (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-17</td></tr>
+<tr><td>KNDS Group</td><td>Software-entwickler (m/w/d) System Management & Monitoring</td><td>Germany</td><td>2026-08-17</td></tr>
+<tr><td>createyourowncareer</td><td>C++ Engineer (f/m/d)</td><td>Berlin</td><td>2026-08-17</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Embedded Software-entwickler (w/m/d)</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Softwareentwickler Electronic Warfare Comint - Java (w/m/d)</td><td>Ulm</td><td>2026-08-17</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software-entwickler Mit Schwerpunkt Cyber Security (m/w/d)</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Entwickler Für Automatisierte Testsysteme (w/m/d)</td><td>Ulm</td><td>2026-08-17</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software-entwickler Für Software-defined Defence Im Service (w/m/d)</td><td>Ulm</td><td>2026-08-17</td></tr>
+<tr><td>Golden Palms Rehabilitation and Retirement</td><td>First Level Support (m/w/d).</td><td>Germany</td><td>2026-08-17</td></tr>
+<tr><td>Trimble Inc.</td><td>Backend Developer With A Focus On Network Gnss</td><td>HöHenkirchen</td><td>2026-08-17</td></tr>
+<tr><td>Trimble</td><td>Backend Developer With A Focus On Network Gnss</td><td>HöHenkirchen</td><td>2026-08-17</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-08-17</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-08-17</td></tr>
+<tr><td>Bilfinger SE</td><td>Anlagenmechaniker / Wartungsmechaniker (m/w/d)</td><td>Germany</td><td>2026-08-17</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Germany</td><td>2026-08-17</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschland (kennziffer: Bu/smde)</td><td>Buseck</td><td>2026-08-17</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Instandhalter - Grafschaft (w/m/d)</td><td>Grafschaft Ringen</td><td>2026-08-17</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-08-17</td></tr>
+<tr><td>SSI Schäfer Automation GmbH</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-08-17</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-08-17</td></tr>
+<tr><td>Ontex Group</td><td>Mechaniker / Mechatroniker (m/w/d)</td><td>Grosspostwitz</td><td>2026-08-17</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-08-17</td></tr>
+<tr><td>EUROMASTER GmbH</td><td>Reifenmonteur</td><td>Dusseldorf</td><td>2026-08-17</td></tr>
+<tr><td>GEHC</td><td>Field Service Engineer (f/m/d) – Bildgebende Diagnostik / Radiopharmazie</td><td>Munich +1</td><td>2026-08-17</td></tr>
+<tr><td>GE HealthCare UK</td><td>Field Service Engineer (f/m/d) – Bildgebende Diagnostik / Radiopharmazie</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>HITACHI ENERGY GERMANY AG</td><td>Servicetechniker (m/w/d) Tool Pool</td><td>Karlstein Am Main</td><td>2026-08-17</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Systemtechniker (m/w/d) - Zeit- Und Zutrittssysteme / Großraum Leipzig</td><td>Leipzig</td><td>2026-08-17</td></tr>
+<tr><td>E.ON SE</td><td>Anlagenwärter (w/m/d) Im Schichtspringerdienst</td><td>Emmerthal</td><td>2026-08-17</td></tr>
+<tr><td>SKF Marine GmbH</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-08-17</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Saarbasar Saarbrücken (m/w/d)</td><td>Saarbruecken</td><td>2026-08-17</td></tr>
+<tr><td>Airbus Logistik GmbH</td><td>Lagermitarbeiter Für Wareneingangsbuchungen (d/m/w) Für Die Airbus Logistik Gmbh</td><td>Hamburg</td><td>2026-08-17</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Norderstedt (18,5 Std)</td><td>Hamburg</td><td>2026-08-17</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit - Köln (m/w/d)</td><td>Cologne</td><td>2026-08-17</td></tr>
+<tr><td>PVH</td><td>Studentische Aushilfe München Calvin Klein Underwear (m/w/d)</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>University Hospital Carl Gustav Carus</td><td>Fremdsprachensekretär/ Fremdsprachensekretärin (m/w/d) Institut Anatomie</td><td>Germany</td><td>2026-08-17</td></tr>
+<tr><td>Halfspace ApS</td><td>Executive Assistant Am Standort München</td><td>Munich</td><td>2026-08-17</td></tr>
 </table>
