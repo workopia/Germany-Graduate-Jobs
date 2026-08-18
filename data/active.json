@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-17",
- "count": 642,
+ "asOf": "2026-08-18",
+ "count": 637,
  "jobs": {
   "268678": {
    "id": "268678",
@@ -49,6 +49,54 @@
    "company": "oyora GmbH",
    "role": "Facharzt Für Strahlentherapie (m/w/d) – Cyberknife & Moderne Strahlentherapie",
    "location": "Hamburg"
+  },
+  "f7d459b279af42e77cee5bc01ad169cc": {
+   "id": "f7d459b279af42e77cee5bc01ad169cc",
+   "company": "IOM",
+   "role": "Korean Visa Application Center (kvac) Intern",
+   "location": "Berlin"
+  },
+  "6504da071c92cc5cb0069377727ec060": {
+   "id": "6504da071c92cc5cb0069377727ec060",
+   "company": "Ernst & Young",
+   "role": "Ey-parthenon Praktikant Performance Improvement - Operational Turnaround (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "e029af6732de54015278494f9fbb1a56": {
+   "id": "e029af6732de54015278494f9fbb1a56",
+   "company": "CandA",
+   "role": "Working Student (m/f/d) Pmo Services And Systems",
+   "location": "Intern"
+  },
+  "8d828b39de9334c1f0ac82c2bed0c853": {
+   "id": "8d828b39de9334c1f0ac82c2bed0c853",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Redaktion Galileo (m/w/d)",
+   "location": "Berlin"
+  },
+  "8923b5cc7f6881e722b9e25e0c5ad833": {
+   "id": "8923b5cc7f6881e722b9e25e0c5ad833",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Redaktion Taff (m/w/d)",
+   "location": "Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen"
+  },
+  "92d310677d481d794104713343b207bc": {
+   "id": "92d310677d481d794104713343b207bc",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Tv-produktion Magazine & News (m/w/d)",
+   "location": "Munich"
+  },
+  "c96d0f4b65cd5850a58f8ea35fafb961": {
+   "id": "c96d0f4b65cd5850a58f8ea35fafb961",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum News-redakteur Text (m/w/d)",
+   "location": "Munich"
+  },
+  "e0dc9d4dd98f1135006dd511d9afa1b0": {
+   "id": "e0dc9d4dd98f1135006dd511d9afa1b0",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Conception (m/w/d)",
+   "location": "Munich"
   },
   "65288d0a2411eb17481ad58de1291fe8": {
    "id": "65288d0a2411eb17481ad58de1291fe8",
@@ -482,53 +530,23 @@
    "role": "Praktikum Organisationsberatung (m/w/d)",
    "location": "Cologne"
   },
-  "7402ab46c4c72a0c6ec0a48277fd5dec": {
-   "id": "7402ab46c4c72a0c6ec0a48277fd5dec",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Your Tax Experience (m/w/d)",
-   "location": "Berlin"
-  },
-  "c6947a5d57e82ac2930c17a069821ac2": {
-   "id": "c6947a5d57e82ac2930c17a069821ac2",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum M&a Advisory (m/w/d)",
+  "43725cd98c666ae1de638d020ce38345": {
+   "id": "43725cd98c666ae1de638d020ce38345",
+   "company": "Helm Ag",
+   "role": "Ausbildung - Betriebswirt Im Außenhandel (m/w/d)",
    "location": "Hamburg"
   },
-  "b36872fe83f039d7b120bec89e9e1d50": {
-   "id": "b36872fe83f039d7b120bec89e9e1d50",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikum Corporate Strategy (m/w/d)",
-   "location": "Munich"
+  "cf3b0203e6357535a2f9dda221a009ac": {
+   "id": "cf3b0203e6357535a2f9dda221a009ac",
+   "company": "Telefonica",
+   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027",
+   "location": "Cologne"
   },
-  "64df01a293870a9a82d7d704d4c2ef3b": {
-   "id": "64df01a293870a9a82d7d704d4c2ef3b",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikant Im Bereich Corporate M&a (m/w/d)",
-   "location": "Munich"
-  },
-  "00f8ca1663221df926f90748933c6d28": {
-   "id": "00f8ca1663221df926f90748933c6d28",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikant Culture & Talent Development (m/w/d)",
-   "location": "Munich"
-  },
-  "57877e2f8f96f85e8bb6761fa7dd2a01": {
-   "id": "57877e2f8f96f85e8bb6761fa7dd2a01",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikant Ai Transformation (m/w/d)",
-   "location": "Munich"
-  },
-  "fa9764d98119d2c2936d3ce53b81e8d4": {
-   "id": "fa9764d98119d2c2936d3ce53b81e8d4",
-   "company": "Knorr-Bremse AG",
-   "role": "Pflichtpraktikant Produktmanagement Air Supply (m/w/d)",
-   "location": "Munich"
-  },
-  "bbf6ee96101d1cb14182b7a824ea9c84": {
-   "id": "bbf6ee96101d1cb14182b7a824ea9c84",
-   "company": "michelin.be",
-   "role": "Pflichtpraktikum im Bereich Pr Und Unternehmenskommunikation (alle)",
-   "location": "Frankfurt Am Main"
+  "32794a9bac0a83b2f614f4db7e2e6e44": {
+   "id": "32794a9bac0a83b2f614f4db7e2e6e44",
+   "company": "Telefonica",
+   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027",
+   "location": "Wuppertal"
   },
   "4352b7966ffda56b9a7a032863da051a": {
    "id": "4352b7966ffda56b9a7a032863da051a",
@@ -974,24 +992,6 @@
    "role": "Ausbildung Zum Augenoptiker (m/w/d) - Köln 2026",
    "location": "Cologne"
   },
-  "72354bf311d954ac320144545ab3b520": {
-   "id": "72354bf311d954ac320144545ab3b520",
-   "company": "bayernlb",
-   "role": "Traineeprogramm Finanzen - Controlling, Accounting, Regulatory Reporting & Steuern (m/w/d)",
-   "location": "Germany"
-  },
-  "ce6885c4ad166a56dd74959aed283998": {
-   "id": "ce6885c4ad166a56dd74959aed283998",
-   "company": "bayernlb",
-   "role": "Traineeprogramm Credit Risk Management (m/w/d)",
-   "location": "Germany"
-  },
-  "5f69eea0bf5806c60fe502f4975a94e8": {
-   "id": "5f69eea0bf5806c60fe502f4975a94e8",
-   "company": "bayernlb",
-   "role": "Allgemeines Traineeprogramm (m/w/d)",
-   "location": "Germany"
-  },
   "7194938a71bb58789c205ac1c4183fd4": {
    "id": "7194938a71bb58789c205ac1c4183fd4",
    "company": "Kraftverkehr Nagel SE & Co. KG",
@@ -1135,6 +1135,18 @@
    "company": "adesso-group",
    "role": "Duales Studium Bachelor Of Engineering - Software Engineering (all Genders)",
    "location": "Hamburg"
+  },
+  "c12f5f703ebdf1f939a7cbb7c8babd97": {
+   "id": "c12f5f703ebdf1f939a7cbb7c8babd97",
+   "company": "Thales",
+   "role": "Java Softwareentwickler (m/w/d) Für Hmi",
+   "location": "Stuttgart"
+  },
+  "ec44b5ec8625e6aa4ca6bcc292198cc0": {
+   "id": "ec44b5ec8625e6aa4ca6bcc292198cc0",
+   "company": "Thales",
+   "role": "Embedded Software Developer (m/w/d)",
+   "location": "Stuttgart"
   },
   "d78dacb36d90a74e3b3e75da0f1b4727": {
    "id": "d78dacb36d90a74e3b3e75da0f1b4727",
@@ -1537,18 +1549,6 @@
    "company": "FUNKE Corporate IT GmbH",
    "role": "Fullstack Engineer - Typescript & Aws (m/w/d)",
    "location": "Berlin +1"
-  },
-  "c12f5f703ebdf1f939a7cbb7c8babd97": {
-   "id": "c12f5f703ebdf1f939a7cbb7c8babd97",
-   "company": "Thales",
-   "role": "Java Softwareentwickler (m/w/d) Für Hmi",
-   "location": "Stuttgart"
-  },
-  "ec44b5ec8625e6aa4ca6bcc292198cc0": {
-   "id": "ec44b5ec8625e6aa4ca6bcc292198cc0",
-   "company": "Thales",
-   "role": "Embedded Software Developer (m/w/d)",
-   "location": "Stuttgart"
   },
   "e204145a35619bb46eccd54c5f5ce7d5": {
    "id": "e204145a35619bb46eccd54c5f5ce7d5",
@@ -2252,24 +2252,6 @@
    "role": "Sachbearbeiter Finanzbuchhaltung (m/w/d)",
    "location": "Hungen"
   },
-  "d9b1815cd5366c78d7a7dd63ab971df2": {
-   "id": "d9b1815cd5366c78d7a7dd63ab971df2",
-   "company": "jaxlabs.be",
-   "role": "Financial Accountant (m/w/d) Im Private Banking",
-   "location": "Frankfurt A.M."
-  },
-  "08f76ea008e80402d248e31dce2eae38": {
-   "id": "08f76ea008e80402d248e31dce2eae38",
-   "company": "NIQ",
-   "role": "Junior Industry Insight Analyst (m/w/d) German Speaking",
-   "location": "Frankfurt Am Main"
-  },
-  "4c098c26eddd6631e283c72788f7c90f": {
-   "id": "4c098c26eddd6631e283c72788f7c90f",
-   "company": "Google",
-   "role": "Business Analyst, Devices And Services Partnerships, Dach",
-   "location": "Munich"
-  },
   "18f5d477123bbca4d89e2ed988d20633": {
    "id": "18f5d477123bbca4d89e2ed988d20633",
    "company": "Ivivamedical",
@@ -2420,17 +2402,77 @@
    "role": "Clinical Research Associate (m/w/d)",
    "location": "Schwabenheim"
   },
-  "4914a3388ecb09902780109fafa8f459": {
-   "id": "4914a3388ecb09902780109fafa8f459",
-   "company": "cslbehring.de",
-   "role": "Center Arzt Bremen Weserpark (m/w/d)",
-   "location": "Bremen"
+  "41e22c8a8bddb84e8e843bfe39feafb0": {
+   "id": "41e22c8a8bddb84e8e843bfe39feafb0",
+   "company": "Korber AG",
+   "role": "Service Engineer (m/f/d)",
+   "location": "Munich"
   },
-  "8fda17b4d3fb903c3dad8ddd3f99a3db": {
-   "id": "8fda17b4d3fb903c3dad8ddd3f99a3db",
-   "company": "cslbehring.de",
-   "role": "Center Arzt Bonn (m/w/x)",
-   "location": "Cologne"
+  "8f70ec9e8c9017a16c1b448de8f59e57": {
+   "id": "8f70ec9e8c9017a16c1b448de8f59e57",
+   "company": "Bilfinger SE",
+   "role": "Industriemechaniker Armaturen (m/w/d)",
+   "location": "Schkopau"
+  },
+  "2e3162b8b22aa7de9c38046d4f621570": {
+   "id": "2e3162b8b22aa7de9c38046d4f621570",
+   "company": "Bilfinger SE",
+   "role": "Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau",
+   "location": "Schokopau"
+  },
+  "7ef6b4d55ce415ecd0225c01496798e7": {
+   "id": "7ef6b4d55ce415ecd0225c01496798e7",
+   "company": "Bilfinger SE",
+   "role": "Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose",
+   "location": "Schkopau"
+  },
+  "8dbc53c78711a39ff8430ec0cc3695d8": {
+   "id": "8dbc53c78711a39ff8430ec0cc3695d8",
+   "company": "Bilfinger SE",
+   "role": "Industriemechaniker Pumpen (m/w/d)",
+   "location": "Neukieritzsch"
+  },
+  "3c84d9b8cddff33e25ecfd4d93fbe487": {
+   "id": "3c84d9b8cddff33e25ecfd4d93fbe487",
+   "company": "Bilfinger SE",
+   "role": "Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker",
+   "location": "Frankfurt Am Main"
+  },
+  "fb8ff463e6df68d4efcdfdfac99b6497": {
+   "id": "fb8ff463e6df68d4efcdfdfac99b6497",
+   "company": "Bilfinger SE",
+   "role": "Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)",
+   "location": "Rehden"
+  },
+  "75e4cef7873515dd0c30f733f07f6d6a": {
+   "id": "75e4cef7873515dd0c30f733f07f6d6a",
+   "company": "Bilfinger SE",
+   "role": "Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)",
+   "location": "Hamburg"
+  },
+  "f8779615cfa05783e2b68efd4a9130a1": {
+   "id": "f8779615cfa05783e2b68efd4a9130a1",
+   "company": "Bilfinger SE",
+   "role": "Servicemonteur / Servicetechniker (m/w/d) Deutschland (kennziffer: Bu/smde)",
+   "location": "Buseck"
+  },
+  "c3c9d6c12572b0ad3429c5525d34b3dc": {
+   "id": "c3c9d6c12572b0ad3429c5525d34b3dc",
+   "company": "Bilfinger SE",
+   "role": "Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Rga/sme)",
+   "location": "Rosengarten"
+  },
+  "9883df58046f7fff794e4b1cab2704d1": {
+   "id": "9883df58046f7fff794e4b1cab2704d1",
+   "company": "Bilfinger SE",
+   "role": "Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)",
+   "location": "Buseck"
+  },
+  "99f329bb063ea93408cec2bb28d8eb54": {
+   "id": "99f329bb063ea93408cec2bb28d8eb54",
+   "company": "COTY Inc",
+   "role": "Technischer Anlagenbetreuer (m/w/d)",
+   "location": "Rothenkirchen"
   },
   "ef979afd52a7806023d322a965285af7": {
    "id": "ef979afd52a7806023d322a965285af7",
@@ -2839,78 +2881,6 @@
    "company": "Yunex Traffic",
    "role": "Servicefachraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik",
    "location": "Frankfurt Am Main"
-  },
-  "95c5d1b25d21b2ca49fd2b85e648da4a": {
-   "id": "95c5d1b25d21b2ca49fd2b85e648da4a",
-   "company": "Yunex Traffic",
-   "role": "Servicetechniker (w/m/d) Für Lichtsignalanlagen (ampelanlagen)",
-   "location": "Munich"
-  },
-  "0f2f12f87003fdce3b28665fa7c2f7f7": {
-   "id": "0f2f12f87003fdce3b28665fa7c2f7f7",
-   "company": "Yunex Traffic",
-   "role": "Servicetechniker (w/m/d) Verkehrsleittechnik",
-   "location": "Munich"
-  },
-  "e1435019a92afbb95c0afdcbe4080e28": {
-   "id": "e1435019a92afbb95c0afdcbe4080e28",
-   "company": "SAMSON Group",
-   "role": "Mechatroniker Als Servicetechniker (w/m/d) Im Außendienst",
-   "location": "Munich"
-  },
-  "2a6f957064f25c48d1323e99edaa6aaa": {
-   "id": "2a6f957064f25c48d1323e99edaa6aaa",
-   "company": "Bilfinger SE",
-   "role": "Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)",
-   "location": "Germany"
-  },
-  "a85d369fac21b6c9dca59c2b6148005d": {
-   "id": "a85d369fac21b6c9dca59c2b6148005d",
-   "company": "Bilfinger SE",
-   "role": "Industriemechaniker Armaturen (m/w/d)",
-   "location": "Germany"
-  },
-  "2a3f36ceabb3df60673183f93203e1b3": {
-   "id": "2a3f36ceabb3df60673183f93203e1b3",
-   "company": "Bilfinger SE",
-   "role": "Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau",
-   "location": "Schkopau"
-  },
-  "4b59f7e9dff53c3c38fc4989199e40be": {
-   "id": "4b59f7e9dff53c3c38fc4989199e40be",
-   "company": "Bilfinger SE",
-   "role": "Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker",
-   "location": "Karlsruhe"
-  },
-  "15b9e964211cbd3006889f3a3d439a83": {
-   "id": "15b9e964211cbd3006889f3a3d439a83",
-   "company": "Bilfinger SE",
-   "role": "Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose",
-   "location": "Schkopau"
-  },
-  "4c28e1966136274aef2df63be445f0d6": {
-   "id": "4c28e1966136274aef2df63be445f0d6",
-   "company": "Bilfinger SE",
-   "role": "Industriemechaniker / Pumpenschlosser (m/w/d)",
-   "location": "Germany"
-  },
-  "03ca1b777f949c6970d3739ab56ecf17": {
-   "id": "03ca1b777f949c6970d3739ab56ecf17",
-   "company": "Bilfinger SE",
-   "role": "Industriemechaniker Pumpen (m/w/d)",
-   "location": "Germany"
-  },
-  "f496c7c89eb831fe061f8c4b910050fb": {
-   "id": "f496c7c89eb831fe061f8c4b910050fb",
-   "company": "Bilfinger SE",
-   "role": "Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung",
-   "location": "Germany"
-  },
-  "5aa3dfc6224ceeab66ece508cf82c335": {
-   "id": "5aa3dfc6224ceeab66ece508cf82c335",
-   "company": "Bilfinger SE",
-   "role": "Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)",
-   "location": "Rehden"
   },
   "e1b699a188123c655d01c1f1a7af4ab7": {
    "id": "e1b699a188123c655d01c1f1a7af4ab7",

@@ -3731,4 +3731,32 @@
 <tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Munich</td><td>2026-08-17</td></tr>
 <tr><td>University Hospital Carl Gustav Carus</td><td>Fremdsprachensekretär/ Fremdsprachensekretärin (m/w/d) Institut Anatomie</td><td>Germany</td><td>2026-08-17</td></tr>
 <tr><td>Halfspace ApS</td><td>Executive Assistant Am Standort München</td><td>Munich</td><td>2026-08-17</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Your Tax Experience (m/w/d)</td><td>Berlin</td><td>2026-08-18</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum M&a Advisory (m/w/d)</td><td>Hamburg</td><td>2026-08-18</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikum Corporate Strategy (m/w/d)</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Im Bereich Corporate M&a (m/w/d)</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Culture & Talent Development (m/w/d)</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Ai Transformation (m/w/d)</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Pflichtpraktikant Produktmanagement Air Supply (m/w/d)</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>michelin.be</td><td>Pflichtpraktikum im Bereich Pr Und Unternehmenskommunikation (alle)</td><td>Frankfurt Am Main</td><td>2026-08-18</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Finanzen - Controlling, Accounting, Regulatory Reporting & Steuern (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Credit Risk Management (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>bayernlb</td><td>Allgemeines Traineeprogramm (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>jaxlabs.be</td><td>Financial Accountant (m/w/d) Im Private Banking</td><td>Frankfurt A.M.</td><td>2026-08-18</td></tr>
+<tr><td>NIQ</td><td>Junior Industry Insight Analyst (m/w/d) German Speaking</td><td>Frankfurt Am Main</td><td>2026-08-18</td></tr>
+<tr><td>Google</td><td>Business Analyst, Devices And Services Partnerships, Dach</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>cslbehring.de</td><td>Center Arzt Bremen Weserpark (m/w/d)</td><td>Bremen</td><td>2026-08-18</td></tr>
+<tr><td>cslbehring.de</td><td>Center Arzt Bonn (m/w/x)</td><td>Cologne</td><td>2026-08-18</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicetechniker (w/m/d) Für Lichtsignalanlagen (ampelanlagen)</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicetechniker (w/m/d) Verkehrsleittechnik</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>SAMSON Group</td><td>Mechatroniker Als Servicetechniker (w/m/d) Im Außendienst</td><td>Munich</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Armaturen (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau</td><td>Schkopau</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Karlsruhe</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Pumpenschlosser (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung</td><td>Germany</td><td>2026-08-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-08-18</td></tr>
 </table>
