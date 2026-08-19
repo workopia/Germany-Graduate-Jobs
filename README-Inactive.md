@@ -3759,4 +3759,73 @@
 <tr><td>Bilfinger SE</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Germany</td><td>2026-08-18</td></tr>
 <tr><td>Bilfinger SE</td><td>Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung</td><td>Germany</td><td>2026-08-18</td></tr>
 <tr><td>Bilfinger SE</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-08-18</td></tr>
+<tr><td>C&A</td><td>Working Student (m/f/d) Pmo Services And Systems</td><td>Dusseldorf</td><td>2026-08-19</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-08-19</td></tr>
+<tr><td>GK SOFTWARE SE</td><td>Initiativbewerbung Für Studierende (all Genders)</td><td>SchöNeck</td><td>2026-08-19</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Praktikant (m/w/d) Im Strategischen Einkauf</td><td>Stuttgart</td><td>2026-08-19</td></tr>
+<tr><td>European Patent Office</td><td>Legal Internship (rechtsreferendariat)</td><td>Munich</td><td>2026-08-19</td></tr>
+<tr><td>Kws Group</td><td>Internship (m/f/d) - Unsolicited Application</td><td>Berlin</td><td>2026-08-19</td></tr>
+<tr><td>Kws Group</td><td>Praktikant (m/w/d) - Initiativbewerbung</td><td>Berlin</td><td>2026-08-19</td></tr>
+<tr><td>workday.gea</td><td>Information Security Intern (f/m/d)</td><td>Dusseldorf</td><td>2026-08-19</td></tr>
+<tr><td>GEA</td><td>Information Security Intern (f/m/d)</td><td>Dusseldorf</td><td>2026-08-19</td></tr>
+<tr><td>Kommunalkredit Austria AG</td><td>Internship - Structuring & Execution (m/f/d), Frankfurt A. Main</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>RWE AG</td><td>Werkstudent Central Project Und Rweti Controlling D/w/m</td><td>Wuppertal</td><td>2026-08-19</td></tr>
+<tr><td>RWE Renewables Europe & Australia GmbH</td><td>Werkstudent Procurement D/m/w</td><td>Wuppertal</td><td>2026-08-19</td></tr>
+<tr><td>RWE Generation SE</td><td>Werkstudent Central Project Und Rweti Controlling D/w/m</td><td>Wuppertal</td><td>2026-08-19</td></tr>
+<tr><td>RWE AG</td><td>Werkstudent Procurement D/m/w</td><td>Wuppertal</td><td>2026-08-19</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In The Legal, Governance & Compliance Department</td><td>Freiburg Im Breisgau</td><td>2026-08-19</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In Product Management: Reliable Control Technology</td><td>Freiburg Im Breisgau</td><td>2026-08-19</td></tr>
+<tr><td>SICK AG</td><td>Mandatory Internship In Training & Education: Technical And Product-related E-learning Courses</td><td>Freiburg Im Breisgau</td><td>2026-08-19</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Marketing & Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>Salzgitter AG</td><td>Studentisches Grundpraktikum</td><td>Dortmund</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Praktikumsstelle Direktanlage & Private Debt</td><td>Dusseldorf</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold</td><td>Bielefeld</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2026 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Audit / Wirtschaftsprüfung (m/w/d)</td><td>Berlin</td><td>2026-08-19</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Transaction Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Organisationsberatung (m/w/d)</td><td>Cologne</td><td>2026-08-19</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Hanover</td><td>2026-08-19</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Kiel</td><td>2026-08-19</td></tr>
+<tr><td>eiffage-infra.de</td><td>Ausbildung Zum Kanalbauer (m/w/d) 2026</td><td>Dortmund</td><td>2026-08-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Zur Fachkraft Für Schutz Und Sicherheit (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-08-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Auszubildende/r Mechatronik 2027 (m/w/d)</td><td>Stuttgart</td><td>2026-08-19</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Projekte & Prozesse Zahlungsservice / Finanzinstrumente</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>unilever.es</td><td>Ausbildung Mechatroniker:in (d/w/m)</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Mister Spex</td><td>Ausbildung Zum Augenoptiker (m/w/d) - Köln 2026</td><td>Cologne</td><td>2026-08-19</td></tr>
+<tr><td>adesso-group</td><td>Duales Studium Bachelor Of Engineering - Software Engineering (all Genders)</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Working Student (f/m/x) Embedded Software Development For Swarm Navigation</td><td>Oberpfaffenhofen</td><td>2026-08-19</td></tr>
+<tr><td>Infineon</td><td>Master Thesis - Development Of A Software Plugin For Integration Of Ai Generated Design Elements Into A Chip Design Package (f/m/div)</td><td>Munich</td><td>2026-08-19</td></tr>
+<tr><td>Rewe Group</td><td>Sachbearbeiter Finanzbuchhaltung (m/w/d)</td><td>Hungen</td><td>2026-08-19</td></tr>
+<tr><td>Bonback Halle GmbH</td><td>Elektroniker / Elektriker / Mechatroniker - Instandhaltung (w/m/d)</td><td>Halle (Saale)</td><td>2026-08-19</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>Munich</td><td>2026-08-19</td></tr>
+<tr><td>GEA</td><td>Industriemechaniker Reparaturen</td><td>Niederahr</td><td>2026-08-19</td></tr>
+<tr><td>Ontex</td><td>Mechaniker / Mechatroniker (m/w/d)</td><td>Grosspostwitz</td><td>2026-08-19</td></tr>
+<tr><td>Air Liquide</td><td>Servicetechniker / Anlagentechniker Reinstgas- & Analysensysteme (m/w/d)</td><td>Carrier Gases</td><td>2026-08-19</td></tr>
+<tr><td>RWS GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Im Bereich Electrical Maintenance</td><td>Germany</td><td>2026-08-19</td></tr>
+<tr><td>GROB</td><td>Servicetechniker Cnc/zerspanung (m/w/d) - Stuttgart</td><td>Stuttgart</td><td>2026-08-19</td></tr>
+<tr><td>Altana</td><td>Employee Legacy Repair & Service Support (m/w/d)</td><td>Germany</td><td>2026-08-19</td></tr>
+<tr><td>kjf-augsburg</td><td>Hausmeister M/w/d</td><td>Bad Hindelang</td><td>2026-08-19</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>Coloplast</td><td>Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Coloplast AS</td><td>Warehouse Associate (fachkraft Für Lagerlogistik / Lagermitarbeiter) (m/w/d)</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>Tumi</td><td>Sales Advisor (m/w/d)</td><td>Munich</td><td>2026-08-19</td></tr>
+<tr><td>SKF Sverige AB</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Mannheim</td><td>2026-08-19</td></tr>
+<tr><td>MediaMarktSaturn Deutschland</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Munich</td><td>2026-08-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Constance</td><td>2026-08-19</td></tr>
+<tr><td>MediaMarktSaturn Deutschland</td><td>Aushilfe Verkauf - Schwerpunkt Smartphone & Vertragsgeschäft (m/w/d)</td><td>Wurzburg</td><td>2026-08-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ausbildung Zum Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-08-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Hamburg</td><td>2026-08-19</td></tr>
+<tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Im Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-08-19</td></tr>
+<tr><td>createyourowncareer</td><td>Customer Service Specialist (m/w/d)</td><td>Berlin</td><td>2026-08-19</td></tr>
+<tr><td>musashi-group</td><td>Specialist Hr Development (m/w/d)</td><td>Bockenau</td><td>2026-08-19</td></tr>
 </table>
