@@ -3828,4 +3828,89 @@
 <tr><td>MediaMarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Im Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-08-19</td></tr>
 <tr><td>createyourowncareer</td><td>Customer Service Specialist (m/w/d)</td><td>Berlin</td><td>2026-08-19</td></tr>
 <tr><td>musashi-group</td><td>Specialist Hr Development (m/w/d)</td><td>Bockenau</td><td>2026-08-19</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Galileo (m/w/d)</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Taff (m/w/d)</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-20</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Tv-produktion Magazine & News (m/w/d)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum News-redakteur Text (m/w/d)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Conception (m/w/d)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern (f/m/d) - Go-to-market Strategy To Execution</td><td>Mannheim</td><td>2026-08-20</td></tr>
+<tr><td>SAP Ariba</td><td>Diploma Student/intern (m/f/d) - Global Ombuds Office / Learning & Development / Conflict Management</td><td>Mannheim</td><td>2026-08-20</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Hochschulpraktikum</td><td>Germany</td><td>2026-08-20</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Inhouse Consulting: Performance Improvement (m/w/d)</td><td>Germany</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Operations / Consulting (m/w/d)</td><td>Frankfurt (Main) +5</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Innovation Management - Garage For Tax & Legal (m/w/d)</td><td>Dusseldorf</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Valuation & Modeling (m/w/d)</td><td>Frankfurt (Main) +5</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Transfer Pricing (m/w/d)</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikum Cmc Compliance (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-08-20</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikant In Quality Assurance (m/f/d)</td><td>Search By Location</td><td>2026-08-20</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Employer Branding/personalmarketing In Frankfurt 2026</td><td>Frankfurt Am Main</td><td>2026-08-20</td></tr>
+<tr><td>PERI GmbH</td><td>Praktikant (m/w/d) Corporate Strategy & Innovation</td><td>Ulm</td><td>2026-08-20</td></tr>
+<tr><td>FAURECIA SERVICES GroupE</td><td>Praktikant Personalwesen (m/w/d)</td><td>Hanover</td><td>2026-08-20</td></tr>
+<tr><td>Nordex SE</td><td>Intern Portfolio Planning & Project Execution (m/f/d)</td><td>Hamburg</td><td>2026-08-20</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Leadership Development & Kommunikation (m/w/d)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Im Developing (w/m/d)</td><td>Ulm</td><td>2026-08-20</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Hensoldt Produktionssystem (w/m/d)</td><td>Ulm</td><td>2026-08-20</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikum Im Bereich Werkslogistik</td><td>Ulm</td><td>2026-08-20</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Talent Development & Kommunikation (w/m/d)</td><td>Ulm</td><td>2026-08-20</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market Training (sose 2027)</td><td>Kempten Allgau</td><td>2026-08-20</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market - Team Logistics (sose 2027)</td><td>Kempten Allgau</td><td>2026-08-20</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Markt Bibart</td><td>Markt Bibart</td><td>2026-08-20</td></tr>
+<tr><td>SGL Carbon</td><td>Praktikant (m/w/d) Im Bereich Site Environment, Health & Safety</td><td>Augsburg</td><td>2026-08-20</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Mandatory Internship In Renewable Energy (f/m/d)</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-08-20</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>PUMA</td><td>Internship Commercial Management E-commerce Europe</td><td>Puma Way Peg</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Internship - Market Intelligence & Strategy (f/m/div)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Internship - Finance & Controlling (f/m/div)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Internship – Digital Functional Verification (f/m/div)</td><td>Dresden</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Master Thesis - Ultra -wideband Benchmarking (f/m/div)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Internship - Semiconductor Device Physical Inspection (f/m/div)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Bitzer SE</td><td>Initiativbewerbung Praktikum / Abschlussarbeit (m/w/d)</td><td>Germany</td><td>2026-08-20</td></tr>
+<tr><td>Bitzer SE</td><td>Praktikum Human Resources (m/w/d)</td><td>Stuttgart</td><td>2026-08-20</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten User Interface Design Ab September 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-08-20</td></tr>
+<tr><td>Excelitas Technologies Corporation</td><td>Working Student / Intern (f/m/d) Human Resources</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum/ Abschlussarbeit Pricing</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum Marketing Car</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum Marketing Motorradreifen</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum/ Abschlussarbeit Corporate Compliance</td><td>Breuberg</td><td>2026-08-20</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum/ Abschlussarbeit Recruiting</td><td>Breuberg</td><td>2026-08-20</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>Bielefeld</td><td>2026-08-20</td></tr>
+<tr><td>Bertelsmann Stiftung</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-08-20</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung: Praktikum (m/w/d)</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>EY</td><td>Ey-parthenon Praktikant Sports Industry Group - Strategy And Execution (w/m/d)</td><td>Cologne</td><td>2026-08-20</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Human Resources Mit Fokus It Ausbildung, Personal- & Organisationsentwicklung</td><td>Oberopfingen</td><td>2026-08-20</td></tr>
+<tr><td>Verlegerdienst München GmbH</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/x)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>fisgruppe</td><td>Trainee It-servicemanagement & Sales (m/w/x)</td><td>Grafenrheinfeld</td><td>2026-08-20</td></tr>
+<tr><td>LBBW Webspace</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Albstadt (2027)</td><td>Reutlingen</td><td>2026-08-20</td></tr>
+<tr><td>LBBW Webspace</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Gerlingen/leonberg (2027)</td><td>Stuttgart</td><td>2026-08-20</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (frankfurt)</td><td>Frankfurt Am Main</td><td>2026-08-20</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (stuttgart)</td><td>Stuttgart</td><td>2026-08-20</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Zur Fachkraft (m/w/d) Für Lagerlogistik In Köln-niehl</td><td>Cologne</td><td>2026-08-20</td></tr>
+<tr><td>Constellium</td><td>Werkstudent It Support (m/w/d)</td><td>Dahenfeld</td><td>2026-08-20</td></tr>
+<tr><td>ZEISS Group</td><td>Bilanzbuchhalter (m/w/d)</td><td>Germany</td><td>2026-08-20</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Sales Performance Analyst B2b (w/m/d)</td><td>Dusseldorf</td><td>2026-08-20</td></tr>
+<tr><td>539</td><td>Clinical Research Associate (m/w/d)</td><td>Schwabenheim</td><td>2026-08-20</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-08-20</td></tr>
+<tr><td>Reichert & Becker Aufzugstechnik</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet</td><td>Frankfurt Am Main</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Bruchsal / Hockenheim</td><td>Karlsruhe</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Großraum Neuss</td><td>Dusseldorf</td><td>2026-08-20</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-08-20</td></tr>
+<tr><td>KS Aufzugsservice GmbH</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-08-20</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Rottenburg An Neckar / Tübingen</td><td>Rottenburg Am Neckar +1</td><td>2026-08-20</td></tr>
+<tr><td>C. Haushahn GmbH & Co. KG</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-08-20</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-08-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Ruhrgebiet</td><td>2026-08-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Elektriker*in / Mechatroniker*in (m/w/d) - Fokus Reparatur (befristet 12 Monate)</td><td>Ahorn</td><td>2026-08-20</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-08-20</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Teilzeit Befristet - Bergisch Gladbach (m/w/d)</td><td>Cologne</td><td>2026-08-20</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Bergisch Gladbach (m/w/d)</td><td>Cologne</td><td>2026-08-20</td></tr>
+<tr><td>Airbus Logistik GmbH</td><td>Lagermitarbeiter Für Wareneingangbuchungen (d/m/w) Für Die Airbus Logistik Gmbh</td><td>Hamburg</td><td>2026-08-20</td></tr>
+<tr><td>Newell Brands</td><td>Yankee Candle - Seasonal Sales Associate - Hamburg, Ny</td><td>Hamburg</td><td>2026-08-20</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-08-20</td></tr>
+<tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-08-20</td></tr>
 </table>
