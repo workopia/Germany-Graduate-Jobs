@@ -3913,4 +3913,75 @@
 <tr><td>Newell Brands</td><td>Yankee Candle - Seasonal Sales Associate - Hamburg, Ny</td><td>Hamburg</td><td>2026-08-20</td></tr>
 <tr><td>1&1 Internet Inc</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-08-20</td></tr>
 <tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-08-20</td></tr>
+<tr><td>HOERBIGER</td><td>Bewerbung Schnupperpraktikum</td><td>Frankfurt Am Main</td><td>2026-08-21</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Praktikant (m/w/d) Brand & Product Communication</td><td>Bielefeld</td><td>2026-08-21</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Schülerpraktikum In Der Qualitätssicherung (labor) Ab Mai 2027</td><td>Bielefeld</td><td>2026-08-21</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Schülerpraktikum In Der Produktion 2027</td><td>Bielefeld</td><td>2026-08-21</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Schülerpraktikum In Der It Ab April 2027</td><td>Bielefeld</td><td>2026-08-21</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Redaktion</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Praktikum Quality Standards & Sustainability Non Food (m/w/d)</td><td>Hamburg</td><td>2026-08-21</td></tr>
+<tr><td>Legocareersvirginia</td><td>Praktikant:in/werkstudent:in (m/w/d) Im Trade Marketing</td><td>Munich</td><td>2026-08-21</td></tr>
+<tr><td>covestro.cn</td><td>Intern (m/f/d) In Logistics Planning Sc&l</td><td>Dusseldorf</td><td>2026-08-21</td></tr>
+<tr><td>Villeroy & Boch</td><td>Praktikum: Fachoberschule Wirtschaft</td><td>Mettlach</td><td>2026-08-21</td></tr>
+<tr><td>Red Bull New York</td><td>Intern Customer Service</td><td>Munich</td><td>2026-08-21</td></tr>
+<tr><td>Bosch Group</td><td>Mandatory Internship Customer Strategy & Experience - Technical Acquisition Management</td><td>Stuttgart</td><td>2026-08-21</td></tr>
+<tr><td>IOM</td><td>Korean Visa Application Center (kvac) Intern</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Ernst & Young</td><td>Ey-parthenon Praktikant Performance Improvement - Operational Turnaround (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-21</td></tr>
+<tr><td>CandA</td><td>Working Student (m/f/d) Pmo Services And Systems</td><td>Intern</td><td>2026-08-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (sose 2027)</td><td>Kempten Allgau</td><td>2026-08-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market - Team Logistics (sose 2027)</td><td>Kempten Allgau</td><td>2026-08-21</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Aktuariat Lebensversicherung</td><td>Dortmund</td><td>2026-08-21</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Marketing Ixp Intern (f/m/d)- Global Sponsorships Activation Management</td><td>Walldorf +1</td><td>2026-08-21</td></tr>
+<tr><td>SAP Ariba</td><td>Working Student (f/m/d) - Marketing Associate In Emarsys Integration</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern (f/m/d) - Quality Assurance Process And Communication Support</td><td>Mannheim</td><td>2026-08-21</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Ixp Intern (f/m/d) - Communication For Customer Engagement Tools</td><td>St. Leon +1</td><td>2026-08-21</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-08-21</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Ausbildung Zum Industriemechaniker (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-BäUmenheim</td><td>2026-08-21</td></tr>
+<tr><td>Coperion</td><td>Electrical Assembly Apprentice</td><td>Industriestrasse 33</td><td>2026-08-21</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2026 - Standort Niederwinkling</td><td>Niederwinkling</td><td>2026-08-21</td></tr>
+<tr><td>Sixt</td><td>Management Trainee Filiale (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-21</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>SteißLingen</td><td>2026-08-21</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Lagerlogistik</td><td>Stavenhagen</td><td>2026-08-21</td></tr>
+<tr><td>Dachser SE</td><td>Management Trainee (m/w/d) Spedition</td><td>Rottenburg Am Neckar</td><td>2026-08-21</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Ki & Innovation Im Bereich Compliance</td><td>Germany</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Control Software Engineer - Testing & Integration (m/f/d)</td><td>Hamburg</td><td>2026-08-21</td></tr>
+<tr><td>Zalando</td><td>Frontend Engineer - Zeos (all Genders)</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Jobgether</td><td>Member Of Engineering (interfaces, Full Stack)</td><td>Germany</td><td>2026-08-21</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Applikations-entwickler (m/w/d)</td><td>Stuttgart</td><td>2026-08-21</td></tr>
+<tr><td>Kaserei Champignon Hofmeister GmbH</td><td>Mitarbeiter It Service Desk (m/w/d)</td><td>Germany</td><td>2026-08-21</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Conversational Ai (all Genders)</td><td>Nach Standort Suchen</td><td>2026-08-21</td></tr>
+<tr><td>IFCO Group</td><td>Kreditorenbuchhalter (m/w/d)</td><td>Germany</td><td>2026-08-21</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Facharzt (m/w/d) Intensivstation</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Germany</td><td>2026-08-21</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Servicetechniker Telekommunikation / Glasfaser (m/w/d)</td><td>Germany</td><td>2026-08-21</td></tr>
+<tr><td>Pfeifer Holz GmbH & Co KG</td><td>Industriemechaniker/ Betriebsschlosser (m/w/d) Unbefristet</td><td>Unterbernbach</td><td>2026-08-21</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-08-21</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Servicetechniker Sicherheitstechnik (m/w/d) - Deutschlandweit</td><td>Muenchen 1</td><td>2026-08-21</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Techniker (m/w/d) Gebäudeautomation</td><td>Munich</td><td>2026-08-21</td></tr>
+<tr><td>e.dialog Netz GmbH</td><td>Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>E.ON Gas Mobil GmbH</td><td>Servicemonteur Cng Anlagen Für Süddeutschland (w/m/d)</td><td>Baden-WüRttemberg +2</td><td>2026-08-21</td></tr>
+<tr><td>PreussenElektra GmbH</td><td>Anlagenwärter (w/m/d) Im Schichtspringerdienst</td><td>Emmerthal</td><td>2026-08-21</td></tr>
+<tr><td>HanseWerk Natur GmbH</td><td>Anlagenmechaniker Servicetechnik Energieanlagen (m/w/d)*</td><td>Hamburg</td><td>2026-08-21</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Servicemonteur (m/w/d)</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>DEUTZ Deutschland GmbH</td><td>Servicetechniker (m/w/d) Im Außendienst - Motoren</td><td>Oberbayern +5</td><td>2026-08-21</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Elektroniker / Mechatroniker Instandhaltung (m/w/d)</td><td>Denklingen</td><td>2026-08-21</td></tr>
+<tr><td>Berchtenbreiter Aufzugtechnik</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum München</td><td>Munich</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Bereich Großreparatur</td><td>Dusseldorf</td><td>2026-08-21</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum München</td><td>Munich</td><td>2026-08-21</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Leipzig</td><td>Leipzig</td><td>2026-08-21</td></tr>
+<tr><td>FMK Aufzüge</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-08-21</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (innenstadt)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Leverkusen (opladen)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Aushilfe, Mülheim/ruhr</td><td>Dusseldorf</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (hbf)</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (rhein-center)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (mülheim)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bergisch Gladbach (refrath)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (sülz)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (chlodwigplatz)</td><td>Cologne</td><td>2026-08-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarbrücken</td><td>Saarbruecken</td><td>2026-08-21</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Fliesen / Bodenbeläge / Laminat (gn)</td><td>Berlin</td><td>2026-08-21</td></tr>
 </table>
