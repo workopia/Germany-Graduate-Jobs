@@ -3984,4 +3984,31 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (chlodwigplatz)</td><td>Cologne</td><td>2026-08-21</td></tr>
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarbrücken</td><td>Saarbruecken</td><td>2026-08-21</td></tr>
 <tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Fliesen / Bodenbeläge / Laminat (gn)</td><td>Berlin</td><td>2026-08-21</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Werkstudent (m/w/d) Im Bereich Kapitalmärkte Privatkunden Im Team Vermarktung B2c 2027</td><td>Frankfurt Am Main</td><td>2026-08-22</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Internship Within Airbus Procurement Processes, Governance And Performance Management</td><td>Munich</td><td>2026-08-22</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Geoit/bildverarbeitung (w/m/d)</td><td>Munich</td><td>2026-08-22</td></tr>
+<tr><td>Nestlé</td><td>Praktikum Brand Management (m/w/d(</td><td>Frankfurt Am Main</td><td>2026-08-22</td></tr>
+<tr><td>Nestlé</td><td>Praktikum Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-22</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-22</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (sose 2027)</td><td>Kempten Allgau</td><td>2026-08-22</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-08-22</td></tr>
+<tr><td>Bundes-Gesellschaft fuer Endlagerung mbH</td><td>Ausbildung Zum/zur Industriemechaniker/in (m/w/d)</td><td>Asse II</td><td>2026-08-22</td></tr>
+<tr><td>SKF Marine GmbH</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-08-22</td></tr>
+<tr><td>ABB Ltd</td><td>Trainee (m/w/d) Technisches Produktmanagement - Grid Components Medium Voltage</td><td>Dusseldorf</td><td>2026-08-22</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Ausbildung Zum Konstruktionsmechaniker/schweißtechnik (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-BäUmenheim</td><td>2026-08-22</td></tr>
+<tr><td>CUBE</td><td>Frontend Engineer - Agentic Ai</td><td>Berlin</td><td>2026-08-22</td></tr>
+<tr><td>cellcentric GmbH</td><td>Instandhaltungstechniker - Mechatronik/elektronik Für Produktionsmaschinen (m/w/d)</td><td>Esslingen-Pliensauvorstadt</td><td>2026-08-22</td></tr>
+<tr><td>Bilfinger</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Karlsruhe</td><td>2026-08-22</td></tr>
+<tr><td>SICK AG</td><td>Unsolicited Application Sick Vertriebs-gmbh: Technical Field Service* (f/m/d)</td><td>Germany</td><td>2026-08-22</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Berlin (steglitz)</td><td>Berlin</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Mülheim/ruhr</td><td>Dusseldorf</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)</td><td>Cologne</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d, Teilzeit, Saarlouis</td><td>Saarbruecken</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Köln (hbf)</td><td>Cologne</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Köln (dellbrück)</td><td>Cologne</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (friedrich-breuer-str.)</td><td>Cologne</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Bergisch Gladbach</td><td>Cologne</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Essen (hbf)</td><td>Wuppertal</td><td>2026-08-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d) Hamburg (quarree Wandsbek)</td><td>Hamburg</td><td>2026-08-22</td></tr>
 </table>
