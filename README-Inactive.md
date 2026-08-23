@@ -4179,4 +4179,63 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bochum (drehscheibe)</td><td>Dortmund</td><td>2026-08-23</td></tr>
 <tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Viernheim</td><td>Mannheim</td><td>2026-08-23</td></tr>
 <tr><td>Yara International ASA</td><td>Mitarbeiter Logistik / Logistikkoordinator Transport & Versand (m/w/d)</td><td>Poppendorf</td><td>2026-08-23</td></tr>
+<tr><td>Vodafone</td><td>Verkaufsmitarbeiter Telekommunikation (m/w/d), In Teilzeit</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Berlin (leipziger Platz 12-13), In Teilzeit</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Vodafone</td><td>Sales Associate (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>ING Wholesale Banking Germany</td><td>Praktikant Transaction Service Sales – Wholesale Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>ING Wholesale Banking</td><td>Intern – Sales Strategy & Analytics, Wholesale Banking (f/m/x)</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>Zalando</td><td>Internship Category Management (all Genders)</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Zalando</td><td>Intern Strategic Development Sports (all Genders)</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Airbus SE</td><td>Praktikum (d/m/w) Im Bereich Der Faserverbundfertigung</td><td>Hamburg</td><td>2026-08-23</td></tr>
+<tr><td>Airbus Aerostructures GmbH</td><td>Praktikum (d/m/w) Im Bereich Der Faserverbundfertigung</td><td>Hamburg</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Intern People & Culture Systems Support</td><td>Hamburg</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Product Strategy & Sales Support Intern (m/f/d)</td><td>Madrid +1</td><td>2026-08-23</td></tr>
+<tr><td>Doctolib GmbH</td><td>Werkstudent B2c Marketing (x/f/m)</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - People & Culture</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)</td><td>Dusseldorf</td><td>2026-08-23</td></tr>
+<tr><td>DHL Group</td><td>Praktikant (m/w/d) Für Den Bereich Zoll Bei Post & Paket Deutschland</td><td>Cologne</td><td>2026-08-23</td></tr>
+<tr><td>944game Inc</td><td>Cae Intern</td><td>Aschaffenburg</td><td>2026-08-23</td></tr>
+<tr><td>Applied Materials</td><td>Cae Intern</td><td>Aschaffenburg</td><td>2026-08-23</td></tr>
+<tr><td>covestro.cn</td><td>Praktikant:in Im Bereich Corporate Communications (m/w/d) - Mit Gehaltsangabe</td><td>Cologne</td><td>2026-08-23</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Esg-werkstudent (w/m/d) Vera Zur Eu-taxonomie-datenerfassung</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>ORAFOL Europe GmbH</td><td>Pflichtpraktikum Im Marketing</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>SAMSON Group</td><td>Pflichtpraktikum/berufspraktische Phase Oder Abschlussarbeit Im Strategischen Marketing</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-23</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-08-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Henstedt-ulzburg</td><td>Henstedt-Ulzburg</td><td>2026-08-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Frankfurt (bornheim)</td><td>Frankfurt Am Main</td><td>2026-08-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Hameln</td><td>Hanover</td><td>2026-08-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) München (pasing)</td><td>Munich</td><td>2026-08-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Trainee Filialleiter/shop Manager (m/w/d), Teilzeit, Großraum Düsseldorf</td><td>Dusseldorf</td><td>2026-08-23</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Werkstudent (w/m/d) It Service Desk</td><td>Giebelstadt</td><td>2026-08-23</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Front Office Systeme Portfoliomanagement</td><td>Germany</td><td>2026-08-23</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Servicetechniker International (m/w/d)</td><td>Wolfertschwenden</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Wartung Windenergieanlagen</td><td>Kist</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Kleinkoschen</td><td>Senftenberg - Kleinkoschen</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Hamburg</td><td>2026-08-23</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Ormont</td><td>Ormont</td><td>2026-08-23</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Servicetechniker Telekommunikation / Glasfaser (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-08-23</td></tr>
+<tr><td>Free2move</td><td>Operations Service Technician</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-08-23</td></tr>
+<tr><td>HEINZ-GLAS GmbH</td><td>Mitarbeiter Im Bereich Elektroinstandhaltung</td><td>Spechtsbrunn</td><td>2026-08-23</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Ruhrgebiet</td><td>2026-08-23</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>ALDI SE & Co. KG Bous</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-08-23</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-08-23</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-23</td></tr>
+<tr><td>ALDI SE & Co. KG Sankt Augustin</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-23</td></tr>
+<tr><td>ALDI SE & Co. KG Butzbach</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-08-23</td></tr>
+<tr><td>ALDI SE & Co. KG Sankt Augustin</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-08-23</td></tr>
+<tr><td>ALDI SE & Co. KG Bous</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-08-23</td></tr>
+<tr><td>Avis Budget Group</td><td>Kundenberater:in / Verkaufsberater:in (m/w/d) Mit Regionalem Einsatzgebiet In Der Autovermietung</td><td>Nuremberg</td><td>2026-08-23</td></tr>
+<tr><td>MediaMarktSaturn Deutschland</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Munster</td><td>2026-08-23</td></tr>
+<tr><td>MediaMarktSaturn Deutschland</td><td>Kundenberater Verkauf (m/w/d)</td><td>Munster</td><td>2026-08-23</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Vollzeit 37,5h/w.</td><td>Munich</td><td>2026-08-23</td></tr>
+<tr><td>ZG Raiffeisen eG</td><td>Fachverkäufer (m/w/d) Garten- Und Landschaftsbau</td><td>Constance</td><td>2026-08-23</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Freising (m/w/d)</td><td>Munich</td><td>2026-08-23</td></tr>
+<tr><td>JYSK</td><td>Logistikmitarbeiter (m/w/d) - Dauernachtschicht</td><td>Kammlach</td><td>2026-08-23</td></tr>
+<tr><td>Freie Universität Berlin</td><td>Sachbearbeitung Studierendenverwaltung (w/m/d) (815)</td><td>Berlin</td><td>2026-08-23</td></tr>
+<tr><td>bayernlb</td><td>Executive Assistant (m/w/d) Im Vorstandsbereich Cio/coo - Fokus Office Management</td><td>Munich</td><td>2026-08-23</td></tr>
+<tr><td>CoreOS</td><td>Administrative Assistant - Part Time (m/f/d)</td><td>Munich</td><td>2026-08-23</td></tr>
 </table>
