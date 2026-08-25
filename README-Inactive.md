@@ -4369,4 +4369,58 @@
 <tr><td>Oberalp S.p.a</td><td>Auszubildende/r (m/w/d) Salewa Store München</td><td>Munich</td><td>2026-08-24</td></tr>
 <tr><td>ALDI SE & Co. KG</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-08-24</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Underwriting Service Specialist Haftpflicht Industriekunden (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-24</td></tr>
+<tr><td>TRATON Group</td><td>Working Student / R&d Controlling (m/f/d)</td><td>Munich</td><td>2026-08-25</td></tr>
+<tr><td>Puma</td><td>Internship Teamsport Design - Footwear & Equipment</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Puma</td><td>Internship Planning E-commerce Europe</td><td>Peg</td><td>2026-08-25</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Internship Mergers & Acquisitions / Cooperations / Finance</td><td>Constance</td><td>2026-08-25</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Freiwilliges Praktikum: Mergers & Acquisitions / Kooperationen / Finanz Zf Group (m/w/d)</td><td>Constance</td><td>2026-08-25</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - Pacs</td><td>Berlin</td><td>2026-08-25</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Schüler-/orientierungspraktikum (gn) Ab September 2026</td><td>76879</td><td>2026-08-25</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Kaufmännisch</td><td>Stuttgart</td><td>2026-08-25</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>St. Ingbert</td><td>2026-08-25</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Strukturierung Kapitalmarktgeschäft</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Schönmackers Umweltdienste GmbH</td><td>Ausbildung 2027 - Kaufmann/-frau Für Büromanagement (m/w/d)</td><td>Dusseldorf</td><td>2026-08-25</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Ausbildung - Maschinen- Und Anlagenführer</td><td>Breuberg</td><td>2026-08-25</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Ausbildung - Industriekaufmann/-frau</td><td>Breuberg</td><td>2026-08-25</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-08-25</td></tr>
+<tr><td>Ardagh Group</td><td>Ausbildung Mechatroniker 2026 (m/w/d)</td><td>Hanover</td><td>2026-08-25</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>One Nexus / Trainee (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-25</td></tr>
+<tr><td>NEXUS SWISSLAB GmbH</td><td>Ausbildung Zum Fachinformatiker (m/w/d) Für Anwendungsentwicklung - Berlin</td><td>Berlin</td><td>2026-08-25</td></tr>
+<tr><td>SchillSeilacher GmbH</td><td>Auszubildende Chemielaborant (m/w/d) - Standort Böblingen</td><td>Stuttgart</td><td>2026-08-25</td></tr>
+<tr><td>Festo</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-08-25</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Fullstack Engineer - Typescript & Aws (m/w/d)</td><td>Berlin +1</td><td>2026-08-25</td></tr>
+<tr><td>Abbott</td><td>Associate Software Development Engineer (m/w/d) Medizintechnik</td><td>Hamburg</td><td>2026-08-25</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Depotservice</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Produkte Private Altersvorsorge Und Vermögensaufbau</td><td>Nach Standort Suchen</td><td>2026-08-25</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Front Office Systeme Portfoliomanagement</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Depotplattform Retail</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>E.ON Digital Technology GmbH</td><td>Contact Center Business Analyst (f/m/d)</td><td>Berlin</td><td>2026-08-25</td></tr>
+<tr><td>KION</td><td>Hauptbuchhalter (m/w/d) 100%</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschland (kennziffer: Bu/smde)</td><td>Buseck</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Außendienstmonteur / Industriemechaniker/ Monteur (m/w/d) Im Bereich Generatoren Und Motoren (m/w/d)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektro / Mechanik (kennziffer: Clp/sem)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektromaschinentechniker (m/w/d)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau</td><td>Schkopau</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Pumpenschlosser (m/w/d)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Germany</td><td>2026-08-25</td></tr>
+<tr><td>SIG Information Technology GmbH</td><td>Service Techniker Außendienst / Field Service Engineer Germany (m/w/d)</td><td>52441</td><td>2026-08-25</td></tr>
+<tr><td>Stieberclutch</td><td>Elektriker Instandhaltung (m/w/d)</td><td>Waldenburg</td><td>2026-08-25</td></tr>
+<tr><td>Regal Rexnord Corporation</td><td>Elektriker Instandhaltung (m/w/d)</td><td>Waldenburg</td><td>2026-08-25</td></tr>
+<tr><td>Twiflex</td><td>Elektriker Instandhaltung (m/w/d)</td><td>Waldenburg</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Frankfurt Am Main</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Mechatroniker Druckluft/kälte (m/w/d)</td><td>Neukieritzsch</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Rga/sme)</td><td>Rosengarten</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Hamburg</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschland (kennziffer: Bu/smde)</td><td>Buseck</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Buseck</td><td>2026-08-25</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-08-25</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-08-25</td></tr>
+<tr><td>pr.careers</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-08-25</td></tr>
+<tr><td>Raytheon Australia</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-08-25</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Bergisch Gladbach</td><td>Cologne</td><td>2026-08-25</td></tr>
+<tr><td>HITACHI ENERGY GERMANY AG</td><td>Assistenz (w/m/d)</td><td>Halle (Saale)</td><td>2026-08-25</td></tr>
 </table>
