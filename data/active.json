@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-25",
- "count": 640,
+ "asOf": "2026-08-26",
+ "count": 641,
  "jobs": {
   "2702586": {
    "id": "2702586",
@@ -67,6 +67,48 @@
    "company": "Liebherr Machines Bulle SA",
    "role": "Pflichtpraktikant Onboarding In Der Personalentwicklung Für 6 Monate (m/w/d)",
    "location": "Kempten Allgau"
+  },
+  "d234de0ab05456b79197ec690ae45899": {
+   "id": "d234de0ab05456b79197ec690ae45899",
+   "company": "STADA",
+   "role": "School Student Internship (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "afaf2eb57659baa448a0000234d0fc70": {
+   "id": "afaf2eb57659baa448a0000234d0fc70",
+   "company": "Getinge AB",
+   "role": "Pflichtpraktikum Im Bereich Kommunikation Und Events",
+   "location": "Frankfurt Am Main"
+  },
+  "28df864bf3e2e707708132e71c1b7ccb": {
+   "id": "28df864bf3e2e707708132e71c1b7ccb",
+   "company": "AGCO Corporation (Fendt)",
+   "role": "Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market Training (sose 2027)",
+   "location": "Kempten Allgau"
+  },
+  "2be585a13375aeeaed6613ebf375da60": {
+   "id": "2be585a13375aeeaed6613ebf375da60",
+   "company": "Partners Group AG",
+   "role": "Intern - Private Equity Buy-outs - Business Services Vertical (munich, Germany)",
+   "location": "Munich"
+  },
+  "23e0eab04d6029025921cde11b5e8694": {
+   "id": "23e0eab04d6029025921cde11b5e8694",
+   "company": "Schaeffler",
+   "role": "Praktikum - Public Affairs (d/m/w)",
+   "location": "Berlin"
+  },
+  "16d7f5477a6e026ac60ad86884da5ace": {
+   "id": "16d7f5477a6e026ac60ad86884da5ace",
+   "company": "Schaeffler",
+   "role": "Praktikum Im Personalmanagement - Hr (d/m/w)",
+   "location": "Karlsruhe"
+  },
+  "5414a7e7387a595ecb45b8504c3133da": {
+   "id": "5414a7e7387a595ecb45b8504c3133da",
+   "company": "Schaeffler",
+   "role": "Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)",
+   "location": "Karlsruhe"
   },
   "435dd1b26174b030330f554a4a3189d1": {
    "id": "435dd1b26174b030330f554a4a3189d1",
@@ -452,48 +494,6 @@
    "role": "Intern/working Student (f/m/d) - Content Creation, Communications & Strategic Projects",
    "location": "Mannheim"
   },
-  "4f0e9d692b9e1c261b222d7c5445089b": {
-   "id": "4f0e9d692b9e1c261b222d7c5445089b",
-   "company": "ARLANXEO Deutschland GmbH",
-   "role": "Global Integrated Business Planning Intern (m/f/d)",
-   "location": "Cologne"
-  },
-  "f01a3af0cb479200b998ad45dcf9c0da": {
-   "id": "f01a3af0cb479200b998ad45dcf9c0da",
-   "company": "Frenzelit GmbH",
-   "role": "Praktikum (m/w/d)",
-   "location": "Bad Berneck"
-  },
-  "2171e4967c6e9afb857b9cb29d88755a": {
-   "id": "2171e4967c6e9afb857b9cb29d88755a",
-   "company": "J. Wagner GmbH",
-   "role": "Schulpraktikum (m/w/d)",
-   "location": "Constance"
-  },
-  "a3ac125fcebbc2d61bd48902a8295f81": {
-   "id": "a3ac125fcebbc2d61bd48902a8295f81",
-   "company": "Recordati Pharma GmbH",
-   "role": "Werkstudent/in Oder Pflichtpraktikant/in (w/m/d) Im Bereich Marketing & Digital Mit Fokus Auf Ai",
-   "location": "Germany"
-  },
-  "28691e7c1589fae3a2291c6317904032": {
-   "id": "28691e7c1589fae3a2291c6317904032",
-   "company": "Kaserei Champignon Hofmeister GmbH",
-   "role": "Praktikant (m/w/d) Marketing",
-   "location": "Lauben"
-  },
-  "dfa6c65656a20f11b24b30ed54283276": {
-   "id": "dfa6c65656a20f11b24b30ed54283276",
-   "company": "TRATON Group",
-   "role": "Intern / Group Accounting (m/f/d)",
-   "location": "Munich"
-  },
-  "1fd10c3f755cf46d413699286b4518f9": {
-   "id": "1fd10c3f755cf46d413699286b4518f9",
-   "company": "TRATON SE",
-   "role": "Intern / Hr Digitalization (m/f/d)",
-   "location": "Munich"
-  },
   "5da4563360c56ea8e889e474aef4b450": {
    "id": "5da4563360c56ea8e889e474aef4b450",
    "company": "Berliner Wasserbetriebe",
@@ -553,6 +553,18 @@
    "company": "Liebherr Machines Bulle SA",
    "role": "Auszubildender Konstruktionsmechaniker (m/w/d) Ab September 2027",
    "location": "Kirchdorf An Der Iller"
+  },
+  "968397ba2747c7c9c7cea72b6f434ece": {
+   "id": "968397ba2747c7c9c7cea72b6f434ece",
+   "company": "Albrecht Jung GmbH & Co. KG",
+   "role": "Trainee Vertrieb (m/w/d) Sachsen",
+   "location": "Sachsen"
+  },
+  "bb24c860c2e4619bd885deb911dce559": {
+   "id": "bb24c860c2e4619bd885deb911dce559",
+   "company": "Nordzucker Group",
+   "role": "Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) 2027 Klein Wanzleben",
+   "location": "Klein Wanzleben"
   },
   "a63a8aac54e8e78c2b3e2514608ee3f2": {
    "id": "a63a8aac54e8e78c2b3e2514608ee3f2",
@@ -960,18 +972,6 @@
    "id": "0d261267c1d2b073a98522199058835c",
    "company": "PERI GmbH",
    "role": "Ausbildung Maschinen- Und Anlagenführer (m/w/d) Ab Dem 01.09.2027",
-   "location": "Germany"
-  },
-  "973b29e401fd8aa166a3517ad7d103ca": {
-   "id": "973b29e401fd8aa166a3517ad7d103ca",
-   "company": "PERI GmbH",
-   "role": "Ausbildung Fachkraft Für Lagerlogistik (m/w/d) Ab 01.09.2027",
-   "location": "Germany"
-  },
-  "987a88aef30cc9e5c1276bf85f6a1e32": {
-   "id": "987a88aef30cc9e5c1276bf85f6a1e32",
-   "company": "PERI GmbH",
-   "role": "Ausbildung Konstruktionsmechaniker (m/w/d) Ab Dem 01.09.2027",
    "location": "Germany"
   },
   "9248b3e8b41c0ce5ea4703c652828086": {
@@ -1898,6 +1898,18 @@
    "role": "Business Analyst (w/m/d) Produkte Private Altersvorsorge Und Vermögensaufbau",
    "location": "Unknown"
   },
+  "797d4b187e9f7c846af0b1a8a44e3a12": {
+   "id": "797d4b187e9f7c846af0b1a8a44e3a12",
+   "company": "Danfoss AS",
+   "role": "Analyst, Crm & Sales Processes",
+   "location": "Hamburg"
+  },
+  "b03e1d04cb275c08d6cf02b07cae5b78": {
+   "id": "b03e1d04cb275c08d6cf02b07cae5b78",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Berater Finance Strategy Und Business Services - Business Consulting (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
   "b138c44617fc0a63761e7f7c0741072d": {
    "id": "b138c44617fc0a63761e7f7c0741072d",
    "company": "Gv Management GmbH",
@@ -2161,12 +2173,6 @@
    "company": "Deutsche WertpapierService Bank AG",
    "role": "Business Analyst Settlement / Depotüberträge (m/w/d)",
    "location": "Dusseldorf"
-  },
-  "b03e1d04cb275c08d6cf02b07cae5b78": {
-   "id": "b03e1d04cb275c08d6cf02b07cae5b78",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Berater Finance Strategy Und Business Services - Business Consulting (w/m/d)",
-   "location": "Frankfurt Am Main"
   },
   "04fcfdf3870a7c0545c0d4e5f40be2f9": {
    "id": "04fcfdf3870a7c0545c0d4e5f40be2f9",
@@ -2534,6 +2540,48 @@
    "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) - Region Mittelhessen",
    "location": "Mittelhessen"
   },
+  "89b1b12a28be7bf34e474cef37cadd72": {
+   "id": "89b1b12a28be7bf34e474cef37cadd72",
+   "company": "Albrecht Jung GmbH & Co. KG",
+   "role": "Servicetechniker - Knx / Jung Systeme Für München (m/w/d)",
+   "location": "Munich"
+  },
+  "ebd48e9cc07a00107e0fc6ebb8e99d24": {
+   "id": "ebd48e9cc07a00107e0fc6ebb8e99d24",
+   "company": "Getinge AB",
+   "role": "Infection Control Servicetechniker (m/w/d) Medizintechnik - Nrw",
+   "location": "Karlsruhe"
+  },
+  "c46ec057681dcfdd0bcbbad99187786f": {
+   "id": "c46ec057681dcfdd0bcbbad99187786f",
+   "company": "Fritz Schaefer GmbH",
+   "role": "Servicetechniker - Mechanik (w/m/d)",
+   "location": "Giebelstadt"
+  },
+  "877597f93c8c3b4cab524e617e9726f7": {
+   "id": "877597f93c8c3b4cab524e617e9726f7",
+   "company": "Fritz Schaefer GmbH",
+   "role": "Servicetechniker Mechatronik (w/m/d) + Firmenwagen",
+   "location": "Giebelstadt"
+  },
+  "a0dbb9705a08f4567d61d1b2095e410a": {
+   "id": "a0dbb9705a08f4567d61d1b2095e410a",
+   "company": "Fritz Schaefer GmbH",
+   "role": "Servicetechniker Elektronik (w/m/d) + Firmenwagen",
+   "location": "Giebelstadt"
+  },
+  "81894a3cba7dfb16d941c9f789066ef4": {
+   "id": "81894a3cba7dfb16d941c9f789066ef4",
+   "company": "Aebi Schmidt Group",
+   "role": "Technischer Support",
+   "location": "Hanover"
+  },
+  "d2364e41b296b44896f24e79d22435c8": {
+   "id": "d2364e41b296b44896f24e79d22435c8",
+   "company": "Ferrero LADM",
+   "role": "Industriemechaniker (w/m/d)",
+   "location": "Unknown"
+  },
   "f4f75c27e74ee6a034305c690c0c9291": {
    "id": "f4f75c27e74ee6a034305c690c0c9291",
    "company": "Rosler Oberflachentechnik GmbH",
@@ -2840,48 +2888,6 @@
    "role": "Servicetechniker Aufbau/fahrzeugbau (w/m/d)",
    "location": "Dusseldorf"
   },
-  "eb2fa493cb5a87b2c52941908cf3d22f": {
-   "id": "eb2fa493cb5a87b2c52941908cf3d22f",
-   "company": "PALFINGER AG",
-   "role": "Service Technician (m/f/d) Marine",
-   "location": "DäGeling"
-  },
-  "3af35e9dd8978a66fdf1ec0fbe6060f8": {
-   "id": "3af35e9dd8978a66fdf1ec0fbe6060f8",
-   "company": "PALFINGER AG",
-   "role": "Servicetechniker Kran / Cws (w/m/d)",
-   "location": "Dusseldorf"
-  },
-  "2b3d9107ac9e2aa2ea6a22518479ef28": {
-   "id": "2b3d9107ac9e2aa2ea6a22518479ef28",
-   "company": "PALFINGER AG",
-   "role": "Servicetechniker Hubarbeitsbühnen (w/m/d)",
-   "location": "Dusseldorf"
-  },
-  "f496c7c89eb831fe061f8c4b910050fb": {
-   "id": "f496c7c89eb831fe061f8c4b910050fb",
-   "company": "Bilfinger SE",
-   "role": "Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung",
-   "location": "Germany"
-  },
-  "5aa3dfc6224ceeab66ece508cf82c335": {
-   "id": "5aa3dfc6224ceeab66ece508cf82c335",
-   "company": "Bilfinger SE",
-   "role": "Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)",
-   "location": "Rehden"
-  },
-  "0789ab26a7e9d4a2238d23f3321d979c": {
-   "id": "0789ab26a7e9d4a2238d23f3321d979c",
-   "company": "Bilfinger SE",
-   "role": "Anlagenmechaniker / Wartungsmechaniker (m/w/d)",
-   "location": "Germany"
-  },
-  "a85d369fac21b6c9dca59c2b6148005d": {
-   "id": "a85d369fac21b6c9dca59c2b6148005d",
-   "company": "Bilfinger SE",
-   "role": "Industriemechaniker Armaturen (m/w/d)",
-   "location": "Germany"
-  },
   "22c012fd90fc3c4ddbe60424d64d08af": {
    "id": "22c012fd90fc3c4ddbe60424d64d08af",
    "company": "Airbus Logistik GmbH",
@@ -2905,6 +2911,30 @@
    "company": "Aldi Süd",
    "role": "Verkäufer (m/w/d)",
    "location": "Cologne"
+  },
+  "3857d9a9ab00c4533c236f603ec37005": {
+   "id": "3857d9a9ab00c4533c236f603ec37005",
+   "company": "ALDI SE & Co. KG",
+   "role": "Studentenjob Verkauf (m/w/d)",
+   "location": "Cologne"
+  },
+  "9a801492dba8e4cefa23eb38473e496d": {
+   "id": "9a801492dba8e4cefa23eb38473e496d",
+   "company": "H&M",
+   "role": "Verkäufer M/w/d 25h",
+   "location": "Munich"
+  },
+  "32d7f706e7c445be4fc083f33af8c0e3": {
+   "id": "32d7f706e7c445be4fc083f33af8c0e3",
+   "company": "H&M",
+   "role": "Verkäufer Teilzeit - Bad Godesberg (m/w/d)",
+   "location": "Cologne"
+  },
+  "efb93d2e25e483d3b26642948277420c": {
+   "id": "efb93d2e25e483d3b26642948277420c",
+   "company": "H&M",
+   "role": "Verkäufer Minijob - Nordhorn (m/w/d)",
+   "location": "Munster"
   },
   "49324439564dcb8d9227f6abfbe51872": {
    "id": "49324439564dcb8d9227f6abfbe51872",
@@ -3337,30 +3367,6 @@
    "company": "JYSK",
    "role": "Verkäufer/in Teilzeit (m/w/d) – Mülheim An Der Ruhr (28 Std)",
    "location": "Dusseldorf"
-  },
-  "d6816e06e512e36d47652b264d6f7c66": {
-   "id": "d6816e06e512e36d47652b264d6f7c66",
-   "company": "Legocareersvirginia",
-   "role": "Verkäufer (m/w/d) - Lego Store München Pasing - Teilzeit",
-   "location": "Munich"
-  },
-  "347946175fe2353d1d276219356cae09": {
-   "id": "347946175fe2353d1d276219356cae09",
-   "company": "DHL Group",
-   "role": "Verkäufer Postfiliale (m/w/d) In 78343 Gaienhofen In Geringfügigkeit (minijob)",
-   "location": "Constance"
-  },
-  "f0bd04c607ff50df015f4db0759f2f01": {
-   "id": "f0bd04c607ff50df015f4db0759f2f01",
-   "company": "Misterspex",
-   "role": "Werkstudent Verkauf (m/w/d) In Köln",
-   "location": "Cologne"
-  },
-  "7f8d2e99b578c48b33291bc964457f0b": {
-   "id": "7f8d2e99b578c48b33291bc964457f0b",
-   "company": "RTX Corporation",
-   "role": "Logistikmitarbeiter – Warehouse (m/w/d)",
-   "location": "Hamburg"
   },
   "0dd072b20ee07ca420c87d00febedbb4": {
    "id": "0dd072b20ee07ca420c87d00febedbb4",

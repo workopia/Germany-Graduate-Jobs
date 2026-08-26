@@ -4423,4 +4423,24 @@
 <tr><td>Raytheon Australia</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-08-25</td></tr>
 <tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Bergisch Gladbach</td><td>Cologne</td><td>2026-08-25</td></tr>
 <tr><td>HITACHI ENERGY GERMANY AG</td><td>Assistenz (w/m/d)</td><td>Halle (Saale)</td><td>2026-08-25</td></tr>
+<tr><td>ARLANXEO Deutschland GmbH</td><td>Global Integrated Business Planning Intern (m/f/d)</td><td>Cologne</td><td>2026-08-26</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Praktikum (m/w/d)</td><td>Bad Berneck</td><td>2026-08-26</td></tr>
+<tr><td>J. Wagner GmbH</td><td>Schulpraktikum (m/w/d)</td><td>Constance</td><td>2026-08-26</td></tr>
+<tr><td>Recordati Pharma GmbH</td><td>Werkstudent/in Oder Pflichtpraktikant/in (w/m/d) Im Bereich Marketing & Digital Mit Fokus Auf Ai</td><td>Germany</td><td>2026-08-26</td></tr>
+<tr><td>Kaserei Champignon Hofmeister GmbH</td><td>Praktikant (m/w/d) Marketing</td><td>Lauben</td><td>2026-08-26</td></tr>
+<tr><td>TRATON Group</td><td>Intern / Group Accounting (m/f/d)</td><td>Munich</td><td>2026-08-26</td></tr>
+<tr><td>TRATON SE</td><td>Intern / Hr Digitalization (m/f/d)</td><td>Munich</td><td>2026-08-26</td></tr>
+<tr><td>PERI GmbH</td><td>Ausbildung Fachkraft Für Lagerlogistik (m/w/d) Ab 01.09.2027</td><td>Germany</td><td>2026-08-26</td></tr>
+<tr><td>PERI GmbH</td><td>Ausbildung Konstruktionsmechaniker (m/w/d) Ab Dem 01.09.2027</td><td>Germany</td><td>2026-08-26</td></tr>
+<tr><td>PALFINGER AG</td><td>Service Technician (m/f/d) Marine</td><td>DäGeling</td><td>2026-08-26</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Kran / Cws (w/m/d)</td><td>Dusseldorf</td><td>2026-08-26</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Hubarbeitsbühnen (w/m/d)</td><td>Dusseldorf</td><td>2026-08-26</td></tr>
+<tr><td>Bilfinger SE</td><td>Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung</td><td>Germany</td><td>2026-08-26</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-08-26</td></tr>
+<tr><td>Bilfinger SE</td><td>Anlagenmechaniker / Wartungsmechaniker (m/w/d)</td><td>Germany</td><td>2026-08-26</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Armaturen (m/w/d)</td><td>Germany</td><td>2026-08-26</td></tr>
+<tr><td>Legocareersvirginia</td><td>Verkäufer (m/w/d) - Lego Store München Pasing - Teilzeit</td><td>Munich</td><td>2026-08-26</td></tr>
+<tr><td>DHL Group</td><td>Verkäufer Postfiliale (m/w/d) In 78343 Gaienhofen In Geringfügigkeit (minijob)</td><td>Constance</td><td>2026-08-26</td></tr>
+<tr><td>Misterspex</td><td>Werkstudent Verkauf (m/w/d) In Köln</td><td>Cologne</td><td>2026-08-26</td></tr>
+<tr><td>RTX Corporation</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-08-26</td></tr>
 </table>
