@@ -1,7 +1,115 @@
 {
  "asOf": "2026-08-28",
- "count": 640,
+ "count": 641,
  "jobs": {
+  "1760": {
+   "id": "1760",
+   "company": "Vodafone",
+   "role": "Praktikant People Development & Engagement (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "56086": {
+   "id": "56086",
+   "company": "Vodafone",
+   "role": "Praktikant Innovation & Strategic Partnerships Mit Fokus Xr (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "114761": {
+   "id": "114761",
+   "company": "Vodafone",
+   "role": "Praktikant Business Customer Solutions & Projects (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "187474": {
+   "id": "187474",
+   "company": "Vodafone",
+   "role": "Praktikant Wholesale / Carrier Services Transformation & Tools (m/w/ D) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "206442": {
+   "id": "206442",
+   "company": "Vodafone",
+   "role": "Praktikant Digital Care & Innovation (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "225410": {
+   "id": "225410",
+   "company": "Vodafone",
+   "role": "Praktikant Controlling Networks (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "245549": {
+   "id": "245549",
+   "company": "Vodafone",
+   "role": "Praktikant Im Bereich Externe Kommunikation (tv-studio) (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "247662": {
+   "id": "247662",
+   "company": "Vodafone",
+   "role": "Praktikant Innovation Garage Cyber Security Mit Schwerpunkt Telekommunikation (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "253360": {
+   "id": "253360",
+   "company": "Vodafone",
+   "role": "Praktikant Des Regionalen Fibre-deployments (m/w/d) In Berlin",
+   "location": "Berlin"
+  },
+  "255584": {
+   "id": "255584",
+   "company": "Vodafone",
+   "role": "Praktikant Gigagemeinde Glasfaser-ausbau, Realisierung Und Dokumentation (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "259586": {
+   "id": "259586",
+   "company": "Vodafone",
+   "role": "Praktikant Quality Management Im Privatkund:innensegment (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "263201": {
+   "id": "263201",
+   "company": "Vodafone",
+   "role": "Praktikant Communication Hr & Leadership Engagement (m/w/d) In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "266103": {
+   "id": "266103",
+   "company": "Vodafone",
+   "role": "Intern Employee Relations",
+   "location": "Dusseldorf"
+  },
+  "267764": {
+   "id": "267764",
+   "company": "Vodafone",
+   "role": "Sales Associate (m/w/d) Für Berlin/ Rostock Und Umgebung",
+   "location": "Berlin"
+  },
+  "277475": {
+   "id": "277475",
+   "company": "Vodafone",
+   "role": "Sales Agent (m/w/d) Für Die Vodafone Filiale In Sulzbach, Befristet Für 1 Jahr",
+   "location": "Nuremberg"
+  },
+  "288643": {
+   "id": "288643",
+   "company": "Vodafone",
+   "role": "Sales Agent (m/w/d) Für Die Vodafone Filiale In Frankfurt Am Main, Befristet Für 1 Jahr",
+   "location": "Frankfurt Am Main"
+  },
+  "288805": {
+   "id": "288805",
+   "company": "Vodafone",
+   "role": "Sales Agent (m/w/d) Für Die Vodafone Filiale In Berlin (friedrichstr. 90), In Teilzeit",
+   "location": "Berlin"
+  },
+  "288812": {
+   "id": "288812",
+   "company": "Vodafone",
+   "role": "Studentische Aushilfe (m/w/d) Für Die Vodafone Filiale In Hagen, In Teilzeit, Befristet Für 1 Jahr",
+   "location": "Dortmund"
+  },
   "2702586": {
    "id": "2702586",
    "company": "Fairfamily",
@@ -194,6 +302,36 @@
    "role": "Praktikum Supply Chain Management B2b (m/w/d)",
    "location": "Hamburg"
   },
+  "831e238c75fe329ebfb6771af3402568": {
+   "id": "831e238c75fe329ebfb6771af3402568",
+   "company": "SAP Concur",
+   "role": "Sap Ixp Intern (f/m/d) - Office Of The Head Of Product & Engineering Of Consumer Industries",
+   "location": "Mannheim"
+  },
+  "db5caaaa019a1a0ca00ff2756a5d1986": {
+   "id": "db5caaaa019a1a0ca00ff2756a5d1986",
+   "company": "Kws Group",
+   "role": "Internship (m/f/d) - Unsolicited Application",
+   "location": "Berlin"
+  },
+  "1c26928e4787d4f85f3db4bb16209710": {
+   "id": "1c26928e4787d4f85f3db4bb16209710",
+   "company": "Kws Group",
+   "role": "Praktikant (m/w/d) - Initiativbewerbung",
+   "location": "Berlin"
+  },
+  "a7f1ed62a079ff4c72e1b8c56023a984": {
+   "id": "a7f1ed62a079ff4c72e1b8c56023a984",
+   "company": "HAVI",
+   "role": "Working Student Ai In Controlling & Finance Area (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "4e2c1878ebe9a37b544908a285f5268a": {
+   "id": "4e2c1878ebe9a37b544908a285f5268a",
+   "company": "Bosch Group",
+   "role": "Mandatory Internship Sales Customer Team Mercedes-benz Automotive",
+   "location": "Stuttgart"
+  },
   "d7c09f162e4b527ffebe45620b7e2cde": {
    "id": "d7c09f162e4b527ffebe45620b7e2cde",
    "company": "ING",
@@ -284,17 +422,35 @@
    "role": "Pflichtpraktikum/abschlussarbeit Im Strategischen Marketing (w/m/d)",
    "location": "Frankfurt Am Main"
   },
+  "ff6222060ac3b300b5170bfed6ed6be8": {
+   "id": "ff6222060ac3b300b5170bfed6ed6be8",
+   "company": "Bosch Group",
+   "role": "Pflichtpraktikum It-sicherheit In Der Fertigung",
+   "location": "Stuttgart"
+  },
   "ba65cf392abcd1a13d73c82fa7744582": {
    "id": "ba65cf392abcd1a13d73c82fa7744582",
    "company": "Innomotics",
    "role": "Werkstudent (w/m/d) Interne Kommunikation Und Content",
    "location": "Germany"
   },
+  "f60336910b05a57d5481ea5209c42d5c": {
+   "id": "f60336910b05a57d5481ea5209c42d5c",
+   "company": "Bosch Group",
+   "role": "Mandatory Internship In The International Sales Team For Mercedes-benz",
+   "location": "Stuttgart"
+  },
   "be53b1d504e77331ab6ee0bfc63a3ab0": {
    "id": "be53b1d504e77331ab6ee0bfc63a3ab0",
    "company": "Nestle SA",
    "role": "Praktikum Marketing (m/w/d)",
    "location": "Frankfurt Am Main"
+  },
+  "44fce7530907305684805ea622b22fb5": {
+   "id": "44fce7530907305684805ea622b22fb5",
+   "company": "Bosch Group",
+   "role": "Pflichtpraktikum Im Sales Customer Team Bei Mercedes-benz Automotive (w/m/div.)",
+   "location": "Stuttgart"
   },
   "79dd8d5d4da2c6b232b5036bc2a33e17": {
    "id": "79dd8d5d4da2c6b232b5036bc2a33e17",
@@ -367,132 +523,6 @@
    "company": "SAP SE",
    "role": "Working Student / Intern (f/m/d) - Go-to-market Strategy & Operations / Germany 2026",
    "location": "Mannheim"
-  },
-  "7d0c157d6e161dd4431755962f864066": {
-   "id": "7d0c157d6e161dd4431755962f864066",
-   "company": "SAP SE",
-   "role": "Working Student (f/m/d) - Sap Ixp Intern - Compliance Learning",
-   "location": "Mannheim"
-  },
-  "fa09a4d98c46e31b2426fada0f07dedc": {
-   "id": "fa09a4d98c46e31b2426fada0f07dedc",
-   "company": "SAP SE",
-   "role": "Intern/working Student (f/m/d) - Content Creation, Communications & Strategic Projects",
-   "location": "Mannheim"
-  },
-  "77d6b4ab638bf71eea279120d3e20715": {
-   "id": "77d6b4ab638bf71eea279120d3e20715",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern (f/m/d) - Project & Communications Management Support",
-   "location": "Mannheim"
-  },
-  "3fad4270df4b17d5c9442e53f43b55ba": {
-   "id": "3fad4270df4b17d5c9442e53f43b55ba",
-   "company": "MEGA eG",
-   "role": "Kaufmännisches Praktikum Mega Gruppe",
-   "location": "Deutschland"
-  },
-  "d875ccd59a6db4c56ebad25367550a5f": {
-   "id": "d875ccd59a6db4c56ebad25367550a5f",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Praktikant Logistics & Partners (m/w/d)",
-   "location": "Ingolstadt"
-  },
-  "3d7c023f2e257098fbdc67f4fa320f47": {
-   "id": "3d7c023f2e257098fbdc67f4fa320f47",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Pflichtpraktikum Im Bereich Handel- Und Vermietungsmanagement",
-   "location": "Frankfurt Am Main"
-  },
-  "dbb80424dc62e2babf918c570794fe6f": {
-   "id": "dbb80424dc62e2babf918c570794fe6f",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Pflichtpraktikum Mit Schwerpunkt Business Process Management Und Ai",
-   "location": "Frankfurt Am Main"
-  },
-  "785834f0e6bdcb451bbfdb0ab0ea6907": {
-   "id": "785834f0e6bdcb451bbfdb0ab0ea6907",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Hochschulpraktikum Im Bereich Parken Und Mobilität - Business Development",
-   "location": "Frankfurt Am Main"
-  },
-  "3714251ecc89157b1578103095700a47": {
-   "id": "3714251ecc89157b1578103095700a47",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Pflichtpraktikum In Der Fraport Academy Am Flughafen Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "29def64bbaf742b1a9b6eff2ccdd471a": {
-   "id": "29def64bbaf742b1a9b6eff2ccdd471a",
-   "company": "RWE Generation SE",
-   "role": "Werkstudent Central Project Und Rweti Controlling D/w/m",
-   "location": "Wuppertal"
-  },
-  "629c4d0ee5a226bf4133dbc52db98906": {
-   "id": "629c4d0ee5a226bf4133dbc52db98906",
-   "company": "RWE Renewables Europe & Australia GmbH",
-   "role": "Werkstudent Procurement D/m/w",
-   "location": "Wuppertal"
-  },
-  "c8e51539b7ad5dafc966d8680a583935": {
-   "id": "c8e51539b7ad5dafc966d8680a583935",
-   "company": "Aluminium Norf GmbH",
-   "role": "Praktikum",
-   "location": "Germany"
-  },
-  "9d9d251f369ad8c11a41af5eedf8e3c9": {
-   "id": "9d9d251f369ad8c11a41af5eedf8e3c9",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Praktikant/ Werkstudent Wirtschaftsprüfung/ Audit (w/m/d)",
-   "location": "Hamburg"
-  },
-  "0e2e4264b5e9d9a2cb20f8eff6162684": {
-   "id": "0e2e4264b5e9d9a2cb20f8eff6162684",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Praktikum Deal Advisory Mit Fokus Private Equity / Venture Capital (w/m/d)",
-   "location": "Hamburg"
-  },
-  "29fdfc0b3496a769f7e4c866a7eff6ab": {
-   "id": "29fdfc0b3496a769f7e4c866a7eff6ab",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Praktikum Steuerberatung / Tax (w/m/d)",
-   "location": "Dusseldorf"
-  },
-  "3f4664ea943e82b3bc2d86097493675b": {
-   "id": "3f4664ea943e82b3bc2d86097493675b",
-   "company": "BDO AG Wirtschaftsprüfungsgesellschaft",
-   "role": "Praktikum Deal Advisory Large Cap (w/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "5464025a0937f938cbce06dc1fbfef90": {
-   "id": "5464025a0937f938cbce06dc1fbfef90",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Praktikum Deal Advisory - Power, Energy & Utilities (w/m/d)",
-   "location": "Hamburg"
-  },
-  "4bf5cf9d656c9b3af8c59fce1ffc0375": {
-   "id": "4bf5cf9d656c9b3af8c59fce1ffc0375",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Praktikum Advisory Financial Services (w/m/d)",
-   "location": "Dusseldorf"
-  },
-  "288cdeb7d0443cd0878642c77d684df0": {
-   "id": "288cdeb7d0443cd0878642c77d684df0",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Praktikum M&a Tech/software (w/m/d)",
-   "location": "Munich"
-  },
-  "c64310d22269acae309d8bf25334c6fd": {
-   "id": "c64310d22269acae309d8bf25334c6fd",
-   "company": "FUNKE Corporate IT GmbH",
-   "role": "Praktikum Gaming-news 4p.de (m/w/d)",
-   "location": "Berlin"
-  },
-  "0a7f711d80a561787bc056746c5d63ff": {
-   "id": "0a7f711d80a561787bc056746c5d63ff",
-   "company": "FUNKE Corporate IT GmbH",
-   "role": "(online-) Volontariat - Westfalenpost (m/w/d)",
-   "location": "Dortmund"
   },
   "a6e1c8ede9dc2d5f3f8e4db046805161": {
    "id": "a6e1c8ede9dc2d5f3f8e4db046805161",
@@ -1922,6 +1952,12 @@
    "role": "Sales Analyst (m/w/d) Operations/administration",
    "location": "Munich"
   },
+  "9d603293d8ae1aeb2140e8de10ee931f": {
+   "id": "9d603293d8ae1aeb2140e8de10ee931f",
+   "company": "Statkraft",
+   "role": "Murex Subject Matter Expert (m/f/d)",
+   "location": "Dusseldorf"
+  },
   "976c90f02f27b8cd9c810ca8e2ff1bd9": {
    "id": "976c90f02f27b8cd9c810ca8e2ff1bd9",
    "company": "thermofin GmbH",
@@ -2432,6 +2468,12 @@
    "role": "Mechatroniker Instandhaltung (m/w/d)",
    "location": "Rottenburg-Ergenzingen"
   },
+  "e1cdf543d98b2ec3e9ac44f0542da051": {
+   "id": "e1cdf543d98b2ec3e9ac44f0542da051",
+   "company": "GROB",
+   "role": "Servicetechniker Cnc/zerspanung (m/w/d) - Stuttgart",
+   "location": "Stuttgart"
+  },
   "d098e8b64787963b7430c36a6caad489": {
    "id": "d098e8b64787963b7430c36a6caad489",
    "company": "Johnson Controls Inc",
@@ -2539,6 +2581,18 @@
    "company": "Fraport AG Frankfurt Airport Services Worldwide",
    "role": "Servicemitarbeiter/-in Rolltreppen",
    "location": "Frankfurt Am Main"
+  },
+  "16aad310a38b5d8de9432f131b802c81": {
+   "id": "16aad310a38b5d8de9432f131b802c81",
+   "company": "Bosch Sicherheitssysteme Montage und Service GmbH",
+   "role": "Elektroniker Für Die Instandhaltung - Gebiet Landsberg A. Lech / Kaufbeuren (w/m/div.)",
+   "location": "Landsberg A. Lech +1"
+  },
+  "5ba055382189616dcec4566c444b995f": {
+   "id": "5ba055382189616dcec4566c444b995f",
+   "company": "Bosch Sicherheitssysteme Montage und Service GmbH",
+   "role": "Elektroniker / Sicherheitstechniker - Gebiet München / Dachau (w/m/div.)",
+   "location": "Munich"
   },
   "faaad8093646388a9b9dbfac03cd9932": {
    "id": "faaad8093646388a9b9dbfac03cd9932",
@@ -2864,24 +2918,6 @@
    "role": "Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe",
    "location": "Karlsruhe"
   },
-  "0b1a1e607ea3ebf96336ef8658f34187": {
-   "id": "0b1a1e607ea3ebf96336ef8658f34187",
-   "company": "Schindler Group",
-   "role": "Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet",
-   "location": "Frankfurt Am Main"
-  },
-  "17b537d500e66abda517a21e34770359": {
-   "id": "17b537d500e66abda517a21e34770359",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Servicetechniker (m/w/d) Carwash Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "a9324bd2bd5acae68e99ea753c11af41": {
-   "id": "a9324bd2bd5acae68e99ea753c11af41",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Elektriker*in / Mechatroniker*in (m/w/d) - Fokus Reparatur (befristet 12 Monate)",
-   "location": "Ahorn"
-  },
   "4f8467d687bc06673cf1ca38ed2f1d6f": {
    "id": "4f8467d687bc06673cf1ca38ed2f1d6f",
    "company": "Tchibo GmbH",
@@ -2996,6 +3032,18 @@
    "role": "Verkäufer (m/w/d), Teilzeit, Homburg",
    "location": "Saarbruecken"
   },
+  "5311066b9e3483af45f52ec41557bfdb": {
+   "id": "5311066b9e3483af45f52ec41557bfdb",
+   "company": "SIXTH",
+   "role": "Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit",
+   "location": "Dusseldorf"
+  },
+  "21e2605926f00877aa0823352f29eed0": {
+   "id": "21e2605926f00877aa0823352f29eed0",
+   "company": "H&M",
+   "role": "Verkäufer Teilzeit Befristet - Saarbasar Saarbrücken (m/w/d)",
+   "location": "Saarbruecken"
+  },
   "65cf627c637fa5f09ef490597d857210": {
    "id": "65cf627c637fa5f09ef490597d857210",
    "company": "FC Bayern Muenchen AG",
@@ -3007,6 +3055,12 @@
    "company": "FC Bayern Muenchen AG",
    "role": "Flexible Aushilfe (m/w/d) - Flagshipstore Fc Bayern World",
    "location": "Munich"
+  },
+  "cd571158db83a2c7299f9198b5a9acb3": {
+   "id": "cd571158db83a2c7299f9198b5a9acb3",
+   "company": "Shaping New Tomorrow",
+   "role": "Studentische Aushilfe (m/w/d) Im Verkauf - Cologne",
+   "location": "Cologne"
   },
   "add03c0a19c37ee1ec99c082966d43f9": {
    "id": "add03c0a19c37ee1ec99c082966d43f9",
@@ -3086,6 +3140,12 @@
    "role": "Aushilfe Verkauf - Schwerpunkt Smartphone & Vertragsgeschäft (m/w/d)",
    "location": "Wurzburg"
   },
+  "cba5e995ae795e6e446eb23769b3bf2a": {
+   "id": "cba5e995ae795e6e446eb23769b3bf2a",
+   "company": "JYSK",
+   "role": "Verkäufer/in Teilzeit (m/w/d) – Duisburg Rheinhausen (14 Std)",
+   "location": "Dusseldorf"
+  },
   "fca04095f5ea97642ca4b2c59954daed": {
    "id": "fca04095f5ea97642ca4b2c59954daed",
    "company": "Urban Outfitters",
@@ -3098,11 +3158,29 @@
    "role": "Verkaufsberater Mit Schwerpunkt Make-up & Skincare (m/w/d) In Vollzeit",
    "location": "Frankfurt Am Main"
   },
+  "779b104a318c2ea57f2a34544b155233": {
+   "id": "779b104a318c2ea57f2a34544b155233",
+   "company": "JYSK",
+   "role": "Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Würzburg",
+   "location": "Wurzburg"
+  },
+  "b426788a5245708c58ff66f52b4571dc": {
+   "id": "b426788a5245708c58ff66f52b4571dc",
+   "company": "H&M",
+   "role": "Verkäufer Teilzeit - Elbe Einkaufszentrum Hamburg-osdorf (m/w/d)",
+   "location": "Hamburg"
+  },
   "e4ea55cadd9deb344dc12593f9403723": {
    "id": "e4ea55cadd9deb344dc12593f9403723",
    "company": "H&M",
    "role": "Verkäufer Kurzfristige Beschäftigung - Alstertal Einkaufszentrum Hamburg-poppenbüttel (m/w/d)",
    "location": "Hamburg"
+  },
+  "ad5944f8f6b70ac0fec1c2c5439d3e40": {
+   "id": "ad5944f8f6b70ac0fec1c2c5439d3e40",
+   "company": "JYSK",
+   "role": "Verkäufer/in Teilzeit (m/w/d) – Lünen (30 Std)",
+   "location": "Dortmund"
   },
   "ed53c6c4d7b58a6ba319ce348aa254c5": {
    "id": "ed53c6c4d7b58a6ba319ce348aa254c5",
@@ -3289,78 +3367,6 @@
    "company": "ALDI SE & Co. KG",
    "role": "Studentenjob Verkauf (m/w/d)",
    "location": "Cologne"
-  },
-  "5ca04b757b5bf3b29610953700a58eb3": {
-   "id": "5ca04b757b5bf3b29610953700a58eb3",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Mutterstadt (18,5 Std)",
-   "location": "Mannheim"
-  },
-  "6261d6978f20e688b4744b8ba7aaddfb": {
-   "id": "6261d6978f20e688b4744b8ba7aaddfb",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit Befristet - Mercado/nürnberg (m/w/d)",
-   "location": "Nuremberg"
-  },
-  "74e7e90736b2d6572823e64c21aa33b6": {
-   "id": "74e7e90736b2d6572823e64c21aa33b6",
-   "company": "H&M",
-   "role": "Verkäufer Minijob - Neuer Mohnhof Hamburg-bergedorf (m/w/d)",
-   "location": "Hamburg"
-  },
-  "68cfb9d8db1314307694b5fa4eccebb0": {
-   "id": "68cfb9d8db1314307694b5fa4eccebb0",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit Befristet - Worms (m/w/d)",
-   "location": "Mannheim"
-  },
-  "9a801492dba8e4cefa23eb38473e496d": {
-   "id": "9a801492dba8e4cefa23eb38473e496d",
-   "company": "H&M",
-   "role": "Verkäufer M/w/d 25h",
-   "location": "Munich"
-  },
-  "53e63f5d1d00db3e8904724c92b27c1c": {
-   "id": "53e63f5d1d00db3e8904724c92b27c1c",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkäufer M/w/d 25h",
-   "location": "Munich"
-  },
-  "32d7f706e7c445be4fc083f33af8c0e3": {
-   "id": "32d7f706e7c445be4fc083f33af8c0e3",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Bad Godesberg (m/w/d)",
-   "location": "Cologne"
-  },
-  "efb93d2e25e483d3b26642948277420c": {
-   "id": "efb93d2e25e483d3b26642948277420c",
-   "company": "H&M",
-   "role": "Verkäufer Minijob - Nordhorn (m/w/d)",
-   "location": "Munster"
-  },
-  "49324439564dcb8d9227f6abfbe51872": {
-   "id": "49324439564dcb8d9227f6abfbe51872",
-   "company": "adidas AG",
-   "role": "Sales Assistant (m/w/d) - 30 Std./woche, Teilzeit, Befristet - Bcs Herzogenaurach",
-   "location": "Nuremberg"
-  },
-  "15cfb5393038744bfcf23bf1d1113613": {
-   "id": "15cfb5393038744bfcf23bf1d1113613",
-   "company": "adidas AG",
-   "role": "Retail Assistant (m/f/d) Befristet - Fo Zweibrücken",
-   "location": "Saarbruecken"
-  },
-  "1da99d2a1393a1382773b1d049797ff2": {
-   "id": "1da99d2a1393a1382773b1d049797ff2",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Saarbruecken"
-  },
-  "5cd590d17dca5795bfb8d25720fc6974": {
-   "id": "5cd590d17dca5795bfb8d25720fc6974",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Mitarbeiter Wareneingang (m/w/d)",
-   "location": "Dusseldorf"
   },
   "789741fd3bf614890be0ed9ecc3ebda4": {
    "id": "789741fd3bf614890be0ed9ecc3ebda4",

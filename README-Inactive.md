@@ -4812,4 +4812,40 @@
 <tr><td>REWE Group</td><td>Verkäufer Werkzeuge, Eisenwaren Und Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Stuttgart</td><td>2026-08-28</td></tr>
 <tr><td>REWE Istas Verbrauchermarkt GmbH & Co. OHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
 <tr><td>Rewe Group</td><td>Lagerist / Kommissionierer (m/w/d)</td><td>GäUfelden</td><td>2026-08-28</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Sap Ixp Intern - Compliance Learning</td><td>Mannheim</td><td>2026-08-28</td></tr>
+<tr><td>SAP SE</td><td>Intern/working Student (f/m/d) - Content Creation, Communications & Strategic Projects</td><td>Mannheim</td><td>2026-08-28</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Project & Communications Management Support</td><td>Mannheim</td><td>2026-08-28</td></tr>
+<tr><td>MEGA eG</td><td>Kaufmännisches Praktikum Mega Gruppe</td><td>Deutschland</td><td>2026-08-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Praktikant Logistics & Partners (m/w/d)</td><td>Ingolstadt</td><td>2026-08-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Im Bereich Handel- Und Vermietungsmanagement</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Business Process Management Und Ai</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Hochschulpraktikum Im Bereich Parken Und Mobilität - Business Development</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum In Der Fraport Academy Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>RWE Generation SE</td><td>Werkstudent Central Project Und Rweti Controlling D/w/m</td><td>Wuppertal</td><td>2026-08-28</td></tr>
+<tr><td>RWE Renewables Europe & Australia GmbH</td><td>Werkstudent Procurement D/m/w</td><td>Wuppertal</td><td>2026-08-28</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Praktikum</td><td>Germany</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikant/ Werkstudent Wirtschaftsprüfung/ Audit (w/m/d)</td><td>Hamburg</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Deal Advisory Mit Fokus Private Equity / Venture Capital (w/m/d)</td><td>Hamburg</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Steuerberatung / Tax (w/m/d)</td><td>Dusseldorf</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftsprüfungsgesellschaft</td><td>Praktikum Deal Advisory Large Cap (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Deal Advisory - Power, Energy & Utilities (w/m/d)</td><td>Hamburg</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Advisory Financial Services (w/m/d)</td><td>Dusseldorf</td><td>2026-08-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum M&a Tech/software (w/m/d)</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Gaming-news 4p.de (m/w/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>(online-) Volontariat - Westfalenpost (m/w/d)</td><td>Dortmund</td><td>2026-08-28</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash Frankfurt</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Elektriker*in / Mechatroniker*in (m/w/d) - Fokus Reparatur (befristet 12 Monate)</td><td>Ahorn</td><td>2026-08-28</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Mutterstadt (18,5 Std)</td><td>Mannheim</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Mercado/nürnberg (m/w/d)</td><td>Nuremberg</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Worms (m/w/d)</td><td>Mannheim</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 25h</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer M/w/d 25h</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Bad Godesberg (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Nordhorn (m/w/d)</td><td>Munster</td><td>2026-08-28</td></tr>
+<tr><td>adidas AG</td><td>Sales Assistant (m/w/d) - 30 Std./woche, Teilzeit, Befristet - Bcs Herzogenaurach</td><td>Nuremberg</td><td>2026-08-28</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) Befristet - Fo Zweibrücken</td><td>Saarbruecken</td><td>2026-08-28</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-08-28</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Dusseldorf</td><td>2026-08-28</td></tr>
 </table>
