@@ -4745,4 +4745,71 @@
 <tr><td>stellenmarktneu.de</td><td>Personal Assistant (d/m/w)</td><td>Germany</td><td>2026-08-28</td></tr>
 <tr><td>personalberatung-de.de</td><td>Personal Assistant (d/m/w)</td><td>Germany</td><td>2026-08-28</td></tr>
 <tr><td>DuPont</td><td>Administrative Assistant (m/w/d)</td><td>Greifenberg</td><td>2026-08-28</td></tr>
+<tr><td>John Deere</td><td>Praktikum Smart Connected Factory (m/w/d)</td><td>Karlsruhe</td><td>2026-08-28</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Redaktion - Waz, Nrz & Westfalenpost (m/w/d)</td><td>Wuppertal</td><td>2026-08-28</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum Marketing - Myself, Donna & Landidee (m/w/d)</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikant Investments (m/w/d)</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>Clariant International</td><td>Praktikant*in Im Application Healthcare Labor</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Clariant International</td><td>Intern - Operations Strategy & Solutions (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Smart Eu Marketing Team (f/m/d)</td><td>Leinfelden</td><td>2026-08-28</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum In Der Fertigungsplanung - Eca</td><td>Karlsruhe</td><td>2026-08-28</td></tr>
+<tr><td>Octapharma AG</td><td>Bewerber:innenpool - Praktika</td><td>Hanover</td><td>2026-08-28</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - People & Culture</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola - Intern Communications -pacs</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Public Affairs (d/m/w)</td><td>Germany</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Inhouse Consulting: Change Management, Communication And Learning (m/w/d)</td><td>Unknown</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Digitalization & Operations It (d/m/w)</td><td>Unknown</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Human Resources (d/m/w)</td><td>Unknown</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum In Hr/it - People, Organization & Agile Practices (d/m/w)</td><td>Unknown</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Talent Management (d/m/w)</td><td>Unknown</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - F&e Vorentwicklung Des Unternehmensbereichs E-mobilität (d/m/w)</td><td>Karlsruhe</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Performance Improvement Schwerpunkt Operative Restrukturierung(m/w/d)</td><td>Dusseldorf</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Werkstudent Interne Kommunikation (m/w/d)</td><td>Dusseldorf</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Risk & Compliance - Manufacturing / Automotive (m/w/d)</td><td>Stuttgart</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent / Aushilfe Public Funds Assurance (m/w/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Operations / Consulting (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Fsi Technology Strategy (m/w/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Global Trade Advisory - Indirect Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-08-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>Eystrup</td><td>2026-08-28</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachkraft Für Lagerlogistik (m/w/d) // Rottenburg // Beginn: 09.2027</td><td>Reutlingen</td><td>2026-08-28</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachinformatiker - Systemintegration (m/w/d) // Beginn: 09.2027</td><td>Stuttgart</td><td>2026-08-28</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Industriekaufmann (m/w/d) // Sindelfingen Und Rottenburg // Beginn: 09.2027</td><td>Stuttgart</td><td>2026-08-28</td></tr>
+<tr><td>Andritz Oy</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Dortmund</td><td>2026-08-28</td></tr>
+<tr><td>Holcim</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>StraßBerg</td><td>2026-08-28</td></tr>
+<tr><td>Vonovia SE</td><td>Trainee (m/w/d) Technischer Service - Maintal</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Magna</td><td>Auszubildender Zum Mechatroniker (m/w/x) Ab 01.09.2027</td><td>Sailauf</td><td>2026-08-28</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Auszubildender Zum Mechatroniker (m/w/x) Ab 01.09.2027</td><td>Sailauf</td><td>2026-08-28</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kaufmann (all Genders) Speditions-/logistikdienstl. - Start 08/2026 - Standort Ennest</td><td>Attendorn-Ennest</td><td>2026-08-28</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Fachkraft Lagerlogistik (m/w/d) 2026 Für München/oberschleißheim</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Auszubildende/r Mechatronik 2027 (m/w/d)</td><td>Stuttgart</td><td>2026-08-28</td></tr>
+<tr><td>Metabo</td><td>Fachkraft Für Lagerlogistik Ausbildung 2027 (apprenticeship For All Genders)</td><td>NüRtingen Au</td><td>2026-08-28</td></tr>
+<tr><td>createyourowncareer</td><td>Software Engineer (f/m/d) – Cross-platform Sdk Development</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>createyourowncareer</td><td>C++ Engineer (f/m/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Ruhrgebiet</td><td>2026-08-28</td></tr>
+<tr><td>Carrier Corporation</td><td>Instandhalter Elektroniker Für Betriebstechnik (m/w/d)</td><td>Beetwiese</td><td>2026-08-28</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker / Elektroniker Raum Frankfurt, Wiesbaden, Odenwald (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-08-28</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store Konstanz (m/w/d) (20 Std./wo.)</td><td>Constance</td><td>2026-08-28</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer (m/w/d) Im Store Frankfurt-hessen Center (20 Std./wo)</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Im Gartenbereich (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Saarbruecken</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Werkzeuge Und Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Berlin</td><td>2026-08-28</td></tr>
+<tr><td>REWE Astrid Gogol oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Backshop (m/w/d)</td><td>Munich</td><td>2026-08-28</td></tr>
+<tr><td>REWE Mahmut Mersinlioglu oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>REWE Group</td><td>Verkäufer Werkzeuge, Eisenwaren Und Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Stuttgart</td><td>2026-08-28</td></tr>
+<tr><td>REWE Istas Verbrauchermarkt GmbH & Co. OHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-08-28</td></tr>
+<tr><td>Rewe Group</td><td>Lagerist / Kommissionierer (m/w/d)</td><td>GäUfelden</td><td>2026-08-28</td></tr>
 </table>
