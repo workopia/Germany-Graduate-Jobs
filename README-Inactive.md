@@ -5082,4 +5082,17 @@
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghip Store Berlin</td><td>Berlin</td><td>2026-08-30</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) Befristet - Fo Wertheim</td><td>Fo Wertheim</td><td>2026-08-30</td></tr>
 <tr><td>Securitas Critical Infrastructure Services</td><td>Assistenz Der Niederlassung (m/w/d)</td><td>Stuttgart</td><td>2026-08-30</td></tr>
+<tr><td>RTL Nord</td><td>Praktikum Redaktion (w/m/d)</td><td>Kiel</td><td>2026-08-31</td></tr>
+<tr><td>Bertelsmann Stiftung</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-08-31</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>Bielefeld</td><td>2026-08-31</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikum Produktion</td><td>Cologne</td><td>2026-08-31</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Redaktion</td><td>Berlin</td><td>2026-08-31</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung: Praktikum (m/w/d)</td><td>Berlin</td><td>2026-08-31</td></tr>
+<tr><td>Bayernwerk Netz GmbH</td><td>Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027</td><td>Munich</td><td>2026-08-31</td></tr>
+<tr><td>SumUp</td><td>Backend Engineer (golang) - Balance Management</td><td>Berlin</td><td>2026-08-31</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Business Analyst (m/w/d) – Orderabrechnung & Pricing</td><td>Frankfurt Am Main</td><td>2026-08-31</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Lünen (30 Std)</td><td>Dortmund</td><td>2026-08-31</td></tr>
+<tr><td>Misterspex</td><td>Werkstudent Verkäufer (m/w/d) In München</td><td>Munich</td><td>2026-08-31</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-08-31</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghsip Store Berlin</td><td>Berlin</td><td>2026-08-31</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-30",
- "count": 647,
+ "asOf": "2026-08-31",
+ "count": 646,
  "jobs": {
   "267764": {
    "id": "267764",
@@ -61,6 +61,30 @@
    "company": "My Jewellery",
    "role": "Werkstudent Oberhausen Centro (m/w/d)",
    "location": "Dusseldorf"
+  },
+  "c44a4d8412696ad187a1a10c914ce355": {
+   "id": "c44a4d8412696ad187a1a10c914ce355",
+   "company": "CLAAS Group",
+   "role": "Praktikum Unternehmenskommunikation",
+   "location": "Bielefeld"
+  },
+  "918e5c20fe6dd61660c7167ebdd520c6": {
+   "id": "918e5c20fe6dd61660c7167ebdd520c6",
+   "company": "CLAAS Group",
+   "role": "Praktikum Controlling",
+   "location": "Constance"
+  },
+  "83b54cbebab5504b0c37204c94313b1d": {
+   "id": "83b54cbebab5504b0c37204c94313b1d",
+   "company": "CLAAS Saulgau GmbH",
+   "role": "Praktikum / Abschlussarbeit Vorentwicklung",
+   "location": "Constance"
+  },
+  "3cacc63ef40efad2b9501e409bec152e": {
+   "id": "3cacc63ef40efad2b9501e409bec152e",
+   "company": "CLAAS Group",
+   "role": "Claas Inside Marketing",
+   "location": "Herzebrock-Clarholz"
   },
   "1154cf2262a2cf48026cc92e9604659b": {
    "id": "1154cf2262a2cf48026cc92e9604659b",
@@ -155,6 +179,12 @@
   "5137269034c98e54c59cf38531906500": {
    "id": "5137269034c98e54c59cf38531906500",
    "company": "alcon.mx",
+   "role": "Student*in (m/w/d) Für Ein Mehrmonatiges Praxissemester/pflichtpraktikum Im Bereich Forschung Und Entwicklung (r&d Process Validation & Transfer Strategy)",
+   "location": "Grosswallstadt"
+  },
+  "316b62b3a03237c6ca64c75172d2d56d": {
+   "id": "316b62b3a03237c6ca64c75172d2d56d",
+   "company": "Alcon",
    "role": "Student*in (m/w/d) Für Ein Mehrmonatiges Praxissemester/pflichtpraktikum Im Bereich Forschung Und Entwicklung (r&d Process Validation & Transfer Strategy)",
    "location": "Grosswallstadt"
   },
@@ -500,47 +530,23 @@
    "role": "Praktikum Own Retail Concepts & Activation (m/w/d)",
    "location": "Bielefeld"
   },
+  "6816e7c10a5c8695770cc0ee1ccfe079": {
+   "id": "6816e7c10a5c8695770cc0ee1ccfe079",
+   "company": "miele.pt",
+   "role": "Praktikum Own Retail Concepts & Activation (m/w/d)",
+   "location": "Bielefeld"
+  },
   "e6936c935053111dc7f95dd3579a37e1": {
    "id": "e6936c935053111dc7f95dd3579a37e1",
    "company": "Bertelsmann SE & Co. KGaA",
    "role": "Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)",
    "location": "Berlin"
   },
-  "10e3df16b6b8036e2df0847fea82c14f": {
-   "id": "10e3df16b6b8036e2df0847fea82c14f",
-   "company": "RTL Nord",
-   "role": "Praktikum Redaktion (w/m/d)",
-   "location": "Kiel"
-  },
-  "7ba9ba0249189643eafbb9751bb4761d": {
-   "id": "7ba9ba0249189643eafbb9751bb4761d",
-   "company": "Bertelsmann Stiftung",
-   "role": "Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)",
-   "location": "Bielefeld"
-  },
-  "78071236e97e38692f74cec717a71151": {
-   "id": "78071236e97e38692f74cec717a71151",
-   "company": "createyourowncareer",
-   "role": "Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)",
-   "location": "Bielefeld"
-  },
-  "b4f05da1195bcedf3359982f2a922b92": {
-   "id": "b4f05da1195bcedf3359982f2a922b92",
-   "company": "RTL Deutschland",
-   "role": "Praktikum Produktion",
-   "location": "Cologne"
-  },
-  "30a5a65321b64df2974e703068cb32f5": {
-   "id": "30a5a65321b64df2974e703068cb32f5",
-   "company": "createyourowncareer",
-   "role": "Praktikum Redaktion",
-   "location": "Berlin"
-  },
-  "3867d491a10883d44c31694d9e64e0d2": {
-   "id": "3867d491a10883d44c31694d9e64e0d2",
-   "company": "createyourowncareer",
-   "role": "Initiativbewerbung: Praktikum (m/w/d)",
-   "location": "Berlin"
+  "78a0c4bd9ff29a700b83a4017f2035ae": {
+   "id": "78a0c4bd9ff29a700b83a4017f2035ae",
+   "company": "Bayernwerk Netz GmbH",
+   "role": "Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027",
+   "location": "Munich"
   },
   "da830dcacc1a35456b426f0fbdf37fb9": {
    "id": "da830dcacc1a35456b426f0fbdf37fb9",
@@ -601,12 +607,6 @@
    "company": "Westnetz GmbH",
    "role": "Auszubildende Fachkraft Für Lagerlogistik (2027)",
    "location": "Brauweiler"
-  },
-  "d740f3456654a444801d915fd6b24db9": {
-   "id": "d740f3456654a444801d915fd6b24db9",
-   "company": "Bayernwerk Netz GmbH",
-   "role": "Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027",
-   "location": "Munich"
   },
   "f78865c1368b67b640ad1947f6d80db6": {
    "id": "f78865c1368b67b640ad1947f6d80db6",
@@ -1232,6 +1232,12 @@
    "role": "It Support Engineer",
    "location": "Berlin"
   },
+  "934677819143b3ef501b267415582ba9": {
+   "id": "934677819143b3ef501b267415582ba9",
+   "company": "Xsolla",
+   "role": "It Support Engineer",
+   "location": "Berlin"
+  },
   "f54ba8e49a56673abc2715163e4edd60": {
    "id": "f54ba8e49a56673abc2715163e4edd60",
    "company": "createyourowncareer",
@@ -1662,12 +1668,6 @@
    "id": "cb1a9af46e556141908d92233a9f7a6e",
    "company": "SumUp",
    "role": "Backend Engineer - Transfers Gateway",
-   "location": "Berlin"
-  },
-  "f4803ccffff1bf6439adffbdd9ad3459": {
-   "id": "f4803ccffff1bf6439adffbdd9ad3459",
-   "company": "SumUp",
-   "role": "Backend Engineer (golang) - Balance Management",
    "location": "Berlin"
   },
   "4c2daa8c7f3b6c4b460d0455f58c7046": {
@@ -2360,12 +2360,6 @@
    "role": "Business Analyst Salesforce (f/m/d)",
    "location": "Dusseldorf"
   },
-  "c783132005377db6b9e2fefe1dd5db62": {
-   "id": "c783132005377db6b9e2fefe1dd5db62",
-   "company": "Deutsche WertpapierService Bank AG",
-   "role": "Business Analyst (m/w/d) – Orderabrechnung & Pricing",
-   "location": "Frankfurt Am Main"
-  },
   "a426b6e0823a3fb452c10cfa1ef594d6": {
    "id": "a426b6e0823a3fb452c10cfa1ef594d6",
    "company": "Syneos Health",
@@ -2972,6 +2966,18 @@
    "role": "Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)",
    "location": "Buseck"
   },
+  "847c76457c9c0fe8fdc560b013a31d35": {
+   "id": "847c76457c9c0fe8fdc560b013a31d35",
+   "company": "adidas AG",
+   "role": "Sales Assistant (m/w/d) - 30 Std./woche, Teilzeit, Befristet - Bcs Herzogenaurach",
+   "location": "Nuremberg"
+  },
+  "0c4103c3ae93338238c0fa2d3f517e26": {
+   "id": "0c4103c3ae93338238c0fa2d3f517e26",
+   "company": "DSV Panalpina AS",
+   "role": "Logistikmitarbeiter Clearing (m/w/d)",
+   "location": "Mutzschen"
+  },
   "f160445e3aaae57febdedc32aa33aef9": {
    "id": "f160445e3aaae57febdedc32aa33aef9",
    "company": "Richemont Australia Pty Ltd",
@@ -3012,6 +3018,12 @@
    "id": "580ed4fea9ee6730892ae22d8cdc17d5",
    "company": "Kaufland Stiftung & Co. KG",
    "role": "Ausbildung Zum Verkäufer Frische (m/w/d) 2027",
+   "location": "Cologne"
+  },
+  "57680548f0af73cb3cb42d0adb1d7c8b": {
+   "id": "57680548f0af73cb3cb42d0adb1d7c8b",
+   "company": "JYSK",
+   "role": "Verkäufer/in Teilzeit (m/w/d) – Engelskirchen (28 Std)",
    "location": "Cologne"
   },
   "910655cdd62a412db251462a292938f2": {
@@ -3386,23 +3398,11 @@
    "role": "Verkäufer Kurzfristige Beschäftigung - Alstertal Einkaufszentrum Hamburg-poppenbüttel (m/w/d)",
    "location": "Hamburg"
   },
-  "ad5944f8f6b70ac0fec1c2c5439d3e40": {
-   "id": "ad5944f8f6b70ac0fec1c2c5439d3e40",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Lünen (30 Std)",
-   "location": "Dortmund"
-  },
-  "ed53c6c4d7b58a6ba319ce348aa254c5": {
-   "id": "ed53c6c4d7b58a6ba319ce348aa254c5",
-   "company": "Misterspex",
-   "role": "Werkstudent Verkäufer (m/w/d) In München",
-   "location": "Munich"
-  },
-  "e3c504272dea7906ea9897d04d0563a4": {
-   "id": "e3c504272dea7906ea9897d04d0563a4",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Verkäufer In Teilzeit (m/w/d)",
-   "location": "Saarbruecken"
+  "abdd68115d2e38054d0781dbf8eb7f21": {
+   "id": "abdd68115d2e38054d0781dbf8eb7f21",
+   "company": "DSV Panalpina AS",
+   "role": "Logistikmitarbeiter Gefahrgutkoordinator / Sachbearbeiter Gefahrgut (m/w/d)",
+   "location": "Mutzschen"
   },
   "2ba1ae00f5c675eac12902116fbed583": {
    "id": "2ba1ae00f5c675eac12902116fbed583",
@@ -3877,12 +3877,6 @@
    "company": "Aldi Süd",
    "role": "Aushilfe Verwaltung Produktionswerk (m/w/d)",
    "location": "Mannheim"
-  },
-  "c857834b1ba1f3b612f9858d1dd92fcb": {
-   "id": "c857834b1ba1f3b612f9858d1dd92fcb",
-   "company": "adidas AG",
-   "role": "Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghsip Store Berlin",
-   "location": "Berlin"
   }
  }
 }
