@@ -5095,4 +5095,69 @@
 <tr><td>Misterspex</td><td>Werkstudent Verkäufer (m/w/d) In München</td><td>Munich</td><td>2026-08-31</td></tr>
 <tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-08-31</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Brand Flaghsip Store Berlin</td><td>Berlin</td><td>2026-08-31</td></tr>
+<tr><td>Nordex SE</td><td>Working Student (m/f/d) It Strategic Sourcing</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Venture Clienting And Startup Investment</td><td>Stuttgart</td><td>2026-09-01</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Werkstudierende - New Commodity Development (w/m/d)</td><td>Dusseldorf</td><td>2026-09-01</td></tr>
+<tr><td>Villeroy & Boch</td><td>Praktikum Operations (m/w/d)</td><td>Mettlach</td><td>2026-09-01</td></tr>
+<tr><td>Villeroy & Boch</td><td>Praktikum Commercial (m/d/w)</td><td>Mettlach</td><td>2026-09-01</td></tr>
+<tr><td>Accenture Australia</td><td>Praktikum Industry Consulting – Energy & Utilities (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-01</td></tr>
+<tr><td>ANZ</td><td>Praktikum Industry Consulting – Energy & Utilities (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-01</td></tr>
+<tr><td>Halfspace ApS</td><td>Praktikum Industry Consulting – Energy & Utilities (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-01</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen</td><td>Munich</td><td>2026-09-01</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Munich</td><td>2026-09-01</td></tr>
+<tr><td>miele.kz</td><td>Praktikum Own Retail Concepts & Activation (m/w/d)</td><td>Bielefeld</td><td>2026-09-01</td></tr>
+<tr><td>Mielebrasil Com Br</td><td>Praktikum Own Retail Concepts & Activation (m/w/d)</td><td>Bielefeld</td><td>2026-09-01</td></tr>
+<tr><td>Miele</td><td>Praktikum Own Retail Concepts & Activation (m/w/d)</td><td>Bielefeld</td><td>2026-09-01</td></tr>
+<tr><td>miele.pt</td><td>Praktikum Own Retail Concepts & Activation (m/w/d)</td><td>Bielefeld</td><td>2026-09-01</td></tr>
+<tr><td>Bertelsmann SE & Co. KGaA</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-09-01</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung In Markt Bibart</td><td>Markt Bibart</td><td>2026-09-01</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik Ab September 2027 (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-09-01</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildende(r) Mechatroniker(in) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-09-01</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildender Konstruktionsmechaniker (m/w/d) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-09-01</td></tr>
+<tr><td>Albrecht Jung GmbH & Co. KG</td><td>Trainee Vertrieb (m/w/d) Sachsen</td><td>Sachsen</td><td>2026-09-01</td></tr>
+<tr><td>IISBMS</td><td>Duales Studium Bachelor Of Science Software Engineering (angewandte Informatik) (d/m/w)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>Octopusenergy</td><td>Backend Engineer (m/w/d) – Python / Kundenportal & Ökosystem Wärmepumpe</td><td>Berlin</td><td>2026-09-01</td></tr>
+<tr><td>Fivestars</td><td>Backend Engineer - Money Transfers</td><td>Berlin</td><td>2026-09-01</td></tr>
+<tr><td>SumUp</td><td>Backend Engineer - Transfers Gateway</td><td>Berlin</td><td>2026-09-01</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d)</td><td>Nach Standort Suchen</td><td>2026-09-01</td></tr>
+<tr><td>WIN COSMETIC GmbH & Co. KG</td><td>Betriebsschlosser (m/w/d)</td><td>FlöRsheim-Dalsheim</td><td>2026-09-01</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Rga/sme)</td><td>Rosengarten</td><td>2026-09-01</td></tr>
+<tr><td>Bilfinger</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Karlsruhe</td><td>2026-09-01</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Karlsruhe</td><td>2026-09-01</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Buseck</td><td>2026-09-01</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Munich</td><td>2026-09-01</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Fliesen / Bodenbeläge / Laminat (gn)</td><td>Berlin</td><td>2026-09-01</td></tr>
+<tr><td>humbaurkoegel</td><td>Aushilfe Im Wareneingang Auf Geringfügiger Basis (m/w/d)</td><td>Germany</td><td>2026-09-01</td></tr>
+<tr><td>MANGO</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w. / Pasing</td><td>Munich</td><td>2026-09-01</td></tr>
+<tr><td>Salewa Outlet Zweibrücken</td><td>Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken</td><td>Saarbruecken</td><td>2026-09-01</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>SKF Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>Jimmy Fairly</td><td>Sales Assistant (m/w/d) In Vollzeit - Hamburg</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Saarbasar Saarbrücken (m/w/d)</td><td>Saarbruecken</td><td>2026-09-01</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Sales Assistant (m/w/d) - Store Flughafen München</td><td>Munich</td><td>2026-09-01</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Flexible Aushilfe (m/w/d) - Flagshipstore Fc Bayern World</td><td>Munich</td><td>2026-09-01</td></tr>
+<tr><td>Shaping New Tomorrow</td><td>Studentische Aushilfe (m/w/d) Im Verkauf - Cologne</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>(studentische) Aushilfe Im Verkauf (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ausbildung Zum Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Im Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf (m/w/d)</td><td>Munster</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Constance</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d) 1</td><td>Frankfurt Am Main</td><td>2026-09-01</td></tr>
+<tr><td>MediamarktSaturn</td><td>Aushilfe Verkauf - Schwerpunkt Smartphone & Vertragsgeschäft (m/w/d)</td><td>Wurzburg</td><td>2026-09-01</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Duisburg Rheinhausen (14 Std)</td><td>Dusseldorf</td><td>2026-09-01</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Oberhausen Centroallee, De</td><td>Dusseldorf</td><td>2026-09-01</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Verkaufsberater Mit Schwerpunkt Make-up & Skincare (m/w/d) In Vollzeit</td><td>Frankfurt Am Main</td><td>2026-09-01</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Würzburg</td><td>Wurzburg</td><td>2026-09-01</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Elbe Einkaufszentrum Hamburg-osdorf (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Verkäufer Kurzfristige Beschäftigung - Alstertal Einkaufszentrum Hamburg-poppenbüttel (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>H&M</td><td>Verkäufer Kurzfristige Beschäftigung - Alstertal Einkaufszentrum Hamburg-poppenbüttel (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-09-01</td></tr>
+<tr><td>Aldi Süd</td><td>Aushilfe Verwaltung Produktionswerk (m/w/d)</td><td>Mannheim</td><td>2026-09-01</td></tr>
 </table>
