@@ -5533,4 +5533,98 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (hbf)</td><td>Berlin</td><td>2026-09-04</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob Fo Neumünster (temp) (m/w/d)</td><td>Kiel</td><td>2026-09-04</td></tr>
 <tr><td>Springer Nature</td><td>Quality Assurance Specialist (m/f/d)</td><td>Mannheim</td><td>2026-09-04</td></tr>
+<tr><td>adesso Group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-09-05</td></tr>
+<tr><td>RWE Generation SE</td><td>Werkstudent Central Project Und Rweti Controlling D/w/m</td><td>Wuppertal</td><td>2026-09-05</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikant In Quality Assurance (m/f/d)</td><td>Duren</td><td>2026-09-05</td></tr>
+<tr><td>Grunenthal Pharma GmbH & Co. Kommanditgesellschaft</td><td>Pharmaziepraktikum Cmc Compliance (m/w/d)</td><td>Duren</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Im Entwicklungsbereich Für Den Xerion</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Claas Inside Group Hr Rewards & Mobility</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Absatzfinanzierung</td><td>Herzebrock</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Human Resources</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Praktikum/claas Inside Group Hr Development / Learning & Training</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Praktikum Group Treasury</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Im Bereich Digital Channels & Ai Solutions</td><td>Herzebrock-Clarholz</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Controlling</td><td>Herzebrock</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS Vertriebsgesellschaft mbH</td><td>Praktikum Vertrieb Molbergen</td><td>Oldenburg</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Student (m/w/d) Claas Inside Global Supply Chain Management - Material Management</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Praktikum Controlling</td><td>Constance</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Student (m/w/d) Claas Inside Supply Chain Management</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Student (m/w/d) Claas Inside Im Bereich Fügetechnik</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Praktikum Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Praktikum / Abschlussarbeit Vorentwicklung</td><td>Constance</td><td>2026-09-05</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Marketing</td><td>Herzebrock</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Redaktion Wiso (09/2026 - 10/2026)</td><td>Darmstadt</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Rheinland-pfalz (09/2026 - 12/2026)</td><td>Darmstadt</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Redaktion Heute Journal (11/2026 - 12/2026)</td><td>Darmstadt</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Redaktion Service Täglich (03/2027 - 12/2027)</td><td>Dusseldorf</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Hessen (05/2027 - 12/2027)</td><td>Frankfurt Am Main</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Schleswig-holstein (01/2027 - 06/2027)</td><td>Kiel</td><td>2026-09-05</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Bayern (10/2026 - 12/2026)</td><td>Munich</td><td>2026-09-05</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum Im Bereich Werkscontrolling</td><td>Stuttgart</td><td>2026-09-05</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum It-sicherheit In Der Fertigung</td><td>Stuttgart</td><td>2026-09-05</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - F&e Vorentwicklung Des Unternehmensbereichs E-mobilität (d/m/w)</td><td>Karlsruhe</td><td>2026-09-05</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Category Management & Shopper Marketing (w/m/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Boston Consulting Group</td><td>Werkstudent:in Ai & Data Analytics - Energy Knowledge Management (all Genders) - Bcg Platinion</td><td>Munich</td><td>2026-09-05</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Bereich Versuch - Getriebe, Bremse, Vorderachse, Pneumatik (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-05</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Bereich Ai / Data Mining / Big Data / Datenanalyse (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-05</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Business Recovery Services (m/w/d)</td><td>Munich</td><td>2026-09-05</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Working Student (m/f/x) - Perception & Customer Functions Development</td><td>Munich</td><td>2026-09-05</td></tr>
+<tr><td>Rogers Corporation</td><td>Apprentice Surface Refinement</td><td>Eschenbach</td><td>2026-09-05</td></tr>
+<tr><td>fisgruppe</td><td>Trainee It-servicemanagement & Sales (m/w/x)</td><td>Grafenrheinfeld</td><td>2026-09-05</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Finanzen - Controlling, Accounting, Regulatory Reporting & Steuern (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Credit Risk Management (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>bayernlb</td><td>Allgemeines Traineeprogramm (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Deloitte GmbH</td><td>Ausbildung Steuerfachangestellter 2027 (m/w/d)</td><td>Berlin</td><td>2026-09-05</td></tr>
+<tr><td>adesso Group</td><td>Full Stack Engineer (all Genders)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Java Ee (all Genders)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Golang (all Genders)</td><td>Berlin +1</td><td>2026-09-05</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Softwareingenieur Counter Operations (d/m/w)</td><td>Ulm</td><td>2026-09-05</td></tr>
+<tr><td>Jobgether</td><td>Back-end Engineer (python)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Jobgether</td><td>.net Core & Python Web Developer</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Conversational Ai (all Genders)</td><td>Nach Standort Suchen</td><td>2026-09-05</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Zahlungsverkehr (all Genders)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Kleinkoschen</td><td>Senftenberg - Kleinkoschen</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektro / Mechanik (kennziffer: Clp/sem)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektromaschinentechniker (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau</td><td>Schkopau</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Pumpenschlosser (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover</td><td>Hanover</td><td>2026-09-05</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover</td><td>Hanover</td><td>2026-09-05</td></tr>
+<tr><td>SIG Information Technology GmbH</td><td>Service Techniker Außendienst / Field Service Engineer Germany (m/w/d)</td><td>52441</td><td>2026-09-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Hv In Großweitzschen</td><td>GroßWeitzschen</td><td>2026-09-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Hv For Wind Turbines In Greifswald</td><td>Greifswald</td><td>2026-09-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Hv For Wind Turbines In Southeastern Brandenburg</td><td>Southeastern Brandenburg</td><td>2026-09-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Verden (aller)</td><td>Verden (Aller)</td><td>2026-09-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Jaderberg</td><td>Jaderberg</td><td>2026-09-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Maintenance For Wind Turbines In Templin</td><td>Berlin</td><td>2026-09-05</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker (m/w/d) Im Außendienst In Hof</td><td>Lauf A.D. Pegnitz</td><td>2026-09-05</td></tr>
+<tr><td>e.dialog Netz GmbH</td><td>Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)</td><td>Berlin</td><td>2026-09-05</td></tr>
+<tr><td>E.ON SE</td><td>Servicemonteur Cng Anlagen (w/m/d) Region Südwest</td><td>Essen +1</td><td>2026-09-05</td></tr>
+<tr><td>PreussenElektra GmbH</td><td>Anlagenwärter (w/m/d) Im Schichtspringerdienst</td><td>Emmerthal</td><td>2026-09-05</td></tr>
+<tr><td>HanseWerk Natur GmbH</td><td>Anlagenmechaniker Servicetechnik Energieanlagen (m/w/d)*</td><td>Hamburg</td><td>2026-09-05</td></tr>
+<tr><td>Oerlikon</td><td>Mechatroniker (gn) Instandhaltung</td><td>Barchfeld</td><td>2026-09-05</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Mechaniker / Anlagenbediener (m/w/d)</td><td>Emleben</td><td>2026-09-05</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Servicetechniker Telekommunikation / Glasfaser (m/w/d)</td><td>Germany</td><td>2026-09-05</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Vollzeit Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-09-05</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dortmund</td><td>2026-09-05</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE Salvatore Minacapilli oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-09-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Gartentechnik - Auch Quereinsteiger (m/w/d)</td><td>Mannheim</td><td>2026-09-05</td></tr>
+<tr><td>REWE Markt Esser oHG</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE Jakubek oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE Andrea Flammuth oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>REWE Mathias Götz oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-09-05</td></tr>
+<tr><td>REWE Hüseyin Bilkay oHG</td><td>Verkäufer Backwaren & Warme Küche (m/w/d)</td><td>Cologne</td><td>2026-09-05</td></tr>
+<tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-09-05</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Compliance Specialist, It Compliance Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-09-05</td></tr>
+<tr><td>Springerhealthplus</td><td>Quality Assurance Specialist (m/f/d)</td><td>Mannheim</td><td>2026-09-05</td></tr>
 </table>
