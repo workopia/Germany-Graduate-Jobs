@@ -5627,4 +5627,136 @@
 <tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-09-05</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Compliance Specialist, It Compliance Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-09-05</td></tr>
 <tr><td>Springerhealthplus</td><td>Quality Assurance Specialist (m/f/d)</td><td>Mannheim</td><td>2026-09-05</td></tr>
+<tr><td>Nordex SE</td><td>Working Student (m/f/d) It Strategic Sourcing</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Nordex SE</td><td>Working Student (m/f/d) Corporate Development & Strategy - Hamburg</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>adesso-group</td><td>Werkstudent Marketing - Website (all Genders)</td><td>Nach Standort Suchen</td><td>2026-09-06</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing Ab November 2026</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing Ab November 2026</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Hamburg 08.03. - 19.03.2027</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Hamburg 15.03. - 25.03.2027</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Hamburg 01.03. - 12.03.2027</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Schulpraktikum Airbus Hamburg 15.03. - 25.03.2027</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Schulpraktikum Airbus Hamburg 08.03. - 19.03.2027</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Schulpraktikum Airbus Hamburg 01.03. - 12.03.2027</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Working Student (m/f/d) Trading Goods</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Intern (m/f/d) International Internal Control System</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>jobs.barclays</td><td>Sales, Trading And Structuring Off Cycle Internship Programme 2027 Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Voith Group</td><td>Intern (m/f/d) - Hr / People Business Partner</td><td>Heidenheim</td><td>2026-09-06</td></tr>
+<tr><td>Voith Group</td><td>Intern (m/f/d) - Corporate Sustainability</td><td>Ulm</td><td>2026-09-06</td></tr>
+<tr><td>Vitra Services GmbH</td><td>Pflichtpraktikum W/m/d Communications (3 Monate Befristet)</td><td>Freiburg Im Breisgau</td><td>2026-09-06</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum Kommunikation & Transformation In Der Elektromobilität</td><td>Stuttgart</td><td>2026-09-06</td></tr>
+<tr><td>Doctolib GmbH</td><td>Praktikum Human Resources (x/f/m)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>SGL Carbon</td><td>Praktikant (m/w/d) Im Bereich Site Environment, Health & Safety</td><td>Augsburg</td><td>2026-09-06</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung: Praktikum (m/w/d)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Bertelsmann Stiftung</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-09-06</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>Bielefeld</td><td>2026-09-06</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola Ignite Intern - People & Culture</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Coca-cola - Intern Communications -pacs</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Internship Mergers & Acquisitions / Cooperations / Finance</td><td>Constance</td><td>2026-09-06</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Freiwilliges Praktikum: Mergers & Acquisitions / Kooperationen / Finanz Zf Group (m/w/d)</td><td>Constance</td><td>2026-09-06</td></tr>
+<tr><td>SSI Schaefer</td><td>Ausbildung Fachinformatiker Für Systemintegration (w/m/d) 2027</td><td>Giebelstadt</td><td>2026-09-06</td></tr>
+<tr><td>TE Connectivity</td><td>Strategic Procurement Intern (m/w/d)</td><td>Stuttgart</td><td>2026-09-06</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Corporate Hr (m/w/d)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Initiative Rot Gegen Rassismus (m/w/d)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Brand Activation (m/w/d)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Werkstudent Initiative Rot Gegen Rassismus (m/w/d)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Financial Accounting (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Ipo & Growth Financing Am Börsenplatz (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Risk Controlling & Governance (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Crm & Analytics Trading & Clearing Marketing (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Business Development & Market Readiness (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>ElringKlinger Group</td><td>Praktikant (m/w/d) Legal</td><td>Reutlingen</td><td>2026-09-06</td></tr>
+<tr><td>Roche Holding AG</td><td>Praktikum Im Energiemanagement & Nachhaltigkeit (m/w/d)</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>Roche</td><td>Praktikum Im Energiemanagement & Nachhaltigkeit (m/w/d)</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>SAP SE</td><td>Intern/thesis/working Student (f/m/d) - Evaluating And Improving Llm-based Se Solutions In Sap Hana</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Sap Ixp Intern - Compliance Learning</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>SAP SE</td><td>Intern/working Student (f/m/d) - Content Creation, Communications & Strategic Projects</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Office Of The Head Of Product & Engineering Of Consumer Industries</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Human Resources Mit Fokus It Ausbildung, Personal- & Organisationsentwicklung</td><td>Oberopfingen</td><td>2026-09-06</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum/abschlussarbeit In Der Distributionslogistik</td><td>Ulm</td><td>2026-09-06</td></tr>
+<tr><td>Bankstcharles</td><td>Investing And Lending Off Cycle Internship Programme 2027 Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>Brightonparkbank</td><td>Investing And Lending Off Cycle Internship Programme 2027 Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>ING</td><td>Praktikant Debt Capital Markets – Financial Institutions Origination Im Bereich Wholesale Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>ING Wholesale Banking Germany</td><td>Praktikant Debt Capital Markets – Financial Institutions Origination Im Bereich Wholesale Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-06</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-09-06</td></tr>
+<tr><td>Fivestars</td><td>Motion Design Intern - Brand & Marketing</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Berkeley Research Group (BRG)</td><td>Intern (m/f/d) - Competition Economics (e.ca)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Berkeley Research Group</td><td>Intern (m/f/d) - Competition Economics (e.ca)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>AIRBUS HELICOPTERS DEUTSCHLAND GmbH</td><td>Masterarbeit In Quality - Final Assembly Line</td><td>Augsburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Helicopters Deutschland GmbH</td><td>Praktikum Im Bereich Quality - Final Assembly Line</td><td>Augsburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus SE</td><td>Praktikum Im Bereich Quality - Final Assembly Line</td><td>Augsburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Helicopters</td><td>Masterarbeit In Quality - Final Assembly Line</td><td>Augsburg</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Helicopters</td><td>Praktikum Im Bereich Quality - Final Assembly Line</td><td>Augsburg</td><td>2026-09-06</td></tr>
+<tr><td>adesso-group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-09-06</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Working Student (f/m/d) Ai & Virtual Reality In Manufacturing</td><td>Mannheim</td><td>2026-09-06</td></tr>
+<tr><td>100</td><td>Shell Assessed Internship Programme 2027 - Commercial – Germany</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Bosch Group</td><td>Mandatory Internship Packaging Purchasing</td><td>Stuttgart</td><td>2026-09-06</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Influencer Marketing (m/w/d)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Klein Wanzleben</td><td>2026-09-06</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachinformatiker - Systemintegration (m/w/d) // Beginn: 09.2027</td><td>Stuttgart</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Berlin (tegel)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Henstedt-ulzburg</td><td>Henstedt-Ulzburg</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Hameln</td><td>Hanover</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) München (pasing)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Trainee Filialleiter/shop Manager (m/w/d), Teilzeit, Großraum Düsseldorf</td><td>Dusseldorf</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Zum Kaufmann Im Einzelhandel 2026 (m/w/d) Schwelm</td><td>Wuppertal</td><td>2026-09-06</td></tr>
+<tr><td>Sixt</td><td>Management Trainee Filiale (m/w/d) Region West</td><td>Dusseldorf</td><td>2026-09-06</td></tr>
+<tr><td>ww-ag</td><td>Auszubildender Zum Fachinformatiker (m/w/d) - Alle Fachrichtungen 2027</td><td>Stuttgart</td><td>2026-09-06</td></tr>
+<tr><td>Pirelli Systeme Informativi S.r.l</td><td>Ausbildung - Maschinen- Und Anlagenführer</td><td>Breuberg</td><td>2026-09-06</td></tr>
+<tr><td>Pirelli Sistemi Informativi.s.r.l</td><td>Ausbildung - Industriekaufmann/-frau</td><td>Breuberg</td><td>2026-09-06</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Trainee Zum Bereichsleiter Markt (gn)</td><td>Vogelsdorf</td><td>2026-09-06</td></tr>
+<tr><td>Zurich Insurance UK</td><td>It-fachberater Als Spezialist It Field Service & Agentursupport (m/w/d)</td><td>Region/Land</td><td>2026-09-06</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Lending</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Software Engineer Simulation (d/w/m)</td><td>Ulm</td><td>2026-09-06</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Softwareingenieur (d/m/w)</td><td>Ulm</td><td>2026-09-06</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Fund Accountant (m/w/d) Real Assets - Befristete Elternzeitvertretung</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>thermofin GmbH</td><td>Bilanzbuchhalter (m/w/d)</td><td>Heinsdorfergrund</td><td>2026-09-06</td></tr>
+<tr><td>Sopra Steria</td><td>V.I.E Junior Business Analyst (H/F)</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Mechaniker / Hydrauliker (mwd)</td><td>Unknown</td><td>2026-09-06</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Mechatroniker / Mechatronikerin (m/w/d) Instandhaltung Schienenfahrzeuge</td><td>Unknown</td><td>2026-09-06</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Elektroniker / Elektronikerin (m/w/d) Instandhaltung Schienenfahrzeuge</td><td>Unknown</td><td>2026-09-06</td></tr>
+<tr><td>Scania CV AB</td><td>Servicetechniker (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>WIN COSMETIC GmbH & Co. KG</td><td>Betriebsschlosser (m/w/d)</td><td>FlöRsheim-Dalsheim</td><td>2026-09-06</td></tr>
+<tr><td>RWS GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Im Bereich Electrical Maintenance</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>Rewe Group</td><td>Haustechniker Heizung / Sanitär / Lüftung (m/w/d)</td><td>Henstedt-Ulzburg</td><td>2026-09-06</td></tr>
+<tr><td>KNDS Group</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Vorarbeiter (m/w/d) Elektrotechnik / Instandhaltung</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Armaturen (m/w/d)</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Anlagenmechaniker / Wartungsmechaniker (m/w/d)</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Außendienstmonteur / Industriemechaniker/ Monteur (m/w/d) Im Bereich Generatoren Und Motoren (m/w/d)</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschlandweite Einsätze (kennziffer: Bu/smde)</td><td>Deutschland</td><td>2026-09-06</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater.in/sales Associate</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>TK Maxx</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Dusseldorf</td><td>2026-09-06</td></tr>
+<tr><td>Coach</td><td>Sales Associate</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Quarree Wandsbek Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>COS</td><td>Verkäufer Teilzeit - Quarree Wandsbek Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Neunkirchen (m/w/d)</td><td>Saarbruecken</td><td>2026-09-06</td></tr>
+<tr><td>COS</td><td>Verkäufer Teilzeit - Neunkirchen (m/w/d)</td><td>Saarbruecken</td><td>2026-09-06</td></tr>
+<tr><td>SKF Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-09-06</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Nürnberg Langwasser (m/w/d)</td><td>Nuremberg</td><td>2026-09-06</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Thier Galerie Dortmund (m/w/d)</td><td>Dortmund</td><td>2026-09-06</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - München Weinstraße (m/w/d)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Gelsenkirchen (m/w/d)</td><td>Dortmund</td><td>2026-09-06</td></tr>
+<tr><td>Burberry</td><td>Sales Associate 3month Ftc Metzingen Outlet City</td><td>Reutlingen</td><td>2026-09-06</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Berlin (friedrichstr. 90), In Teilzeit</td><td>Berlin</td><td>2026-09-06</td></tr>
+<tr><td>Vodafone</td><td>Studentische Aushilfe (m/w/d) Für Die Vodafone Filiale In Hagen, In Teilzeit, Befristet Für 1 Jahr</td><td>Dortmund</td><td>2026-09-06</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistikmitarbeiter Clearing (m/w/d)</td><td>Mutzschen</td><td>2026-09-06</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>REWE</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>REWE Christian Werner oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>REWE Oliver Scherff oHG</td><td>Werkstudent Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-06</td></tr>
+<tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Germany</td><td>2026-09-06</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Hr Specialist Pay/time/pa (d/m/w)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Hr Specialist Pay/time/pa (d/m/w)</td><td>Munich</td><td>2026-09-06</td></tr>
 </table>
