@@ -5759,4 +5759,25 @@
 <tr><td>Jobgether</td><td>Software Verification & Qa Specialist</td><td>Germany</td><td>2026-09-06</td></tr>
 <tr><td>ATR (Airbus/Leonardo)</td><td>Hr Specialist Pay/time/pa (d/m/w)</td><td>Munich</td><td>2026-09-06</td></tr>
 <tr><td>aeroshiftedge.pics</td><td>Hr Specialist Pay/time/pa (d/m/w)</td><td>Munich</td><td>2026-09-06</td></tr>
+<tr><td>NORDLB</td><td>Praktikant/-in Mf/stab (m/w/d)</td><td>Hanover</td><td>2026-09-07</td></tr>
+<tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Intern - Open Innovation Analyst (f/m/d)</td><td>Berlin</td><td>2026-09-07</td></tr>
+<tr><td>SCHOTT</td><td>Praktikantin Strategic Development (m/w/d)*</td><td>Darmstadt</td><td>2026-09-07</td></tr>
+<tr><td>SCHOTT</td><td>Rechtsreferendariat (m/w/d)*</td><td>Darmstadt</td><td>2026-09-07</td></tr>
+<tr><td>dalli group</td><td>Initiativbewerbung Praktikanten - Flörsheim (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-07</td></tr>
+<tr><td>Chiesi Farmaceutici S.p.A</td><td>Pharmazeut (all Genders) Im Praktikum Für 2027</td><td>Hamburg</td><td>2026-09-07</td></tr>
+<tr><td>Nordex SE</td><td>Intern People & Culture Systems Support</td><td>Hamburg</td><td>2026-09-07</td></tr>
+<tr><td>Sopra Steria</td><td>AI Engineer Financial Services (m/w/d)</td><td>Bundesweit</td><td>2026-09-07</td></tr>
+<tr><td>Jobgether</td><td>Ai Developer</td><td>Germany</td><td>2026-09-07</td></tr>
+<tr><td>OneMain Financial</td><td>Analytics Analyst</td><td>Wilmington</td><td>2026-09-07</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Sbn</td><td>Germany</td><td>2026-09-07</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Kob</td><td>Germany</td><td>2026-09-07</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Mechaniker (m/w/d) Für Raum Ostalb</td><td>Aalen-Ebnat</td><td>2026-09-07</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-09-07</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-09-07</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-09-07</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-09-07</td></tr>
+<tr><td>Jobgether</td><td>Field Service Engineer</td><td>Germany</td><td>2026-09-07</td></tr>
+<tr><td>TE Connectivity</td><td>Mitarbeiter Im Lager/versand (m/w/d) Befristet Für 1 Jahr</td><td>Calw</td><td>2026-09-07</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Pfullingen (18,5-32 Std)</td><td>Reutlingen</td><td>2026-09-07</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Berlin Flagship Store Berlin</td><td>Berlin</td><td>2026-09-07</td></tr>
 </table>
