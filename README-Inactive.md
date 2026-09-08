@@ -5780,4 +5780,67 @@
 <tr><td>TE Connectivity</td><td>Mitarbeiter Im Lager/versand (m/w/d) Befristet Für 1 Jahr</td><td>Calw</td><td>2026-09-07</td></tr>
 <tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Pfullingen (18,5-32 Std)</td><td>Reutlingen</td><td>2026-09-07</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Berlin Flagship Store Berlin</td><td>Berlin</td><td>2026-09-07</td></tr>
+<tr><td>Bäcker Görtz</td><td>Mitarbeiter Im Verkauf (m/w/d) - Alzey</td><td>Mannheim</td><td>2026-09-08</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Der Internationalen Fertigungskoordination Im Bereich Der Bosch Bremssysteme</td><td>Kempten Allgau</td><td>2026-09-08</td></tr>
+<tr><td>Arthrex Inc</td><td>Werkstudent (w/m/d) Marketing Communications</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Internationale Mitarbeiterentsendung - Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Analytics / Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Risk & Compliance / Internal Audit (m/w/d)</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Corporate Treasury (m/w/d)</td><td>Berlin</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)</td><td>Berlin</td><td>2026-09-08</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Government & Finance Support Public Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-08</td></tr>
+<tr><td>AMBU AS</td><td>Working Student / Intern Clinical Affairs, Design Validation & Usability</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Knorr-Bremse Systeme für Schienenfahrzeuge GmbH</td><td>Pflichtpraktikant Produktmanagement Air Supply (m/w/d)</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Knorr-Bremse</td><td>Praktikum Corporate Strategy (m/w/d)</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Im Bereich Corporate M&a (m/w/d)</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Culture & Talent Development (m/w/d)</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Organisationsberatung (m/w/d)</td><td>Cologne</td><td>2026-09-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Audit / Wirtschaftsprüfung (m/w/d)</td><td>Berlin</td><td>2026-09-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Your Tax Experience (m/w/d)</td><td>Berlin</td><td>2026-09-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Transaction Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-08</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum M&a Advisory (m/w/d)</td><td>Hamburg</td><td>2026-09-08</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Aktuariat Lebensversicherung</td><td>Dortmund</td><td>2026-09-08</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Im Aktuariat Komposit</td><td>Dortmund</td><td>2026-09-08</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-09-08</td></tr>
+<tr><td>Jenoptik AG</td><td>Dein Praktikum Bei Jenoptik</td><td>Jena</td><td>2026-09-08</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Bereich Marketing Und Kommunikation</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern (f/m/d) Limited Up To 6 Months - Planner Experience Center Walldorf</td><td>Mannheim</td><td>2026-09-08</td></tr>
+<tr><td>SAP</td><td>Tworking Student (f/m/d) - S4/hana Public Cloud Revenue Recognition</td><td>Mannheim</td><td>2026-09-08</td></tr>
+<tr><td>Coty</td><td>Social Media & Content Creator Intern</td><td>Darmstadt</td><td>2026-09-08</td></tr>
+<tr><td>Worldline</td><td>Freiwilliges Praktikum Im Cardholder Service</td><td>Frankfurt Am Main</td><td>2026-09-08</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-08</td></tr>
+<tr><td>Deutz AG</td><td>Praktikant / Umschüler (m/w/d) Gewerblich</td><td>Cologne</td><td>2026-09-08</td></tr>
+<tr><td>LBBW</td><td>Schülerpraktikum Kaufleute Für Büromanagement In Mainz (m/w/d)</td><td>Darmstadt</td><td>2026-09-08</td></tr>
+<tr><td>LBBW Webspace</td><td>Praktikant (m/w/d) Produktion Banking Und Credit Im Backoffice Otc-derivate</td><td>Stuttgart</td><td>2026-09-08</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Abschlussarbeit (m/w/d)</td><td>Spremberg</td><td>2026-09-08</td></tr>
+<tr><td>CLAAS Vertriebsgesellschaft mbH</td><td>Claas Inside Absatzfinanzierung</td><td>Herzebrock-Clarholz</td><td>2026-09-08</td></tr>
+<tr><td>Roche Pharma AG</td><td>Praktikum (m/w/d) Im Bereich Events & Congresses</td><td>Freiburg Im Breisgau</td><td>2026-09-08</td></tr>
+<tr><td>Roche</td><td>Praktikum (m/w/d) Im Bereich Events & Congresses</td><td>Freiburg Im Breisgau</td><td>2026-09-08</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Ausbildung 2026 - Fachlagerist / Fachkraft Für Lagerlogistik (m/w/d)</td><td>SchöNberg</td><td>2026-09-08</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Stuttgart</td><td>2026-09-08</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Stuttgart</td><td>2026-09-08</td></tr>
+<tr><td>DACHSER SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Eschbach</td><td>2026-09-08</td></tr>
+<tr><td>Verlegerdienst München GmbH</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/x)</td><td>Munich</td><td>2026-09-08</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Industriekaufmann (m/w/d) // Sindelfingen Und Rottenburg // Beginn: 09.2027</td><td>Stuttgart</td><td>2026-09-08</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachkraft Für Lagerlogistik (m/w/d) // Rottenburg // Beginn: 09.2027</td><td>Reutlingen</td><td>2026-09-08</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Schülerpraktikum Mechatroniker (m/w/d) Produktionstechnik</td><td>Emleben</td><td>2026-09-08</td></tr>
+<tr><td>KNDS Deutschland Mission Electronics GmbH</td><td>Softwareentwickler Schwerpunkt Anwendungsentwicklung (m/w/d)</td><td>Constance</td><td>2026-09-08</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>It-fachberater Als Spezialist It Field Service & Agentursupport (m/w/d)</td><td>Region/Land</td><td>2026-09-08</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer [gn] (agentic Ai & Automation)</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Norsk Hydro</td><td>Elektriker In Der Anlagentechnik</td><td>Bellenberg</td><td>2026-09-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Filderstadt / Leinfelden-echterdingen</td><td>Stuttgart</td><td>2026-09-08</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Industriemechaniker (w/m/d)</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>DHL Group</td><td>Elektroniker / Mechatroniker (m/w/d)</td><td>Saulheim</td><td>2026-09-08</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle (Saale) +1</td><td>2026-09-08</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle (Saale) +1</td><td>2026-09-08</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicetechniker (w/m/d) Für Elektromobilität</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Mhm</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Kst</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Khe</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Wbn</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Fbg</td><td>Germany</td><td>2026-09-08</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Lagermitarbeiter (m/w/d) Kommissionierung - Minijob</td><td>SchöNberg</td><td>2026-09-08</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) - Köln</td><td>Cologne</td><td>2026-09-08</td></tr>
+<tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Stavenhagen</td><td>2026-09-08</td></tr>
 </table>
