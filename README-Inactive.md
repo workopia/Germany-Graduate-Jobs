@@ -5843,4 +5843,90 @@
 <tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Lagermitarbeiter (m/w/d) Kommissionierung - Minijob</td><td>SchöNberg</td><td>2026-09-08</td></tr>
 <tr><td>Skechers</td><td>Verkäufer (m/w/d) - Köln</td><td>Cologne</td><td>2026-09-08</td></tr>
 <tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Stavenhagen</td><td>2026-09-08</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Production / Engineering - Internship / Thesis (m/f/d)</td><td>Duren</td><td>2026-09-09</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Double Internship - Sales & Brand Management (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Clinical And Medical Internship - Pharmaziepraktikum* (f/m/d)</td><td>Saarbruecken</td><td>2026-09-09</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Brand Management Internship (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>Strategic Finance Internship (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Procter & Gamble (SK-II)</td><td>It Internship (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-09-09</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-09-09</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Go-to-market Strategy & Transformation And Sap Executive Advisory Board</td><td>Berlin</td><td>2026-09-09</td></tr>
+<tr><td>Altana AG</td><td>Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried)</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>Altana AG</td><td>Marketing Praktikant (m/w/d)</td><td>Germany</td><td>2026-09-09</td></tr>
+<tr><td>GKN Driveline International GmbH</td><td>Student Legal (m/f/d)</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>HELM AG</td><td>Duales Studium International Management (hsba) (m/w/d)</td><td>Hamburg</td><td>2026-09-09</td></tr>
+<tr><td>Puma</td><td>Internship Digital Wholesale</td><td>Germany</td><td>2026-09-09</td></tr>
+<tr><td>Barilla Group</td><td>Praktikum Im Trade Marketing - Brand Barilla Food Services</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Pflichtpraktikant Onboarding In Der Personalentwicklung Für 6 Monate (m/w/d)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>Coty Inc</td><td>Social Media & Content Creator Intern</td><td>Darmstadt</td><td>2026-09-09</td></tr>
+<tr><td>Innomotics</td><td>Werkstudent (w/m/d) Interne Kommunikation Und Content</td><td>Germany</td><td>2026-09-09</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Media & Audience Management (m/w/d)</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>Metabo</td><td>Working Student Im Facility Management (job For All Genders)</td><td>Reutlingen</td><td>2026-09-09</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Concept Design Boss Menswear Orange (m/f/d)</td><td>Reutlingen</td><td>2026-09-09</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Duales Studium Bwl - International Business (b.a.)</td><td>Reutlingen</td><td>2026-09-09</td></tr>
+<tr><td>MEGA eG</td><td>Kaufmännisches Praktikum Mega Gruppe</td><td>Deutschland</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market - Team Logistics (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market Training (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Market Management Traktoren (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Für Den Bereicht Fendt Sales Operations (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Im Bereich Product Content (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Im Bereich Ai / Data Mining / Big Data / Datenanalyse (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Im Bereich Versuch - Getriebe, Bremse, Vorderachse, Pneumatik (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-09</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Citi</td><td>Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>zdf</td><td>Praktikant*in Redaktion Logo! (online) (11/2026 - 09/2027)</td><td>Darmstadt</td><td>2026-09-09</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Hochschulpraktikum Im Bereich Parken Und Mobilität - Business Development</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Studentische Aushilfe It-dokumentation & Datenintegration (m/w/d) Am Frankfurter Flughafen</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum In Der Fraport Academy Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Retail Marketing - Kampagnen & Kommunikation</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Im Bereich Handel- Und Vermietungsmanagement</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>Villeroy & Boch</td><td>Werkstudent (m/w/d) Source To Pay – S/4 Hana Implementierung</td><td>Mettlach</td><td>2026-09-09</td></tr>
+<tr><td>FGS Global</td><td>Praktikant (all Genders) Strategy & Transaction Communication</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-09-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-09-09</td></tr>
+<tr><td>Vossloh</td><td>Werkstudent Für Internationale Hr-it- Und Digitalisierungsprojekte (m/w/d)</td><td>Dortmund</td><td>2026-09-09</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Der Personalentwicklung Und Recruiting</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>TE Connectivity</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Germany</td><td>2026-09-09</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-09-09</td></tr>
+<tr><td>LBBW Webspace</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Gerlingen/leonberg (2027)</td><td>Stuttgart</td><td>2026-09-09</td></tr>
+<tr><td>Westnetz GmbH</td><td>Auszubildende Fachkraft Für Lagerlogistik (2027)</td><td>Brauweiler</td><td>2026-09-09</td></tr>
+<tr><td>Edag Engineering GmbH</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Unknown</td><td>2026-09-09</td></tr>
+<tr><td>aldi-sued</td><td>Abiturientenprogramm Handelsfachwirt 2026 (m/w/d)</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Junior Process Analyst (m/w/d) Order-to-cash</td><td>Stuttgart</td><td>2026-09-09</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Depotplattform Retail</td><td>Unknown</td><td>2026-09-09</td></tr>
+<tr><td>Crif S.p.a</td><td>Bilanzbuchhalter (m/w/d) - 50% Remote</td><td>Hamburg +1</td><td>2026-09-09</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Business Analyst Provisions- & Vermittlerprozesse (all Genders) Düsseldorf</td><td>Dusseldorf</td><td>2026-09-09</td></tr>
+<tr><td>Nordland Papier GmbH</td><td>Elektroniker (springer Im Schichtdienst) (m/w/d)</td><td>DöRpen</td><td>2026-09-09</td></tr>
+<tr><td>Aebi Schmidt Group</td><td>Technischer Support</td><td>Hanover</td><td>2026-09-09</td></tr>
+<tr><td>Rosler Oberflachentechnik GmbH</td><td>Servicemonteur (m/w/d)</td><td>Germany</td><td>2026-09-09</td></tr>
+<tr><td>Ferrero LADM</td><td>Industriemechaniker (w/m/d)</td><td>Unknown</td><td>2026-09-09</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-09-09</td></tr>
+<tr><td>Busch Dienste GmbH</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-09-09</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-09-09</td></tr>
+<tr><td>Busch Dienste GmbH</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-09-09</td></tr>
+<tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Frankfurt 2027 (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-09</td></tr>
+<tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Zweibrücken 2027 (m/w/d)</td><td>Saarbruecken</td><td>2026-09-09</td></tr>
+<tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Berlin / Wustermark 2027 (m/w/d)</td><td>Berlin</td><td>2026-09-09</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) Befristet - Fo Zweibrücken</td><td>Saarbruecken</td><td>2026-09-09</td></tr>
+<tr><td>adidas AG</td><td>Sales Assistant (m/w/d) - 30 Std./woche, Teilzeit, Befristet - Bcs Herzogenaurach</td><td>Nuremberg</td><td>2026-09-09</td></tr>
+<tr><td>REWE Thieme oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>REWE Thieme oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Spitalerstraße Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-09-09</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lagertätigkeit (m/w/d) – Rheinbach (32 Std)</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Samstags-aushilfe Im Verkauf Hugo Boss Outlet (w/m/d)</td><td>Reutlingen</td><td>2026-09-09</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Potsdam (bahnhofspassage)</td><td>Berlin</td><td>2026-09-09</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Berlin</td><td>2026-09-09</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Berlin</td><td>2026-09-09</td></tr>
+<tr><td>TJX Companies, Inc</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Nuremberg</td><td>2026-09-09</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer In Teilzeit (m/w/d) Salewa Outlet Aschheim</td><td>Munich</td><td>2026-09-09</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Verkäufer (m/w/d) - Köln</td><td>Cologne</td><td>2026-09-09</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) Logistik & Fabrikplanung - Fertigungskonzept</td><td>Obersontheim</td><td>2026-09-09</td></tr>
+<tr><td>Atos SE</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-09-09</td></tr>
 </table>
