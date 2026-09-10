@@ -1,7 +1,13 @@
 {
- "asOf": "2026-09-09",
- "count": 660,
+ "asOf": "2026-09-10",
+ "count": 672,
  "jobs": {
+  "1394802": {
+   "id": "1394802",
+   "company": "Bäcker Görtz",
+   "role": "Mitarbeiter Im Verkauf (m/w/d) - Frankenthal",
+   "location": "Mannheim"
+  },
   "2702586": {
    "id": "2702586",
    "company": "Fairfamily",
@@ -13,6 +19,258 @@
    "company": "oyora GmbH",
    "role": "Facharzt Für Strahlentherapie (m/w/d) – Cyberknife & Moderne Strahlentherapie",
    "location": "Hamburg"
+  },
+  "a174e78110847449284dbc1c4068b279": {
+   "id": "a174e78110847449284dbc1c4068b279",
+   "company": "musashi-group",
+   "role": "Praktikum/praxissemester/abschlussarbeiten",
+   "location": "Germany"
+  },
+  "d8ac69efb49b13a85cf0678324399291": {
+   "id": "d8ac69efb49b13a85cf0678324399291",
+   "company": "Sanofi",
+   "role": "Pharmaziepraktikum Im Bereich Fbc Quality Api Biosynthese Mai 2027",
+   "location": "Frankfurt Am Main"
+  },
+  "9765451d10c1b44083a14da4167c606e": {
+   "id": "9765451d10c1b44083a14da4167c606e",
+   "company": "Zeppelin GmbH",
+   "role": "Technisches Schülerpraktikum An Unserem Standort In Rödermark",
+   "location": "RöDermark"
+  },
+  "356b1f37e41bd09d28e52caed6d87ac5": {
+   "id": "356b1f37e41bd09d28e52caed6d87ac5",
+   "company": "Covestro",
+   "role": "Intern (m/f/d) In Procurement – With Salary Details",
+   "location": "Cologne"
+  },
+  "314c9f2c2034ca193b2f78116111479f": {
+   "id": "314c9f2c2034ca193b2f78116111479f",
+   "company": "covestro.cn",
+   "role": "Praktikant:in Im Bereich Corporate Communications (m/w/d) - Mit Gehaltsangabe",
+   "location": "Cologne"
+  },
+  "2ef94d61d46d154b22ae393d029ae7d9": {
+   "id": "2ef94d61d46d154b22ae393d029ae7d9",
+   "company": "ING",
+   "role": "Praktikant Relationship Management – Wholesale Banking (w/m/d)",
+   "location": "Munich"
+  },
+  "1a10ee4e8bbf3cd5c0dc1ee53a4762cf": {
+   "id": "1a10ee4e8bbf3cd5c0dc1ee53a4762cf",
+   "company": "ING Deutschland",
+   "role": "Praktikant Transformation Office - Data Driven Reporting (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "088db22f5469d3629ae25af48c007835": {
+   "id": "088db22f5469d3629ae25af48c007835",
+   "company": "Carl Zeiss Pty Ltd",
+   "role": "Praktikum Im Bereich Ki Für Qualitätsmanagement (m/w/x)",
+   "location": "Berlin"
+  },
+  "61ed686d61a4c7828a36daaedea7bea8": {
+   "id": "61ed686d61a4c7828a36daaedea7bea8",
+   "company": "Carl Zeiss Pty Ltd",
+   "role": "Internship – Computational Modelling And Digital Twins Of Organoids (f/m/x)",
+   "location": "Dresden"
+  },
+  "cfaf0029628f6ecc5dc6a9b5af6bd50c": {
+   "id": "cfaf0029628f6ecc5dc6a9b5af6bd50c",
+   "company": "Carl Zeiss Pty Ltd",
+   "role": "Praktikum - Leadership Development (m/w/x)",
+   "location": "Goppingen"
+  },
+  "81996c8d475dd7be7eb77c0733402560": {
+   "id": "81996c8d475dd7be7eb77c0733402560",
+   "company": "Carl Zeiss Pty Ltd",
+   "role": "Internship Simulation (f/m/x)",
+   "location": "Goppingen"
+  },
+  "a09a2ec6db35523936d3311d977ec38e": {
+   "id": "a09a2ec6db35523936d3311d977ec38e",
+   "company": "Carl Zeiss Pty Ltd",
+   "role": "Internship - Embedded Linux (f/m/x)",
+   "location": "Jena"
+  },
+  "49b23d7b0d0d8397912edc83cc15b265": {
+   "id": "49b23d7b0d0d8397912edc83cc15b265",
+   "company": "Carl Zeiss Pty Ltd",
+   "role": "Internship – Ai For Neural Signal Processing In Healthcare Innovation (f/m/x)",
+   "location": "Karlsruhe"
+  },
+  "f0d2b0ea847da7c7fbbee6a139a4814c": {
+   "id": "f0d2b0ea847da7c7fbbee6a139a4814c",
+   "company": "Triton Processing Inc",
+   "role": "Private Equity Internship - Frankfurt Tsm (april - June 2027)",
+   "location": "Frankfurt Am Main"
+  },
+  "81e865571e348c023be7bd05af326cfd": {
+   "id": "81e865571e348c023be7bd05af326cfd",
+   "company": "Berkeley Research Group (BRG)",
+   "role": "Intern (m/f/d) - Competition Economics (e.ca)",
+   "location": "Berlin"
+  },
+  "1222ae69aa746079492a97ae7b79c59a": {
+   "id": "1222ae69aa746079492a97ae7b79c59a",
+   "company": "Ardian",
+   "role": "Fund Finance Secondaries & Primaries Intern - Starting Now - Frankfurt (m/f)",
+   "location": "Frankfurt Am Main"
+  },
+  "660522ecb01606adeecbae876fa1f73c": {
+   "id": "660522ecb01606adeecbae876fa1f73c",
+   "company": "Sensus Xylem Inc",
+   "role": "Praktikum (m/w/d)",
+   "location": "Munich"
+  },
+  "af508237cdf32650f9ab2e8ae65ef516": {
+   "id": "af508237cdf32650f9ab2e8ae65ef516",
+   "company": "Linklaters",
+   "role": "Praktikum - Experience@linklaters In München",
+   "location": "Munich"
+  },
+  "051702b6e4a2e429d9950e35473de989": {
+   "id": "051702b6e4a2e429d9950e35473de989",
+   "company": "Linklaters",
+   "role": "Praktikum - Experience@linklaters In Düsseldorf",
+   "location": "Dusseldorf"
+  },
+  "a1ef32fed7c41e9799a2ccdd82bfb564": {
+   "id": "a1ef32fed7c41e9799a2ccdd82bfb564",
+   "company": "Linklaters LLP",
+   "role": "Praktikum - Experience@linklaters In Frankfurt Am Main",
+   "location": "Frankfurt Am Main"
+  },
+  "38f37f3d6b5056eba744ac1621f5c459": {
+   "id": "38f37f3d6b5056eba744ac1621f5c459",
+   "company": "why LLP",
+   "role": "Referendar (m/w/d) Steuerrecht In München",
+   "location": "Munich"
+  },
+  "1f05420cbfd8fed5ee4e469de9e1723f": {
+   "id": "1f05420cbfd8fed5ee4e469de9e1723f",
+   "company": "why LLP",
+   "role": "Referendar (m/w/d) Immobilienwirtschaftsrecht In Frankfurt Am Main",
+   "location": "Frankfurt Am Main"
+  },
+  "c2c31681d1a52e96d53dba1fd5f873b6": {
+   "id": "c2c31681d1a52e96d53dba1fd5f873b6",
+   "company": "why LLP",
+   "role": "Referendar (m/w/d) Investmentfonds In Berlin",
+   "location": "Berlin"
+  },
+  "e580c5f199e91bbfe199ba9d43a7036a": {
+   "id": "e580c5f199e91bbfe199ba9d43a7036a",
+   "company": "why LLP",
+   "role": "Referendar (m/w/d) Technologie, Medien & Telekommunikation In Frankfurt Am Main",
+   "location": "Frankfurt Am Main"
+  },
+  "e54b34fc6d2f51964fa2d18396a34e62": {
+   "id": "e54b34fc6d2f51964fa2d18396a34e62",
+   "company": "why LLP",
+   "role": "Referendar (m/w/d) Investmentfonds In Frankfurt Am Main",
+   "location": "Frankfurt Am Main"
+  },
+  "a81dc127ba82797355a1b31103122875": {
+   "id": "a81dc127ba82797355a1b31103122875",
+   "company": "100",
+   "role": "Bachelor Of Science (b.sc.) Wirtschaftsinformatik (m/w/d) (studienstart Oktober 2027)",
+   "location": "Hamburg"
+  },
+  "78a3004ae46bb23de80d83d33e94f270": {
+   "id": "78a3004ae46bb23de80d83d33e94f270",
+   "company": "Magna Electronics",
+   "role": "Working Student (m/f/x) - Perception & Customer Functions Development",
+   "location": "Munich"
+  },
+  "a78cb79196fcc6eae89b5cabf0653de7": {
+   "id": "a78cb79196fcc6eae89b5cabf0653de7",
+   "company": "Creative Chutzpah",
+   "role": "Initiativbewerbung Für Ein Praktikum (m/w/d) - Brand Consulting",
+   "location": "Munich"
+  },
+  "2171e4967c6e9afb857b9cb29d88755a": {
+   "id": "2171e4967c6e9afb857b9cb29d88755a",
+   "company": "J. Wagner GmbH",
+   "role": "Schulpraktikum (m/w/d)",
+   "location": "Constance"
+  },
+  "d555f7903be5aaa075ef530bd7280156": {
+   "id": "d555f7903be5aaa075ef530bd7280156",
+   "company": "Maersk",
+   "role": "Human Resources Intern",
+   "location": "Hamburg"
+  },
+  "e4c6e80f4e61ee90c21c90bd1549aa15": {
+   "id": "e4c6e80f4e61ee90c21c90bd1549aa15",
+   "company": "Uniper Holding GmbH",
+   "role": "Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)",
+   "location": "Dusseldorf"
+  },
+  "b893dba338ad582ed856150530456939": {
+   "id": "b893dba338ad582ed856150530456939",
+   "company": "Uniper Holding GmbH",
+   "role": "Werkstudierende - New Commodity Development (w/m/d)",
+   "location": "Dusseldorf"
+  },
+  "c23d441c29b7b241a7de2d8f3144d32a": {
+   "id": "c23d441c29b7b241a7de2d8f3144d32a",
+   "company": "Yunex Traffic",
+   "role": "Werkstudent (w/m/d) Im It Application Management",
+   "location": "Germany"
+  },
+  "f7ee4f5cccd928978a5329827d9633ae": {
+   "id": "f7ee4f5cccd928978a5329827d9633ae",
+   "company": "Statkraft",
+   "role": "Intern- Portfolio Strategy, Southern European Origination (6 Months), Düsseldorf, (m/f)",
+   "location": "Dusseldorf"
+  },
+  "7eb4caf7a6712020fe0bced65e1163ec": {
+   "id": "7eb4caf7a6712020fe0bced65e1163ec",
+   "company": "Sanofi UK",
+   "role": "Initiativbewerbung Studierende Praktikum (all Genders)",
+   "location": "Frankfurt Am Main"
+  },
+  "41d27a26d8c623fee39c98874287d71e": {
+   "id": "41d27a26d8c623fee39c98874287d71e",
+   "company": "Sanofi",
+   "role": "Initiativbewerbung Studierende Thesis (all Genders)",
+   "location": "Frankfurt Am Main"
+  },
+  "b31f036ef28a6077b9a598cd8cbf8a52": {
+   "id": "b31f036ef28a6077b9a598cd8cbf8a52",
+   "company": "Sanofi",
+   "role": "Pharmaziepraktikum Im Bereich Fbc Quality Api Biosynthese November 2026",
+   "location": "Frankfurt Am Main"
+  },
+  "33a49fce6edaac5fbe0b7bcc33fa60a0": {
+   "id": "33a49fce6edaac5fbe0b7bcc33fa60a0",
+   "company": "Altana",
+   "role": "Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried)",
+   "location": "Munich"
+  },
+  "809a38e132de605a62b5e5fee6f91103": {
+   "id": "809a38e132de605a62b5e5fee6f91103",
+   "company": "Altana",
+   "role": "Marketing Praktikant (m/w/d)",
+   "location": "Germany"
+  },
+  "ba65cf392abcd1a13d73c82fa7744582": {
+   "id": "ba65cf392abcd1a13d73c82fa7744582",
+   "company": "Innomotics",
+   "role": "Werkstudent (w/m/d) Interne Kommunikation Und Content",
+   "location": "Germany"
+  },
+  "9785c8f311f9273eee86df5ded83852f": {
+   "id": "9785c8f311f9273eee86df5ded83852f",
+   "company": "Bosch Rexroth AG",
+   "role": "Werkstudent*in Im Innovationsmanagement (m/w/d) (w/m/div.)",
+   "location": "Aschaffenburg"
+  },
+  "452dd4152a0d7a485fde664cecdf9b8b": {
+   "id": "452dd4152a0d7a485fde664cecdf9b8b",
+   "company": "Bosch Group",
+   "role": "Working Student In Innovation Management (f/m/div.)",
+   "location": "Aschaffenburg"
   },
   "5070126bfbbb1764f8928de80a484b15": {
    "id": "5070126bfbbb1764f8928de80a484b15",
@@ -62,437 +320,305 @@
    "role": "Praktikum Finanzen",
    "location": "Mannheim"
   },
-  "74cdda8e8a1a38204d61b8b850e0d31d": {
-   "id": "74cdda8e8a1a38204d61b8b850e0d31d",
-   "company": "miele.kz",
-   "role": "Schülerpraktikum Standort Gütersloh (m/w/d)",
-   "location": "Bielefeld"
-  },
-  "1d75f00ffc6bd7b2ff8cc84810a5e446": {
-   "id": "1d75f00ffc6bd7b2ff8cc84810a5e446",
-   "company": "miele.kz",
-   "role": "Praktikum Talent Acquisition / Recruiting (m/w/d)",
-   "location": "Bielefeld"
-  },
-  "0100fe12e2335f3e252f5be4c4d6ebdb": {
-   "id": "0100fe12e2335f3e252f5be4c4d6ebdb",
-   "company": "miele.kz",
-   "role": "Praktikum Own Retail Concepts & Activation (m/w/d)",
-   "location": "Bielefeld"
-  },
-  "671380d4e0cd6efaf5f7705b0f0670db": {
-   "id": "671380d4e0cd6efaf5f7705b0f0670db",
-   "company": "SCIEX",
-   "role": "Working Student Lc-ms/ms Applications & Technical Marketing (d/f/m)",
-   "location": "Darmstadt"
-  },
-  "ed3ebcc00b42b53992078b98a6d52ad4": {
-   "id": "ed3ebcc00b42b53992078b98a6d52ad4",
-   "company": "Weleda Trademark AG",
-   "role": "Schülerpraktikum (bors, Bogy,...)",
-   "location": "Goppingen"
-  },
-  "8191a6fea4b7556c06cdfd0e4e40c344": {
-   "id": "8191a6fea4b7556c06cdfd0e4e40c344",
-   "company": "Haleon",
-   "role": "Praktikant/werkstudent (m/w/d) Brand Management Dr.best",
-   "location": "Munich"
-  },
-  "2e3612370805aefce1500447324cb5ba": {
-   "id": "2e3612370805aefce1500447324cb5ba",
-   "company": "Haleon",
-   "role": "Werkstudent:in / Praktikant:in (m/w/d) Trade Marketing",
-   "location": "Munich"
-  },
-  "95530f660d7ed9221329fd447935f4a4": {
-   "id": "95530f660d7ed9221329fd447935f4a4",
-   "company": "Pgim",
-   "role": "Pgim / Investment Intern, Transactions (all Genders) Q4 2026 Based In Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "b8cf3d25cd48c83813ea962f5f09387a": {
-   "id": "b8cf3d25cd48c83813ea962f5f09387a",
-   "company": "Kraftverkehr Nagel SE & Co. KG",
-   "role": "Praktikum (m/w/d) Bereich Hr",
-   "location": "Emleben"
-  },
-  "11ebf970037407fc7fc1f0910f8d5905": {
-   "id": "11ebf970037407fc7fc1f0910f8d5905",
-   "company": "Kraftverkehr Nagel SE & Co. KG",
-   "role": "Praktikum (m/w/d) Initiativ",
-   "location": "Schweitenkirchen"
-  },
-  "c398f0dec6850577e108afe1495c1f6d": {
-   "id": "c398f0dec6850577e108afe1495c1f6d",
-   "company": "Valeo",
-   "role": "Masterand – Ultrasonic Ground Simulation (m/w/d)",
-   "location": "Karlsruhe"
-  },
-  "ccc6cb34d34256a3126e0f6feecdb324": {
-   "id": "ccc6cb34d34256a3126e0f6feecdb324",
-   "company": "Valeo",
-   "role": "Is Working Student (m/f/d)",
-   "location": "Karlsruhe"
-  },
-  "d054900aa98db25199526efbd36d7afd": {
-   "id": "d054900aa98db25199526efbd36d7afd",
-   "company": "HARTMANN",
-   "role": "Praktikant / Werkstudent Data & Ai (m/w/d)",
-   "location": "Ulm"
-  },
-  "d5ed80677a15f442106a6f83cd312a43": {
-   "id": "d5ed80677a15f442106a6f83cd312a43",
-   "company": "EndressHauser AG",
-   "role": "Einwöchiges Schülerpraktikum 2027",
-   "location": "Berlin"
-  },
-  "68740d86e289ae07f026540107094f0b": {
-   "id": "68740d86e289ae07f026540107094f0b",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Initiativbewerbung Für Ein Schulpraktikum Am Standort Winnenden",
-   "location": "Stuttgart"
-  },
-  "b5d81a2b6c72150d6bbd85a685794d73": {
-   "id": "b5d81a2b6c72150d6bbd85a685794d73",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship History Management",
-   "location": "Stuttgart"
-  },
-  "52fca12c97fce6b41ce7034c323c0ba6": {
-   "id": "52fca12c97fce6b41ce7034c323c0ba6",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Im Bereich Logistik & Kundenauftragsabwicklung / Internship Logistics & Supply Chain",
-   "location": "Obersontheim"
-  },
-  "4c9ef6729078e468802c323f35cda8f5": {
-   "id": "4c9ef6729078e468802c323f35cda8f5",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Venture Clienting And Startup Investment",
-   "location": "Stuttgart"
-  },
-  "4f6b128463b378537f163cf368ee3e89": {
-   "id": "4f6b128463b378537f163cf368ee3e89",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Business Development - Aftermarket & Services",
-   "location": "Stuttgart"
-  },
-  "a3f93e05ee0b9569c5e02fa8d0de1162": {
-   "id": "a3f93e05ee0b9569c5e02fa8d0de1162",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Robotik & Automatisierungstechnologien",
-   "location": "Stuttgart"
-  },
-  "b175160bef562629752110a4b8b39322": {
-   "id": "b175160bef562629752110a4b8b39322",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Productmanagement Water & Air",
-   "location": "Stuttgart"
-  },
-  "d7d9741588966fdc9ba1d3f49837a537": {
-   "id": "d7d9741588966fdc9ba1d3f49837a537",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Employee Development",
-   "location": "Stuttgart"
-  },
-  "2cc75187c56e80586e837ea2351698d2": {
-   "id": "2cc75187c56e80586e837ea2351698d2",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Zentrales Qualitätsmanagement / Internship Central Quality Management",
-   "location": "Stuttgart"
-  },
-  "9b57d7b5aa958388af5a291fb2e25941": {
-   "id": "9b57d7b5aa958388af5a291fb2e25941",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Marketing Übersetzungsmanagement / Internship Marketing Translation Management",
-   "location": "Stuttgart"
-  },
-  "e717717c6bc0025c050003d309d33a2f": {
-   "id": "e717717c6bc0025c050003d309d33a2f",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Nachhaltigkeit / Internship Sustainability",
-   "location": "Stuttgart"
-  },
-  "e6dbdd6bad639fb1cac9ea627b109a4a": {
-   "id": "e6dbdd6bad639fb1cac9ea627b109a4a",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Global Hr Projects & Operations",
-   "location": "Stuttgart"
-  },
-  "db4c04ef19b544fad04354740a78e4ac": {
-   "id": "db4c04ef19b544fad04354740a78e4ac",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Software-testing",
-   "location": "Stuttgart"
-  },
-  "c804a636355b2aa45643edc317e720ef": {
-   "id": "c804a636355b2aa45643edc317e720ef",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Communications Corporate, Products And Channels",
-   "location": "Stuttgart"
-  },
-  "930ab6f8c4f39bc20287251e9a759a69": {
-   "id": "930ab6f8c4f39bc20287251e9a759a69",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Qualitäts- Und Prozessmanagement & Digital Transformation / Internship Quality Management",
-   "location": "Stuttgart"
-  },
-  "2a18455a70191c51a580c349110c5e9c": {
-   "id": "2a18455a70191c51a580c349110c5e9c",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Cost Management",
-   "location": "Stuttgart"
-  },
-  "1b1b5879b2e91f1e70725c6cff16bf1e": {
-   "id": "1b1b5879b2e91f1e70725c6cff16bf1e",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Employer Branding, Social Media, Ausbildung Und Duales Studium / Hr Marketing",
-   "location": "Stuttgart"
-  },
-  "0e27957d0fdf33ede97ce86f9b442ebb": {
-   "id": "0e27957d0fdf33ede97ce86f9b442ebb",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Productmanagement",
-   "location": "Stuttgart"
-  },
-  "15dd6c9c35c5064333f523b3fae8259b": {
-   "id": "15dd6c9c35c5064333f523b3fae8259b",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Product Management - Digitale Produkte / Internship Product Management Vehicle Wash",
-   "location": "Stuttgart"
-  },
-  "6403428948044db74b8aa5eee5b15f99": {
-   "id": "6403428948044db74b8aa5eee5b15f99",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Global Compliance",
-   "location": "Stuttgart"
-  },
-  "db54d09f45d4a33d2e30b23c0502cb22": {
-   "id": "db54d09f45d4a33d2e30b23c0502cb22",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum Im Bereich Verpackungsentwicklung / Internship Packaging Development",
-   "location": "Stuttgart"
-  },
-  "4cbe047e54fb00bc76c1f8238f99938c": {
-   "id": "4cbe047e54fb00bc76c1f8238f99938c",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Werkstudent (m/w/d) / Praktikum Informationssicherheit",
-   "location": "Stuttgart"
-  },
-  "3241586f306f480ffe6e28890dee13ce": {
-   "id": "3241586f306f480ffe6e28890dee13ce",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikum / Internship Global Procurement Center Of Excellence",
-   "location": "Stuttgart"
-  },
-  "528e48e68d4eb05d3193300209b20230": {
-   "id": "528e48e68d4eb05d3193300209b20230",
-   "company": "Kärcher",
-   "role": "Praktikum/ Internship Robotik Bei Kärcher Singapur",
-   "location": "Stuttgart"
-  },
-  "15162cbe7118e21b890009506d6f5cab": {
-   "id": "15162cbe7118e21b890009506d6f5cab",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Praktikant (m/w/d) Finance Und Controlling 10/2026",
-   "location": "Stuttgart"
-  },
-  "ccd2df4996e11701773d9457aca8b293": {
-   "id": "ccd2df4996e11701773d9457aca8b293",
-   "company": "Dentsu",
-   "role": "Praktikum Communications Consultant Public Sector (m/w/d) (6 Monate, Pflichtpraktikum))",
-   "location": "Berlin"
-  },
-  "265687037afd4191238d0e1023e62899": {
-   "id": "265687037afd4191238d0e1023e62899",
-   "company": "Sandoz",
-   "role": "Early Career Opportunities (m/w/d) Am Standort In Holzkirchen",
-   "location": "Munich"
-  },
-  "fd190b5a799877366a83464d83b82d47": {
-   "id": "fd190b5a799877366a83464d83b82d47",
-   "company": "Caterpillar Energy Solutions",
-   "role": "Initiativbewerbung (m/w/d) Standort Mannheim",
-   "location": "Mannheim"
-  },
-  "d234de0ab05456b79197ec690ae45899": {
-   "id": "d234de0ab05456b79197ec690ae45899",
-   "company": "STADA",
-   "role": "School Student Internship (w/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "626ef75ad498ed75605b7d8c7edb4686": {
-   "id": "626ef75ad498ed75605b7d8c7edb4686",
-   "company": "Zdf",
-   "role": "Schülerpraktikant*in Logo! (3. Quartal 2027)",
-   "location": "Darmstadt"
-  },
-  "f971fbb141e992e51dd3103c3c0c1864": {
-   "id": "f971fbb141e992e51dd3103c3c0c1864",
-   "company": "Zdf",
-   "role": "Schülerpraktikant*in Red Fernsehgarten (3. Quartal 2027)",
-   "location": "Darmstadt"
-  },
-  "29bccfa000fa0521cbb9572bd6b0394d": {
-   "id": "29bccfa000fa0521cbb9572bd6b0394d",
-   "company": "Zdf",
-   "role": "Schülerpraktikant*in Red. Sportonline (3. Quartal 2027)",
-   "location": "Darmstadt"
-  },
-  "40b73a40e2e5f54b856f32ec9a8289d5": {
-   "id": "40b73a40e2e5f54b856f32ec9a8289d5",
-   "company": "Zdf",
-   "role": "Schülerpraktikant*innen Gf Nrw",
-   "location": "Dusseldorf"
-  },
-  "d50b74e27fad8bcb80d1ef3a32ba867f": {
-   "id": "d50b74e27fad8bcb80d1ef3a32ba867f",
-   "company": "Airbus Operations GmbH",
-   "role": "Studentisches Praktikum (m/w/d) Im Ausbildungsrecruiting & Employment Marketing",
-   "location": "Hamburg"
-  },
-  "fa9bd726cdff52ee70bc806679d66c66": {
-   "id": "fa9bd726cdff52ee70bc806679d66c66",
-   "company": "SAP Ariba",
-   "role": "Werkstudent (w/m/d) - Discrete Manufacturing - Discrete Manufacturing Industries Backoffice Support",
-   "location": "Mannheim"
-  },
-  "35369d236792560da2725a1ea00ecfaa": {
-   "id": "35369d236792560da2725a1ea00ecfaa",
-   "company": "SAP Ariba",
-   "role": "Sap Ixp Intern (f/m/d) Befristet Auf 6 Monate - Planner Experience Center Walldorf",
-   "location": "Mannheim"
-  },
-  "e473dc0aa84aa4e4bb617f78e4773f75": {
-   "id": "e473dc0aa84aa4e4bb617f78e4773f75",
-   "company": "DekaBank Deutsche Girozentrale",
-   "role": "Esg-werkstudent (w/m/d) Vera Zur Eu-taxonomie-datenerfassung",
-   "location": "Frankfurt Am Main"
-  },
-  "6e7439229045ece67e2e2307d356b585": {
-   "id": "6e7439229045ece67e2e2307d356b585",
-   "company": "Nestle Ltd",
-   "role": "Praktikum Brand Management (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "1154cf2262a2cf48026cc92e9604659b": {
-   "id": "1154cf2262a2cf48026cc92e9604659b",
-   "company": "Salzgitter AG",
-   "role": "Studentisches Grundpraktikum",
-   "location": "Dortmund"
-  },
-  "988eaf72e8a6f092822a40ff27bf4611": {
-   "id": "988eaf72e8a6f092822a40ff27bf4611",
-   "company": "Kws Group",
-   "role": "Praktikant (m/w/d) - Initiativbewerbung",
-   "location": "Berlin"
-  },
-  "7f0f1d6720cca6112f308f3d9cf535d1": {
-   "id": "7f0f1d6720cca6112f308f3d9cf535d1",
-   "company": "Kws Group",
-   "role": "Internship (m/f/d) - Unsolicited Application",
-   "location": "Berlin"
-  },
-  "00de3ca482d0de3f696c5a16df2976d4": {
-   "id": "00de3ca482d0de3f696c5a16df2976d4",
-   "company": "Dr. August Oetker Nahrungsmittel KG",
-   "role": "Praktikant (m/w/d) Corporate Communication / Unternehmenskommunikation",
-   "location": "Bielefeld"
-  },
-  "52180122e0bf321f975804151e20c11b": {
-   "id": "52180122e0bf321f975804151e20c11b",
-   "company": "CLAAS Group",
-   "role": "Praktikum / Abschlussarbeit Im Entwicklungsbereich Für Den Xerion",
-   "location": "Bielefeld"
-  },
-  "7c6c22b8e713a53ca63418b5200b7fb0": {
-   "id": "7c6c22b8e713a53ca63418b5200b7fb0",
-   "company": "CLAAS Group",
-   "role": "Claas Inside Group Hr Rewards & Mobility",
-   "location": "Bielefeld"
-  },
-  "890a720b475ab29e607456c20d4d7154": {
-   "id": "890a720b475ab29e607456c20d4d7154",
-   "company": "CLAAS Group",
-   "role": "Internship Business Process Management",
-   "location": "Bielefeld"
-  },
-  "1f3cf848839bdcf59e5d49983488e4a8": {
-   "id": "1f3cf848839bdcf59e5d49983488e4a8",
-   "company": "Pirelli",
-   "role": "Praktikum/ Abschlussarbeit Recruiting",
-   "location": "Breuberg"
-  },
-  "1500da0a70f981ef61f2a0f14368be4c": {
-   "id": "1500da0a70f981ef61f2a0f14368be4c",
-   "company": "Pirelli Sistemi Informativi S.r.l",
-   "role": "Praktikum/ Abschlussarbeit Pricing",
-   "location": "Munich"
-  },
-  "cdd871ed47e437f604f4b62b7f20ec4d": {
-   "id": "cdd871ed47e437f604f4b62b7f20ec4d",
-   "company": "Pirelli Sistemi Informativi S.r.l",
-   "role": "Praktikum Marketing Car",
-   "location": "Munich"
-  },
-  "5a6ede832c116e7a6b1c7bb4add7a92e": {
-   "id": "5a6ede832c116e7a6b1c7bb4add7a92e",
-   "company": "Pirelli Sistemi Informativi S.r.l",
-   "role": "Praktikum Marketing Motorradreifen",
-   "location": "Munich"
-  },
-  "c76cdc6c8e6bec9a037464d63a38fa69": {
-   "id": "c76cdc6c8e6bec9a037464d63a38fa69",
-   "company": "Leadec HoldingBV & Co",
-   "role": "Praktikant (m/w/d) Im Strategischen Einkauf",
-   "location": "Stuttgart"
-  },
-  "98735ac7c1eb737b77dbb8c775ed5be0": {
-   "id": "98735ac7c1eb737b77dbb8c775ed5be0",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Praktikant International Club Media & Content (m/w/d)",
-   "location": "Munich"
-  },
-  "0b14d7e7cc05f9ca523b2f24ac595046": {
-   "id": "0b14d7e7cc05f9ca523b2f24ac595046",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Project & Portfolio Management (f/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "136f99e518f08c38b0196949bf593263": {
-   "id": "136f99e518f08c38b0196949bf593263",
-   "company": "Vitra Services GmbH",
-   "role": "Pflichtpraktikum W/m/d Communications (3 Monate Befristet)",
+  "ca71d04e0ab4db5afb7c4291b50e9725": {
+   "id": "ca71d04e0ab4db5afb7c4291b50e9725",
+   "company": "Carrier",
+   "role": "Schülerpraktikum It (m/w/d)",
    "location": "Germany"
   },
-  "04a21bef4381149b4de13b1f95f2345e": {
-   "id": "04a21bef4381149b4de13b1f95f2345e",
-   "company": "Uniper Holding GmbH",
-   "role": "Intern Business Strategy (f/m/d)",
+  "e531ccca096dfd25b8cc8a08466ed6b7": {
+   "id": "e531ccca096dfd25b8cc8a08466ed6b7",
+   "company": "Carrier",
+   "role": "Schülerpraktikum Metall & Elektro (m/w/d)",
+   "location": "Germany"
+  },
+  "090ab899797ae59f333ea42e2ce773e2": {
+   "id": "090ab899797ae59f333ea42e2ce773e2",
+   "company": "Mars Australia",
+   "role": "Strategy & Operations Intern",
+   "location": "Munich"
+  },
+  "cb5c9bcdc8ba9da27753490bca868fc4": {
+   "id": "cb5c9bcdc8ba9da27753490bca868fc4",
+   "company": "Mars Australia",
+   "role": "Intern Brand Marketing Gum&mints Portfolio",
+   "location": "Munich"
+  },
+  "ec82caad4d518c2e159f8fee7fbc09a4": {
+   "id": "ec82caad4d518c2e159f8fee7fbc09a4",
+   "company": "Mars Australia",
+   "role": "Eu Governance & Control Internship",
+   "location": "Verden (Aller)"
+  },
+  "1f3f16498e13a2d90619b302b291ba34": {
+   "id": "1f3f16498e13a2d90619b302b291ba34",
+   "company": "Piller Blowers & Compressors GmbH",
+   "role": "Praktikum",
+   "location": "Augsburg"
+  },
+  "23a897006ccf6c777c1ffdd6bba3685d": {
+   "id": "23a897006ccf6c777c1ffdd6bba3685d",
+   "company": "COTY Inc",
+   "role": "Working Student R&d - Packaging Development",
+   "location": "Darmstadt"
+  },
+  "8d828b39de9334c1f0ac82c2bed0c853": {
+   "id": "8d828b39de9334c1f0ac82c2bed0c853",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Redaktion Galileo (m/w/d)",
+   "location": "Berlin"
+  },
+  "8923b5cc7f6881e722b9e25e0c5ad833": {
+   "id": "8923b5cc7f6881e722b9e25e0c5ad833",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Redaktion Taff (m/w/d)",
+   "location": "Germany"
+  },
+  "dd9ce478e61bb314f2a05d587e66f3c5": {
+   "id": "dd9ce478e61bb314f2a05d587e66f3c5",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Employer Branding & Recruiting (m/w/d)",
+   "location": "Munich"
+  },
+  "40422dcdee2735545c01f6a65bd3c4be": {
+   "id": "40422dcdee2735545c01f6a65bd3c4be",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Werkstudent Pay Tv (m/w/d)",
+   "location": "Munich"
+  },
+  "2bfa1b236234f796ea6294603db48ae4": {
+   "id": "2bfa1b236234f796ea6294603db48ae4",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Growth Clients (m/w/d)",
+   "location": "Munich"
+  },
+  "3b8eae442b9765cba8b7e5e8676238c1": {
+   "id": "3b8eae442b9765cba8b7e5e8676238c1",
+   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
+   "role": "Praktikum Event- Und Sportsponsoring (m/w/d)",
+   "location": "Munich"
+  },
+  "bd71b7af21a895c401036a9b36c7497a": {
+   "id": "bd71b7af21a895c401036a9b36c7497a",
+   "company": "Arthrex Inc",
+   "role": "Werkstudent (m/w/d) Marketing Automation",
+   "location": "Munich"
+  },
+  "aa166acc386dc2ca06aea76cf34f77f1": {
+   "id": "aa166acc386dc2ca06aea76cf34f77f1",
+   "company": "Airbus Helicopters Deutschland GmbH",
+   "role": "Werkstudent (d/m/w) Im Bereich Contract Readiness & Ipl Mgmt.",
+   "location": "Augsburg"
+  },
+  "78e01682bc993df788d7151c5157b507": {
+   "id": "78e01682bc993df788d7151c5157b507",
+   "company": "Miele S.r.l",
+   "role": "Schülerpraktikum Werk Bünde (m/w/d)",
+   "location": "Bielefeld"
+  },
+  "58286a74fb8438775f496aa36bec2123": {
+   "id": "58286a74fb8438775f496aa36bec2123",
+   "company": "GE Vernova",
+   "role": "Werkstudent/praktikant Strategy, Market Intelligence & Business Development (m/w/d)",
+   "location": "Berlin"
+  },
+  "bc144b14b7e08b754658932e8aa8e5ab": {
+   "id": "bc144b14b7e08b754658932e8aa8e5ab",
+   "company": "GE Vernova",
+   "role": "Werkstudent Im Bereich Marketing & Communications (m/w/d)",
+   "location": "Berlin"
+  },
+  "96aa31b91af5e577863795da7bbcd252": {
+   "id": "96aa31b91af5e577863795da7bbcd252",
+   "company": "Bosch Group",
+   "role": "Praktikum In Der Entwicklung - Aufbau Einer Wirkungsgraddatenbank",
+   "location": "Reutlingen"
+  },
+  "65090e8dade23d41310988e597bb9d68": {
+   "id": "65090e8dade23d41310988e597bb9d68",
+   "company": "KraftHeinz",
+   "role": "Praktikant (m/w/d) Hr & Recruiting",
    "location": "Dusseldorf"
   },
-  "51c16d00e0032abbb733b54848ab0d4d": {
-   "id": "51c16d00e0032abbb733b54848ab0d4d",
-   "company": "Procter & Gamble (SK-II)",
-   "role": "Internship Or Thesis – Research & Development (m/f/d)",
+  "c79a86b1c39c260d7875aef72b016628": {
+   "id": "c79a86b1c39c260d7875aef72b016628",
+   "company": "Planet",
+   "role": "Working Student, Professional Services",
+   "location": "Berlin"
+  },
+  "f9589b6889f18a194161dfd30309c965": {
+   "id": "f9589b6889f18a194161dfd30309c965",
+   "company": "Motorola Solutions",
+   "role": "Project Management Intern In System Integration",
+   "location": "Berlin"
+  },
+  "aa4389bff8fc4eb2e4077acc872e4938": {
+   "id": "aa4389bff8fc4eb2e4077acc872e4938",
+   "company": "Celonis",
+   "role": "Intern Product Management - Business Apps Finance",
+   "location": "Munich"
+  },
+  "2b5fa73399912b75dea10c0e56e46bf5": {
+   "id": "2b5fa73399912b75dea10c0e56e46bf5",
+   "company": "HanseWerk AG",
+   "role": "Initiativbewerbung Für Studierende (m/w/d)",
+   "location": "Hamburg"
+  },
+  "21ecc88e2605932ecf02bd1df201be1f": {
+   "id": "21ecc88e2605932ecf02bd1df201be1f",
+   "company": "E.ON SE",
+   "role": "Working Student Intranet Development & Digital Solutions (f/m/d)",
+   "location": "Hamburg"
+  },
+  "8e9741900867bee040c30bed4328a5ba": {
+   "id": "8e9741900867bee040c30bed4328a5ba",
+   "company": "E.ON SE",
+   "role": "Female Excellence - Consulting Internship For Women",
+   "location": "Wuppertal"
+  },
+  "8b5b8a16eb28f15a19c9c1323f645b7a": {
+   "id": "8b5b8a16eb28f15a19c9c1323f645b7a",
+   "company": "E.ON SE",
+   "role": "Female Excellence - Consulting Praktikum Für Frauen",
+   "location": "Wuppertal"
+  },
+  "93756c5960aee8a0312f5e7912134041": {
+   "id": "93756c5960aee8a0312f5e7912134041",
+   "company": "ABB UK",
+   "role": "Msc Or Bsc Thesis / Internship (m/f/d) Industrial Internet Speedtest",
+   "location": "Mannheim"
+  },
+  "0e6aa98d801197defe19cf0595b69489": {
+   "id": "0e6aa98d801197defe19cf0595b69489",
+   "company": "Stryker",
+   "role": "Praktikum Data Analytics & Lean Process Improvement In Quality Assurance (m/w/d) / 6 Monate / Frühjahr 2027",
+   "location": "Freiburg Im Breisgau"
+  },
+  "b05db6e85c5dc9e1a368999ba0f22885": {
+   "id": "b05db6e85c5dc9e1a368999ba0f22885",
+   "company": "Dyson",
+   "role": "Online Retail Activation Intern",
+   "location": "Cologne"
+  },
+  "c62349a3d18f474cff774a44a2150192": {
+   "id": "c62349a3d18f474cff774a44a2150192",
+   "company": "Zeppelin GmbH",
+   "role": "Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)",
    "location": "Frankfurt Am Main"
   },
-  "3846651cfb75d7d3cde11e06a7ae9a88": {
-   "id": "3846651cfb75d7d3cde11e06a7ae9a88",
-   "company": "Procter & Gamble (SK-II)",
-   "role": "Pharmaceutical Internship - Pharmaziepraktikum* (f/m/d)",
+  "83c0e9563a2e41a5f4925483f18b58b7": {
+   "id": "83c0e9563a2e41a5f4925483f18b58b7",
+   "company": "Magna Electronics Inc.",
+   "role": "Auszubildender Zum Mechatroniker (m/w/x) Ab 01.09.2027",
+   "location": "Sailauf"
+  },
+  "fbf31c46d8a63c362d78cf6c0ab5f145": {
+   "id": "fbf31c46d8a63c362d78cf6c0ab5f145",
+   "company": "Uniper Holding GmbH",
+   "role": "Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027",
+   "location": "Unterreit"
+  },
+  "f7340e398e0253fdb46b0a8494257db8": {
+   "id": "f7340e398e0253fdb46b0a8494257db8",
+   "company": "Altana",
+   "role": "Ausbildung Zum Mechatroniker (m/w/d) - Start 2027",
+   "location": "Germany"
+  },
+  "402810675c5772f0ccf04dc88f4c2e6f": {
+   "id": "402810675c5772f0ccf04dc88f4c2e6f",
+   "company": "Altana",
+   "role": "Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Start 2027",
+   "location": "Germany"
+  },
+  "d98067431f5e8cefeb52b5a6a67c2ac4": {
+   "id": "d98067431f5e8cefeb52b5a6a67c2ac4",
+   "company": "Altana",
+   "role": "Ausbildung Zum Lacklaboranten (m/w/d) Start 2027",
+   "location": "Germany"
+  },
+  "4af6f30abefc325d51cad879a22705c2": {
+   "id": "4af6f30abefc325d51cad879a22705c2",
+   "company": "Altana",
+   "role": "Ausbildung Zum Industriekaufmann (m/w/d) Start 2027",
+   "location": "Germany"
+  },
+  "0ab5dc7038329e52e6d2b514f62c0b2c": {
+   "id": "0ab5dc7038329e52e6d2b514f62c0b2c",
+   "company": "Sixt",
+   "role": "Management Trainee Filiale (m/w/d) Region Süd-west",
    "location": "Frankfurt Am Main"
   },
-  "03d1a64cbfd346e371a2a002c62ea498": {
-   "id": "03d1a64cbfd346e371a2a002c62ea498",
-   "company": "Procter & Gamble (SK-II)",
-   "role": "Analytics & Insights Internship (m/f/d)",
-   "location": "Frankfurt Am Main"
+  "cf967fcb94e7cab3ab772e1385ba7b26": {
+   "id": "cf967fcb94e7cab3ab772e1385ba7b26",
+   "company": "Flowserve Corp",
+   "role": "Apprentice As Industrial Mechanic (m/f/t)",
+   "location": "Dortmund"
   },
-  "efa9b28870eeff36fe4cadb5aa41a0b8": {
-   "id": "efa9b28870eeff36fe4cadb5aa41a0b8",
-   "company": "P D G",
-   "role": "Analytics & Insights Internship (m/f/d)",
-   "location": "Frankfurt Am Main"
+  "c33686097827a0104acf97d0142a5499": {
+   "id": "c33686097827a0104acf97d0142a5499",
+   "company": "Microchip Technology Inc.",
+   "role": "Azubi Mikrotechnologie (m/w/d) / Technical Apprentice",
+   "location": "Berlin"
+  },
+  "ab34d700176c12463217ca205ddad7b4": {
+   "id": "ab34d700176c12463217ca205ddad7b4",
+   "company": "Westnetz GmbH",
+   "role": "Auszubildende Industriekaufmann/-frau (m/w/d) (2027)",
+   "location": "Wuppertal"
+  },
+  "275c4dc5fc4a379082a7501bfcddc3ac": {
+   "id": "275c4dc5fc4a379082a7501bfcddc3ac",
+   "company": "Westnetz GmbH",
+   "role": "Auszubildende Fachkraft Für Lagerlogistik (2027)",
+   "location": "Cologne"
+  },
+  "c9c9fa1ad68fa4dd11747233174bc9ca": {
+   "id": "c9c9fa1ad68fa4dd11747233174bc9ca",
+   "company": "Bayernwerk Netz GmbH",
+   "role": "Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027",
+   "location": "Munich"
+  },
+  "518f5fe228ff6e08fd2534877463caca": {
+   "id": "518f5fe228ff6e08fd2534877463caca",
+   "company": "Busch-Jaeger",
+   "role": "Ausbildung Fachlagerist (m/w/d) 2027",
+   "location": "Wuppertal"
+  },
+  "4929e49fd669de28642ceec1fc9e5a58": {
+   "id": "4929e49fd669de28642ceec1fc9e5a58",
+   "company": "ABB AG",
+   "role": "Trainee (m/w/d) Technisches Produktmanagement - Grid Components Medium Voltage",
+   "location": "Dusseldorf"
+  },
+  "f4efac04e68618408a4888a57fa6468e": {
+   "id": "f4efac04e68618408a4888a57fa6468e",
+   "company": "Roche Holding AG",
+   "role": "Ausbildung 2027: Fachinformatiker:in Für Anwendungsentwicklung, Standort Penzberg",
+   "location": "Munich"
+  },
+  "c02463be6e750779f956bd2d77c58658": {
+   "id": "c02463be6e750779f956bd2d77c58658",
+   "company": "Evonik",
+   "role": "Ausbildung 2027 Fachkraft Für Lagerlogistik (m/w/d) - Essen",
+   "location": "Wuppertal"
+  },
+  "d1453b6f8eff1d44ad2894862d23f727": {
+   "id": "d1453b6f8eff1d44ad2894862d23f727",
+   "company": "Evonik",
+   "role": "Ausbildung 2027 Maschinen- Und Anlagenführer (m/w/d) - Wesseling",
+   "location": "Cologne"
+  },
+  "1be7d095f42f305d525c16f507870820": {
+   "id": "1be7d095f42f305d525c16f507870820",
+   "company": "Henry Schein",
+   "role": "Auszubildender Fachkraft Für Lagerlogistik",
+   "location": "Gallin"
+  },
+  "645bb34b8a54a8fb4805c43346245195": {
+   "id": "645bb34b8a54a8fb4805c43346245195",
+   "company": "MBDA Deutschland GmbH",
+   "role": "Ausbildung Zur Fachkraft Für Lagerlogistik (w/m/d)",
+   "location": "Aschau Am Inn"
   },
   "f8286d2158d2efcf6cc0e8d3d1c6cbf7": {
    "id": "f8286d2158d2efcf6cc0e8d3d1c6cbf7",
@@ -716,12 +842,6 @@
    "role": "Ausbildung Zum Industrie-gerüstbauer (m/w/d) Am Standort Teichland-neuendorf Kw Jänschwalde 2027",
    "location": "Teichland-Neuendorf"
   },
-  "fbf31c46d8a63c362d78cf6c0ab5f145": {
-   "id": "fbf31c46d8a63c362d78cf6c0ab5f145",
-   "company": "Uniper Holding GmbH",
-   "role": "Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027",
-   "location": "Unterreit"
-  },
   "9dd54978a11d7ee8d63f20687c1c9a58": {
    "id": "9dd54978a11d7ee8d63f20687c1c9a58",
    "company": "Schwarz Produktion",
@@ -860,125 +980,17 @@
    "role": "Apprentice Industrial Clerk (f/m/d)",
    "location": "Berlin"
   },
-  "f1d30c1c55e8b956433b1d07a4ca2002": {
-   "id": "f1d30c1c55e8b956433b1d07a4ca2002",
-   "company": "Bundes-Gesellschaft fuer Endlagerung mbH",
-   "role": "Ausbildung Zum/zur Industriemechaniker/in (m/w/d)",
-   "location": "Asse II"
-  },
-  "3cffccfa71fa69b6aa1a164de9f4c758": {
-   "id": "3cffccfa71fa69b6aa1a164de9f4c758",
-   "company": "Fritz Schaefer GmbH",
-   "role": "Ausbildung - Fachinformatiker Für Anwendungsentwicklung (w/m/d) 2027",
-   "location": "Giebelstadt +1"
-  },
-  "d789be4cefb2bf6b48530c8e69d1d7cc": {
-   "id": "d789be4cefb2bf6b48530c8e69d1d7cc",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Consultant Risk Management - Fast Track Trainee Program (w/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "3e6e90fe609230b54b03698dcf9fc8d3": {
-   "id": "3e6e90fe609230b54b03698dcf9fc8d3",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zur Fachkraft (all Genders) Für Lagerlogistik - Start 08/2027 - Standort Attendorn-ennest",
-   "location": "Attendorn-Ennest"
-  },
-  "d747e8f665304bd6cd690941a2f0ff5f": {
-   "id": "d747e8f665304bd6cd690941a2f0ff5f",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Kunststoff- Und Kautschuktechnologen (all Genders) - Start 08/2027 Standort Le-elspe",
-   "location": "Lennestadt-Elspe"
-  },
-  "d578ce54bbe8d7e751e3947ed7673b44": {
-   "id": "d578ce54bbe8d7e751e3947ed7673b44",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Mechatroniker (m/w/d) - Start 2026 - Standort Niederwinkling",
-   "location": "Niederwinkling"
-  },
-  "71a764e5ca41eaea41fab9df3c81487d": {
-   "id": "71a764e5ca41eaea41fab9df3c81487d",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Berufskraftfahrer (all Genders) - Start 08/2026 - Standort Attendorn-ennest",
-   "location": "Attendorn-Ennest"
-  },
-  "ec8023babc0bfc125cd90a6014e7e69d": {
-   "id": "ec8023babc0bfc125cd90a6014e7e69d",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2026 - Standort Attendorn-ennest",
-   "location": "Attendorn-Ennest"
-  },
-  "3a8fbadee5ba61cb4078acd3fd5b169b": {
-   "id": "3a8fbadee5ba61cb4078acd3fd5b169b",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2027 Standort Attendorn-ennest",
-   "location": "Attendorn-Ennest"
-  },
-  "d14fb7a3ad16211c8664f836a8653194": {
-   "id": "d14fb7a3ad16211c8664f836a8653194",
-   "company": "Viega Holding GmbH & Co. KG",
-   "role": "Ausbildung Zum Kaufmann (all Genders) Speditions-/logistikdienstl. - Start 08/2026 - Standort Ennest",
-   "location": "Attendorn-Ennest"
-  },
-  "bde6f1c6c81555e89263646e0b9a8bc9": {
-   "id": "bde6f1c6c81555e89263646e0b9a8bc9",
-   "company": "ZF Friedrichshafen",
-   "role": "Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover",
-   "location": "Hanover"
-  },
-  "a3ee862fcfa7d14745f1f81fcdf0dfd3": {
-   "id": "a3ee862fcfa7d14745f1f81fcdf0dfd3",
-   "company": "Scania CV AB",
-   "role": "Ausbildung Fachkraft Lagerlogistik (m/w/d) 2026 Für München/oberschleißheim",
-   "location": "Munich"
-  },
-  "78a0c4bd9ff29a700b83a4017f2035ae": {
-   "id": "78a0c4bd9ff29a700b83a4017f2035ae",
-   "company": "Bayernwerk Netz GmbH",
-   "role": "Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027",
-   "location": "Munich"
-  },
-  "7f8ec3529ea723f2c9444a41c02bf575": {
-   "id": "7f8ec3529ea723f2c9444a41c02bf575",
-   "company": "Rewe Group",
-   "role": "Trainee Zum/zur Selbstständigen Rewe-kaufmann/-frau (m/w/d)",
-   "location": "Stadt Brandenburg An Der Havel"
-  },
-  "4339305b398e60559c250ffdd0e1d65b": {
-   "id": "4339305b398e60559c250ffdd0e1d65b",
-   "company": "unilever.es",
-   "role": "Ausbildung Mechatroniker:in (d/w/m)",
-   "location": "Hamburg"
-  },
-  "83f94cab9cc47f7924613710afdd85c1": {
-   "id": "83f94cab9cc47f7924613710afdd85c1",
-   "company": "Eiffage Infra-West",
-   "role": "Ausbildung Zum Kanalbauer (m/w/d) 2026",
-   "location": "Dortmund"
-  },
-  "410507b49c8e9632c8609dc503c4ad8c": {
-   "id": "410507b49c8e9632c8609dc503c4ad8c",
-   "company": "Fritz Egger GmbH & Co. OG",
-   "role": "Ausbildung In Markt Bibart",
-   "location": "Markt Bibart"
-  },
-  "da830dcacc1a35456b426f0fbdf37fb9": {
-   "id": "da830dcacc1a35456b426f0fbdf37fb9",
-   "company": "Salzgitter AG",
-   "role": "Ausbildung Industriemechaniker 2026 (w/m/d)",
-   "location": "Fridingen"
-  },
-  "66373390de7efe45ab0cfd2d9883845f": {
-   "id": "66373390de7efe45ab0cfd2d9883845f",
-   "company": "Salzgitter AG",
-   "role": "Ausbildung Zum Fachlageristen (m/w/d)",
-   "location": "Dortmund"
-  },
   "af85d160f7a8c8a60fb85a5da1c4dc7c": {
    "id": "af85d160f7a8c8a60fb85a5da1c4dc7c",
    "company": "KSB",
    "role": "Azubi Industriemechanik (m/w/d)",
    "location": "Dortmund"
+  },
+  "d8931c669a9e5668d9365b165b9d19e6": {
+   "id": "d8931c669a9e5668d9365b165b9d19e6",
+   "company": "Clariant Produkte (Deutschland) GmbH",
+   "role": "Ausbildungsplatz Chemielaborant (m/w/d) Am Standort Heufeld",
+   "location": "Heufeld"
   },
   "dad6209ef34e2d379da325e218cd35b2": {
    "id": "dad6209ef34e2d379da325e218cd35b2",
@@ -1027,12 +1039,6 @@
    "company": "Scania CV AB",
    "role": "Lehrling Betriebslogistik (m/w/d) Für Haid",
    "location": "Germany"
-  },
-  "d8931c669a9e5668d9365b165b9d19e6": {
-   "id": "d8931c669a9e5668d9365b165b9d19e6",
-   "company": "Clariant Produkte (Deutschland) GmbH",
-   "role": "Ausbildungsplatz Chemielaborant (m/w/d) Am Standort Heufeld",
-   "location": "Heufeld"
   },
   "dbf1ae928cfb25d93ba108e8f4109222": {
    "id": "dbf1ae928cfb25d93ba108e8f4109222",
@@ -1135,6 +1141,54 @@
    "company": "DekaBank Deutsche Girozentrale",
    "role": "Werkstudent (w/m/d) It-servicedesk",
    "location": "Germany"
+  },
+  "5c4c402350f6e8ca70c9115239b94b2e": {
+   "id": "5c4c402350f6e8ca70c9115239b94b2e",
+   "company": "CGM",
+   "role": "Ausbildung: Fachinformatik Für Anwendungsentwicklung (m/w/d) Am Standort St. Wolfgang Zum 01.09.2026",
+   "location": "St. Wolfgang"
+  },
+  "0a0c2801e3d7ecd801e7bafdb955a0af": {
+   "id": "0a0c2801e3d7ecd801e7bafdb955a0af",
+   "company": "SumUp",
+   "role": "Backend Engineer (golang) - Transfers Eu",
+   "location": "Berlin"
+  },
+  "8b229fcc072e891727e21d678e4cd9f9": {
+   "id": "8b229fcc072e891727e21d678e4cd9f9",
+   "company": "THALES",
+   "role": "Embedded Software Engineer (m/f/d) Ai & Rapid Prototyping",
+   "location": "Stuttgart"
+  },
+  "1e3e504106b0cfd17893b5ed360fcc1c": {
+   "id": "1e3e504106b0cfd17893b5ed360fcc1c",
+   "company": "THALES",
+   "role": "Java Softwareentwickler (m/w/d) Für Hmi",
+   "location": "Stuttgart"
+  },
+  "0f211ff0e99ad6d12db32c11ebc46e17": {
+   "id": "0f211ff0e99ad6d12db32c11ebc46e17",
+   "company": "THALES",
+   "role": "It Office Support Engineer (w/m/d)",
+   "location": "Berlin"
+  },
+  "31051105215673def8db428a9dca63b9": {
+   "id": "31051105215673def8db428a9dca63b9",
+   "company": "Airbus Defence and Space GmbH",
+   "role": "Defensive Aids Simulation Sw Engineer (d/m/f)",
+   "location": "Ingolstadt"
+  },
+  "9b5e4c87a3449905d0e6644c920d771e": {
+   "id": "9b5e4c87a3449905d0e6644c920d771e",
+   "company": "MBDA Deutschland GmbH",
+   "role": "Development Engineer (m/w/d) System Software",
+   "location": "Ingolstadt"
+  },
+  "40d4aaceec9efe83465a174fb5e83380": {
+   "id": "40d4aaceec9efe83465a174fb5e83380",
+   "company": "SumUp",
+   "role": "Backend Engineer (golang) - Bank Balance",
+   "location": "Berlin"
   },
   "628e6ffa916862deab03bbee2f17dbcc": {
    "id": "628e6ffa916862deab03bbee2f17dbcc",
@@ -1364,12 +1418,6 @@
    "role": "Backend Engineer, Core Apis",
    "location": "Germany"
   },
-  "c12f5f703ebdf1f939a7cbb7c8babd97": {
-   "id": "c12f5f703ebdf1f939a7cbb7c8babd97",
-   "company": "Thales",
-   "role": "Java Softwareentwickler (m/w/d) Für Hmi",
-   "location": "Stuttgart"
-  },
   "ec44b5ec8625e6aa4ca6bcc292198cc0": {
    "id": "ec44b5ec8625e6aa4ca6bcc292198cc0",
    "company": "Thales",
@@ -1526,12 +1574,6 @@
    "role": "It Office Support Engineer (w/m/d)",
    "location": "Berlin"
   },
-  "0f211ff0e99ad6d12db32c11ebc46e17": {
-   "id": "0f211ff0e99ad6d12db32c11ebc46e17",
-   "company": "THALES",
-   "role": "It Office Support Engineer (w/m/d)",
-   "location": "Berlin"
-  },
   "2cc4e7cbb7511b546a28f9fc7351cfd1": {
    "id": "2cc4e7cbb7511b546a28f9fc7351cfd1",
    "company": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V",
@@ -1586,41 +1628,23 @@
    "role": "Software Engineering Counter Uas (m/w/d)",
    "location": "Munich"
   },
-  "f20c556ea57bd1b64e901539bfcc074e": {
-   "id": "f20c556ea57bd1b64e901539bfcc074e",
-   "company": "Advanced Micro Devices",
-   "role": "Software Development Engineer",
-   "location": "Munich"
-  },
-  "3df2473c6e5933dc3e8dbc288c6ea640": {
-   "id": "3df2473c6e5933dc3e8dbc288c6ea640",
-   "company": "Jobgether",
-   "role": "It Systems Support Officer",
-   "location": "Germany"
-  },
-  "42811ae827f1df8dfe6df2c34f7c8c0a": {
-   "id": "42811ae827f1df8dfe6df2c34f7c8c0a",
-   "company": "Jobgether",
-   "role": "Founding Engineer",
-   "location": "Germany"
-  },
-  "4681cf3a41e15a42b6da23a7d89927ed": {
-   "id": "4681cf3a41e15a42b6da23a7d89927ed",
-   "company": "SAP Ariba",
-   "role": "Working Student (f/m/d) - Signavio Next Engineering (full-stack Llm Development)",
-   "location": "Berlin"
-  },
-  "d78dacb36d90a74e3b3e75da0f1b4727": {
-   "id": "d78dacb36d90a74e3b3e75da0f1b4727",
-   "company": "Ses Group",
-   "role": "Engineer, Network Software, Sdn Control & Management Plane, Iris2",
-   "location": "Munich"
-  },
   "4c2daa8c7f3b6c4b460d0455f58c7046": {
    "id": "4c2daa8c7f3b6c4b460d0455f58c7046",
    "company": "Korber AG",
    "role": "Werkstudent (m/w/d) Data Analyst Im Reportingbereich",
    "location": "Unknown"
+  },
+  "b055b1c720aaaec6795847edaec17847": {
+   "id": "b055b1c720aaaec6795847edaec17847",
+   "company": "KLA",
+   "role": "Ai Engineer (m/f/d) For Semiconductor Innovation",
+   "location": "Saxony"
+  },
+  "147a7cbf61b455bcebbc03c919e3bf7a": {
+   "id": "147a7cbf61b455bcebbc03c919e3bf7a",
+   "company": "Tesat-Spacecom GmbH & Co. KG",
+   "role": "Ai Software Developer & Embedded Systems (m/w/d)",
+   "location": "Stuttgart Area"
   },
   "1672fc3bf3617e77ee189a38e804bb45": {
    "id": "1672fc3bf3617e77ee189a38e804bb45",
@@ -1676,12 +1700,6 @@
    "role": "Ai/ml & Forward Deployed Engineer",
    "location": "Germany"
   },
-  "3a80cb1b432f023130c22cde4faf2247": {
-   "id": "3a80cb1b432f023130c22cde4faf2247",
-   "company": "KLA",
-   "role": "Ai Engineer (m/f/d) For Semiconductor Innovation",
-   "location": "Saxony"
-  },
   "2716e77ff82b8e4c62b8d238969c7539": {
    "id": "2716e77ff82b8e4c62b8d238969c7539",
    "company": "SAP SE",
@@ -1709,12 +1727,6 @@
   "51300c9cefc9ae7ea80f58d538f4f4cc": {
    "id": "51300c9cefc9ae7ea80f58d538f4f4cc",
    "company": "Universidad Carlos III de Madrid",
-   "role": "Ai Software Developer & Embedded Systems (m/w/d)",
-   "location": "Stuttgart Area"
-  },
-  "e27d31cf983119f3ba00a37de9c4b082": {
-   "id": "e27d31cf983119f3ba00a37de9c4b082",
-   "company": "Tesat-Spacecom GmbH & Co. KG",
    "role": "Ai Software Developer & Embedded Systems (m/w/d)",
    "location": "Stuttgart Area"
   },
@@ -1874,6 +1886,18 @@
    "role": "Junior Analyst (m/w/d) - Customer Analytics",
    "location": "Germany"
   },
+  "2c3cba855e747a2d04c1f4ade7dac40a": {
+   "id": "2c3cba855e747a2d04c1f4ade7dac40a",
+   "company": "Sixt",
+   "role": "Internship In Inhouse Consulting",
+   "location": "Munich"
+  },
+  "3acba68b1dcda513f720fecb9eeecaf2": {
+   "id": "3acba68b1dcda513f720fecb9eeecaf2",
+   "company": "THALES",
+   "role": "Werkstudent (m/w/d) Business Analytics",
+   "location": "Berlin"
+  },
   "dd201171e131d61febd3ef127a777e89": {
    "id": "dd201171e131d61febd3ef127a777e89",
    "company": "EY",
@@ -1916,16 +1940,88 @@
    "role": "Werkstudent (m/w/d) Business Analytics",
    "location": "Berlin"
   },
-  "3acba68b1dcda513f720fecb9eeecaf2": {
-   "id": "3acba68b1dcda513f720fecb9eeecaf2",
-   "company": "THALES",
-   "role": "Werkstudent (m/w/d) Business Analytics",
-   "location": "Berlin"
-  },
   "c953026769ab4de8d4ade6256bf24c2e": {
    "id": "c953026769ab4de8d4ade6256bf24c2e",
    "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
    "role": "Werkstudent Business Analytics (m/w/d)",
+   "location": "Munich"
+  },
+  "f4c52707fe57a399728f9ef629bc5a23": {
+   "id": "f4c52707fe57a399728f9ef629bc5a23",
+   "company": "CGM",
+   "role": "Business Analyst (m/w/d) Abrechnung",
+   "location": "Martinsried"
+  },
+  "5d04c175c942989913210d5305e8e97e": {
+   "id": "5d04c175c942989913210d5305e8e97e",
+   "company": "Mercer Deutschland",
+   "role": "Specialist Pensionfunds Management Implementation / Spezialist Einrichtung Pensionsfonds Management (geschäftsstelle Prozesse)",
+   "location": "Dusseldorf"
+  },
+  "9810ae6831d3bbb4225b674d389be4ed": {
+   "id": "9810ae6831d3bbb4225b674d389be4ed",
+   "company": "Gartner UK",
+   "role": "Managing Partner - Manufacturing, Consumer Goods, Retail & Utility Sectors",
+   "location": "Frankfurt Am Main"
+  },
+  "9b07f14d2e2dd048b773008892cef13b": {
+   "id": "9b07f14d2e2dd048b773008892cef13b",
+   "company": "Gartner UK",
+   "role": "Managing Partner - Energy & Utilities",
+   "location": "Munich"
+  },
+  "742843e5a9093a0c9cbab685c9ab9ecf": {
+   "id": "742843e5a9093a0c9cbab685c9ab9ecf",
+   "company": "Gartner UK",
+   "role": "Managing Partner - Gartner Consulting (public Sector)",
+   "location": "Munich"
+  },
+  "920bd3b7dc84382710c8aec0e06baccc": {
+   "id": "920bd3b7dc84382710c8aec0e06baccc",
+   "company": "Mars Australia",
+   "role": "Sales Analyst (m/w/d) Operations/administration",
+   "location": "Munich"
+  },
+  "b35e9711c85e8c61e81e38115b047389": {
+   "id": "b35e9711c85e8c61e81e38115b047389",
+   "company": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
+   "role": "Business analyst (m/w/d) – lohn- und gehaltsabrechnung",
+   "location": "Stuttgart"
+  },
+  "52a977289b2080670e11a230f2d5a95e": {
+   "id": "52a977289b2080670e11a230f2d5a95e",
+   "company": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
+   "role": "Business analyst (m/w/d) – ki-getriebene prozessgestaltung in online lohn",
+   "location": "Stuttgart"
+  },
+  "9e5be2109fc946acf7c191338058ad47": {
+   "id": "9e5be2109fc946acf7c191338058ad47",
+   "company": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
+   "role": "Business Analyst (m/w/d) Im Bereich Steuern",
+   "location": "Stuttgart"
+  },
+  "e649310a3d87e54e34e25ad979dd30bc": {
+   "id": "e649310a3d87e54e34e25ad979dd30bc",
+   "company": "Wolters Kluwer Tax and Accounting Deutschland GmbH",
+   "role": "Business Analyst Im Bereich Addison Lohn (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "3a06958c5b5349a49dc10970dc191da7": {
+   "id": "3a06958c5b5349a49dc10970dc191da7",
+   "company": "Wolters Kluwer Tax & Accounting Deutschland GmbH",
+   "role": "Business Analyst (m/w/d) Kanzleiorganisation",
+   "location": "Stuttgart"
+  },
+  "3f5561f4ca7bad087704ea2f2f47ef56": {
+   "id": "3f5561f4ca7bad087704ea2f2f47ef56",
+   "company": "Microchip Technology Inc.",
+   "role": "Finanzbuchhalter (m/w/d) / Financial Accountant (m/f/d)",
+   "location": "Neckarbischofsheim +1"
+  },
+  "09135ac5d390c4c07bd392eed6abf2e3": {
+   "id": "09135ac5d390c4c07bd392eed6abf2e3",
+   "company": "Allegion",
+   "role": "Business Analyst Im Bereich Erp & Eco Systeme (m/w/d)",
    "location": "Munich"
   },
   "039895743db7cd21a33c9538d2a9b4ab": {
@@ -1933,6 +2029,12 @@
    "company": "Alfred Kaercher SE Co KG",
    "role": "Junior Process Analyst (m/w/d) Order-to-cash",
    "location": "Stuttgart"
+  },
+  "a080705757c1be2067c2935a6aa3e268": {
+   "id": "a080705757c1be2067c2935a6aa3e268",
+   "company": "Sopra Steria UK",
+   "role": "Purchase-to-pay (p2p) Experte Kreditorenbuchhaltung (m/w/d)",
+   "location": "Germany"
   },
   "0e2131522295611b58baf538473b0cca": {
    "id": "0e2131522295611b58baf538473b0cca",
@@ -1951,12 +2053,6 @@
    "company": "thermofin GmbH",
    "role": "Bilanzbuchhalter (m/w/d)",
    "location": "Unknown"
-  },
-  "5b5ad4b09ae441a6660da91a7e147928": {
-   "id": "5b5ad4b09ae441a6660da91a7e147928",
-   "company": "Microchip Technology Inc.",
-   "role": "Finanzbuchhalter (m/w/d) / Financial Accountant (m/f/d)",
-   "location": "Neckarbischofsheim +1"
   },
   "2017b432d6fef839a8d6961f9463b20a": {
    "id": "2017b432d6fef839a8d6961f9463b20a",
@@ -2023,12 +2119,6 @@
    "company": "adesso Group",
    "role": "Business Analyst Workflowmanagementsystem (all Genders)",
    "location": "Germany"
-  },
-  "cd30c7acd4d31c91fad4a3a97cda74ab": {
-   "id": "cd30c7acd4d31c91fad4a3a97cda74ab",
-   "company": "Wolters Kluwer Tax and Accounting Deutschland GmbH",
-   "role": "Business Analyst Im Bereich Addison Lohn (m/w/d)",
-   "location": "Stuttgart"
   },
   "6449de0f87d787b80cfe6a02e9d5f29c": {
    "id": "6449de0f87d787b80cfe6a02e9d5f29c",
@@ -2102,6 +2192,12 @@
    "role": "Bilanzbuchhalter In Teilzeit (50%)",
    "location": "Cleebronn"
   },
+  "35e7041cc7e3be6054128bb40aa0e805": {
+   "id": "35e7041cc7e3be6054128bb40aa0e805",
+   "company": "Sopra Steria UK",
+   "role": "Business Analyst Risikomanagement (m/w/d)",
+   "location": "Germany"
+  },
   "c727b38fe68ffa98408a8e2184488589": {
    "id": "c727b38fe68ffa98408a8e2184488589",
    "company": "Azolver",
@@ -2119,12 +2215,6 @@
    "company": "Jobgether",
    "role": "Business Analyst –data Sensitivity & Vdi Migration",
    "location": "Germany"
-  },
-  "920bd3b7dc84382710c8aec0e06baccc": {
-   "id": "920bd3b7dc84382710c8aec0e06baccc",
-   "company": "Mars Australia",
-   "role": "Sales Analyst (m/w/d) Operations/administration",
-   "location": "Munich"
   },
   "ee0c10e25e8228d79e8a2774a5e37de0": {
    "id": "ee0c10e25e8228d79e8a2774a5e37de0",
@@ -2191,12 +2281,6 @@
    "company": "Franke Group",
    "role": "Mitarbeiter Finanzbuchhaltung (m/w/d)",
    "location": "Gruensfeld"
-  },
-  "742843e5a9093a0c9cbab685c9ab9ecf": {
-   "id": "742843e5a9093a0c9cbab685c9ab9ecf",
-   "company": "Gartner UK",
-   "role": "Managing Partner - Gartner Consulting (public Sector)",
-   "location": "Munich"
   },
   "620e802c1db452b25f8f42e9a4874834": {
    "id": "620e802c1db452b25f8f42e9a4874834",
@@ -2336,40 +2420,46 @@
    "role": "Business Analyst Settlement / Depotüberträge (m/w/d)",
    "location": "Dusseldorf"
   },
-  "04fcfdf3870a7c0545c0d4e5f40be2f9": {
-   "id": "04fcfdf3870a7c0545c0d4e5f40be2f9",
-   "company": "Jobgether",
-   "role": "Accountant",
+  "b94469bb638d71f4468c232d454fc692": {
+   "id": "b94469bb638d71f4468c232d454fc692",
+   "company": "Syneos Health",
+   "role": "Cra Oncology Germany",
    "location": "Germany"
   },
-  "05c0caadcb672b80072ef06f5299dc43": {
-   "id": "05c0caadcb672b80072ef06f5299dc43",
-   "company": "EY",
-   "role": "Berater Cloud-strategie - Emerging Technology (w/m/d)",
-   "location": "Berlin +1"
+  "55d7ace46850646616b38aef371abb79": {
+   "id": "55d7ace46850646616b38aef371abb79",
+   "company": "Syneos Health",
+   "role": "Cra I - Real World Late Phase - Germany",
+   "location": "Germany"
   },
-  "fa7b04002df25a0b65d83abd0bc61152": {
-   "id": "fa7b04002df25a0b65d83abd0bc61152",
-   "company": "DekaBank Deutsche Girozentrale",
-   "role": "Business Analyst (w/m/d) Test- Und Releasemanagement Im Projektumfeld",
+  "6934385b62c4217ddc8126329b414482": {
+   "id": "6934385b62c4217ddc8126329b414482",
+   "company": "Syneos Health",
+   "role": "Clinical Research Associate Risk-based Monitoring",
+   "location": "Germany"
+  },
+  "2b8d9a41626c29dfe35c66157d2029c6": {
+   "id": "2b8d9a41626c29dfe35c66157d2029c6",
+   "company": "IQVIA UK",
+   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor",
+   "location": "Germany"
+  },
+  "b398b0ea09511f89f86a0700ff336b5c": {
+   "id": "b398b0ea09511f89f86a0700ff336b5c",
+   "company": "IQVIA UK",
+   "role": "Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area",
    "location": "Frankfurt Am Main"
   },
-  "daf8bc1498c87bef0ed16f8641388d21": {
-   "id": "daf8bc1498c87bef0ed16f8641388d21",
-   "company": "LBBW Webspace",
-   "role": "Business Analyst Wertpapiere (m/w/d)",
-   "location": "Stuttgart"
+  "a5e6d1e7c55fcd4b9f8d037463f19462": {
+   "id": "a5e6d1e7c55fcd4b9f8d037463f19462",
+   "company": "ICON plc",
+   "role": "Clinical Research Associate",
+   "location": "Frankfurt Am Main"
   },
-  "cc84ae37af1fe21307d7e1d82afc785f": {
-   "id": "cc84ae37af1fe21307d7e1d82afc785f",
-   "company": "Deutsche Automobil Treuhand GmbH",
-   "role": "Bilanzbuchhalter (m/w/d)",
-   "location": "Germany"
-  },
-  "2498bd321313d4ee60fd2582cca36717": {
-   "id": "2498bd321313d4ee60fd2582cca36717",
-   "company": "Valantic",
-   "role": "Junior Business Analyst (business Support) - Pre- And Post Trading Managed Services (all Genders)",
+  "f4507261d8da8dca94994b59d0112081": {
+   "id": "f4507261d8da8dca94994b59d0112081",
+   "company": "ICON plc",
+   "role": "Junior Clinical Research Associate",
    "location": "Frankfurt Am Main"
   },
   "935b01196a84e09bf5a61521e9900fc9": {
@@ -2456,12 +2546,6 @@
    "role": "Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area",
    "location": "Frankfurt Am Main"
   },
-  "f4507261d8da8dca94994b59d0112081": {
-   "id": "f4507261d8da8dca94994b59d0112081",
-   "company": "ICON plc",
-   "role": "Junior Clinical Research Associate",
-   "location": "Frankfurt Am Main"
-  },
   "a860cf06a153a5ad800714a68a8b6114": {
    "id": "a860cf06a153a5ad800714a68a8b6114",
    "company": "Precision Medicine Group",
@@ -2516,10 +2600,88 @@
    "role": "Registered Nurse, Holloway Program, Milford, De",
    "location": "Milford +2"
   },
-  "26a9575ca658c97bfec54705e6b84959": {
-   "id": "26a9575ca658c97bfec54705e6b84959",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Cra I (m/f/d) - Fsp Germany",
+  "01291d05ab8d7d9b97802e6d7b5ca931": {
+   "id": "01291d05ab8d7d9b97802e6d7b5ca931",
+   "company": "Zeppelin GmbH",
+   "role": "Servicetechniker / Mechatroniker Elektro- Und Klimatechnik (m/w/d)",
+   "location": "Henstedt-Ulzburg"
+  },
+  "712a2539ceb91bc7a481c162036574e4": {
+   "id": "712a2539ceb91bc7a481c162036574e4",
+   "company": "Zeppelin GmbH",
+   "role": "Mechatroniker Spezialisierung Hydraulik (m/w/d)",
+   "location": "Bremen"
+  },
+  "7b373f3f79faf4f415d193ee95cdaf9c": {
+   "id": "7b373f3f79faf4f415d193ee95cdaf9c",
+   "company": "Chubb Fire & Security",
+   "role": "Servicetechniker / Elektriker (m/w/d)",
+   "location": "Germany"
+  },
+  "074da200a71d381af96af778c90fed3c": {
+   "id": "074da200a71d381af96af778c90fed3c",
+   "company": "Likewize",
+   "role": "Mobile Repair Technician",
+   "location": "Munich"
+  },
+  "cb5b045f191ec53add0e1404f2a9673e": {
+   "id": "cb5b045f191ec53add0e1404f2a9673e",
+   "company": "Astreya GmbH",
+   "role": "Field Service Technician Ii",
+   "location": "Munich"
+  },
+  "e51c4ed92ce81e79005ed560d943d19d": {
+   "id": "e51c4ed92ce81e79005ed560d943d19d",
+   "company": "Power Solutions",
+   "role": "Service-monteur (m/w/d) Powergen Datacenter Frankfurt Elektronik",
+   "location": "Frankfurt Am Main"
+  },
+  "6da25bb4beee07358e494519f6e05ac6": {
+   "id": "6da25bb4beee07358e494519f6e05ac6",
+   "company": "Yunex Traffic",
+   "role": "Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Kst",
+   "location": "Germany"
+  },
+  "3edaeef879ec16a01c6a99d4e745411e": {
+   "id": "3edaeef879ec16a01c6a99d4e745411e",
+   "company": "Yunex Traffic",
+   "role": "Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Wbn",
+   "location": "Germany"
+  },
+  "5b4aaf7a452888d9b4a98bb76c7ef565": {
+   "id": "5b4aaf7a452888d9b4a98bb76c7ef565",
+   "company": "Yunex Traffic",
+   "role": "Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Fbg",
+   "location": "Germany"
+  },
+  "77318a1dbc0e2d31d7f904987234d2ad": {
+   "id": "77318a1dbc0e2d31d7f904987234d2ad",
+   "company": "Yunex Traffic",
+   "role": "Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Sbn",
+   "location": "Germany"
+  },
+  "f6be2d45d994d58837e73d79c673200c": {
+   "id": "f6be2d45d994d58837e73d79c673200c",
+   "company": "Yunex Traffic",
+   "role": "Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Kob",
+   "location": "Germany"
+  },
+  "46eb041dbc2de04ec7cfa5827568fb7f": {
+   "id": "46eb041dbc2de04ec7cfa5827568fb7f",
+   "company": "Yunex Traffic",
+   "role": "Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Khe",
+   "location": "Germany"
+  },
+  "d7f80302a8b0698739333e81a4812b1a": {
+   "id": "d7f80302a8b0698739333e81a4812b1a",
+   "company": "Yunex Traffic",
+   "role": "Servicetechniker (w/m/d) Für Elektromobilität",
+   "location": "Germany"
+  },
+  "5b4cce19b1dba17e8087addc3f38e582": {
+   "id": "5b4cce19b1dba17e8087addc3f38e582",
+   "company": "Altana",
+   "role": "Employee Legacy Repair & Service Support (m/w/d)",
    "location": "Germany"
   },
   "10ea112abbdf6d4c950de7f673762690": {
@@ -2527,6 +2689,228 @@
    "company": "KSB",
    "role": "Servicemonteur (m/w/d) Für Wartung Und Instandsetzung",
    "location": "Hemmingstedt"
+  },
+  "a23fb4690475b1174eb90378385ae7f4": {
+   "id": "a23fb4690475b1174eb90378385ae7f4",
+   "company": "Viessmann Climate Solutions",
+   "role": "Servicetechniker Im Außendienst (m/w/d) - Bad Sarrow- Frankfurt/oder",
+   "location": "Bad Sarrow- Frankfurt/Oder"
+  },
+  "f183849eb359e2a64d7aca0712381dea": {
+   "id": "f183849eb359e2a64d7aca0712381dea",
+   "company": "Viessmann Climate Solutions",
+   "role": "Servicetechniker Im Außendienst (m/w/d) - Potsdam-mittelmark",
+   "location": "Potsdam-Mittelmark"
+  },
+  "f15c09d4ceae1defcd1d315b2d4c2d70": {
+   "id": "f15c09d4ceae1defcd1d315b2d4c2d70",
+   "company": "Viessmann Climate Solutions",
+   "role": "Instandhalter Elektroniker Für Betriebstechnik (m/w/d)",
+   "location": "Beetwiese"
+  },
+  "29a7f5b0a383b7d1cebf2b36b52f3855": {
+   "id": "29a7f5b0a383b7d1cebf2b36b52f3855",
+   "company": "Viessmann Climate Solutions",
+   "role": "Servicetechniker Im Außendienst (m/w/d) - München",
+   "location": "Munich"
+  },
+  "bbbde6463e8348f1b9a84994a738f850": {
+   "id": "bbbde6463e8348f1b9a84994a738f850",
+   "company": "Carrier",
+   "role": "Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover",
+   "location": "Hanover"
+  },
+  "bbcf82f71e7974e630104cce6c09cace": {
+   "id": "bbcf82f71e7974e630104cce6c09cace",
+   "company": "Viessmann Climate Solutions",
+   "role": "Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig",
+   "location": "Halle (Saale) +1"
+  },
+  "59191c2553f976cee5672a0e41f36edf": {
+   "id": "59191c2553f976cee5672a0e41f36edf",
+   "company": "Carrier",
+   "role": "Servicetechniker Im Außendienst (m/w/d) - Region Eifel",
+   "location": "Eifel"
+  },
+  "93de15f6450b33755f9f68aaf66dc42d": {
+   "id": "93de15f6450b33755f9f68aaf66dc42d",
+   "company": "Carrier",
+   "role": "Kundenbetreuer (m/w/d) - Technik",
+   "location": "Stuttgart"
+  },
+  "bb85d8b0aacc4b9fd341a1b82a2b9f55": {
+   "id": "bb85d8b0aacc4b9fd341a1b82a2b9f55",
+   "company": "Carrier Transicold",
+   "role": "Servicetechniker (m/w/d) Für Transportkälteanlagen",
+   "location": "Leipzig"
+  },
+  "5593076f7bbb98d3969fea7a7d08f5b8": {
+   "id": "5593076f7bbb98d3969fea7a7d08f5b8",
+   "company": "Mars Australia",
+   "role": "Elektriker / Elektroniker (m/w/d) Instandhaltung",
+   "location": "North Rhine"
+  },
+  "3592ea690bc887c6526f7692eda0b79a": {
+   "id": "3592ea690bc887c6526f7692eda0b79a",
+   "company": "Smxtech",
+   "role": "Field Service Technician - Intermediate - Mccully Barracks, Wackernheim, Germany (5598)",
+   "location": "Wackernheim"
+  },
+  "662116ffbd14e206a4e697978d7b5983": {
+   "id": "662116ffbd14e206a4e697978d7b5983",
+   "company": "Harbour Energy Germany GmbH",
+   "role": "Facharbeiter Instandhaltung (m/w/d)",
+   "location": "Dieksand"
+  },
+  "8b7b18710dd5e5f434159b86bb43cc0f": {
+   "id": "8b7b18710dd5e5f434159b86bb43cc0f",
+   "company": "Air Liquide",
+   "role": "Servicetechniker / Anlagentechniker Reinstgas- & Analysensysteme (m/w/d)",
+   "location": "Carrier Gases"
+  },
+  "a587a16b7fd31f1b8d656ca42667bf03": {
+   "id": "a587a16b7fd31f1b8d656ca42667bf03",
+   "company": "Air Liquide",
+   "role": "Servicetechniker / Elektroniker / Mechatroniker (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "99f329bb063ea93408cec2bb28d8eb54": {
+   "id": "99f329bb063ea93408cec2bb28d8eb54",
+   "company": "COTY Inc",
+   "role": "Technischer Anlagenbetreuer (m/w/d)",
+   "location": "Rothenkirchen"
+  },
+  "cfeebbb772b751d5b02a479d1a9f4225": {
+   "id": "cfeebbb772b751d5b02a479d1a9f4225",
+   "company": "diversey.cz",
+   "role": "Servicetechniker Im Außendienst (m/w/d) Baden-württemberg",
+   "location": "Baden-WüRttemberg"
+  },
+  "5c78360b4fc8de9ed27b0b2c253da166": {
+   "id": "5c78360b4fc8de9ed27b0b2c253da166",
+   "company": "HITACHI ENERGY GERMANY AG",
+   "role": "Servicetechniker (m/w/d) Tool Pool",
+   "location": "Karlstein Am Main"
+  },
+  "180a8a1889a7926eb7e3c4dcd0b508e9": {
+   "id": "180a8a1889a7926eb7e3c4dcd0b508e9",
+   "company": "Miele S.r.l",
+   "role": "Elektriker Als Servicetechniker M/w/d - Berlin",
+   "location": "Berlin"
+  },
+  "8e509aed5a1e781ec9f3b0d1e9c141b4": {
+   "id": "8e509aed5a1e781ec9f3b0d1e9c141b4",
+   "company": "miele.in",
+   "role": "Elektriker Als Servicetechniker M/w/d - Hamburg",
+   "location": "Hamburg"
+  },
+  "6eb217d8a4f6434a03702b6a7f6c7782": {
+   "id": "6eb217d8a4f6434a03702b6a7f6c7782",
+   "company": "Parexel",
+   "role": "Depot Technician",
+   "location": "Berlin"
+  },
+  "a3f7f3d8f3519904bff702d8bcbf945d": {
+   "id": "a3f7f3d8f3519904bff702d8bcbf945d",
+   "company": "e.dialog Netz GmbH",
+   "role": "Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)",
+   "location": "Berlin"
+  },
+  "c175ecc0ee35dab31c8fdae33ad88b31": {
+   "id": "c175ecc0ee35dab31c8fdae33ad88b31",
+   "company": "E.ON Gas Mobil GmbH",
+   "role": "Servicemonteur Cng Anlagen (w/m/d) Region Südwest",
+   "location": "Hessen +1"
+  },
+  "8bca6c7fa27690db42567f0c3f8c771e": {
+   "id": "8bca6c7fa27690db42567f0c3f8c771e",
+   "company": "ABB UK",
+   "role": "Field Service Monteur (m/w/d) Im Außendienst Für Schaltanlagen Niederspannung",
+   "location": "Niedersachsen"
+  },
+  "41338bbbf65d4579a873f2c510f94f09": {
+   "id": "41338bbbf65d4579a873f2c510f94f09",
+   "company": "ABB UK",
+   "role": "Service-inbetriebnehmer Mittelspannungstechnik (m/w/d) Mit (inter)nationalen Baustelleneinsätzen",
+   "location": "Germany"
+  },
+  "42274a2efde52f216bd961ff6d141862": {
+   "id": "42274a2efde52f216bd961ff6d141862",
+   "company": "ABB UK",
+   "role": "Servicetechniker / Elektroniker (m/w/d) Mittelspannungstechnik – Bundesweite Einsätze",
+   "location": "Germany"
+  },
+  "cd933d993d4d2a17dfda0e4dbffed0d0": {
+   "id": "cd933d993d4d2a17dfda0e4dbffed0d0",
+   "company": "PreussenElektra GmbH",
+   "role": "Anlagenwärter (w/m/d) Im Schichtspringerdienst",
+   "location": "Emmerthal"
+  },
+  "dde6a417b16e892a02c9008cacc9d586": {
+   "id": "dde6a417b16e892a02c9008cacc9d586",
+   "company": "HanseWerk Natur GmbH",
+   "role": "Anlagenmechaniker Servicetechnik Energieanlagen (m/w/d)*",
+   "location": "Hamburg"
+  },
+  "381498cc2bace0a1de47d7e03766032b": {
+   "id": "381498cc2bace0a1de47d7e03766032b",
+   "company": "Nutreco N.V.",
+   "role": "Mitarbeit In Der Instandhaltung (m/w/d)",
+   "location": "Burgheim"
+  },
+  "44fb63f5bc4f763474123f489be00bea": {
+   "id": "44fb63f5bc4f763474123f489be00bea",
+   "company": "United Monolithics Semiconductor GmbH",
+   "role": "Ums Gmbh - Wartungstechniker (m/w/d)",
+   "location": "Ulm Area"
+  },
+  "1e5aa5daef919f6c395e4d142fd3d95f": {
+   "id": "1e5aa5daef919f6c395e4d142fd3d95f",
+   "company": "Diversey",
+   "role": "Servicetechniker Im Außendienst (m/w/d) Norddeutschland",
+   "location": "Norddeutschland"
+  },
+  "0b9dff032383d310b55ec8199f82cf57": {
+   "id": "0b9dff032383d310b55ec8199f82cf57",
+   "company": "Diversey",
+   "role": "Servicetechniker Im Außendienst (m/w/d) Nordrhein-westfalen",
+   "location": "Nordrhein-Westfalen"
+  },
+  "029b4493772bdbf9311872662cc40bb9": {
+   "id": "029b4493772bdbf9311872662cc40bb9",
+   "company": "Diversey",
+   "role": "Foodservice Specialist (m/w/d) Im Außendienst Für Die Systemgastronomie – Mitte -/ Norddeutschland",
+   "location": "Frankfurt Am Main"
+  },
+  "936ebc398d6aa5d9ef0b3e6550af9a28": {
+   "id": "936ebc398d6aa5d9ef0b3e6550af9a28",
+   "company": "diversey.cz",
+   "role": "Anwendungstechniker (m/w/d) Im Außendienst Für Süddeutschland",
+   "location": "South Germany"
+  },
+  "e202e33c03027abc58d2f4d63c335f61": {
+   "id": "e202e33c03027abc58d2f4d63c335f61",
+   "company": "Diversey",
+   "role": "Fachberater (m/w/d) Im Aussendienst (m/w/d) Mecklenburg-vorpommern",
+   "location": "Mecklenburg-Vorpommern"
+  },
+  "bbae76216813b2c7706c78bb46b13537": {
+   "id": "bbae76216813b2c7706c78bb46b13537",
+   "company": "Nilfisk",
+   "role": "Servicetechniker (m/w/d) - Süd",
+   "location": "Bellenberg"
+  },
+  "ff72cd3aa7dbec28887cd7a703b064d8": {
+   "id": "ff72cd3aa7dbec28887cd7a703b064d8",
+   "company": "Nilfisk",
+   "role": "Servicetechniker (m/w/d) In Bernau Bei Berlin",
+   "location": "Berlin"
+  },
+  "d0071c0ea697f5c4796205d7f8eb7447": {
+   "id": "d0071c0ea697f5c4796205d7f8eb7447",
+   "company": "Henry Schein",
+   "role": "Service-techniker (m/w/d) Hygiene - Großraum Hannover",
+   "location": "Hanover"
   },
   "1afa6a14ae2c65012ee584ca2d72747a": {
    "id": "1afa6a14ae2c65012ee584ca2d72747a",
@@ -2696,311 +3080,17 @@
    "role": "Mechaniker / Mechatroniker (m/w/d)",
    "location": "Grosspostwitz"
   },
-  "cf90329ad01add43a9e83c48acca9cd9": {
-   "id": "cf90329ad01add43a9e83c48acca9cd9",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Techniker Für Schraubenkompressoren (m/w/d)",
-   "location": "Munich"
+  "69697289657cd9487727f3f88ad87d10": {
+   "id": "69697289657cd9487727f3f88ad87d10",
+   "company": "HUGO BOSS AG",
+   "role": "Aushilfe Im Verkauf Boss Outlet (w/m/d)",
+   "location": "Wurzburg"
   },
-  "bc376a6d4652684193d4429cbb0cf813": {
-   "id": "bc376a6d4652684193d4429cbb0cf813",
-   "company": "K+S Minerals and Agriculture GmbH",
-   "role": "Industriemechaniker:in / Elektriker:in Als Schachthandwerker:in In Schichtarbeit Unter Tage (m/w/d)",
-   "location": "Zielitz"
-  },
-  "57230896f6a6ac42f4200b5f1eb4a6b2": {
-   "id": "57230896f6a6ac42f4200b5f1eb4a6b2",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Servicemitarbeiter/-in Rolltreppen",
-   "location": "Frankfurt Am Main"
-  },
-  "e04403853c7811a5aff4514630eef884": {
-   "id": "e04403853c7811a5aff4514630eef884",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Servicetechniker Tür-/toranlagen Und Einbruchmeldetechnik (m/w/d) Am Flughafen Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "c060cae1636e2f27977a329f8584c884": {
-   "id": "c060cae1636e2f27977a329f8584c884",
-   "company": "Clariant International",
-   "role": "Techniker*in Mechanik",
-   "location": "Gendorf"
-  },
-  "443c62e8e3fb2e835ead5de430dad929": {
-   "id": "443c62e8e3fb2e835ead5de430dad929",
-   "company": "Arthrex Inc",
-   "role": "Servicetechniker (m/w/d) Plz: 20 - 25, 27, 28, 38",
-   "location": "Germany"
-  },
-  "a2d51633c67676e5568623436e39399d": {
-   "id": "a2d51633c67676e5568623436e39399d",
-   "company": "Pfeiffer Vacuum GmbH",
-   "role": "Reparaturmonteur (m/w/d)",
-   "location": "Maulburg"
-  },
-  "ed86403cf9c5de8e5c310ef4d9308cd7": {
-   "id": "ed86403cf9c5de8e5c310ef4d9308cd7",
-   "company": "Pfeiffer Vacuum GmbH",
-   "role": "Servicetechniker Raum Stuttgart (m/w/d)",
-   "location": "Maulburg"
-  },
-  "093f638e3268255b42ec755d3c55c5d6": {
-   "id": "093f638e3268255b42ec755d3c55c5d6",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Mechaniker Endmontage (m/w/d)",
-   "location": "Wolfertschwenden"
-  },
-  "b4b2069adc673cc7f8036615aff6011c": {
-   "id": "b4b2069adc673cc7f8036615aff6011c",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Servicetechniker International (m/w/d)",
-   "location": "Wolfertschwenden"
-  },
-  "b01732cf6b4c378468cad1cc7bb3a3f6": {
-   "id": "b01732cf6b4c378468cad1cc7bb3a3f6",
-   "company": "Koninklijke Philips",
-   "role": "Field Spezialist H&am (all Genders) Region Niedersachsen Süd",
-   "location": "Germany"
-  },
-  "ba3a407d7a48e4ec43d00d6a200c935a": {
-   "id": "ba3a407d7a48e4ec43d00d6a200c935a",
-   "company": "Koninklijke Philips",
-   "role": "Field Specialist (all Genders) Für Medizinische Großgeräte - In Der Region Thüringen/sachsen-anhalt",
-   "location": "Thuringia +1"
-  },
-  "f64d6b77a98c0fc34fa5fef79de1356f": {
-   "id": "f64d6b77a98c0fc34fa5fef79de1356f",
-   "company": "Kinectrics",
-   "role": "Service Technician",
-   "location": "Germany"
-  },
-  "667cf9d14e3199d03c1a91184cf1e526": {
-   "id": "667cf9d14e3199d03c1a91184cf1e526",
-   "company": "Nordex SE",
-   "role": "Servicetechniker (m/w/d) Windenergieanlagen - Kleinkoschen",
-   "location": "Kleinkoschen"
-  },
-  "4586a628e29acf311ca39382201afc15": {
-   "id": "4586a628e29acf311ca39382201afc15",
-   "company": "Nordex SE",
-   "role": "Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen",
-   "location": "Hamburg"
-  },
-  "473c7e9bf635dbe174113f1b22539a08": {
-   "id": "473c7e9bf635dbe174113f1b22539a08",
-   "company": "Kone Corporation",
-   "role": "Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge",
-   "location": "Frankfurt Am Main"
-  },
-  "8672dc69e16c2dee741dc8f7a201fca1": {
-   "id": "8672dc69e16c2dee741dc8f7a201fca1",
-   "company": "KONE Bulgaria",
-   "role": "Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge",
-   "location": "Frankfurt Am Main"
-  },
-  "84486b1f8e499669a7f16df6901caff5": {
-   "id": "84486b1f8e499669a7f16df6901caff5",
-   "company": "KONE International",
-   "role": "Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge",
-   "location": "Frankfurt Am Main"
-  },
-  "2b2cdef4afd37fcfed1324e411189d92": {
-   "id": "2b2cdef4afd37fcfed1324e411189d92",
-   "company": "KONE Romania",
-   "role": "Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge",
-   "location": "Frankfurt Am Main"
-  },
-  "99186b0b34a73c9dd5bf26373147fce5": {
-   "id": "99186b0b34a73c9dd5bf26373147fce5",
-   "company": "Boeing Deutschland GMBH",
-   "role": "Maintenance Technician M/f/d",
-   "location": "Holzdorf"
-  },
-  "3896b69ba70da81deaba9c3832905f51": {
-   "id": "3896b69ba70da81deaba9c3832905f51",
-   "company": "Abbott",
-   "role": "Werkstudent Instrument Service (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "f248f7564f5733f97585fabb24768405": {
-   "id": "f248f7564f5733f97585fabb24768405",
-   "company": "jobs.abbott",
-   "role": "Werkstudent Instrument Service (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "2e4c3714fa57d8b74727ae5cf10ed9f1": {
-   "id": "2e4c3714fa57d8b74727ae5cf10ed9f1",
-   "company": "Bonback Halle GmbH",
-   "role": "Elektroniker / Elektriker / Mechatroniker - Instandhaltung (w/m/d)",
-   "location": "Halle (Saale)"
-  },
-  "99d8564f0bc5c29ad80e83851aa997b1": {
-   "id": "99d8564f0bc5c29ad80e83851aa997b1",
-   "company": "Schwarz Produktion",
-   "role": "Instandhaltung - Mechanik (w/m/d)",
-   "location": "RoßBach"
-  },
-  "84b0c7b5596ad3524f80952266ca39c3": {
-   "id": "84b0c7b5596ad3524f80952266ca39c3",
-   "company": "ZF Friedrichshafen AG",
-   "role": "Servicemonteur (m/w/d)",
-   "location": "Berlin"
-  },
-  "bbdab309a5dbf57f62d310bcba43320c": {
-   "id": "bbdab309a5dbf57f62d310bcba43320c",
-   "company": "SSI Schaefer",
-   "role": "Instandhalter - Grafschaft (w/m/d)",
-   "location": "Grafschaft"
-  },
-  "e3505ffc86a6c82baa0ec3c2810deff0": {
-   "id": "e3505ffc86a6c82baa0ec3c2810deff0",
-   "company": "SSI Schaefer",
-   "role": "Servicetechniker - Mechanik (w/m/d)",
-   "location": "Giebelstadt"
-  },
-  "6c3e13d26aae203c9eb65a9a06bbb816": {
-   "id": "6c3e13d26aae203c9eb65a9a06bbb816",
-   "company": "SSI Schaefer",
-   "role": "Servicetechniker Elektronik (w/m/d) + Firmenwagen",
-   "location": "Giebelstadt"
-  },
-  "b9fa0c2a94f231dbf6eef88cb8dedc1a": {
-   "id": "b9fa0c2a94f231dbf6eef88cb8dedc1a",
-   "company": "SSI Schaefer Automation GmbH",
-   "role": "Servicetechniker Mechatronik (w/m/d) + Firmenwagen",
-   "location": "Giebelstadt"
-  },
-  "8fc6bfa553217fe7922caaff968cdfe0": {
-   "id": "8fc6bfa553217fe7922caaff968cdfe0",
-   "company": "Amentumcareers",
-   "role": "Trap Technician",
-   "location": "Oconus"
-  },
-  "a005787035840bd7ade1c12490ec1cd9": {
-   "id": "a005787035840bd7ade1c12490ec1cd9",
-   "company": "hiremomentum.online",
-   "role": "Trap Technician",
-   "location": "Oconus"
-  },
-  "bc1ad947d4f26f551725a4f312c5d899": {
-   "id": "bc1ad947d4f26f551725a4f312c5d899",
-   "company": "Amentum Pr",
-   "role": "Trap Technician",
-   "location": "Oconus"
-  },
-  "95c5d1b25d21b2ca49fd2b85e648da4a": {
-   "id": "95c5d1b25d21b2ca49fd2b85e648da4a",
-   "company": "Yunex Traffic",
-   "role": "Servicetechniker (w/m/d) Für Lichtsignalanlagen (ampelanlagen)",
-   "location": "Munich"
-  },
-  "ebd48e9cc07a00107e0fc6ebb8e99d24": {
-   "id": "ebd48e9cc07a00107e0fc6ebb8e99d24",
-   "company": "Getinge AB",
-   "role": "Infection Control Servicetechniker (m/w/d) Medizintechnik - Nrw",
-   "location": "Karlsruhe"
-  },
-  "c12d69bc0a2e2b89cdccc967d140c33e": {
-   "id": "c12d69bc0a2e2b89cdccc967d140c33e",
-   "company": "dormakaba International Holding AG",
-   "role": "Systemtechniker (m/w/d) - Zeit- Und Zutrittssysteme / Großraum Leipzig",
-   "location": "Leipzig"
-  },
-  "34134d31ba04e1f19f885d9c4e5d9510": {
-   "id": "34134d31ba04e1f19f885d9c4e5d9510",
-   "company": "Danfoss AS",
-   "role": "Repair Technician (m/f/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "baaf465e0df2056e973012f63f15da18": {
-   "id": "baaf465e0df2056e973012f63f15da18",
-   "company": "ELCO",
-   "role": "Servicetechniker (m/w/d) Gebiet Karlsruhe Und Umgebung",
-   "location": "Karlsruhe"
-  },
-  "84b8c78db44030945c38c5ea4f65af14": {
-   "id": "84b8c78db44030945c38c5ea4f65af14",
-   "company": "ELCO",
-   "role": "Servicetechniker (m/w/d) Gebiet Frankfurt Am Main / Neu Isenburg Und Umgebung",
-   "location": "Frankfurt Am Main"
-  },
-  "54c23b2091b0490fabe691e8a137aff6": {
-   "id": "54c23b2091b0490fabe691e8a137aff6",
-   "company": "ELCO",
-   "role": "Servicetechniker (m/w/d) Titisee Neustadt Und Umgebung",
-   "location": "Freiburg Im Breisgau"
-  },
-  "4554abb13c7a7446e5050912407c35ab": {
-   "id": "4554abb13c7a7446e5050912407c35ab",
-   "company": "Ariston Holding N.V",
-   "role": "Servicetechniker (m/w/d) Freiburg Und Umgebung",
-   "location": "Freiburg Im Breisgau"
-  },
-  "46f0735eda93f3e81b98ebc388fa1d44": {
-   "id": "46f0735eda93f3e81b98ebc388fa1d44",
-   "company": "ELCO",
-   "role": "Servicetechniker (m/w/d) Gebiet Landau In Der Pfalz Und Umgebung",
-   "location": "Karlsruhe"
-  },
-  "c769ede78bc4f899d6d02738f977010b": {
-   "id": "c769ede78bc4f899d6d02738f977010b",
-   "company": "ELCO",
-   "role": "Servicetechniker (m/w/d) Gebiet Bingen / Mainz / Worms",
-   "location": "MöRfelden"
-  },
-  "7583bdc589096c5f29cc20d422ae50ba": {
-   "id": "7583bdc589096c5f29cc20d422ae50ba",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) Für Die Region Vorpommern-rügen",
-   "location": "Bentwisch"
-  },
-  "a785e750a186a64d3200d72dec6d8364": {
-   "id": "a785e750a186a64d3200d72dec6d8364",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Im Außendienst Für Mischanlagen (m/w/d) - Region Südwestdeutschland",
-   "location": "SüDwestdeutschland"
-  },
-  "3b4f84b1836b82ef72abd71c7d775cd3": {
-   "id": "3b4f84b1836b82ef72abd71c7d775cd3",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker (m/w/d) Schwerpunkt Bundeswehrkrane Im Großraum Rhein-neckar-dreieck",
-   "location": "Rhein-Neckar-Dreieck"
-  },
-  "cc9419f9356c8ccbe1e46c37127a2b35": {
-   "id": "cc9419f9356c8ccbe1e46c37127a2b35",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker (m/w/d) Schwerpunkt Bundeswehrkrane Im Großraum Hessen",
-   "location": "Hessen"
-  },
-  "6abd0394ba834d826a4f00f94ee1fbdf": {
-   "id": "6abd0394ba834d826a4f00f94ee1fbdf",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) - Region Mittelhessen",
-   "location": "Mittelhessen"
-  },
-  "196a9f6f76db4a33f307fd806babc26d": {
-   "id": "196a9f6f76db4a33f307fd806babc26d",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Betontechnik Im Außendienst (m/w/d) - Region Berlin/brandenburg",
-   "location": "Berlin-Kleinmachnow"
-  },
-  "caf06af30179d64d24ead8bec190baf3": {
-   "id": "caf06af30179d64d24ead8bec190baf3",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) - Kreis Stormarn",
-   "location": "Stormarn"
-  },
-  "6580d000e894480fcdcb84d926180947": {
-   "id": "6580d000e894480fcdcb84d926180947",
-   "company": "Fritz Schaefer GmbH",
-   "role": "Instandhalter - Grafschaft (w/m/d)",
-   "location": "Grafschaft-Ringen"
-  },
-  "44a4937efeeadf9f069095ccb6328341": {
-   "id": "44a4937efeeadf9f069095ccb6328341",
-   "company": "UPM Nordland Papier GmbH",
-   "role": "Elektroniker (springer Im Schichtdienst) (m/w/d)",
-   "location": "DöRpen"
+  "e557f86e7149ad4f072d4e913934954c": {
+   "id": "e557f86e7149ad4f072d4e913934954c",
+   "company": "Chanel",
+   "role": "Werkstudent:in Fragrance & Beauty (m/w/d) Chanel Parfums & Beauté Breuninger Düsseldorf",
+   "location": "Dusseldorf"
   },
   "5ff1edb415de37d4304bac17e08c1020": {
    "id": "5ff1edb415de37d4304bac17e08c1020",
@@ -3014,6 +3104,228 @@
    "role": "Mitarbeiter Service Und Verkauf (d/m/w) (befristet)",
    "location": "Dortmund"
   },
+  "90ac34d31ee5927f1539957a06005225": {
+   "id": "90ac34d31ee5927f1539957a06005225",
+   "company": "001",
+   "role": "Sales Associate – Full Time",
+   "location": "Berlin"
+  },
+  "9ec0c8aa97cc3fb02abf8c9d483ab64e": {
+   "id": "9ec0c8aa97cc3fb02abf8c9d483ab64e",
+   "company": "Michael Kors",
+   "role": "Sales Assistant (m/w) 10h/woche In Metzingen",
+   "location": "Reutlingen"
+  },
+  "8f40ac37e7da6c6964bdba28cb0da881": {
+   "id": "8f40ac37e7da6c6964bdba28cb0da881",
+   "company": "Michael Kors",
+   "role": "Temporary Seasonal Sales Associate Mini Job (w/m/d) In Ingolstadt",
+   "location": "Ingolstadt"
+  },
+  "c91e17d08c8a84269c402066695c3ec4": {
+   "id": "c91e17d08c8a84269c402066695c3ec4",
+   "company": "Michael Kors",
+   "role": "Sales Associate (m/d/f/v) Teilzeit",
+   "location": "Saarbruecken"
+  },
+  "bc69342d56217494383471666a2439b6": {
+   "id": "bc69342d56217494383471666a2439b6",
+   "company": "Michael Kors",
+   "role": "Sales Associate",
+   "location": "Reutlingen"
+  },
+  "2aeb5170eaffacbf044b374397549f67": {
+   "id": "2aeb5170eaffacbf044b374397549f67",
+   "company": "Michael Kors",
+   "role": "Michael Kors Verkaufsberater (m/w/d) In Teilzeit In Cologne – Köln, Deutschland",
+   "location": "Cologne"
+  },
+  "080e55712e5315ebb05fad5ae24d7de1": {
+   "id": "080e55712e5315ebb05fad5ae24d7de1",
+   "company": "Michael Kors",
+   "role": "Michael Kors Aushilfe Im Verkauf (m/w/d) Für 10h/woche, Cologne – Köln, Deutschland",
+   "location": "Cologne"
+  },
+  "9cb96c14b502e903770f7b619146d6e6": {
+   "id": "9cb96c14b502e903770f7b619146d6e6",
+   "company": "Michael Kors",
+   "role": "Michael Kors Verkaufsberater (m/w/d) In Vollzeit Für 40h/woche In Cologne – Köln, Deutschland",
+   "location": "Cologne"
+  },
+  "eae13d9b5c3b65882beb9759d375ee52": {
+   "id": "eae13d9b5c3b65882beb9759d375ee52",
+   "company": "LEGO Group",
+   "role": "Verkäufer (m/w/d) In Teilzeit Im Lego Store Köln",
+   "location": "Cologne"
+  },
+  "f0ad191f2435b89b75e85522b327fd9a": {
+   "id": "f0ad191f2435b89b75e85522b327fd9a",
+   "company": "Dyson",
+   "role": "Verkaufsberater:in/sales Associate",
+   "location": "Hamburg"
+  },
+  "ca5b0bd935febfd755fe08afdf2ca688": {
+   "id": "ca5b0bd935febfd755fe08afdf2ca688",
+   "company": "JYSK",
+   "role": "Verkäufer/in Vollzeit (m/w/d) – Würzburg",
+   "location": "Wurzburg"
+  },
+  "048f71cfc612bf24615d04938c2fd069": {
+   "id": "048f71cfc612bf24615d04938c2fd069",
+   "company": "Rewe Group",
+   "role": "Kauffrau/ Kaufmann (m/w/d)",
+   "location": "Dortmund"
+  },
+  "9035c9adfc5ab3234a7e24bd118550d4": {
+   "id": "9035c9adfc5ab3234a7e24bd118550d4",
+   "company": "Rewe Group",
+   "role": "Verkäufer (m/w/d) - 9475",
+   "location": "Wuppertal"
+  },
+  "0aadfb2dec76c6c9b04c830d6d7fd106": {
+   "id": "0aadfb2dec76c6c9b04c830d6d7fd106",
+   "company": "PENNY",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Hamburg"
+  },
+  "9fee85e7c770348b1f9836d62a761f79": {
+   "id": "9fee85e7c770348b1f9836d62a761f79",
+   "company": "Rewe Group",
+   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "c36d222cf9907c6950994932ba2525e8": {
+   "id": "c36d222cf9907c6950994932ba2525e8",
+   "company": "REWE",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "63c39f6e732e515d2b8946d356ba12dc": {
+   "id": "63c39f6e732e515d2b8946d356ba12dc",
+   "company": "REWE Marcel Simons oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke & Backwaren (m/w/d)",
+   "location": "Cologne"
+  },
+  "1a229fc79488670114fb56037af4f23b": {
+   "id": "1a229fc79488670114fb56037af4f23b",
+   "company": "REWE Rene Giese oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "3b65ca2d233365b06802174350817a4d": {
+   "id": "3b65ca2d233365b06802174350817a4d",
+   "company": "REWE-Markt Esser oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "597cfd1ee01ebb49f0e214bb155c1cb1": {
+   "id": "597cfd1ee01ebb49f0e214bb155c1cb1",
+   "company": "Rewe Group",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "c286d27c13d0d6010000d980e6f98332": {
+   "id": "c286d27c13d0d6010000d980e6f98332",
+   "company": "REWE Claudia Istas oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "d9ae6a7a57acfcfd6e623aeb79a52a88": {
+   "id": "d9ae6a7a57acfcfd6e623aeb79a52a88",
+   "company": "REWE Mahmut Mersinlioglu oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "d7a242e3ebd51f0382e268bf0320c117": {
+   "id": "d7a242e3ebd51f0382e268bf0320c117",
+   "company": "REWE Markt Ridders oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "9452cd3fad27228ce5bf36935e219af6": {
+   "id": "9452cd3fad27228ce5bf36935e219af6",
+   "company": "REWE Andrea Flammuth oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "fa393b4e523451a2ff3077dba3843a70": {
+   "id": "fa393b4e523451a2ff3077dba3843a70",
+   "company": "REWE",
+   "role": "Verkäufer Schließfunktion (m/w/d) 0643400016",
+   "location": "Cologne"
+  },
+  "66baeb82b5e07eaccdc0db78b0b3433f": {
+   "id": "66baeb82b5e07eaccdc0db78b0b3433f",
+   "company": "REWE REWE Dugandzic GmbH & Co. oHG",
+   "role": "Verkäufer Getränke (m/w/d)",
+   "location": "Cologne"
+  },
+  "071283eee7f6ec2f8fed9d666cb94180": {
+   "id": "071283eee7f6ec2f8fed9d666cb94180",
+   "company": "REWE REWE Dugandzic GmbH & Co. oHG",
+   "role": "Verkäufer Obst & Gemüse (m/w/d)",
+   "location": "Cologne"
+  },
+  "b3c9d1811200c04c8c599ed38db73468": {
+   "id": "b3c9d1811200c04c8c599ed38db73468",
+   "company": "REWE Sauerbach oHG",
+   "role": "Verkäufer Schließfunktion (m/w/d)",
+   "location": "Cologne"
+  },
+  "b8ff803134e522724a4e7c0124dad896": {
+   "id": "b8ff803134e522724a4e7c0124dad896",
+   "company": "REWE Sauerbach oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "0b6697e8d2692fc764beb48c07e8f953": {
+   "id": "0b6697e8d2692fc764beb48c07e8f953",
+   "company": "REWE Sauerbach oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "88d9a9177c3f8a5d292ae484cdff787c": {
+   "id": "88d9a9177c3f8a5d292ae484cdff787c",
+   "company": "REWE Arthur Boos oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "3563aa8d657d91e33b8704dcb116e3e5": {
+   "id": "3563aa8d657d91e33b8704dcb116e3e5",
+   "company": "REWE Andrea Flammuth oHG",
+   "role": "Werkstudent Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "f2e746e1c66696386d29b440c8d35b81": {
+   "id": "f2e746e1c66696386d29b440c8d35b81",
+   "company": "REWE",
+   "role": "Werkstudent Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "02b9b0df60fe149bcf783fe29b462cb4": {
+   "id": "02b9b0df60fe149bcf783fe29b462cb4",
+   "company": "Rewe Group",
+   "role": "Verkäufer Schließfunktion (m/w/d)",
+   "location": "Cologne"
+  },
+  "06ace98c33a404c0c75bc25d04dbf8f9": {
+   "id": "06ace98c33a404c0c75bc25d04dbf8f9",
+   "company": "Rewe Group",
+   "role": "Verkäufer Baustoffe - Auch Quereinsteiger (m/w/d)",
+   "location": "Hamburg"
+  },
+  "1b04bd1bbefabacfa03c2edb7ba3d5ac": {
+   "id": "1b04bd1bbefabacfa03c2edb7ba3d5ac",
+   "company": "Rewe Group",
+   "role": "Wareneingang (m/w/d)",
+   "location": "Freiburg Im Breisgau"
+  },
+  "af034596dd20ec64dc9be852de3daf53": {
+   "id": "af034596dd20ec64dc9be852de3daf53",
+   "company": "Nilfisk",
+   "role": "Warehouse Assistent",
+   "location": "Bellenberg"
+  },
   "9d650b306bb5cca46d8d83c351e27324": {
    "id": "9d650b306bb5cca46d8d83c351e27324",
    "company": "Kraftverkehr Nagel SE & Co. KG",
@@ -3025,6 +3337,12 @@
    "company": "H&M",
    "role": "Verkäufer M/w/d 20-30h",
    "location": "Cologne"
+  },
+  "753f2e1b522427d07906e4746efff8bc": {
+   "id": "753f2e1b522427d07906e4746efff8bc",
+   "company": "JYSK",
+   "role": "Verkäufer/in Teilzeit (m/w/d) – Gelsenkirchen Resse (30 Std)",
+   "location": "Dortmund"
   },
   "225e654f85739cbe81b9fed2e93ade0c": {
    "id": "225e654f85739cbe81b9fed2e93ade0c",
@@ -3182,12 +3500,6 @@
    "role": "Sales Associate 6 Ftc Metzingen Outlet City",
    "location": "Reutlingen"
   },
-  "c1398f6c6a29767f3d940cb557fcbcc2": {
-   "id": "c1398f6c6a29767f3d940cb557fcbcc2",
-   "company": "Dyson",
-   "role": "Verkaufsberater:in/sales Associate",
-   "location": "Berlin"
-  },
   "006507ea3b66ebe43d35faf6fa326705": {
    "id": "006507ea3b66ebe43d35faf6fa326705",
    "company": "HUGO BOSS AG",
@@ -3242,245 +3554,41 @@
    "role": "Inside Sales Account Associate (m/w/d)",
    "location": "Dusseldorf"
   },
-  "e77b51ee2db4306eeddc17a6c958a5f5": {
-   "id": "e77b51ee2db4306eeddc17a6c958a5f5",
-   "company": "Marken, UPS Healthcare Precision Logistics",
-   "role": "Lagermitarbeiter Teilzeit (m/w/d) In Der Abendsortierung In Hh-stellingen",
-   "location": "Hamburg"
+  "00583eacc42e5c78c7e8ec8603da1e94": {
+   "id": "00583eacc42e5c78c7e8ec8603da1e94",
+   "company": "Magna Electronics Inc.",
+   "role": "Teamkoordinator Lagerlogistik",
+   "location": "Elsendorf"
   },
-  "fa09d28588a7ff17598435225f8cf7cd": {
-   "id": "fa09d28588a7ff17598435225f8cf7cd",
-   "company": "Coach",
-   "role": "Sales Associate",
-   "location": "Reutlingen"
-  },
-  "85192f544c5545fd02dc15b79058e05b": {
-   "id": "85192f544c5545fd02dc15b79058e05b",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
-   "location": "Berlin"
-  },
-  "98645d4eb282292477c316fc13552791": {
-   "id": "98645d4eb282292477c316fc13552791",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkäufer Teilzeit Befristet - Kranzler Eck Berlin (m/w/d)",
-   "location": "Berlin"
-  },
-  "454e6700f1b2c455be83bf0ce0eebae6": {
-   "id": "454e6700f1b2c455be83bf0ce0eebae6",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit Befristet - Kranzler Eck Berlin (m/w/d)",
-   "location": "Berlin"
-  },
-  "fca04095f5ea97642ca4b2c59954daed": {
-   "id": "fca04095f5ea97642ca4b2c59954daed",
-   "company": "Urban Outfitters",
-   "role": "Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Oberhausen Centroallee, De",
-   "location": "Dusseldorf"
-  },
-  "3c313e4b3f2dc38c0506fc461a0274bf": {
-   "id": "3c313e4b3f2dc38c0506fc461a0274bf",
-   "company": "REWE Astrid Gogol oHG",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "5611cbe26e5decad78fc99525f366f05": {
-   "id": "5611cbe26e5decad78fc99525f366f05",
-   "company": "PENNY",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "80736d327f8047f51629f9ddb52a792c": {
-   "id": "80736d327f8047f51629f9ddb52a792c",
-   "company": "Rewe Group",
-   "role": "Trainee Sales (m/w/d) – Einstieg Im Vertrieb Bei Dertour Group In Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "3faa53ee88d85103e79fff6d47cd5c80": {
-   "id": "3faa53ee88d85103e79fff6d47cd5c80",
-   "company": "REWE Tristan Klein oHG",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
-   "location": "Saarbruecken"
-  },
-  "ca64f7f23b27f3c300cef5d18d117c5b": {
-   "id": "ca64f7f23b27f3c300cef5d18d117c5b",
-   "company": "REWE Michael Lamm oHG",
-   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "7f616de1dc4f62f755cbb58088dc07f7": {
-   "id": "7f616de1dc4f62f755cbb58088dc07f7",
-   "company": "REWE Oliver Scherff oHG",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "29e36a5e28293a48efc1a29d1fe7d1d7": {
-   "id": "29e36a5e28293a48efc1a29d1fe7d1d7",
-   "company": "Puig",
-   "role": "Seasonal Beauty Expert - Breuninger Dusseldorf",
-   "location": "Dusseldorf"
-  },
-  "aa8497b5b62c35ae5dbe0d34842d5f88": {
-   "id": "aa8497b5b62c35ae5dbe0d34842d5f88",
-   "company": "MANGO",
-   "role": "Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w. / Leipziger Platz",
-   "location": "Berlin"
-  },
-  "21e6d33a0bfc02f69d2bc223dc024dc4": {
-   "id": "21e6d33a0bfc02f69d2bc223dc024dc4",
-   "company": "Breitling Deutschland GmbH",
-   "role": "Sales Associate (d/m/w) Berlin Teilzeit 60%",
-   "location": "Berlin"
-  },
-  "d23f5eb68f8c9db06d8ab791aedd1a48": {
-   "id": "d23f5eb68f8c9db06d8ab791aedd1a48",
-   "company": "Breitling SA",
-   "role": "Sales Associate (d/m/w) München Vollzeit",
+  "b0b9f5e1824016e9ef280e34358a1866": {
+   "id": "b0b9f5e1824016e9ef280e34358a1866",
+   "company": "GE HealthCare Technologies",
+   "role": "Working Student (f/m/d) - Medical Affairs Administration Assistant",
    "location": "Munich"
   },
-  "e83f6f923df696af36cc408848f7a5ed": {
-   "id": "e83f6f923df696af36cc408848f7a5ed",
-   "company": "Zalando",
-   "role": "Mitarbeiter (all Genders) Teilzeit In Köln",
-   "location": "Cologne"
-  },
-  "974586dfaf5268cc4657f12caf59c547": {
-   "id": "974586dfaf5268cc4657f12caf59c547",
-   "company": "Levis Media",
-   "role": "Sales Stylist - Aushilfe (m/w/d)",
-   "location": "Cologne"
-  },
-  "89fd2d2400128b4314809acff5569e69": {
-   "id": "89fd2d2400128b4314809acff5569e69",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkäufer Teilzeit - Alexa Berlin (m/w/d)",
+  "75ecec52617a7e1bcb1587f2880d8c2c": {
+   "id": "75ecec52617a7e1bcb1587f2880d8c2c",
+   "company": "GE Vernova",
+   "role": "Office & Team Assistant (m/w/d)",
    "location": "Berlin"
   },
-  "f6ce0f01dacd0178c30fc6723540b057": {
-   "id": "f6ce0f01dacd0178c30fc6723540b057",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Verkäufer Teilzeit - Kurfürstendamm (m/w/d)",
-   "location": "Berlin"
-  },
-  "6dadd8184fb09b66c6731afb6dae7d0b": {
-   "id": "6dadd8184fb09b66c6731afb6dae7d0b",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Hermsdorf Thüringen (25 Std)",
-   "location": "Berlin"
-  },
-  "a5e6d43f9589549d39a259395904a3fe": {
-   "id": "a5e6d43f9589549d39a259395904a3fe",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Baufertigteile (gn)",
-   "location": "Berlin"
-  },
-  "b4a648373797a8f3efca24e7f5ce8d43": {
-   "id": "b4a648373797a8f3efca24e7f5ce8d43",
-   "company": "TK Maxx",
-   "role": "Für Unseren Store In Neuss Suchen Wir Ab Sofort Eine Verkäuferin / Mitarbeiter Im Verkauf (m/w/d) In Teilzeit 20 Std. Pro Woche Oder Als Aushilfsjob / Minijob. Diese Stelle Ist Vorerst Befristet Zu Besetzen.",
+  "e736211bedf2a06f18325274acf3d1a0": {
+   "id": "e736211bedf2a06f18325274acf3d1a0",
+   "company": "1&1 Internet Inc",
+   "role": "Bereichsassistenz (m/w/d)",
    "location": "Dusseldorf"
   },
-  "b4f96276944b4a2590bf33afe5f6e421": {
-   "id": "b4f96276944b4a2590bf33afe5f6e421",
-   "company": "TK Maxx",
-   "role": "Verkäufer M/w/d",
-   "location": "Cologne"
-  },
-  "695ed48a2e1a43d2c9cdc4e61baad390": {
-   "id": "695ed48a2e1a43d2c9cdc4e61baad390",
-   "company": "Diptyque Paris",
-   "role": "Client Advisor (m/w/d)",
-   "location": "Dusseldorf"
-  },
-  "65cf627c637fa5f09ef490597d857210": {
-   "id": "65cf627c637fa5f09ef490597d857210",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Sales Assistant (m/w/d) - Store Flughafen München",
-   "location": "Munich"
-  },
-  "ecd005863844162cbce3d4ac3447a5e2": {
-   "id": "ecd005863844162cbce3d4ac3447a5e2",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Flexible Aushilfe (m/w/d) - Flagshipstore Fc Bayern World",
-   "location": "Munich"
-  },
-  "83ebf80f50b05bb5ac7e9e14346aeac1": {
-   "id": "83ebf80f50b05bb5ac7e9e14346aeac1",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Marktplatz Galerie Hamburg-bramfeld (m/w/d)",
-   "location": "Hamburg"
-  },
-  "0fd2117046328ab1307a35c0a36c37f3": {
-   "id": "0fd2117046328ab1307a35c0a36c37f3",
-   "company": "PVH",
-   "role": "Verkaufsberater In Vollzeit Nürnberg Tommy Hilfiger (m/w/d)",
-   "location": "Nuremberg"
-  },
-  "895aea20898d0167c643feae362fc0ff": {
-   "id": "895aea20898d0167c643feae362fc0ff",
-   "company": "Tommy Hilfiger",
-   "role": "Verkaufsberater In Vollzeit Nürnberg Tommy Hilfiger (m/w/d)",
-   "location": "Nuremberg"
-  },
-  "45843bfed3f7694ab20755039b2364e8": {
-   "id": "45843bfed3f7694ab20755039b2364e8",
-   "company": "Oberalp S.p.a",
-   "role": "Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken",
-   "location": "Saarbruecken"
-  },
-  "32d7f706e7c445be4fc083f33af8c0e3": {
-   "id": "32d7f706e7c445be4fc083f33af8c0e3",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Bad Godesberg (m/w/d)",
-   "location": "Cologne"
-  },
-  "a4f8ca0888681b455fa1c259504daa3b": {
-   "id": "a4f8ca0888681b455fa1c259504daa3b",
-   "company": "Skechers U.S.A., Inc",
-   "role": "Verkäufer (m/w/d) Im Einzelhandel - Tauentzienstraße Berlin",
-   "location": "Berlin"
-  },
-  "407fd994d42460a27495172b2420d278": {
-   "id": "407fd994d42460a27495172b2420d278",
-   "company": "Skechers",
-   "role": "Verkäufer (m/w/d) Im Einzelhandel - Tauentzienstraße Berlin",
-   "location": "Berlin"
-  },
-  "bd85d2e2a09dfb1ed206dfef37f01ca5": {
-   "id": "bd85d2e2a09dfb1ed206dfef37f01ca5",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Rheinpark-center Neuss (m/w/d)",
-   "location": "Dusseldorf"
-  },
-  "f958f482aec8d564031301d74d995478": {
-   "id": "f958f482aec8d564031301d74d995478",
-   "company": "Belstaff International Ltd",
-   "role": "Verkaufsberater (m/w/d) – Befristete Positionen",
-   "location": "Reutlingen"
-  },
-  "59acc9d947d2eba8eac835e53413f839": {
-   "id": "59acc9d947d2eba8eac835e53413f839",
-   "company": "TJX Winners HomeSense",
-   "role": "Verkäufer / Mitarbeiter Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "11fadc5bcdefef68f98d9633494d4d69": {
-   "id": "11fadc5bcdefef68f98d9633494d4d69",
-   "company": "Tiffany & Co.",
-   "role": "Client Advisor (m/w/d) Düsseldorf",
-   "location": "Dusseldorf"
-  },
-  "cd26b0ab09c47f27365373be108fd400": {
-   "id": "cd26b0ab09c47f27365373be108fd400",
-   "company": "MANGO",
-   "role": "Verkäufer (m/w/d) In Teilzeit 20 Std./w. / Alexa",
-   "location": "Berlin"
-  },
-  "de01081acdc429921e601807ae97506b": {
-   "id": "de01081acdc429921e601807ae97506b",
-   "company": "MANGO",
-   "role": "Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w.",
+  "575cd908578cdac43b47d63a8654b8df": {
+   "id": "575cd908578cdac43b47d63a8654b8df",
+   "company": "IQVIA UK",
+   "role": "Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)",
    "location": "Frankfurt Am Main"
+  },
+  "147bdc8eddc0fe49a84f3a4f1a7e8bcd": {
+   "id": "147bdc8eddc0fe49a84f3a4f1a7e8bcd",
+   "company": "diversey.cz",
+   "role": "Versand- Und Logistikkoordinator (m/w/d)",
+   "location": "Sobernheim"
   },
   "148d8e1ae86151ce21ee333565f95fa2": {
    "id": "148d8e1ae86151ce21ee333565f95fa2",
@@ -3637,12 +3745,6 @@
    "company": "sefe",
    "role": "Asisstant To Tax Administration Specialist (m/f/d)",
    "location": "Berlin"
-  },
-  "deb4e2bdfe85cc05ee43429677f8e0a3": {
-   "id": "deb4e2bdfe85cc05ee43429677f8e0a3",
-   "company": "1&1 Internet Inc",
-   "role": "Bereichsassistenz (m/w/d)",
-   "location": "Germany"
   },
   "789741fd3bf614890be0ed9ecc3ebda4": {
    "id": "789741fd3bf614890be0ed9ecc3ebda4",
@@ -3931,36 +4033,6 @@
    "company": "Ifrsfoundation",
    "role": "Executive Coordinator",
    "location": "Frankfurt Am Main"
-  },
-  "da34a4cc864cec4fe33ca84ca4dad334": {
-   "id": "da34a4cc864cec4fe33ca84ca4dad334",
-   "company": "heidelbergmaterials.co.uk",
-   "role": "Disponent Transportlogistik / Speditionskaufmann (w/m/d)",
-   "location": "Mittelbach"
-  },
-  "b044511169b0cca78c0a2f488080681b": {
-   "id": "b044511169b0cca78c0a2f488080681b",
-   "company": "Heidelberg Materials US, Inc",
-   "role": "Disponent Transportlogistik / Speditionskaufmann (w/m/d)",
-   "location": "Mittelbach"
-  },
-  "58112d540c6294ae315169aa094e155c": {
-   "id": "58112d540c6294ae315169aa094e155c",
-   "company": "Zeppelin GmbH",
-   "role": "Assistenz Der Geschäftsführung (m/w/d)",
-   "location": "Munich"
-  },
-  "aef7d45e17fdf7c0136b7a3a0deaeea7": {
-   "id": "aef7d45e17fdf7c0136b7a3a0deaeea7",
-   "company": "Zeppelin Systems",
-   "role": "Assistenz Der Geschäftsführung (m/w/d)",
-   "location": "Munich"
-  },
-  "e0d887e42aa8ea6a260c0311349a66d7": {
-   "id": "e0d887e42aa8ea6a260c0311349a66d7",
-   "company": "CMA CGM Group",
-   "role": "Transport Coordinator (m/w/d)",
-   "location": "Frankfurt (Oder) +1"
   }
  }
 }
