@@ -6135,4 +6135,194 @@
 <tr><td>Zeppelin GmbH</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-09-10</td></tr>
 <tr><td>Zeppelin Systems</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-09-10</td></tr>
 <tr><td>CMA CGM Group</td><td>Transport Coordinator (m/w/d)</td><td>Frankfurt (Oder) +1</td><td>2026-09-10</td></tr>
+<tr><td>Baxter</td><td>Fos-praktikant</td><td>Jena</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Abschlussarbeit Initiativ</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Initiativpraktikum</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Praktikum/abschlussarbeit Prüfstandsentwicklung</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Praktikum Im Bereich Machine Diagnosis</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Praktikum Marketing Deutschland</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Praktikum/abschlussarbeit Im Bereich Innovationsmanagement</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>KSB</td><td>Praktikum Finanzen</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>Carrier</td><td>Schülerpraktikum It (m/w/d)</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>Carrier</td><td>Schülerpraktikum Metall & Elektro (m/w/d)</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>Mars Australia</td><td>Strategy & Operations Intern</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Mars Australia</td><td>Intern Brand Marketing Gum&mints Portfolio</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Mars Australia</td><td>Eu Governance & Control Internship</td><td>Verden (Aller)</td><td>2026-09-11</td></tr>
+<tr><td>Piller Blowers & Compressors GmbH</td><td>Praktikum</td><td>Augsburg</td><td>2026-09-11</td></tr>
+<tr><td>COTY Inc</td><td>Working Student R&d - Packaging Development</td><td>Darmstadt</td><td>2026-09-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Galileo (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Taff (m/w/d)</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Employer Branding & Recruiting (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Werkstudent Pay Tv (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Growth Clients (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Event- Und Sportsponsoring (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Arthrex Inc</td><td>Werkstudent (m/w/d) Marketing Automation</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Airbus Helicopters Deutschland GmbH</td><td>Werkstudent (d/m/w) Im Bereich Contract Readiness & Ipl Mgmt.</td><td>Augsburg</td><td>2026-09-11</td></tr>
+<tr><td>Miele S.r.l</td><td>Schülerpraktikum Werk Bünde (m/w/d)</td><td>Bielefeld</td><td>2026-09-11</td></tr>
+<tr><td>GE Vernova</td><td>Werkstudent/praktikant Strategy, Market Intelligence & Business Development (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>GE Vernova</td><td>Werkstudent Im Bereich Marketing & Communications (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Der Entwicklung - Aufbau Einer Wirkungsgraddatenbank</td><td>Reutlingen</td><td>2026-09-11</td></tr>
+<tr><td>KraftHeinz</td><td>Praktikant (m/w/d) Hr & Recruiting</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>Planet</td><td>Working Student, Professional Services</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Motorola Solutions</td><td>Project Management Intern In System Integration</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Celonis</td><td>Intern Product Management - Business Apps Finance</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>HanseWerk AG</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>E.ON SE</td><td>Working Student Intranet Development & Digital Solutions (f/m/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-09-11</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Praktikum Für Frauen</td><td>Wuppertal</td><td>2026-09-11</td></tr>
+<tr><td>ABB UK</td><td>Msc Or Bsc Thesis / Internship (m/f/d) Industrial Internet Speedtest</td><td>Mannheim</td><td>2026-09-11</td></tr>
+<tr><td>Stryker</td><td>Praktikum Data Analytics & Lean Process Improvement In Quality Assurance (m/w/d) / 6 Monate / Frühjahr 2027</td><td>Freiburg Im Breisgau</td><td>2026-09-11</td></tr>
+<tr><td>Dyson</td><td>Online Retail Activation Intern</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Telefónica Deutschland</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-09-11</td></tr>
+<tr><td>Festo</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>St. Ingbert</td><td>2026-09-11</td></tr>
+<tr><td>Flughafen Berlin Brandenburg GmbH</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>ThyssenKrupp AG</td><td>Ausbildung Zum Chemielaborant:in (m/w/d) 2027 - Standort Duisburg</td><td>Hamborn</td><td>2026-09-11</td></tr>
+<tr><td>thyssenkrupp Steel</td><td>Ausbildung Zum Fachinformatiker:in Fachrichtung Anwendungsentwicklung (m/w/d) 2027 - Standort Duisburg</td><td>Hamborn</td><td>2026-09-11</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprentice Industrial Clerk (f/m/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>SGL Carbon</td><td>Ausbildungsplatz Zum Industriemechaniker (m/w/d) Zum 01.09.2026</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>ORAFOL Europe GmbH</td><td>Fachkraft Für Lagerlogistik (m/w/d)_ausbildung</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer – Api Integrationen, Connectoren, Worker/jobs, Mailer Service, Qa</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Engineering Counter Uas (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>1&1 AG</td><td>Business Analyst 5g Deployment (m/w/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>Yara International ASA</td><td>Mitarbeiter Rechnungsprüfung W/m/d (teilzeit)</td><td>Poppendorf</td><td>2026-09-11</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Business Analyst Pricing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Business Analyst – Performance Analytics (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Business Analyst – Vertriebscontrolling (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Jobgether</td><td>Contract Business Analyst</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>Yara International</td><td>Mitarbeiter Rechnungsprüfung W/m/d (teilzeit)</td><td>Poppendorf</td><td>2026-09-11</td></tr>
+<tr><td>E.ON SE</td><td>Business Analyst (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Business Analyst Settlement / Depotüberträge (m/w/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>Smxtech</td><td>Field Service Technician - Intermediate - Mccully Barracks, Wackernheim, Germany (5598)</td><td>Wackernheim</td><td>2026-09-11</td></tr>
+<tr><td>Harbour Energy Germany GmbH</td><td>Facharbeiter Instandhaltung (m/w/d)</td><td>Dieksand</td><td>2026-09-11</td></tr>
+<tr><td>Air Liquide</td><td>Servicetechniker / Anlagentechniker Reinstgas- & Analysensysteme (m/w/d)</td><td>Carrier Gases</td><td>2026-09-11</td></tr>
+<tr><td>Air Liquide</td><td>Servicetechniker / Elektroniker / Mechatroniker (m/w/d)</td><td>Stuttgart</td><td>2026-09-11</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-09-11</td></tr>
+<tr><td>diversey.cz</td><td>Servicetechniker Im Außendienst (m/w/d) Baden-württemberg</td><td>Baden-WüRttemberg</td><td>2026-09-11</td></tr>
+<tr><td>HITACHI ENERGY GERMANY AG</td><td>Servicetechniker (m/w/d) Tool Pool</td><td>Karlstein Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Miele S.r.l</td><td>Elektriker Als Servicetechniker M/w/d - Berlin</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>miele.in</td><td>Elektriker Als Servicetechniker M/w/d - Hamburg</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Parexel</td><td>Depot Technician</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>e.dialog Netz GmbH</td><td>Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>E.ON Gas Mobil GmbH</td><td>Servicemonteur Cng Anlagen (w/m/d) Region Südwest</td><td>Hessen +1</td><td>2026-09-11</td></tr>
+<tr><td>ABB UK</td><td>Field Service Monteur (m/w/d) Im Außendienst Für Schaltanlagen Niederspannung</td><td>Niedersachsen</td><td>2026-09-11</td></tr>
+<tr><td>ABB UK</td><td>Service-inbetriebnehmer Mittelspannungstechnik (m/w/d) Mit (inter)nationalen Baustelleneinsätzen</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>ABB UK</td><td>Servicetechniker / Elektroniker (m/w/d) Mittelspannungstechnik – Bundesweite Einsätze</td><td>Germany</td><td>2026-09-11</td></tr>
+<tr><td>PreussenElektra GmbH</td><td>Anlagenwärter (w/m/d) Im Schichtspringerdienst</td><td>Emmerthal</td><td>2026-09-11</td></tr>
+<tr><td>HanseWerk Natur GmbH</td><td>Anlagenmechaniker Servicetechnik Energieanlagen (m/w/d)*</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Nutreco N.V.</td><td>Mitarbeit In Der Instandhaltung (m/w/d)</td><td>Burgheim</td><td>2026-09-11</td></tr>
+<tr><td>United Monolithics Semiconductor GmbH</td><td>Ums Gmbh - Wartungstechniker (m/w/d)</td><td>Ulm Area</td><td>2026-09-11</td></tr>
+<tr><td>Diversey</td><td>Servicetechniker Im Außendienst (m/w/d) Norddeutschland</td><td>Norddeutschland</td><td>2026-09-11</td></tr>
+<tr><td>Diversey</td><td>Servicetechniker Im Außendienst (m/w/d) Nordrhein-westfalen</td><td>Nordrhein-Westfalen</td><td>2026-09-11</td></tr>
+<tr><td>Diversey</td><td>Foodservice Specialist (m/w/d) Im Außendienst Für Die Systemgastronomie – Mitte -/ Norddeutschland</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>diversey.cz</td><td>Anwendungstechniker (m/w/d) Im Außendienst Für Süddeutschland</td><td>South Germany</td><td>2026-09-11</td></tr>
+<tr><td>Diversey</td><td>Fachberater (m/w/d) Im Aussendienst (m/w/d) Mecklenburg-vorpommern</td><td>Mecklenburg-Vorpommern</td><td>2026-09-11</td></tr>
+<tr><td>Nilfisk</td><td>Servicetechniker (m/w/d) - Süd</td><td>Bellenberg</td><td>2026-09-11</td></tr>
+<tr><td>Nilfisk</td><td>Servicetechniker (m/w/d) In Bernau Bei Berlin</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Henry Schein</td><td>Service-techniker (m/w/d) Hygiene - Großraum Hannover</td><td>Hanover</td><td>2026-09-11</td></tr>
+<tr><td>Danaher</td><td>Talent Pool: Field Service Engineer/technician (d/f/m) For Diagnostics And Life Sciences In Dach Region</td><td>DACH Region</td><td>2026-09-11</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Mechaniker / Anlagenbediener (m/w/d)</td><td>Emleben</td><td>2026-09-11</td></tr>
+<tr><td>EndressHauser AG</td><td>Servicetechniker (w/m/d) Gasanalysemesstechnik - Region Hannover</td><td>Hanover</td><td>2026-09-11</td></tr>
+<tr><td>UPM-Kymmene Oyj</td><td>Industriemechaniker / Mechatroniker (m/w/d) Wartung & Instandhaltung Walzenwerkstatt</td><td>DöRpen</td><td>2026-09-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Elektriker*in / Mechatroniker*in (m/w/d) - Fokus Reparatur (befristet 12 Monate)</td><td>Ahorn</td><td>2026-09-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash - Raum Ruhrgebiet</td><td>Ruhrgebiet</td><td>2026-09-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Sulzer</td><td>Instandhaltungsmechaniker Rotating Equipment (w/m/d)</td><td>Schkopau</td><td>2026-09-11</td></tr>
+<tr><td>Suizer</td><td>Field Service Techniker Im Außendienst (w/m/d)</td><td>Isernhagen</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Buseck</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Armaturen (m/w/d)</td><td>Schkopau</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau</td><td>Schkopau</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Neukieritzsch</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-09-11</td></tr>
+<tr><td>velux.no Corp</td><td>Mitarbeiter Gebäudetechnik / Brandschutz (m/w/d)</td><td>Am Arzbach</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechatroniker / Mechaniker / Schlosser Ttfs (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Willkommensprämie* Bis Zu 3.000€</td><td>Rostock Roggentin</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Fluidmanagement (m/w/d)</td><td>Hanover</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Für Wartungs- Und Betriebsservicearbeiten (m/w/d)</td><td>Hanover</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Deutschlandweit</td><td>Deutschlandweit</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechaniker / Mechatroniker / Instandhaltung (m/w/d)</td><td>MüNchen - Karlsfeld</td><td>2026-09-11</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Elektriker / Elektroniker / Servicetechniker (m/w/d)</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Schwarz Produktion</td><td>Haustechniker / Anlagentechniker Versorgungstechnik / Betriebstechniker (w/m/d)</td><td>Eystrup</td><td>2026-09-11</td></tr>
+<tr><td>Stadtwerke Dusseldorf</td><td>Servicetechniker Für Die Stromzählermontage (m/w/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>Ontex Group</td><td>Mechaniker / Mechatroniker (m/w/d)</td><td>Grosspostwitz</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Sales Assistant (m/w) 10h/woche In Metzingen</td><td>Reutlingen</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Temporary Seasonal Sales Associate Mini Job (w/m/d) In Ingolstadt</td><td>Ingolstadt</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate (m/d/f/v) Teilzeit</td><td>Saarbruecken</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Michael Kors Verkaufsberater (m/w/d) In Teilzeit In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Michael Kors Aushilfe Im Verkauf (m/w/d) Für 10h/woche, Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Michael Kors</td><td>Michael Kors Verkaufsberater (m/w/d) In Vollzeit Für 40h/woche In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>LEGO Group</td><td>Verkäufer (m/w/d) In Teilzeit Im Lego Store Köln</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Vollzeit (m/w/d) – Würzburg</td><td>Wurzburg</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Kauffrau/ Kaufmann (m/w/d)</td><td>Dortmund</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d) - 9475</td><td>Wuppertal</td><td>2026-09-11</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Marcel Simons oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke & Backwaren (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Rene Giese oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE-Markt Esser oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Claudia Istas oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Mahmut Mersinlioglu oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Markt Ridders oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Andrea Flammuth oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE</td><td>Verkäufer Schließfunktion (m/w/d) 0643400016</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE REWE Dugandzic GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE REWE Dugandzic GmbH & Co. oHG</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Arthur Boos oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE Andrea Flammuth oHG</td><td>Werkstudent Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>REWE</td><td>Werkstudent Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Rewe Group</td><td>Wareneingang (m/w/d)</td><td>Freiburg Im Breisgau</td><td>2026-09-11</td></tr>
+<tr><td>Nilfisk</td><td>Warehouse Assistent</td><td>Bellenberg</td><td>2026-09-11</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Lagermitarbeiter (m/w/d) Kommissionierung - Minijob</td><td>Sch Nberg</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 20-30h</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Gelsenkirchen Resse (30 Std)</td><td>Dortmund</td><td>2026-09-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Rösrath (20/25 Std)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - St. Augustin (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Hohe Straße Köln (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Bergisch Gladbach (m/w/d)</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lägertätigkeit (m/w/d) – Mülheim-kärlich (27 Std)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Buchholz (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Kurzfristige Beschäftigung - Dinslaken (m/w/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Potsdam Stern Center (m/w/d)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Alstertal Einkaufszentrum Hamburg-poppenbüttel (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Elbe Einkaufszentrum Hamburg-osdorf (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Airbus Logistik GmbH</td><td>Lagermitarbeiter Für Wareneingangsbuchungen (d/m/w) Für Die Airbus Logistik Gmbh</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate / Verkaufsberater In Teilzeit (m/w/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>Deckers</td><td>Sales Associate (m/w/d) Minijob - Ugg Berlin Hackescher Markt</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Levis Media</td><td>Sale Stylist / Verkäufer (m/w/d) Auf Geringfügiger Basis</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Teilzeit Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-09-11</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Teilzeit Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-09-11</td></tr>
+<tr><td>NIKE, Inc.</td><td>Verkäufer (athlete) (w/m/d) – 25 H/wo Flex – Zweibrücken</td><td>Saarbruecken</td><td>2026-09-11</td></tr>
+<tr><td>Nike Inc</td><td>Studentische Aushilfe (athlete) (m/w/d) 19,5h</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>NIKE, Inc.</td><td>Verkäufer (athlete) (w/m/d) – 10/20h Wochenendhilfe (freitag & Samstag)</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>LEGO Store Essen</td><td>Verkäufer / Studentische Aushilfe (m/w/d) - Lego Store Essen - Teilzeit</td><td>Wuppertal</td><td>2026-09-11</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Frankfurt Am Main, De</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>RTX</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>Burberry</td><td>Sales Associate 6 Ftc Metzingen Outlet City</td><td>Reutlingen</td><td>2026-09-11</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Sales Associate Boss Store (w/m/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>TK Maxx</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Hamburg</td><td>2026-09-11</td></tr>
+<tr><td>UNIQLO</td><td>Verkäufer:in In Voll- Und Teilzeit (m/w/d) Uniqlo Schloßstraße, Berlin</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>UNIQLO</td><td>Aushilfe / Mini-job (m/w/d) 8 Stunden Samstags, Uniqlo Schildergasse, Köln</td><td>Cologne</td><td>2026-09-11</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Verkaufsberater Mit Schwerpunkt Make-up & Skincare (m/w/d) In Vollzeit</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>CHANEL</td><td>Verkäufer:in (m/w/d) Chanel Shoe Boutique Kadewe Berlin</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>CHANEL Shoe Boutique</td><td>Verkäufer:in (m/w/d) Chanel Shoe Boutique Kadewe Berlin</td><td>Berlin</td><td>2026-09-11</td></tr>
+<tr><td>Marken, UPS Healthcare Precision Logistics</td><td>Inside Sales Account Associate (m/w/d)</td><td>Dusseldorf</td><td>2026-09-11</td></tr>
+<tr><td>RS Group</td><td>Edi Customer Service Specialist (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>caritas-nah-am-naechsten</td><td>Verwaltungsmitarbeiter (m/w/d) Kinder- Und Familienzentrum Pasing</td><td>Munich</td><td>2026-09-11</td></tr>
+<tr><td>Ifrsfoundation</td><td>Executive Coordinator</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
 </table>
