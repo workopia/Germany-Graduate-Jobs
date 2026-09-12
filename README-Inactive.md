@@ -6325,4 +6325,112 @@
 <tr><td>RS Group</td><td>Edi Customer Service Specialist (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
 <tr><td>caritas-nah-am-naechsten</td><td>Verwaltungsmitarbeiter (m/w/d) Kinder- Und Familienzentrum Pasing</td><td>Munich</td><td>2026-09-11</td></tr>
 <tr><td>Ifrsfoundation</td><td>Executive Coordinator</td><td>Frankfurt Am Main</td><td>2026-09-11</td></tr>
+<tr><td>Fairfamily</td><td>Junior Business Analyst (m/w/d) – Daten, Kpis & Reporting, Mit Ki-perspektive</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>Covestro</td><td>Intern (m/f/d) In Procurement – With Salary Details</td><td>Cologne</td><td>2026-09-12</td></tr>
+<tr><td>covestro.cn</td><td>Praktikant:in Im Bereich Corporate Communications (m/w/d) - Mit Gehaltsangabe</td><td>Cologne</td><td>2026-09-12</td></tr>
+<tr><td>ING</td><td>Praktikant Relationship Management – Wholesale Banking (w/m/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>ING Deutschland</td><td>Praktikant Transformation Office - Data Driven Reporting (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Praktikum Im Bereich Ki Für Qualitätsmanagement (m/w/x)</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship – Computational Modelling And Digital Twins Of Organoids (f/m/x)</td><td>Dresden</td><td>2026-09-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Praktikum - Leadership Development (m/w/x)</td><td>Goppingen</td><td>2026-09-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship Simulation (f/m/x)</td><td>Goppingen</td><td>2026-09-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship - Embedded Linux (f/m/x)</td><td>Jena</td><td>2026-09-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship – Ai For Neural Signal Processing In Healthcare Innovation (f/m/x)</td><td>Karlsruhe</td><td>2026-09-12</td></tr>
+<tr><td>Triton Processing Inc</td><td>Private Equity Internship - Frankfurt Tsm (april - June 2027)</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Berkeley Research Group (BRG)</td><td>Intern (m/f/d) - Competition Economics (e.ca)</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Ardian</td><td>Fund Finance Secondaries & Primaries Intern - Starting Now - Frankfurt (m/f)</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sensus Xylem Inc</td><td>Praktikum (m/w/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Linklaters</td><td>Praktikum - Experience@linklaters In München</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Linklaters</td><td>Praktikum - Experience@linklaters In Düsseldorf</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Linklaters LLP</td><td>Praktikum - Experience@linklaters In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>why LLP</td><td>Referendar (m/w/d) Steuerrecht In München</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>why LLP</td><td>Referendar (m/w/d) Immobilienwirtschaftsrecht In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>why LLP</td><td>Referendar (m/w/d) Investmentfonds In Berlin</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>why LLP</td><td>Referendar (m/w/d) Technologie, Medien & Telekommunikation In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>why LLP</td><td>Referendar (m/w/d) Investmentfonds In Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>100</td><td>Bachelor Of Science (b.sc.) Wirtschaftsinformatik (m/w/d) (studienstart Oktober 2027)</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>Magna Electronics</td><td>Working Student (m/f/x) - Perception & Customer Functions Development</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Creative Chutzpah</td><td>Initiativbewerbung Für Ein Praktikum (m/w/d) - Brand Consulting</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>J. Wagner GmbH</td><td>Schulpraktikum (m/w/d)</td><td>Constance</td><td>2026-09-12</td></tr>
+<tr><td>Maersk</td><td>Human Resources Intern</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Werkstudierende - New Commodity Development (w/m/d)</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Yunex Traffic</td><td>Werkstudent (w/m/d) Im It Application Management</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>Statkraft</td><td>Intern- Portfolio Strategy, Southern European Origination (6 Months), Düsseldorf, (m/f)</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Initiativbewerbung Studierende Praktikum (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Initiativbewerbung Studierende Thesis (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikum Im Bereich Fbc Quality Api Biosynthese November 2026</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Altana</td><td>Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Altana</td><td>Marketing Praktikant (m/w/d)</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>Innomotics</td><td>Werkstudent (w/m/d) Interne Kommunikation Und Content</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Werkstudent*in Im Innovationsmanagement (m/w/d) (w/m/div.)</td><td>Aschaffenburg</td><td>2026-09-12</td></tr>
+<tr><td>Bosch Group</td><td>Working Student In Innovation Management (f/m/div.)</td><td>Aschaffenburg</td><td>2026-09-12</td></tr>
+<tr><td>Boston Consulting Group</td><td>Working Student – Applied Ai (all Genders)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Boston Consulting Group</td><td>Working Student—recruiting (all Genders)</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Boston Consulting Group</td><td>Werkstudent:in Ai & Data Analytics - Energy Knowledge Management (all Genders) - Bcg Platinion</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Hogan Lovells</td><td>Praktikantin/praktikant (w/m/d)</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>xfroid.fr</td><td>Praktikant:in (m/w/d) Brand Management Ready To Drink Und Champagner</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-09-12</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Fos-praktikum Mücke 2027</td><td>MüCke</td><td>2026-09-12</td></tr>
+<tr><td>RWE Generation SE</td><td>Werkstudent Central Project Und Rweti Controlling D/w/m</td><td>Wuppertal</td><td>2026-09-12</td></tr>
+<tr><td>RWE AG</td><td>Internship Commodity Accounting & Reporting D/f/m</td><td>Wuppertal</td><td>2026-09-12</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Praktikumsprogramm The Ambitious Growth 2027</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Johnson & Johnson</td><td>Pharmazeut (m/w/d) Im Praktikum</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Johnson & Johnson</td><td>Pharmazeut Im Praktikum 2028</td><td>Dusseldorf</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Fbc Api (insulin Wirkstoffproduktion) Für Mai 2028</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Cartridge Platform Development Mai 2028</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Impfstoff-marketing Für Mai 2027</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Impfstoff-marketing Für November 2027</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Regulatory Affairs Artwork Mai 2028</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Regulatory Affairs Für Mai 2028</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikant*in Im Bereich Icf Quality Pharma Fill And Inspection Für November 2027</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikant*in Im Bereich Fbc Ff Nlp Production November 2026</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi UK</td><td>Pharmaziepraktikant*in Im Bereich Fbc Ff Nlp Production Mai 2027</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikant*in Im Bereich Medical Information Für Mai 2028</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-09-12</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-09-12</td></tr>
+<tr><td>Festo</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-09-12</td></tr>
+<tr><td>Vonovia SE</td><td>Sap Entwickler / It Software Engineer Sap Pm/eam (m/w/d)</td><td>Bochum +1</td><td>2026-09-12</td></tr>
+<tr><td>swisssalesjobs.ch</td><td>Ai Builder, Emerging Talent - Dach Market</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>flaschenpost SE</td><td>Junior Analyst (m/w/d) - Customer Analytics</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Finanzbuchhalter (m/w/d)</td><td>Dettingen</td><td>2026-09-12</td></tr>
+<tr><td>Jobgether</td><td>Pe Accountant</td><td>Germany</td><td>2026-09-12</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicetechniker Tür-/toranlagen Und Einbruchmeldetechnik (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicetechniker Sprinklertechnik / Alarmierungseinrichtungen (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-12</td></tr>
+<tr><td>Boeing Co</td><td>Maintenance Technician M/f/d</td><td>Holzdorf</td><td>2026-09-12</td></tr>
+<tr><td>KSB</td><td>Servicemonteur (m/w/d) Für Wartung Und Instandsetzung</td><td>Hemmingstedt</td><td>2026-09-12</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Bad Sarrow- Frankfurt/oder</td><td>Bad Sarrow- Frankfurt/Oder</td><td>2026-09-12</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Potsdam-mittelmark</td><td>Potsdam-Mittelmark</td><td>2026-09-12</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Instandhalter Elektroniker Für Betriebstechnik (m/w/d)</td><td>Beetwiese</td><td>2026-09-12</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - München</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover</td><td>Hanover</td><td>2026-09-12</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle (Saale) +1</td><td>2026-09-12</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker Im Außendienst (m/w/d) - Region Eifel</td><td>Eifel</td><td>2026-09-12</td></tr>
+<tr><td>Carrier</td><td>Kundenbetreuer (m/w/d) - Technik</td><td>Stuttgart</td><td>2026-09-12</td></tr>
+<tr><td>Carrier Transicold</td><td>Servicetechniker (m/w/d) Für Transportkälteanlagen</td><td>Leipzig</td><td>2026-09-12</td></tr>
+<tr><td>Mars Australia</td><td>Elektriker / Elektroniker (m/w/d) Instandhaltung</td><td>North Rhine</td><td>2026-09-12</td></tr>
+<tr><td>PVH</td><td>Flexible Aushilfe München Calvin Klein Underwear (m/w/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Calvin Klein Outlet</td><td>Studentische Aushilfe Berlin B5 Calvin Klein Outlet (m/w/d)</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Calvin Klein Jeans</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Jeans (m/w/d)</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Teilzeit München Calvin Klein Underwear (m/w/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger Outlet</td><td>Flexible Aushilfe Radolfzell Tommy Hilfiger Outlet (m/w/d)</td><td>Constance</td><td>2026-09-12</td></tr>
+<tr><td>Calvin Klein Underwear</td><td>Flexible Aushilfe Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Teilzeit Münster Tommy Hilfiger (m/w/d)</td><td>Munster</td><td>2026-09-12</td></tr>
+<tr><td>Calvin Klein Underwear</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Flexible Verkaufsberater 20-30 Stunden/woche Bonn Tommy Hilfiger (m/w/d)</td><td>Cologne</td><td>2026-09-12</td></tr>
+<tr><td>Hoofprinting</td><td>Studentische Aushilfe München Calvin Klein Underwear (m/w/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Teilzeit München Tommy Hilfiger (m/w/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Vollzeit München Tommy Hilfiger (m/w/d)</td><td>Munich</td><td>2026-09-12</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Vollzeit Zweibrücken Calvin Klein Outlet (m/w/d)</td><td>Saarbruecken</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Studentische Aushilfe Bonn Tommy Hilfiger (m/w/d)</td><td>Cologne</td><td>2026-09-12</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Teilzeit Hamburg Aez Tommy Hilfiger (m/w/d)</td><td>Hamburg</td><td>2026-09-12</td></tr>
+<tr><td>Zalando</td><td>Mitarbeiter (all Genders) Teilzeit In Köln</td><td>Cologne</td><td>2026-09-12</td></tr>
+<tr><td>Postbank Filialvertrieb AG</td><td>Mitarbeiter (d/m/w) Service Und Verkauf, (befristet) Friedrichshafen / Wangen Im Allgäu</td><td>Constance</td><td>2026-09-12</td></tr>
+<tr><td>Postbank Filialvertrieb AG</td><td>Mitarbeiter Service Und Verkauf (d/m/w) (befristet)</td><td>Dortmund</td><td>2026-09-12</td></tr>
+<tr><td>001</td><td>Sales Associate – Full Time</td><td>Berlin</td><td>2026-09-12</td></tr>
+<tr><td>Hydro</td><td>Disponent Güterverkehr (m/w/d)</td><td>Rackwitz</td><td>2026-09-12</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Fo Ochtrup</td><td>Fo Ochtrup</td><td>2026-09-12</td></tr>
+<tr><td>Careers Philips</td><td>Customer Service Specialist (all Genders)</td><td>Home Based</td><td>2026-09-12</td></tr>
+<tr><td>Dachser SE</td><td>Team Coordinator (m/w/d) Tagschicht European Logistics</td><td>Berlin +1</td><td>2026-09-12</td></tr>
+<tr><td>Dachser SE</td><td>Mitarbeiter (m/w/d) Administration Warehouse</td><td>Cologne</td><td>2026-09-12</td></tr>
 </table>
