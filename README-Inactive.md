@@ -6588,4 +6588,99 @@
 <tr><td>Abbott Diabetes Care</td><td>Administrativer Mitarbeiter (m/w/d) Für Die Produktion</td><td>Hanover</td><td>2026-09-13</td></tr>
 <tr><td>Sixt</td><td>Executive Assistant To Legal & Compliance (m/w/d)</td><td>Munich</td><td>2026-09-13</td></tr>
 <tr><td>Jobgether</td><td>It Support Specialist</td><td>Germany</td><td>2026-09-13</td></tr>
+<tr><td>Bäcker Görtz</td><td>Mitarbeiter Im Verkauf (m/w/d) - Frankenthal</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>Bäcker Görtz</td><td>Mitarbeiter Im Verkauf (m/w/d) - Rauenberg</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern (f/m/d) Limited Up To 6 Months - Planner Experience Center Walldorf</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>Concur</td><td>Intern/thesis/working Student (f/m/d) - Evaluating And Improving Llm-based Se Solutions In Sap Hana</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>SAP</td><td>Working Student (f/m/d) - Sap Ixp Intern - Compliance Learning</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>SAP</td><td>Sap Ixp Intern (f/m/d) - Office Of The Head Of Product & Engineering Of Consumer Industries</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern (f/m/d) - Communication For Customer Engagement Tools</td><td>St. Leon</td><td>2026-09-14</td></tr>
+<tr><td>Concur</td><td>Sap Ixp Intern (f/m/d) - Go-to-market Strategy & Transformation And Sap Executive Advisory Board</td><td>Berlin</td><td>2026-09-14</td></tr>
+<tr><td>SAP</td><td>Working Student / Intern (f/m/d) - Autonomous Suite Transformation Office</td><td>Mannheim</td><td>2026-09-14</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Podcast (m/w/d)</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Produktmarketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-14</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-14</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Customer Service & Sales</td><td>Heidenheim</td><td>2026-09-14</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Hr / People Business Partner</td><td>Ulm</td><td>2026-09-14</td></tr>
+<tr><td>Voith</td><td>Internship In Governance, Compliance & Corporate Management</td><td>Ulm</td><td>2026-09-14</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Global Value Management - Cost-optimized Product Design</td><td>Ulm</td><td>2026-09-14</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Commercial Pricing (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-14</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Schüler-/orientierungspraktikum (gn) Ab März 2027</td><td>76879</td><td>2026-09-14</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Praktikum Im Bereich Controlling</td><td>Elchingen</td><td>2026-09-14</td></tr>
+<tr><td>Bosch Group</td><td>Mandatory Internship In Sustainability</td><td>Goppingen</td><td>2026-09-14</td></tr>
+<tr><td>Ayvens Group</td><td>Werkstudent Data Science, Ki & Automatisierung (w/m/d) - Befristet Für 6 Monate</td><td>Hamburg</td><td>2026-09-14</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Nera: Internship (berlin And Frankfurt)</td><td>Berlin</td><td>2026-09-14</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum In Personalmanagement</td><td>Reutlingen</td><td>2026-09-14</td></tr>
+<tr><td>Ten Brinke Group B.V</td><td>Semesterpraktikant (m/w/d) / Bau / Stuttgart / 6-monate</td><td>Stuttgart</td><td>2026-09-14</td></tr>
+<tr><td>PUMA</td><td>Internship Apparel And Graphic Design Motorsport</td><td>Puma Way Headquarters</td><td>2026-09-14</td></tr>
+<tr><td>Puma</td><td>Internship Sportstyle Apparel Design</td><td>Puma Way Headquarters</td><td>2026-09-14</td></tr>
+<tr><td>Puma</td><td>Internship Design Innovation Footwear</td><td>Puma Way Headquarters</td><td>2026-09-14</td></tr>
+<tr><td>Puma</td><td>Internship Teamsport Design - Footwear & Equipment</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>PUMA</td><td>Internship Commercial Management E-commerce Europe</td><td>Puma Way Peg</td><td>2026-09-14</td></tr>
+<tr><td>Helm Ag</td><td>Bachelor In It With Apprenticeship It Specialist In System Integration (bhh) (m/f/d)</td><td>Hamburg</td><td>2026-09-14</td></tr>
+<tr><td>Helm Ag</td><td>Ausbildung - Betriebswirt Im Außenhandel (m/w/d)</td><td>Hamburg</td><td>2026-09-14</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprentice Technical Dhbw (f/m/d)</td><td>GöRwihl</td><td>2026-09-14</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprentice As A Rubber Technologist (f/m/d) 2027</td><td>GöRwihl</td><td>2026-09-14</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Ausbildung Zum Industriemechaniker (m/w/d) - 2027</td><td>Markt Einersheim</td><td>2026-09-14</td></tr>
+<tr><td>LBBW</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Albstadt (2027)</td><td>Reutlingen</td><td>2026-09-14</td></tr>
+<tr><td>LBBW</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Bernhausen/echterdingen (2027)</td><td>Stuttgart</td><td>2026-09-14</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Zum Fachlageristen (m/w/d)</td><td>Eitting</td><td>2026-09-14</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Zum Berufskraftfahrer (m/w/d)</td><td>Buttenheim</td><td>2026-09-14</td></tr>
+<tr><td>Bilfinger</td><td>Ausbildung Zum Industrie-gerüstbauer (m/w/d) Am Standort Teichland-neuendorf Kw Jänschwalde 2027</td><td>Teichland-Neuendorf</td><td>2026-09-14</td></tr>
+<tr><td>Festo</td><td>Umschulung Mechatroniker (m/w/d)</td><td>St. Ingbert</td><td>2026-09-14</td></tr>
+<tr><td>THALES</td><td>Java Softwareentwickler (m/w/d) Für Hmi</td><td>Stuttgart</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Growth & Data (ic)</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Jobgether</td><td>Transactional Revenue Intelligence & Systems Analyst</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Voith</td><td>Partner (m/f/d) Consulting & Execution - Corporate Strategy (m/w/d)</td><td>Heidenheim</td><td>2026-09-14</td></tr>
+<tr><td>Deloitte GmbH</td><td>Kaufmännischer Mitarbeiter Audit/wirtschaftsprüfung (m/w/d)</td><td>Frankfurt (Main) +6</td><td>2026-09-14</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-09-14</td></tr>
+<tr><td>Northland</td><td>Service Technician</td><td>Norddeich</td><td>2026-09-14</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Industriemechaniker (w/m/d)</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>WESTLAKE VINNOLIT</td><td>Servicetechniker Technik Monomer Gdf</td><td>Gendorf</td><td>2026-09-14</td></tr>
+<tr><td>Team Schein UK</td><td>Service Techniker</td><td>Dusseldorf</td><td>2026-09-14</td></tr>
+<tr><td>Henry Schein</td><td>Service Techniker</td><td>Dusseldorf</td><td>2026-09-14</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Field Service Engineer / Servicetechniker (m/w/d) - Life Science Solutions (befristet)</td><td>Rhein-Main / Heidelberg</td><td>2026-09-14</td></tr>
+<tr><td>VMT Vision Machine Technic Bildverarbeitungssysteme GmbH</td><td>Automatisierungstechniker / Servicetechniker (m/w/d) Schwerpunkt Bildverarbeitungslösungen Und Robotik - In Süddeutschland Aus Dem Homeoffice</td><td>SüDdeutschland</td><td>2026-09-14</td></tr>
+<tr><td>Zeppelin GmbH</td><td>Servicetechniker / Mechatroniker Elektro- Und Klimatechnik (m/w/d)</td><td>Henstedt-Ulzburg</td><td>2026-09-14</td></tr>
+<tr><td>Zeppelin GmbH</td><td>Mechatroniker Spezialisierung Hydraulik (m/w/d)</td><td>Bremen</td><td>2026-09-14</td></tr>
+<tr><td>Chubb Fire & Security</td><td>Servicetechniker / Elektriker (m/w/d)</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Likewize</td><td>Mobile Repair Technician</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>Astreya GmbH</td><td>Field Service Technician Ii</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>Power Solutions</td><td>Service-monteur (m/w/d) Powergen Datacenter Frankfurt Elektronik</td><td>Frankfurt Am Main</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Kst</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Wbn</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Fbg</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Sbn</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Kob</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicefachkraft (w/m/d) Für Elektromobilität Und Straßenverkehrstechnik - Khe</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Yunex Traffic</td><td>Servicetechniker (w/m/d) Für Elektromobilität</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>Altana</td><td>Employee Legacy Repair & Service Support (m/w/d)</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 25h</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>Avisbudgetgroup</td><td>Kundenberater:in / Verkaufsberater:in (m/w/d) Mit Regionalem Einsatzgebiet In Der Autovermietung</td><td>Nuremberg</td><td>2026-09-14</td></tr>
+<tr><td>UPS</td><td>Inside Sales Account Associate (m/w/d)</td><td>Dusseldorf</td><td>2026-09-14</td></tr>
+<tr><td>UPS</td><td>Lagermitarbeiter Teilzeit (m/w/d) In Der Abendsortierung In Hh-stellingen</td><td>Hamburg</td><td>2026-09-14</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Verkäufer (m/w/d) - Köln</td><td>Cologne</td><td>2026-09-14</td></tr>
+<tr><td>sportsconnection.dk</td><td>Verkäufer (m/w/d) - Köln</td><td>Cologne</td><td>2026-09-14</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Verkäufer (m/w/d) Im Einzelhandel - Tauentzienstraße Berlin</td><td>Berlin</td><td>2026-09-14</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) Im Einzelhandel - Tauentzienstraße Berlin</td><td>Berlin</td><td>2026-09-14</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Verkäufer (m/w/d) In Teilzeit - Flagshipstore München Kaufingerstraße</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) In Teilzeit - Flagshipstore München Kaufingerstraße</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Verkäufer (m/w/d) In Teilzeit - Metzingen Outlet City</td><td>Reutlingen</td><td>2026-09-14</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) In Teilzeit - Metzingen Outlet City</td><td>Reutlingen</td><td>2026-09-14</td></tr>
+<tr><td>Skechers U.S.A., Inc</td><td>Verkäufer (m/w/d) In Teilzeit - Ochtrup</td><td>Munster</td><td>2026-09-14</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) In Teilzeit - Ochtrup</td><td>Munster</td><td>2026-09-14</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Aushilfe Im Verkauf Boss Outlet (w/m/d)</td><td>Wurzburg</td><td>2026-09-14</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Dortmund Dorstfeld (30 Std)</td><td>Dortmund</td><td>2026-09-14</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Leverkusen Neueröffnung</td><td>Cologne</td><td>2026-09-14</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Leverkusen (28 Std) Neueröffnung</td><td>Cologne</td><td>2026-09-14</td></tr>
+<tr><td>Chanel</td><td>Werkstudent:in Fragrance & Beauty (m/w/d) Chanel Parfums & Beauté Breuninger Düsseldorf</td><td>Dusseldorf</td><td>2026-09-14</td></tr>
+<tr><td>MANGO</td><td>Verkäufer/in (m/w/d) In Vollzeit / Neueröffnung</td><td>Berlin</td><td>2026-09-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Munich</td><td>2026-09-14</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-09-14</td></tr>
+<tr><td>Boeing Deutschland GmbH - BDG</td><td>Front Of House / Administrative Assistant (m/f/d)</td><td>Berlin</td><td>2026-09-14</td></tr>
+<tr><td>Abbott</td><td>Administrativer Mitarbeiter (m/w/d) Für Die Produktion</td><td>Hanover</td><td>2026-09-14</td></tr>
+<tr><td>Holcim</td><td>Mitarbeiter Auftragscenter / Speditionskaufmann (m/w/d)</td><td>Germany</td><td>2026-09-14</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant - Minijob (m/f/d) - Factory Outlet Neumuenster</td><td>Kiel</td><td>2026-09-14</td></tr>
+<tr><td>Terumo</td><td>Customer Service Specialist</td><td>Frankfurt Am Main</td><td>2026-09-14</td></tr>
 </table>
