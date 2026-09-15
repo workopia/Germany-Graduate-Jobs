@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-15",
- "count": 683,
+ "count": 682,
  "jobs": {
   "2418284": {
    "id": "2418284",
@@ -758,6 +758,12 @@
    "role": "Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)",
    "location": "Frankfurt Am Main"
   },
+  "a9e4a6f277913737f537ba0cb8a14d96": {
+   "id": "a9e4a6f277913737f537ba0cb8a14d96",
+   "company": "Zeppelin",
+   "role": "Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
   "83c0e9563a2e41a5f4925483f18b58b7": {
    "id": "83c0e9563a2e41a5f4925483f18b58b7",
    "company": "Magna Electronics Inc.",
@@ -967,12 +973,6 @@
    "company": "Birkenhof Altenhilfe gGmbH von Bethel im Norden",
    "role": "Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt",
    "location": "Freistatt"
-  },
-  "89cd5b5077ba261124c48d602ef694e5": {
-   "id": "89cd5b5077ba261124c48d602ef694e5",
-   "company": "KNDS Group",
-   "role": "Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Ab September 2027",
-   "location": "Germany"
   },
   "ede7a07a42596f1ba17ef7fc4df08654": {
    "id": "ede7a07a42596f1ba17ef7fc4df08654",
@@ -1262,6 +1262,36 @@
    "role": "Software-entwickler (m/w/d) System Management & Monitoring",
    "location": "Germany"
   },
+  "eb40eae65bdcfb066176f50f41536006": {
+   "id": "eb40eae65bdcfb066176f50f41536006",
+   "company": "Nordex SE",
+   "role": "Engineer Software Tool Development (m/f/d)",
+   "location": "Hamburg"
+  },
+  "e563e0edaf06d889bcb3c95460f6455c": {
+   "id": "e563e0edaf06d889bcb3c95460f6455c",
+   "company": "Nordex SE",
+   "role": "Control Software Engineer - Testing & Integration (m/f/d)",
+   "location": "Hamburg"
+  },
+  "7574b8d2802e41e5f6a9b367c6329107": {
+   "id": "7574b8d2802e41e5f6a9b367c6329107",
+   "company": "adesso-group",
+   "role": "Software Engineer Enterprise Search (all Genders)",
+   "location": "Nach Standort Suchen"
+  },
+  "03ed66122f4fbec4f94ca0deaad0dda6": {
+   "id": "03ed66122f4fbec4f94ca0deaad0dda6",
+   "company": "adesso-group",
+   "role": "Full Stack Engineer (all Genders)",
+   "location": "Nach Standort Suchen"
+  },
+  "44ebbd1a18166223bb9823272dab28d2": {
+   "id": "44ebbd1a18166223bb9823272dab28d2",
+   "company": "adesso-group",
+   "role": "Software Engineer Java Cloud Computing (all Genders)",
+   "location": "Nach Standort Suchen"
+  },
   "0a0c2801e3d7ecd801e7bafdb955a0af": {
    "id": "0a0c2801e3d7ecd801e7bafdb955a0af",
    "company": "SumUp",
@@ -1352,24 +1382,6 @@
    "role": "Softwareentwickler - Sondermaschinen (m/w/d)",
    "location": "Wolfertschwenden"
   },
-  "ea86a9c1d3f02bd329de68cd494d4159": {
-   "id": "ea86a9c1d3f02bd329de68cd494d4159",
-   "company": "Nordex SE",
-   "role": "Control Software Engineer - Testing & Integration (m/f/d)",
-   "location": "Hamburg"
-  },
-  "e93609ece017dcd7134880781727fc1b": {
-   "id": "e93609ece017dcd7134880781727fc1b",
-   "company": "Nordex SE",
-   "role": "Engineer Software Tool Development (m/f/d)",
-   "location": "Hamburg"
-  },
-  "44ebbd1a18166223bb9823272dab28d2": {
-   "id": "44ebbd1a18166223bb9823272dab28d2",
-   "company": "adesso-group",
-   "role": "Software Engineer Java Cloud Computing (all Genders)",
-   "location": "Nach Standort Suchen"
-  },
   "09ee76c5cba9d9364c475bccbef63755": {
    "id": "09ee76c5cba9d9364c475bccbef63755",
    "company": "adesso-group",
@@ -1435,18 +1447,6 @@
    "company": "Jobgether",
    "role": "Fullstack Software Engineer - Core",
    "location": "Germany"
-  },
-  "7574b8d2802e41e5f6a9b367c6329107": {
-   "id": "7574b8d2802e41e5f6a9b367c6329107",
-   "company": "adesso-group",
-   "role": "Software Engineer Enterprise Search (all Genders)",
-   "location": "Nach Standort Suchen"
-  },
-  "03ed66122f4fbec4f94ca0deaad0dda6": {
-   "id": "03ed66122f4fbec4f94ca0deaad0dda6",
-   "company": "adesso-group",
-   "role": "Full Stack Engineer (all Genders)",
-   "location": "Nach Standort Suchen"
   },
   "11c64999aef8c8901cc045ce2f101cbb": {
    "id": "11c64999aef8c8901cc045ce2f101cbb",
@@ -1867,12 +1867,6 @@
    "company": "BestSecret GmbH",
    "role": "Data Analyst Loss Prevention (all Genders)",
    "location": "Berlin"
-  },
-  "69a6e81ab6804588d8c44acdc90a8fd7": {
-   "id": "69a6e81ab6804588d8c44acdc90a8fd7",
-   "company": "Jobgether",
-   "role": "Ai/nlp/data Engineer",
-   "location": "Germany"
   },
   "0f37f07b60ce5dbf607aeb68d499133c": {
    "id": "0f37f07b60ce5dbf607aeb68d499133c",
@@ -3788,9 +3782,33 @@
    "role": "Fachbereichsassistenz Operations (m/w/d)",
    "location": "Duren"
   },
+  "87b06c81addd75c7c9a33ef70977d691": {
+   "id": "87b06c81addd75c7c9a33ef70977d691",
+   "company": "Computacenter Plc",
+   "role": "Business Development Specialist W/m/d - Technology & Commercial Enablement Workplace",
+   "location": "Dusseldorf"
+  },
+  "17e7142d03a49f162ec17e1799ff04d1": {
+   "id": "17e7142d03a49f162ec17e1799ff04d1",
+   "company": "RWS GmbH",
+   "role": "Disponent Transport (m/w/d) Im Bereich Logistik",
+   "location": "Germany"
+  },
+  "004fabd5bb06b137ec28c9af9e6ef0b7": {
+   "id": "004fabd5bb06b137ec28c9af9e6ef0b7",
+   "company": "Nordex SE",
+   "role": "Teamassistenz Service (m/w/d)",
+   "location": "Hamburg"
+  },
   "00583eacc42e5c78c7e8ec8603da1e94": {
    "id": "00583eacc42e5c78c7e8ec8603da1e94",
    "company": "Magna Electronics Inc.",
+   "role": "Teamkoordinator Lagerlogistik",
+   "location": "Elsendorf"
+  },
+  "0892563072f070b67c88124f143e60c9": {
+   "id": "0892563072f070b67c88124f143e60c9",
+   "company": "Magna",
    "role": "Teamkoordinator Lagerlogistik",
    "location": "Elsendorf"
   },
@@ -3896,12 +3914,6 @@
    "role": "Compliance Specialist, It Compliance Dach (m/w/d)",
    "location": "Dusseldorf"
   },
-  "23150bdb525789ec3baf1a40c0be7f2f": {
-   "id": "23150bdb525789ec3baf1a40c0be7f2f",
-   "company": "Nordex SE",
-   "role": "Teamassistenz Service (m/w/d)",
-   "location": "Hamburg"
-  },
   "0b11bf8fac45386c1732749e23933217": {
    "id": "0b11bf8fac45386c1732749e23933217",
    "company": "adidas AG",
@@ -3931,12 +3943,6 @@
    "company": "DSV Panalpina AS",
    "role": "Logistikmitarbeiter Gefahrgutkoordinator / Sachbearbeiter Gefahrgut (m/w/d)",
    "location": "Mutzschen"
-  },
-  "17e7142d03a49f162ec17e1799ff04d1": {
-   "id": "17e7142d03a49f162ec17e1799ff04d1",
-   "company": "RWS GmbH",
-   "role": "Disponent Transport (m/w/d) Im Bereich Logistik",
-   "location": "Germany"
   },
   "5218d32d2d412880438623f3b7cdd4f3": {
    "id": "5218d32d2d412880438623f3b7cdd4f3",
@@ -4087,18 +4093,6 @@
    "company": "HENSOLDT Sensors GmbH",
    "role": "Team Assistenz Für Den Bereich Information Management (w/m/d)",
    "location": "Munich"
-  },
-  "a6dbc9e4ef906af06f1aaf00e8dbbf3e": {
-   "id": "a6dbc9e4ef906af06f1aaf00e8dbbf3e",
-   "company": "Hiab",
-   "role": "Customer Service Coordinator",
-   "location": "Munich"
-  },
-  "114738897976a9ea2d63843042d42c87": {
-   "id": "114738897976a9ea2d63843042d42c87",
-   "company": "sonnen",
-   "role": "Sustainability Specialist (m/w/d) In Teilzeit",
-   "location": "Wildpoldsried"
   }
  }
 }

@@ -6750,4 +6750,11 @@
 <tr><td>Red Hat GmbH</td><td>Administrative Assistant - Part Time (m/f/d)</td><td>Munich</td><td>2026-09-15</td></tr>
 <tr><td>Heidrick & Struggles</td><td>Executive Assistant</td><td>Munich</td><td>2026-09-15</td></tr>
 <tr><td>H&S AUSTRALIA</td><td>Executive Assistant</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>KNDS Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Ab September 2027</td><td>Germany</td><td>2026-09-15</td></tr>
+<tr><td>Nordex SE</td><td>Control Software Engineer - Testing & Integration (m/f/d)</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>Nordex SE</td><td>Engineer Software Tool Development (m/f/d)</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>Jobgether</td><td>Ai/nlp/data Engineer</td><td>Germany</td><td>2026-09-15</td></tr>
+<tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>sonnen</td><td>Sustainability Specialist (m/w/d) In Teilzeit</td><td>Wildpoldsried</td><td>2026-09-15</td></tr>
 </table>
