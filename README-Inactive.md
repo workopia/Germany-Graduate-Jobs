@@ -6683,4 +6683,71 @@
 <tr><td>Holcim</td><td>Mitarbeiter Auftragscenter / Speditionskaufmann (m/w/d)</td><td>Germany</td><td>2026-09-14</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant - Minijob (m/f/d) - Factory Outlet Neumuenster</td><td>Kiel</td><td>2026-09-14</td></tr>
 <tr><td>Terumo</td><td>Customer Service Specialist</td><td>Frankfurt Am Main</td><td>2026-09-14</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Business Recovery Services (m/w/d)</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Organisationsberatung (m/w/d)</td><td>Cologne</td><td>2026-09-15</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Your Tax Experience (m/w/d)</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum M&a Advisory (m/w/d)</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-09-15</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Go-to-market Strategy & Transformation And Sap Executive Advisory Board</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>SAP SE</td><td>Working Student / Intern (f/m/d) - Autonomous Suite Transformation Office</td><td>Mannheim</td><td>2026-09-15</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Ausbildung Fachinformatiker Für Systemintegration (w/m/d) 2027</td><td>Giebelstadt +1</td><td>2026-09-15</td></tr>
+<tr><td>EndressHauser AG</td><td>Internship In Ai & Test Automation For Salesforce And Service Business Processes (m/f/d)</td><td>Freiburg Im Breisgau</td><td>2026-09-15</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Supplier Quality & Development</td><td>Stuttgart</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin/praktikant (w/m/d) Brand Consulting/sponsoring Concepts Borussia Dortmund</td><td>Dortmund</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) E-commerce & Business Operations</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/d/m) Marketing & Sales - Team Fc Augsburg</td><td>Augsburg</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Sponsorship Intelligence (ffm)</td><td>Frankfurt Am Main</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Sales - Team Hsv</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/d/m) Esports & Gaming</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Praktikantin/werkstudentin Oder Praktikant/werkstudent (w/m/d) - Controlling</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Premium Partnerships/strategic Brand Partnerships</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Marketing - Team Hertha Bsc</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Pflichtpraktikantin Oder -praktikant (w/m/d) Brand Activation - Sportsponsoring & Eventmanagement</td><td>Frankfurt Am Main</td><td>2026-09-15</td></tr>
+<tr><td>STADA</td><td>Internship For Pharmacist - Analytical Science & Technology (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-15</td></tr>
+<tr><td>HELM AG</td><td>Duales Studium International Management (hsba) (m/w/d)</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Praktikant Immobilienbewertung (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-15</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Schülerpraktikum It (m/w/d)</td><td>ViessmannstraßE 1</td><td>2026-09-15</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Customer Services Strategy & Products (f/m/d)</td><td>Leinfelden</td><td>2026-09-15</td></tr>
+<tr><td>Smart Communications Inc</td><td>Intern Smart Eu Marketing Team (f/m/d)</td><td>Leinfelden</td><td>2026-09-15</td></tr>
+<tr><td>Arthrex Inc</td><td>Werkstudent (w/m/d) Marketing Communications</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Arthrex</td><td>Werkstudent (m/w/d) Im Bereich Digital Marketing - Mit Schwerpunkt E-mail-marketing</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Schönmackers Umweltdienste GmbH</td><td>Ausbildung 2027 - Kaufmann/-frau Für Büromanagement (m/w/d)</td><td>Dusseldorf</td><td>2026-09-15</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Ausbildung Zum Konstruktionsmechaniker/schweißtechnik (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-BäUmenheim</td><td>2026-09-15</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Ausbildung Zum Industriemechaniker (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-Baeumenheim</td><td>2026-09-15</td></tr>
+<tr><td>Zeppelin Baumaschinen GmbH</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>fisgruppe</td><td>Ausbildung Zum Fachinformatiker Für Systemintegration (m/w/x) - Start 01.09.2027</td><td>Grafenrheinfeld</td><td>2026-09-15</td></tr>
+<tr><td>KNDS Group</td><td>Software-entwickler (m/w/d) System Management & Monitoring</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>createyourowncareer</td><td>C++ Engineer (f/m/d)</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>createyourowncareer</td><td>Software Engineer (f/m/d) – Cross-platform Sdk Development</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Engineer (f/m/x) - Software Development Of Secure Ip-based Protocols For Satellite Communications</td><td>Oberpfaffenhofen</td><td>2026-09-15</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Ios Core Product - Stuttgart, Germany</td><td>Stuttgart</td><td>2026-09-15</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Berlin, Germany</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Grafana Labs</td><td>Staff Ai Engineer - 2nd Horizon / Germany / Remote</td><td>Germany</td><td>2026-09-15</td></tr>
+<tr><td>e.dialog Netz GmbH</td><td>Business Analyst (m/w/d)</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Datenmigration Utilities (all Genders)</td><td>Nach Standort Suchen</td><td>2026-09-15</td></tr>
+<tr><td>IQVIA</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Frankfurt Am Main</td><td>2026-09-15</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Allgemeinmediziner (m/w/d) Id 34501</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Assistenzarzt Stationärer Und Teilstationärer Bereich Der Kjpp (m/w/d)</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Christiana Care Home Health And Community Services Inc</td><td>Registered Nurse, Holloway Program, Milford, De</td><td>Milford +2</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Duisburg Nord / Dinslaken</td><td>Dusseldorf</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzüge Und Fahrtreppen In München</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-09-15</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-09-15</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Metzingen Calvin Klein Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-09-15</td></tr>
+<tr><td>376</td><td>Flexible Aushilfe Metzingen Calvin Klein Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-09-15</td></tr>
+<tr><td>Calvin Klein</td><td>Ausbildung Kaufleute Im Einzelhandel Zweibrücken Calvin Klein Outlet (m/w/d)</td><td>Saarbruecken</td><td>2026-09-15</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Teilzeit Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-09-15</td></tr>
+<tr><td>Tommy Hilfiger Outlet</td><td>Flexible Aushilfe Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-09-15</td></tr>
+<tr><td>Tommy Hilfiger Outlet</td><td>Studentische Aushilfe Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-09-15</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Vollzeit Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-09-15</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Berlin B5 Calvin Klein Outlet (m/w/d)</td><td>Berlin</td><td>2026-09-15</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Vollzeit Essen Tommy Hilfiger (m/w/d)</td><td>Wuppertal</td><td>2026-09-15</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 20h</td><td>Cologne</td><td>2026-09-15</td></tr>
+<tr><td>Oerlikon</td><td>Marketing & Communications Coordinator</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Red Hat</td><td>Administrative Assistant - Part Time (m/f/d)</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Red Hat GmbH</td><td>Administrative Assistant - Part Time (m/f/d)</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>Heidrick & Struggles</td><td>Executive Assistant</td><td>Munich</td><td>2026-09-15</td></tr>
+<tr><td>H&S AUSTRALIA</td><td>Executive Assistant</td><td>Munich</td><td>2026-09-15</td></tr>
 </table>
