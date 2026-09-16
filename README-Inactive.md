@@ -6757,4 +6757,66 @@
 <tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-09-15</td></tr>
 <tr><td>Hiab</td><td>Customer Service Coordinator</td><td>Munich</td><td>2026-09-15</td></tr>
 <tr><td>sonnen</td><td>Sustainability Specialist (m/w/d) In Teilzeit</td><td>Wildpoldsried</td><td>2026-09-15</td></tr>
+<tr><td>CLAAS Vertriebsgesellschaft mbH</td><td>Praktikum Vertrieb Molbergen</td><td>Oldenburg</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Human Resources</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS</td><td>Student (m/w/d) Claas Inside Global Supply Chain Management - Material Management</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Controlling</td><td>Herzebrock</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Praktikum Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Marketing</td><td>Herzebrock</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Student (m/w/d) Claas Inside Im Bereich Fügetechnik</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Im Entwicklungsbereich Für Den Xerion</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Claas Inside Group Hr Rewards & Mobility</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Internship Business Process Management</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Absatzfinanzierung</td><td>Herzebrock</td><td>2026-09-16</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Bordnetzentwicklung</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>HiPP-Werk Georg Hipp OHG</td><td>Praktikum/ Abschlussarbeit</td><td>Bielefeld</td><td>2026-09-16</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Digitalization & Operations It (d/m/w)</td><td>Unknown</td><td>2026-09-16</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Human Resources (d/m/w)</td><td>Unknown</td><td>2026-09-16</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Qualification & Learning Europe (d/m/w)</td><td>Unknown</td><td>2026-09-16</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum In Hr/it - People, Organization & Agile Practices (d/m/w)</td><td>Unknown</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Valuation & Modeling (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Resource Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a / Debt Advisory (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Corporate Treasury (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Audit (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Steuerberatung - Japanese Services Group (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Analytics / Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Operations / Consulting (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Public Sector - Defense (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent / Aushilfe Public Funds Assurance (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Global Trade Advisory - Indirect Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Audit / Wirtschaftsprüfung (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Transaction Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-16</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) 2027 Klein Wanzleben</td><td>Klein Wanzleben</td><td>2026-09-16</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Klein Wanzleben</td><td>2026-09-16</td></tr>
+<tr><td>Birkenhof Altenhilfe gGmbH von Bethel im Norden</td><td>Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt</td><td>Freistatt</td><td>2026-09-16</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Fullstack Engineer - Typescript & Aws (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer, Backend - Data Layer</td><td>Germany</td><td>2026-09-16</td></tr>
+<tr><td>BestSecret GmbH</td><td>Data Analyst Loss Prevention (all Genders)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Mercer</td><td>Praktikant:in – People Advisory (m/w/d) – Transformation Team</td><td>S See All</td><td>2026-09-16</td></tr>
+<tr><td>Wolters Kluwer N.V</td><td>Business Analyst (m/w/d) Im Bereich Steuern</td><td>Stuttgart</td><td>2026-09-16</td></tr>
+<tr><td>envia Mitteldeutsche Energie AG</td><td>Referent Bilanzierung/ Abschlüsse (m/w/d)</td><td>Germany</td><td>2026-09-16</td></tr>
+<tr><td>IQVIA UK</td><td>Trainee Clinical Research Associate (m/w/d), Home-office Throughout Germany</td><td>Germany</td><td>2026-09-16</td></tr>
+<tr><td>IQVIA UK</td><td>Internship In Clinical Research (m/w/d), Home-based In Germany</td><td>Germany</td><td>2026-09-16</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Bremen / Schneverdingen / Hemmoor</td><td>Bremen</td><td>2026-09-16</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Filderstadt / Leinfelden-echterdingen</td><td>Stuttgart</td><td>2026-09-16</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-09-16</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker* In (m/w/d) Für Halle/ Leipzig</td><td>Leipzig</td><td>2026-09-16</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge In Stuttgart</td><td>Stuttgart</td><td>2026-09-16</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Teilzeit Essen Tommy Hilfiger (m/w/d)</td><td>Wuppertal</td><td>2026-09-16</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Oberhausen Calvin Klein Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Teilzeit Berlin B5 Calvin Klein Outlet (m/w/d)</td><td>Berlin</td><td>2026-09-16</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber Oberhausen Tommy Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber Oberhausen Calvin Klein Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>PVH</td><td>Studentische Aushilfe Oberhausen Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Vollzeit Oberhausen Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Vollzeit Oberhausen Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-09-16</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Ausbildung Kaufleute Im Einzelhandel Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-09-16</td></tr>
+<tr><td>Clydeco</td><td>Assistant</td><td>Munich</td><td>2026-09-16</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Team Assistenz Für Den Bereich Information Management (w/m/d)</td><td>Munich</td><td>2026-09-16</td></tr>
 </table>
