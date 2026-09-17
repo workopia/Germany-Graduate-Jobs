@@ -6819,4 +6819,70 @@
 <tr><td>Tommy Hilfiger</td><td>Ausbildung Kaufleute Im Einzelhandel Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-09-16</td></tr>
 <tr><td>Clydeco</td><td>Assistant</td><td>Munich</td><td>2026-09-16</td></tr>
 <tr><td>HENSOLDT Sensors GmbH</td><td>Team Assistenz Für Den Bereich Information Management (w/m/d)</td><td>Munich</td><td>2026-09-16</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Corporate Responsibility (m/w/d)</td><td>Bielefeld</td><td>2026-09-17</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikum Bfs</td><td>44369</td><td>2026-09-17</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Hris (m/w/d)</td><td>Bielefeld</td><td>2026-09-17</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikant Redaktion Frankfurt (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-17</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>Bertelsmann Stiftung</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-09-17</td></tr>
+<tr><td>RTL Nord</td><td>Praktikum Redaktion (w/m/d)</td><td>Kiel</td><td>2026-09-17</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikum Media & Growth</td><td>Cologne</td><td>2026-09-17</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikum Redaktion (w/m/d)</td><td>Hamburg</td><td>2026-09-17</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikum In Der Radioredaktion</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>Riverty</td><td>Initiativbewerbung: Praktikum (m/w/d)</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Aktuariat Lebensversicherung</td><td>Dortmund</td><td>2026-09-17</td></tr>
+<tr><td>Design Hotels</td><td>Working Student Rfp & Travel Trade Marketing (m/f/d) – Design Hotels</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>Altana AG</td><td>Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried)</td><td>Munich</td><td>2026-09-17</td></tr>
+<tr><td>Altana AG</td><td>Marketing Praktikant (m/w/d)</td><td>Germany</td><td>2026-09-17</td></tr>
+<tr><td>ww-ag</td><td>Praktikant (m/w/d) Mit Schwerpunkt Mathematik</td><td>Stuttgart</td><td>2026-09-17</td></tr>
+<tr><td>ww-ag</td><td>Praktikum/werkstudent/abschlussarbeit (m/w/d) Initiativ</td><td>Stuttgart</td><td>2026-09-17</td></tr>
+<tr><td>ww-ag</td><td>Werkstudent Städtebau (m/w/d) / Zunächst Befristet Für 6 Monate</td><td>Dresden</td><td>2026-09-17</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship It Project Management - Focus Pmo & Agile (m/f/d)</td><td>Reutlingen</td><td>2026-09-17</td></tr>
+<tr><td>LEMKEN GmbH</td><td>Praktikum Und/oder Abschlussarbeit Corporate Marketing (onlinemarketing)</td><td>Alle</td><td>2026-09-17</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum/abschlussarbeit In Der Distributionslogistik</td><td>Ulm</td><td>2026-09-17</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Pflichtpraktikant Onboarding In Der Personalentwicklung Für 6 Monate (m/w/d)</td><td>Kempten Allgau</td><td>2026-09-17</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Human Resources Mit Fokus It Ausbildung, Personal- & Organisationsentwicklung</td><td>Oberopfingen</td><td>2026-09-17</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Hochschulpraktikum Im Bereich Parken Und Mobilität - Business Development</td><td>Frankfurt Am Main</td><td>2026-09-17</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum In Der Fraport Academy Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-17</td></tr>
+<tr><td>Barilla Group</td><td>Praktikum Im Trade Marketing - Brand Barilla Food Services</td><td>Cologne</td><td>2026-09-17</td></tr>
+<tr><td>A. Lange & Söhne</td><td>Praktikant Hr Controlling (m/w/d)</td><td>Glashuette</td><td>2026-09-17</td></tr>
+<tr><td>Tenova S.p.A</td><td>Internship Industrial Furnaces / Plant Engineering</td><td>Dusseldorf</td><td>2026-09-17</td></tr>
+<tr><td>Texas Instruments</td><td>Intern (m/f/d) In The Field Of Finance, Controlling, Tax Or Accounting – 2026</td><td>Munich</td><td>2026-09-17</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Praktikum Group Treasury</td><td>Bielefeld</td><td>2026-09-17</td></tr>
+<tr><td>CLAAS</td><td>Praktikum Im Bereich Digital Channels & Ai Solutions</td><td>Herzebrock-Clarholz</td><td>2026-09-17</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Ausbildung 2026 - Fachlagerist / Fachkraft Für Lagerlogistik (m/w/d)</td><td>Ottendorf</td><td>2026-09-17</td></tr>
+<tr><td>HARTMANN</td><td>Auszubildender (w/m/d) Zur Fachkraft Für Lagerlogistik - Standort Brück (start 2027)</td><td>Munich</td><td>2026-09-17</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Zur Fachkraft Für Schutz Und Sicherheit (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-09-17</td></tr>
+<tr><td>dentsu</td><td>Trainee - Mediaberatung (m/w/d)</td><td>Dusseldorf</td><td>2026-09-17</td></tr>
+<tr><td>Pirelli Systeme Informativi S.r.l</td><td>Ausbildung - Maschinen- Und Anlagenführer</td><td>Breuberg</td><td>2026-09-17</td></tr>
+<tr><td>Pirelli Sistemi Informativi.s.r.l</td><td>Ausbildung - Industriekaufmann/-frau</td><td>Breuberg</td><td>2026-09-17</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Experienced Software Engineer Customer Order Services (m/f/d)</td><td>Ingolstadt</td><td>2026-09-17</td></tr>
+<tr><td>fisgruppe</td><td>Mitarbeiter Im It-servicedesk / It-support (m/w/x)</td><td>Grafenrheinfeld</td><td>2026-09-17</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Software Engineer Ii (golang), Promo Cart - Quick Commerce</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Python Entwickler/software-entwickler Mit Schwerpunkt Python Im Ki-umfeld (w/m/d)</td><td>Stuttgart</td><td>2026-09-17</td></tr>
+<tr><td>KLA</td><td>Ai Engineer (m/f/d) For Semiconductor Innovation</td><td>Saxony</td><td>2026-09-17</td></tr>
+<tr><td>Microchip Technology Inc.</td><td>Finanzbuchhalter (m/w/d) / Financial Accountant (m/f/d)</td><td>Neckarbischofsheim +1</td><td>2026-09-17</td></tr>
+<tr><td>Hannover Rueck SE</td><td>Financial Accountant (mat Cover)</td><td>Germany</td><td>2026-09-17</td></tr>
+<tr><td>Franke Group</td><td>Mitarbeiter Finanzbuchhaltung (m/w/d)</td><td>Gruensfeld</td><td>2026-09-17</td></tr>
+<tr><td>Jobgether</td><td>Business And Management Specialist – Freelance Ai Trainer Project</td><td>Germany</td><td>2026-09-17</td></tr>
+<tr><td>bk-berater</td><td>Finanzbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-09-17</td></tr>
+<tr><td>bk-berater</td><td>Lohn- Und Gehaltsbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-09-17</td></tr>
+<tr><td>Christiana Care Home Health And Community Services Inc</td><td>Registered Nurse (rn) - Medical Unit - Day Shift</td><td>Newark</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker (m/w/d) Für Aufzugsanlagen Im Bereich Großreparatur In Neuss</td><td>Dusseldorf</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Leipzig</td><td>Leipzig</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Bremen</td><td>Bremen</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum Karlsruhe/offenburg</td><td>Karlsruhe</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-09-17</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet</td><td>Frankfurt Am Main</td><td>2026-09-17</td></tr>
+<tr><td>Real Time Executives Inc</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-09-17</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Radolfzell Calvin Klein Outlet (m/w/d)</td><td>Constance</td><td>2026-09-17</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber Radolfzell Calvin Klein Outlet (m/w/d)</td><td>Constance</td><td>2026-09-17</td></tr>
+<tr><td>PVH</td><td>Flexible Aushilfe Oberhausen Jeans Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-09-17</td></tr>
+<tr><td>Solenis</td><td>Versand- Und Logistikkoordinator (m/w/d)</td><td>Sobernheim</td><td>2026-09-17</td></tr>
+<tr><td>EIT RawMaterials</td><td>Administration Specialist (m/f/d)</td><td>Berlin</td><td>2026-09-17</td></tr>
+<tr><td>Bosch Group</td><td>Executive Assistant / Fachreferent Des Bereichsvorstands (w/m/div.)</td><td>Munich</td><td>2026-09-17</td></tr>
 </table>
