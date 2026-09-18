@@ -6885,4 +6885,150 @@
 <tr><td>Solenis</td><td>Versand- Und Logistikkoordinator (m/w/d)</td><td>Sobernheim</td><td>2026-09-17</td></tr>
 <tr><td>EIT RawMaterials</td><td>Administration Specialist (m/f/d)</td><td>Berlin</td><td>2026-09-17</td></tr>
 <tr><td>Bosch Group</td><td>Executive Assistant / Fachreferent Des Bereichsvorstands (w/m/div.)</td><td>Munich</td><td>2026-09-17</td></tr>
+<tr><td>Airbus Logistik GmbH</td><td>Werkstudent (d/m/w) Processes And Improvements Für Die Airbus Logistik Gmbh</td><td>Hamburg</td><td>2026-09-18</td></tr>
+<tr><td>stark-deutschland.de</td><td>Praktikant Personalentwicklung (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Samsung SDS</td><td>Working Student (m/f/d) – Samsung Tv Plus</td><td>Ratinger Str. 9</td><td>2026-09-18</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Marketing & Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Armaokchapter</td><td>Praktikant Sponsoring & Events (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Werkstudent Agile Transformation (w/m/div.)</td><td>Ulm</td><td>2026-09-18</td></tr>
+<tr><td>Celltrion Com Br</td><td>Germany - Finance Intern / Working Student (m/f/d) – Purchase-to-pay (p2p)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>KOKI Group</td><td>Working Student Product Management Power Tools (job For All Genders)</td><td>Reutlingen</td><td>2026-09-18</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Category Management & Shopper Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>AMBU AS</td><td>Working Student / Intern Clinical Affairs, Design Validation & Usability</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market Training (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Market Management Traktoren (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Für Den Bereicht Fendt Sales Operations (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Bereich Product Content (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Bereich Versuch - Getriebe, Bremse, Vorderachse, Pneumatik (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Bereich Ai / Data Mining / Big Data / Datenanalyse (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Produktmanagement Traktor & Precision Farming (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Für Den Bereich Lean Production Im Getriebewerk Marktoberdorf (wise 26/27)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>Fendt</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Commercial Pricing (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market - Team Logistics (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>Surteco SE</td><td>Ferienjob / (schul-)praktikum Standort Dunningen</td><td>Freiburg Im Breisgau</td><td>2026-09-18</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Praktikum - Studenten/innen - Abschlussarbeiten</td><td>Norf</td><td>2026-09-18</td></tr>
+<tr><td>dalli group</td><td>Initiativbewerbung Praktikanten - Flörsheim (m/w/d)</td><td>FlöRsheim-Dalsheim</td><td>2026-09-18</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Tv-produktion Magazine & News (m/w/d)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Media & Audience Management (m/w/d)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/werkstudent (m/w/d) Im Bereich Wirtschaftsinformatik (sose 27)</td><td>Asbach-Baeumenheim</td><td>2026-09-18</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Für Den Bereich Operational Excellence (lean) (sose27)</td><td>Asbach-Baeumenheim</td><td>2026-09-18</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Im Bereich Recht / Wirtschaftsrecht (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-18</td></tr>
+<tr><td>KPMG LLP</td><td>Unknown</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Initiativbewerbung Pflichtpraktikum</td><td>Denklingen +1</td><td>2026-09-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Sports Industry Group - Strategy And Execution (w/m/d)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Master Thesis In Artificial Intelligence Organization Adoption And Usage</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Praktikant (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Robert Bosch Smart Home GmbH</td><td>Praktikum Logistik Und Supply Chain Design</td><td>Stuttgart</td><td>2026-09-18</td></tr>
+<tr><td>PGIM</td><td>Pgim / Intern, Real Estate Private Equity Portfolio Management (all Genders) As Of Q1 2027, Based In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>PGIM Real Estate</td><td>Pgim / Intern, Real Estate Private Equity Portfolio Management (all Genders) As Of Q1 2027, Based In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Terumo</td><td>Hr Administration Intern</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>Bosch Sensortec GmbH</td><td>Praktikum Logistics Warehouse Management</td><td>Reutlingen</td><td>2026-09-18</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Mandatory Internship & Theses (m/f/d)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Working Student (m/f/d) - Strategy & Alliances</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Schreiner Group GmbH und Co. KG</td><td>Werkstudent (m/w/d) - Strategisches Marketing Und Business Development</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Aftersales Amg One & Amg One Hub Affalterbach Ab Oktober 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-09-18</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Software Update Management System Ab Oktober 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-09-18</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Arbeitsvorbereitung Entwicklungswerkstätten Oktober 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-09-18</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Applikation Vortriebsmanagement E-drive Ab Dezember 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-09-18</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten In Der Gesamtfahrzeugkonstruktion Amg - Baureihen Ab März 2027 (m/w/d)</td><td>Affalterbach</td><td>2026-09-18</td></tr>
+<tr><td>PIMCO</td><td>2027 Mba Summer Intern - Account Manager, Munich (german Speaking)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>SKF Marine GmbH</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-09-18</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>Telefónica Deutschland</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-09-18</td></tr>
+<tr><td>Roche</td><td>Ausbildung 2027: Fachinformatiker:in Für Anwendungsentwicklung, Standort Penzberg</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Evonik</td><td>Ausbildung 2027 Fachkraft Für Lagerlogistik (m/w/d) - Essen</td><td>Wuppertal</td><td>2026-09-18</td></tr>
+<tr><td>Evonik</td><td>Ausbildung 2027 Maschinen- Und Anlagenführer (m/w/d) - Wesseling</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>Evonik Operations GmbH</td><td>Ausbildung 2027 Maschinen- Und Anlagenführer (m/w/d) - Wesseling</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>Henry Schein</td><td>Auszubildender Fachkraft Für Lagerlogistik</td><td>Gallin</td><td>2026-09-18</td></tr>
+<tr><td>MBDA Deutschland GmbH</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (w/m/d)</td><td>Aschau Am Inn</td><td>2026-09-18</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Schülerpraktikum Mechatroniker (m/w/d) Produktionstechnik</td><td>Emleben</td><td>2026-09-18</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Smalltalk (all Genders)</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Golang (all Genders)</td><td>Not Specified</td><td>2026-09-18</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (python) — Programmable Networking</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>924</td><td>It Support Engineer</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>Xsolla</td><td>It Support Engineer</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>Zalando</td><td>Software Engineer (all Genders) React / React Native</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Signavio Next Engineering (full-stack Llm Development)</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Conversational Ai (all Genders)</td><td>Nach Standort Suchen</td><td>2026-09-18</td></tr>
+<tr><td>Swiss Re</td><td>Customer & Distribution Analyst (hybrid; M/f/x/d; 80-100%)</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>adesso-group</td><td>Business Analyst Zahlungsverkehr (all Genders)</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>Gv Management GmbH</td><td>Bilanz- Oder Finanzbuchhalter In Vz (m/w/d)</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>Hannover Rueck SE</td><td>Business Analyst (9-month Ftc)</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>UPM CHINA</td><td>Industriemechaniker / Mechatroniker (m/w/d) Wartung & Instandhaltung Walzenwerkstatt</td><td>DöRpen</td><td>2026-09-18</td></tr>
+<tr><td>JBT Marel</td><td>Servicetechniker (süden Deutschlands) (m/w/d)</td><td>Oberlahr</td><td>2026-09-18</td></tr>
+<tr><td>Trane Technologies</td><td>Servicetechniker (w/m/d)</td><td>Kesselsdorf</td><td>2026-09-18</td></tr>
+<tr><td>Mars</td><td>Elektriker / Elektroniker (m/w/d) Instandhaltung</td><td>North Rhine</td><td>2026-09-18</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Potsdam-mittelmark</td><td>Potsdam-Mittelmark</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker Im Außendienst (m/w/d) - Bad Sarrow- Frankfurt/oder</td><td>Bad Sarrow-Frankfurt/Oder</td><td>2026-09-18</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Bad Sarrow- Frankfurt/oder</td><td>Bad Sarrow-Frankfurt/Oder</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker Im Außendienst (m/w/d) - Potsdam-mittelmark</td><td>Potsdam-Mittelmark</td><td>2026-09-18</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker (m/w/d) Im Außendienst Commercial Service</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Instandhalter Elektroniker Für Betriebstechnik (m/w/d)</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover</td><td>Hanover</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover</td><td>Hanover</td><td>2026-09-18</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - München</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker Im Außendienst (m/w/d) - München</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle (Saale) +1</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker Im Außendienst (m/w/d) Halle Wittenberg, Leipzig</td><td>Halle (Saale) +1</td><td>2026-09-18</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Region Eifel</td><td>Eifel</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Global</td><td>Kundenbetreuer (m/w/d) - Technik</td><td>Stuttgart</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Kundenbetreuer (m/w/d) - Technik</td><td>Stuttgart</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Global</td><td>Servicetechniker (m/w/d) Für Transportkälteanlagen</td><td>Leipzig</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Transicold</td><td>Servicetechniker (m/w/d) Für Transportkälteanlagen</td><td>Leipzig</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Global</td><td>Service Tech. Gebäudetechnik (m/w/d)</td><td>Stuttgart</td><td>2026-09-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Service Tech. Gebäudetechnik (m/w/d)</td><td>Stuttgart</td><td>2026-09-18</td></tr>
+<tr><td>Micron</td><td>It Field Service Tech (m/f/d)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-09-18</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum München</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dortmund</td><td>2026-09-18</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Deko (gn)</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Mannheim</td><td>2026-09-18</td></tr>
+<tr><td>TJX Companies</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Ingolstadt</td><td>2026-09-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Ingolstadt</td><td>2026-09-18</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Wurzburg</td><td>2026-09-18</td></tr>
+<tr><td>TK Maxx</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – München (25 Std)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-wandsbek (20 Std)</td><td>Hamburg</td><td>2026-09-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Freising (25 Std)</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Lager (minijobber/in) (m/w/d) - Erding</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>Carhartt Work In Progress</td><td>Sales Assistant 20hrs (m/f/x)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>MANGO</td><td>Verkäufer (m/w/d) In Teilzeit 30 Std./w.</td><td>Dortmund</td><td>2026-09-18</td></tr>
+<tr><td>MANGO</td><td>Verkäufer (m/w/d) In Teilzeit 20 Std./w. / Zeil</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>TJX Europe (TK Maxx)</td><td>Verkäufer (m/w/d) Weihnachtsaushilfe</td><td>Frankfurt Am Main</td><td>2026-09-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Aushilfe Verkauf (m/w/d)</td><td>Dusseldorf</td><td>2026-09-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TK Maxx</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-09-18</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Mitarbeiter Im Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-09-18</td></tr>
+<tr><td>TK Maxx</td><td>Aushilfe Verkauf (m/w/d)</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Verkäuferin / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TK Maxx</td><td>Verkäufer/in (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TK Maxx</td><td>Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Mitarbeiter Verkauf (w/m/d)</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Verkäufer / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Mitarbeiter Im Verkauf ( M/w/d )</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Minijobber Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-18</td></tr>
+<tr><td>NIKE, Inc.</td><td>Verkäufer (athlete) (w/m/d) – 25 H/wo Flex – Zweibrücken</td><td>Saarbruecken</td><td>2026-09-18</td></tr>
+<tr><td>Nike Inc</td><td>Studentische Aushilfe (athlete) (m/w/d) 19,5h</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>NIKE, Inc.</td><td>Verkäufer (athlete) (w/m/d) – 10/20h Wochenendhilfe (freitag & Samstag)</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Sales Assistant (m/w/d) - Store Flughafen München</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Wipperfürth (18,5 Std)</td><td>Wuppertal</td><td>2026-09-18</td></tr>
+<tr><td>Collins Aerospace</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-09-18</td></tr>
+<tr><td>Raytheon Australia</td><td>Logistikmitarbeiter – Warehouse (m/w/d)</td><td>Hamburg</td><td>2026-09-18</td></tr>
+<tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-09-18</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d), Befristet - Adidas Originals Flaghsip Store Berlin, Müntzstr.</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>Dachser SE</td><td>Team Coordinator (m/w/d) Umschlaglager</td><td>60549</td><td>2026-09-18</td></tr>
+<tr><td>KNDS Group</td><td>Assistenz Der Fertigungsleitung (m/w/d)</td><td>Germany</td><td>2026-09-18</td></tr>
+<tr><td>Hasso Plattner Foundation</td><td>Assistenz Der Fachgebietsleitung „artificial Intelligence And Intelligent Systems (m/w/d)"</td><td>Berlin</td><td>2026-09-18</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Teamassistenz (m/w/d) Emv & Produktsicherheit</td><td>Munich</td><td>2026-09-18</td></tr>
 </table>
