@@ -7031,4 +7031,48 @@
 <tr><td>KNDS Group</td><td>Assistenz Der Fertigungsleitung (m/w/d)</td><td>Germany</td><td>2026-09-18</td></tr>
 <tr><td>Hasso Plattner Foundation</td><td>Assistenz Der Fachgebietsleitung „artificial Intelligence And Intelligent Systems (m/w/d)"</td><td>Berlin</td><td>2026-09-18</td></tr>
 <tr><td>SGS Australia Pty Ltd</td><td>Teamassistenz (m/w/d) Emv & Produktsicherheit</td><td>Munich</td><td>2026-09-18</td></tr>
+<tr><td>STADA</td><td>Working Student Global Hse (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-19</td></tr>
+<tr><td>STADA</td><td>School Student Internship (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-19</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship - Product Managment Implants & Consumables (f/m/x)</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship - Metrology In Battery Manufacturing (f/m/x)</td><td>Karlsruhe</td><td>2026-09-19</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Internship Mergers & Acquisitions / Cooperations / Finance</td><td>Constance</td><td>2026-09-19</td></tr>
+<tr><td>A. Lange & Söhne</td><td>Praktikant Hr (m/w/d)</td><td>Glashuette</td><td>2026-09-19</td></tr>
+<tr><td>Nordex SE</td><td>Intern People & Culture Systems Support</td><td>Hamburg</td><td>2026-09-19</td></tr>
+<tr><td>Nordex SE</td><td>Product Strategy & Sales Support Intern (m/f/d)</td><td>Madrid +1</td><td>2026-09-19</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Intern Hr (f/m/d)</td><td>Mannheim</td><td>2026-09-19</td></tr>
+<tr><td>AptarGroup</td><td>Working Student Procurement (m/w/d)</td><td>Dortmund</td><td>2026-09-19</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-09-19</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-09-19</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Fos-praktikum Mücke 2027</td><td>MüCke</td><td>2026-09-19</td></tr>
+<tr><td>Hannover Rueck SE</td><td>Procurement & Facility Management Intern</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>adesso Group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-09-19</td></tr>
+<tr><td>adesso Group</td><td>Werkstudent Marketing - Website (all Genders)</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>MSX International Ltd</td><td>Praktikant:in (m/w/d) – Hr & Sustainability (pflichtpraktikum)</td><td>Cologne</td><td>2026-09-19</td></tr>
+<tr><td>MSX International Ltd</td><td>Praktikant:in (m/w/d) – People & Sustainability (pflichtpraktikum)</td><td>Cologne</td><td>2026-09-19</td></tr>
+<tr><td>Armaokchapter</td><td>Intern Corporate Sector Lending – Wholesale Banking (f/m/x)</td><td>Frankfurt Am Main</td><td>2026-09-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Bereich Interne Kommunikation Und Eventmanagement</td><td>Stuttgart</td><td>2026-09-19</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>Halle (Saale)</td><td>2026-09-19</td></tr>
+<tr><td>ABB AG</td><td>Trainee (m/w/d) Technisches Produktmanagement - Grid Components Medium Voltage</td><td>Dusseldorf</td><td>2026-09-19</td></tr>
+<tr><td>Roche Holding AG</td><td>Ausbildung 2027: Fachinformatiker:in Für Anwendungsentwicklung, Standort Penzberg</td><td>Munich</td><td>2026-09-19</td></tr>
+<tr><td>ElringKlinger Ltd</td><td>Auszubildenden Zum Mechatroniker (m/w/d) / Ausbildungsbeginn 01.09.2026</td><td>Stuttgart</td><td>2026-09-19</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Werkstudent (w/m/d) It-servicedesk</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Ai Augmented Software Engineer [gn] Data Intelligence Platform</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst-operations & Cx</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Depotservice</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Produkte Private Altersvorsorge Und Vermögensaufbau</td><td>Unknown</td><td>2026-09-19</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Berater Finance Strategy Und Business Services - Business Consulting (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-19</td></tr>
+<tr><td>Schwarz Produktion</td><td>Fachkraft Gebäudeinstandhaltung/ Handwerker Instandhaltung Bauwesen (w/m/d)</td><td>Eystrup</td><td>2026-09-19</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker Innendienst (m/w/d) Fokus Photovoltaik/systemverbund</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker Innendienst (m/w/d) Fokus Photovoltaik/systemverbund</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>Arthrex Inc</td><td>Servicetechniker (m/w/d) Plz: 20 - 25, 27, 28, 38</td><td>Germany</td><td>2026-09-19</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker (m/w/d) Heizung/sanitär Berlin Nord / Bis Zu 7.500 € Brutto Starter-bonus</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker (m/w/d) Heizung/sanitär Berlin Ost / Bis Zu 7.500 € Brutto Starter-bonus</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Vonovia SE</td><td>Servicetechniker (m/w/d) Wasserschäden / Trocknung</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker Shk (m/w/d) Oranienburg/hennigsdorf/bernau / Bis Zu 7.500 € Brutto Starter-bonus</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Nutracorp</td><td>Mitarbeit In Der Instandhaltung (m/w/d)</td><td>Burgheim</td><td>2026-09-19</td></tr>
+<tr><td>UPM Nordland Papier GmbH</td><td>Elektroniker (springer Im Schichtdienst) (m/w/d)</td><td>DöRpen</td><td>2026-09-19</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/w/d)</td><td>Hamburg</td><td>2026-09-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-19</td></tr>
+<tr><td>Wppproduction</td><td>Administrative Assistant (m/w/d)</td><td>Hamburg</td><td>2026-09-19</td></tr>
 </table>
