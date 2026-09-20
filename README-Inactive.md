@@ -7075,4 +7075,80 @@
 <tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Berlin</td><td>2026-09-19</td></tr>
 <tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-19</td></tr>
 <tr><td>Wppproduction</td><td>Administrative Assistant (m/w/d)</td><td>Hamburg</td><td>2026-09-19</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Praktikum Im Bereich Materialfeldeinkauf</td><td>Aschaffenburg</td><td>2026-09-20</td></tr>
+<tr><td>Puma</td><td>Internship Product Line Management Sportstyle Footwear</td><td>Germany</td><td>2026-09-20</td></tr>
+<tr><td>Wells Fargo & Company</td><td>Off-cycle Internship – Corporate Banking & Financial Institutions Group</td><td>Frankfurt Am Main</td><td>2026-09-20</td></tr>
+<tr><td>QIAGEN</td><td>Working Student System Development (m/f/d)</td><td>Dusseldorf</td><td>2026-09-20</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Data Center & Platform Operations (m/w/d)</td><td>Ulm</td><td>2026-09-20</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Videoproduktion Und Digital Content</td><td>Ulm</td><td>2026-09-20</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Abschlussarbeit Ai-powered Transformation Office (m/w/d)</td><td>Ulm</td><td>2026-09-20</td></tr>
+<tr><td>FRoSTA AG</td><td>Internship In Production / Process Optimization (f/m/d)</td><td>Bremerhaven</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Nachhaltigkeit / Internship Sustainability</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Software-testing</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Communications Corporate, Products And Channels</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Im Bereich Logistik & Kundenauftragsabwicklung / Internship Logistics & Supply Chain</td><td>Obersontheim</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Robotik & Automatisierungstechnologien</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Zentrales Qualitätsmanagement / Internship Central Quality Management</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Marketing Übersetzungsmanagement / Internship Marketing Translation Management</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Hr Projects & Operations</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Qualitäts- Und Prozessmanagement & Digital Transformation / Internship Quality Management</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) / Praktikum Informationssicherheit</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Procurement Center Of Excellence</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Initiativbewerbung Für Ein Schulpraktikum Am Standort Winnenden</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Crm & Sales Systems</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Venture Clienting And Startup Investment</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship History Management</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Business Development - Aftermarket & Services</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Employee Development</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Cost Management</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Employer Branding, Social Media, Ausbildung Und Duales Studium / Hr Marketing</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Im Bereich Verpackungsentwicklung / Internship Packaging Development</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Compliance</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Busch-Jaeger</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>Wuppertal</td><td>2026-09-20</td></tr>
+<tr><td>EOS GmbH</td><td>Softwareentwickler Schwerpunkt Testautomatisierung (m/w/d)</td><td>Munich</td><td>2026-09-20</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Engagement</td><td>Berlin</td><td>2026-09-20</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Ios Core Product - Munich, Germany</td><td>Munich</td><td>2026-09-20</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Anwendungsentwickler Java / Springboot (m/w/d)</td><td>Munich</td><td>2026-09-20</td></tr>
+<tr><td>1&1 AG</td><td>Ai/ml Engineer (w/m/d)</td><td>Germany</td><td>2026-09-20</td></tr>
+<tr><td>Bauer Systems KG</td><td>Ki Experte / Ai Specialist (m/w/d)</td><td>Halle (Saale) +1</td><td>2026-09-20</td></tr>
+<tr><td>Jobgether</td><td>Growth Analyst (m/f/d)</td><td>Germany</td><td>2026-09-20</td></tr>
+<tr><td>thermofin GmbH</td><td>Bilanzbuchhalter (m/w/d)</td><td>Unknown</td><td>2026-09-20</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Experte Business Data Analyst - Cloud M/w/d</td><td>Frankfurt Am Main</td><td>2026-09-20</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Front Office Systeme Portfoliomanagement</td><td>Germany</td><td>2026-09-20</td></tr>
+<tr><td>AB</td><td>Field Service Technician Northern Germany (bremen, Lower Saxony, Schleswig-holstein)</td><td>Germany</td><td>2026-09-20</td></tr>
+<tr><td>Harbour Energy Germany GmbH</td><td>Facharbeiter Instandhaltung (m/w/d)</td><td>Dieksand</td><td>2026-09-20</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-09-20</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) In Müllrose</td><td>MüLlrose</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) In Vogelsdorf</td><td>Vogelsdorf</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Hollenstedt</td><td>Hollenstedt</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Hiring Day - Onshore servicetechniker (m/w/d)</td><td>Hanover</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Hannover/lehrte</td><td>Hanover</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Blade Technician (m/w/d) For Wind Turbines Blades In Vogelsdorf</td><td>Vogelsdorf</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Blade Technician (m/w/d) For Wind Turbines Blades In Empfingen</td><td>Empfingen</td><td>2026-09-20</td></tr>
+<tr><td>Kinectrics</td><td>Service Technician</td><td>Germany</td><td>2026-09-20</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Mechaniker (m/w/d) Für Raum Ostalb</td><td>Aalen-Ebnat</td><td>2026-09-20</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Electrical & Mechanical Wind Turbine Technicians (international Assignments)</td><td>Variable/Mobile Work Location</td><td>2026-09-20</td></tr>
+<tr><td>Accelleron</td><td>Service Engineer Turbolader (m/w/d)</td><td>Hamburg</td><td>2026-09-20</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Munich</td><td>2026-09-20</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Verkaufsberater Mit Schwerpunkt Make-up & Skincare (m/w/d) In Vollzeit</td><td>Frankfurt Am Main</td><td>2026-09-20</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate / Verkaufsberater In Teilzeit (m/w/d)</td><td>Hamburg</td><td>2026-09-20</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/f/d)</td><td>Dusseldorf</td><td>2026-09-20</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistikmitarbeiter Clearing (m/w/d)</td><td>Mutzschen</td><td>2026-09-20</td></tr>
+<tr><td>The LEGO Group</td><td>Verkäufer (m/w/d) In Teilzeit Im Lego Store Köln</td><td>Cologne</td><td>2026-09-20</td></tr>
+<tr><td>The LEGO Group</td><td>Verkäufer / Studentische Aushilfe (m/w/d) - Lego Store Essen - Teilzeit</td><td>Wuppertal</td><td>2026-09-20</td></tr>
+<tr><td>Deckers</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-09-20</td></tr>
+<tr><td>Urban Outfitters (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Berlin Mitte, Weinmeisterstrasse, De</td><td>Berlin</td><td>2026-09-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Berlin Ku</td><td>Berlin</td><td>2026-09-20</td></tr>
+<tr><td>Urban Outfitters</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Oberhausen Centroallee, De</td><td>Dusseldorf</td><td>2026-09-20</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Munster, Germany</td><td>Munster</td><td>2026-09-20</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Frankfurt Am Main</td><td>2026-09-20</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Zoo / Aquaristik (gn) Vollzeit Oder Teilzeit</td><td>Hamburg</td><td>2026-09-20</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baufertigteile (gn)</td><td>Stuttgart</td><td>2026-09-20</td></tr>
+<tr><td>Atos SE</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-09-20</td></tr>
+<tr><td>Vestas</td><td>Transport Coordinator (m/f/d)</td><td>Hodenhagen</td><td>2026-09-20</td></tr>
+<tr><td>Schaeffler</td><td>Executive Assistant Operations, Supply Chain Management & Purchasing (m/w/d)</td><td>Unknown</td><td>2026-09-20</td></tr>
+<tr><td>diversey.ba</td><td>Versand- Und Logistikkoordinator (m/w/d)</td><td>Sobernheim</td><td>2026-09-20</td></tr>
+<tr><td>Honeywell</td><td>Administrative Assistant (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-09-20</td></tr>
 </table>
