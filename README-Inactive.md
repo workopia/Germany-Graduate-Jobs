@@ -7298,4 +7298,5 @@
 <tr><td>Jimmy Fairly</td><td>Sales Assistant (m/w/d) In Vollzeit - Hamburg</td><td>Hamburg</td><td>2026-09-21</td></tr>
 <tr><td>Finn</td><td>(junior) Fleet Coordinator Kfz-technik & Fahrzeugmanagement (m/w/d)</td><td>Germany</td><td>2026-09-21</td></tr>
 <tr><td>bayernlb</td><td>Executive Assistant (m/w/d) Im Vorstandsbereich Cio/coo - Fokus Office Management</td><td>Munich</td><td>2026-09-21</td></tr>
+<tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Working Student In Energy Economics / Data Analysis (f/m/d)</td><td>Berlin</td><td>2026-09-21</td></tr>
 </table>

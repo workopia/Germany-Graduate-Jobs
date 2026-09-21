@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 11394,
-  "generated_at": "2026-09-21T01:07:56.700Z"
+  "generated_at": "2026-09-21T06:58:03.310Z"
  },
  "categories": [
   {
@@ -5341,23 +5341,6 @@
    "date_posted": "2026-07-24T04:47:51.406Z",
    "active": true,
    "url": "https://workopia.io/jobs/084eddbc2edc0c1744a59edf17d6567d",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "e953a7a899306fd035a487b2056ee503",
-   "source": "Workopia",
-   "company_name": "ELIA SYSTEM OPERATOR NVSA",
-   "company_hi_slug": "elia-system-operator-nvsa",
-   "title": "Working Student In Energy Economics / Data Analysis (f/m/d)",
-   "location": "Berlin",
-   "skills": "Data analysis, Energy economics",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-23T04:22:32.544Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e953a7a899306fd035a487b2056ee503",
    "category": "data",
    "tier": "Entry-level"
   },

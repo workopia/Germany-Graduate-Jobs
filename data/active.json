@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-21",
- "count": 687,
+ "count": 686,
  "jobs": {
   "2418284": {
    "id": "2418284",
@@ -1879,12 +1879,6 @@
    "company": "RWE AG",
    "role": "Ai & Data Engineer D/f/m",
    "location": "Essen +1"
-  },
-  "e953a7a899306fd035a487b2056ee503": {
-   "id": "e953a7a899306fd035a487b2056ee503",
-   "company": "ELIA SYSTEM OPERATOR NVSA",
-   "role": "Working Student In Energy Economics / Data Analysis (f/m/d)",
-   "location": "Berlin"
   },
   "d001892242fa87eab99337ff2f32ecd1": {
    "id": "d001892242fa87eab99337ff2f32ecd1",
