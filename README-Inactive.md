@@ -7299,4 +7299,104 @@
 <tr><td>Finn</td><td>(junior) Fleet Coordinator Kfz-technik & Fahrzeugmanagement (m/w/d)</td><td>Germany</td><td>2026-09-21</td></tr>
 <tr><td>bayernlb</td><td>Executive Assistant (m/w/d) Im Vorstandsbereich Cio/coo - Fokus Office Management</td><td>Munich</td><td>2026-09-21</td></tr>
 <tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Working Student In Energy Economics / Data Analysis (f/m/d)</td><td>Berlin</td><td>2026-09-21</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 27.09. - 08.10.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.07. - 16.07.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 08.03. - 19.03.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 28.06. - 09.07.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 11.10. - 22.10.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 28.06. - 09.07.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG</td><td>Schulpraktikum Versicherungen Im Zeitraum 25.01. - 05.02.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 14.06. - 25.06.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 18.01. - 29.01.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 27.09. - 08.10.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 27.09. - 08.10.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 25.06.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 15.03. - 25.03.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Kiel</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2026 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-09-22</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Praktikum Für Frauen</td><td>Wuppertal</td><td>2026-09-22</td></tr>
+<tr><td>HanseWerk AG</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>Koenig & Bauer AG</td><td>Praktikum Qualitäts- Und Umweltmanagement</td><td>Dresden</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Werkstudent Im Bereich Technical Claims Commercial (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-22</td></tr>
+<tr><td>Westnetz GmbH</td><td>Auszubildende Fachkraft Für Lagerlogistik (2027)</td><td>Brauweiler</td><td>2026-09-22</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kaufmann (all Genders) Speditions-/logistikdienstl. - Start 08/2026 - Standort Ennest</td><td>Attendorn-Ennest</td><td>2026-09-22</td></tr>
+<tr><td>Festo</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>St. Ingbert</td><td>2026-09-22</td></tr>
+<tr><td>Schönmackers Umweltdienste GmbH</td><td>Ausbildung 2027 - Kaufmann/-frau Für Büromanagement (m/w/d)</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-09-22</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-09-22</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Ausbildung - Fachinformatiker Für Anwendungsentwicklung (w/m/d) 2027</td><td>Giebelstadt</td><td>2026-09-22</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-09-22</td></tr>
+<tr><td>Zeppelin</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-22</td></tr>
+<tr><td>Magna Electronics Inc.</td><td>Auszubildender Zum Mechatroniker (m/w/x) Ab 01.09.2027</td><td>Sailauf</td><td>2026-09-22</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027</td><td>Unterreit</td><td>2026-09-22</td></tr>
+<tr><td>Altana</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2027</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>Altana</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Start 2027</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>Concur</td><td>Working Student (f/m/d) - Signavio Next Engineering (full-stack Llm Development)</td><td>Berlin +1</td><td>2026-09-22</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Advisory Suite</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Workflowmanagementsystem (all Genders)</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>SSI Schäfer Automation GmbH</td><td>Financial Accountant (w/m/d)</td><td>Giebelstadt</td><td>2026-09-22</td></tr>
+<tr><td>Jobgether</td><td>Business Analyst –data Sensitivity & Vdi Migration</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>Zeppelin</td><td>Servicetechniker Baumaschinen Und Baugeräte (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>KNDS Group</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>KNDS Group</td><td>Mechatroniker (m/w/d) Werksinstandhaltung</td><td>Unknown</td><td>2026-09-22</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Servicetechniker (m/w/d) Food & Beverage</td><td>Bremen</td><td>2026-09-22</td></tr>
+<tr><td>JD</td><td>Maintenance Engineer</td><td>North Rhine</td><td>2026-09-22</td></tr>
+<tr><td>RWS GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Im Bereich Electrical Maintenance</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>ukdd</td><td>Mitarbeiterin/mitarbeiter Klima Und Lüftung (m/w/d)</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>FRoSTA AG</td><td>Electrician Maintenance (f/m/d)</td><td>Bremerhaven</td><td>2026-09-22</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-22</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Elektriker*in / Mechatroniker*in (m/w/d) - Fokus Reparatur (befristet 12 Monate)</td><td>Ahorn</td><td>2026-09-22</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Kleinkoschen</td><td>Senftenberg - Kleinkoschen</td><td>2026-09-22</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>Carrier</td><td>Service Tech. Gebäudetechnik (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-22</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Bingen / Mainz / Worms</td><td>MöRfelden</td><td>2026-09-22</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Berlin Und Umgebung</td><td>Genshagen</td><td>2026-09-22</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Titisee Neustadt Und Umgebung</td><td>Freiburg Im Breisgau</td><td>2026-09-22</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Freiburg Und Umgebung</td><td>Freiburg Im Breisgau</td><td>2026-09-22</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Industrie Servicetechniker (m/w/d) Region Fulda</td><td>MöRfelden</td><td>2026-09-22</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Karlsruhe Und Umgebung</td><td>Karlsruhe</td><td>2026-09-22</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Frankfurt Am Main / Neu Isenburg Und Umgebung</td><td>Frankfurt Am Main</td><td>2026-09-22</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Landau In Der Pfalz Und Umgebung</td><td>Karlsruhe</td><td>2026-09-22</td></tr>
+<tr><td>Scania CV AB</td><td>Servicetechniker (m/w/d) Für München/oberschleißheim</td><td>Oberschleiß</td><td>2026-09-22</td></tr>
+<tr><td>Scania CV AB</td><td>Servicetechniker (m/w/d) Für Vechta/steinfeld</td><td>Steinfel</td><td>2026-09-22</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Servicetechniker International (m/w/d)</td><td>Wolfertschwenden</td><td>2026-09-22</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Mechaniker Endmontage (m/w/d)</td><td>Wolfertschwenden</td><td>2026-09-22</td></tr>
+<tr><td>gewerblicheberufe.de</td><td>Application Technician & Paint Buddy Operator*</td><td>Ober</td><td>2026-09-22</td></tr>
+<tr><td>Amazon</td><td>Servicetechniker / Mechatroniker / Elektroniker / Mechaniker - Gattendorf bei bei Bayreuth / Coburg / Zwickau / Hof</td><td>Gattendorf</td><td>2026-09-22</td></tr>
+<tr><td>SIG Information Technology GmbH</td><td>Service Techniker Außendienst / Field Service Engineer Germany (m/w/d)</td><td>Germany</td><td>2026-09-22</td></tr>
+<tr><td>Lauscha Fiber International GmbH</td><td>Elektriker M/w/d</td><td>Lauscha</td><td>2026-09-22</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Systemtechniker (m/w/d) - Zeit- Und Zutrittssysteme / Großraum Leipzig</td><td>Leipzig</td><td>2026-09-22</td></tr>
+<tr><td>WIN COSMETIC GmbH & Co. KG</td><td>Betriebsschlosser (m/w/d)</td><td>FlöRsheim-Dalsheim</td><td>2026-09-22</td></tr>
+<tr><td>Clariant International</td><td>Techniker*in Mechanik</td><td>Gendorf</td><td>2026-09-22</td></tr>
+<tr><td>TK Maxx</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>REWE Felix Brüggemann oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Disposition / Warenbestellung / Logistik - Auch Quereinsteiger (m/w/d)</td><td>Hamburg</td><td>2026-09-22</td></tr>
+<tr><td>PENNY</td><td>Ausbildung Verkäufer (m/w/d)</td><td>Ingolstadt</td><td>2026-09-22</td></tr>
+<tr><td>REWE Schäfer oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>Rewe Group</td><td>Minijob / Aushilfe Schrauben Und Beschläge (m/w/d)</td><td>Berlin</td><td>2026-09-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Wareneingangskontrolle (m/w/d)</td><td>Eitting</td><td>2026-09-22</td></tr>
+<tr><td>REWE Schäfer oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store Ludwigsburg (m/w/d) (20 Std./wo.) (befr. Für 1 Jahr)</td><td>Stuttgart</td><td>2026-09-22</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Compliance Specialist, It Compliance Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob Fo Neumünster (temp) (m/w/d)</td><td>Kiel</td><td>2026-09-22</td></tr>
+<tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-09-22</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistikmitarbeiter Gefahrgutkoordinator / Sachbearbeiter Gefahrgut (m/w/d)</td><td>Mutzschen</td><td>2026-09-22</td></tr>
+<tr><td>Korber AG</td><td>Assistenz Der Geschäftsführung / Vorstandsassistenz (m/w/d)</td><td>Unknown</td><td>2026-09-22</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Werkstudent Human Resources - Hr Administration (m/w/d)</td><td>Munich</td><td>2026-09-22</td></tr>
+<tr><td>Infineon</td><td>Working Student – Marketing And Communications (f/m/div)</td><td>Munich</td><td>2026-09-22</td></tr>
+<tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-09-22</td></tr>
+<tr><td>createyourowncareer</td><td>Customer Service Specialist (m/w/d)</td><td>Berlin</td><td>2026-09-22</td></tr>
 </table>
