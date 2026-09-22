@@ -7399,4 +7399,9 @@
 <tr><td>Infineon</td><td>Working Student – Marketing And Communications (f/m/div)</td><td>Munich</td><td>2026-09-22</td></tr>
 <tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-09-22</td></tr>
 <tr><td>createyourowncareer</td><td>Customer Service Specialist (m/w/d)</td><td>Berlin</td><td>2026-09-22</td></tr>
+<tr><td>RWE AG</td><td>Ai & Data Engineer D/f/m</td><td>Essen +1</td><td>2026-09-22</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Werkstudent Business Analytics (m/w/d)</td><td>Munich</td><td>2026-09-22</td></tr>
+<tr><td>REWE Ambroise Forssman-Trevedy oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
+<tr><td>REWE Salvatore Minacapilli oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Saarbruecken</td><td>2026-09-22</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 687,
+ "count": 685,
  "jobs": {
   "2418284": {
    "id": "2418284",
@@ -1880,12 +1880,6 @@
    "role": "Data Analyst & Process Automation Expert (f/m/d)",
    "location": "Bremerhaven +1"
   },
-  "084eddbc2edc0c1744a59edf17d6567d": {
-   "id": "084eddbc2edc0c1744a59edf17d6567d",
-   "company": "RWE AG",
-   "role": "Ai & Data Engineer D/f/m",
-   "location": "Essen +1"
-  },
   "d001892242fa87eab99337ff2f32ecd1": {
    "id": "d001892242fa87eab99337ff2f32ecd1",
    "company": "Deloitte GmbH",
@@ -1992,12 +1986,6 @@
    "id": "c0db32cf87cd014dd34567d23fb48f00",
    "company": "Ernst & Young Global Ltd",
    "role": "Praktikant Unternehmensberatung - Business Transformation - Consulting (financial Services) (w/m/d)",
-   "location": "Munich"
-  },
-  "c953026769ab4de8d4ade6256bf24c2e": {
-   "id": "c953026769ab4de8d4ade6256bf24c2e",
-   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
-   "role": "Werkstudent Business Analytics (m/w/d)",
    "location": "Munich"
   },
   "2017b432d6fef839a8d6961f9463b20a": {
@@ -3230,6 +3218,24 @@
    "role": "Verkäufer (m/w/d)",
    "location": "Cologne"
   },
+  "618ec637684f966cf5e13cc1f640d787": {
+   "id": "618ec637684f966cf5e13cc1f640d787",
+   "company": "Oberalp S.p.a",
+   "role": "Fachverkäufer Salewa Outlet Huma / Teilzeit",
+   "location": "Cologne"
+  },
+  "e747c70d88d1a7d0d47407e0df0591db": {
+   "id": "e747c70d88d1a7d0d47407e0df0591db",
+   "company": "Oberalp S.p.a",
+   "role": "Fachverkäufer In Teilzeit (m/w/d) Salewa Outlet Aschheim",
+   "location": "Munich"
+  },
+  "f80c81f0956d605e647d214e389808a2": {
+   "id": "f80c81f0956d605e647d214e389808a2",
+   "company": "Oberalp S.p.a",
+   "role": "Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken",
+   "location": "Saarbruecken"
+  },
   "65cf627c637fa5f09ef490597d857210": {
    "id": "65cf627c637fa5f09ef490597d857210",
    "company": "FC Bayern Muenchen AG",
@@ -3625,24 +3631,6 @@
    "company": "REWE Armin Lenzen oHG",
    "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
-  },
-  "4d66600840735a4eb58bb70fee62866c": {
-   "id": "4d66600840735a4eb58bb70fee62866c",
-   "company": "REWE Ambroise Forssman-Trevedy oHG",
-   "role": "Verkäufer Getränke (m/w/d)",
-   "location": "Cologne"
-  },
-  "5e1aa6252dbef7cc4d14f1f6f198e7f0": {
-   "id": "5e1aa6252dbef7cc4d14f1f6f198e7f0",
-   "company": "Rewe Group",
-   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "99747a6f9cc230e24388faf5d8dc1055": {
-   "id": "99747a6f9cc230e24388faf5d8dc1055",
-   "company": "REWE Salvatore Minacapilli oHG",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
-   "location": "Saarbruecken"
   },
   "6b5c34e3f55ea7caed44e53ed2a1ea2d": {
    "id": "6b5c34e3f55ea7caed44e53ed2a1ea2d",
