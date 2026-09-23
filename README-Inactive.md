@@ -7493,4 +7493,46 @@
 <tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-hummelsbüttel</td><td>Hamburg</td><td>2026-09-23</td></tr>
 <tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-hummelsbüttel (18,5/20 Std)</td><td>Hamburg</td><td>2026-09-23</td></tr>
 <tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Financial Services - Insurance (m/w/d)</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Audit (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Infrastructure & Capital Projects (m/w/d)</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Analytics / Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Corporate Treasury (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Transfer Pricing (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Government & Finance Support Public Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Organisationsberatung (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Audit / Wirtschaftsprüfung (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Vonovia SE</td><td>Trainee (m/w/d) Technischer Service - Maintal</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>DS Smith PLC</td><td>Ausbildung Medientechnologe Druck (m/w/d) - 1.9.2027</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Emerson Electric Company</td><td>Ausbildung Zum Fachlageristen (m/w/d)</td><td>Wuppertal</td><td>2026-09-23</td></tr>
+<tr><td>Eterno Health</td><td>Full-stack Engineer (berlin/hybrid)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Datwyler Holding AG</td><td>Bilanzbuchhalter In Teilzeit (50%)</td><td>Cleebronn</td><td>2026-09-23</td></tr>
+<tr><td>Schwarz Produktion</td><td>Mechatroniker / Elektroniker Für Betriebstechnik (w/m/d)</td><td>ÜBach</td><td>2026-09-23</td></tr>
+<tr><td>Schwarz Produktion</td><td>Haustechniker / Anlagentechniker Versorgungstechnik / Betriebstechniker (w/m/d)</td><td>Eystrup</td><td>2026-09-23</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhaltung - Mechanik (w/m/d)</td><td>RoßBach</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Köln (porz)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (alex)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Berlin (hbf)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Bonn (innenstadt)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (bad Godesberg)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarbrücken</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Ravensburg</td><td>Constance</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bochum (drehscheibe)</td><td>Dortmund</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Mülheim/ruhr</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Verkäufer / Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Initiativbewerbung / Sales Associate (m/w/d) In Einer Unserer Boutiquen Am Standort München</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist /verkäufer In Teilzeit (m/w/d) In Teilzeit (20 Stunden)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Teilzeit M/w/d</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>TJX Companies</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>ManualUSA</td><td>Specialist Storage</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>The LEGO Group</td><td>Verkäufer (m/w/d) - Lego Store Bonn - Teilzeit</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>COS</td><td>Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-wandsbek (20 Std)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-altona (20 Std)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-langenhorn</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Ahrensfelde</td><td>2026-09-23</td></tr>
 </table>

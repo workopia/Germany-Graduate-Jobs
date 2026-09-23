@@ -188,6 +188,66 @@
    "role": "Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)",
    "location": "Dusseldorf"
   },
+  "8602ec2f668c715adab87b5366d429c1": {
+   "id": "8602ec2f668c715adab87b5366d429c1",
+   "company": "Barilla Group",
+   "role": "Praktikum Im Marketing Category Condiments (pesto)",
+   "location": "Cologne"
+  },
+  "0f4ec22b65c35b2b24effa3b527d1c5c": {
+   "id": "0f4ec22b65c35b2b24effa3b527d1c5c",
+   "company": "flatexDEGIRO AG",
+   "role": "Werkstudent/ In Corporate Actions (m/w/d)",
+   "location": "Germany"
+  },
+  "fa8476c5af8e5d8ebc54ebd0e1b0b03c": {
+   "id": "fa8476c5af8e5d8ebc54ebd0e1b0b03c",
+   "company": "CLAAS Saulgau GmbH",
+   "role": "Praktikum Controlling",
+   "location": "Constance"
+  },
+  "a2f894aa7f5a40847d6efbd112363de8": {
+   "id": "a2f894aa7f5a40847d6efbd112363de8",
+   "company": "CLAAS",
+   "role": "Student (m/w/d) Claas Inside Im Bereich Fertigungstechnik",
+   "location": "Bielefeld"
+  },
+  "661e5083b75307b30658fd044e50a3fe": {
+   "id": "661e5083b75307b30658fd044e50a3fe",
+   "company": "CLAAS",
+   "role": "Claas Inside Absatzfinanzierung",
+   "location": "Herzebrock-Clarholz"
+  },
+  "14f131fc9dee6cfb0872e87ae4de460b": {
+   "id": "14f131fc9dee6cfb0872e87ae4de460b",
+   "company": "LEMKEN GmbH",
+   "role": "Initiativbewerbung Praktikum Und/oder Abschlussarbeit",
+   "location": "Germany"
+  },
+  "1c910aae06b34affc724a4919be36947": {
+   "id": "1c910aae06b34affc724a4919be36947",
+   "company": "LEMKEN GmbH",
+   "role": "Praktikum Und/oder Abschlussarbeit Corporate Marketing (messe & Event)",
+   "location": "Unknown"
+  },
+  "28851a8bf45c057f6020d650004ba78d": {
+   "id": "28851a8bf45c057f6020d650004ba78d",
+   "company": "ORBIS AG",
+   "role": "It-praktikant (m/w/d) Am Standort Saarbrücken",
+   "location": "Saarbruecken"
+  },
+  "5bee58e7a45226b1f4abd72f57b87625": {
+   "id": "5bee58e7a45226b1f4abd72f57b87625",
+   "company": "ZF Friedrichshafen",
+   "role": "Freiwilliges Praktikum: Mergers & Acquisitions / Kooperationen / Finanz Zf Group (m/w/d)",
+   "location": "Constance"
+  },
+  "f971fbb141e992e51dd3103c3c0c1864": {
+   "id": "f971fbb141e992e51dd3103c3c0c1864",
+   "company": "Zdf",
+   "role": "Schülerpraktikant*in Red Fernsehgarten (3. Quartal 2027)",
+   "location": "Darmstadt"
+  },
   "2f90c438cdf0b2d4f0ee01434ced3994": {
    "id": "2f90c438cdf0b2d4f0ee01434ced3994",
    "company": "Zurich Insurance Company Ltd",
@@ -446,66 +506,6 @@
    "role": "Praktikant Performance Improvement Schwerpunkt Operative Restrukturierung(m/w/d)",
    "location": "Dusseldorf"
   },
-  "c29569d7960d7513e2ccbe48c8c4df94": {
-   "id": "c29569d7960d7513e2ccbe48c8c4df94",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant Financial Services - Insurance (m/w/d)",
-   "location": "Dusseldorf"
-  },
-  "5567e110fbb592509bf05604971d2004": {
-   "id": "5567e110fbb592509bf05604971d2004",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant Audit (m/w/d)",
-   "location": "Berlin"
-  },
-  "adad859d73d640a6ec35de6ac4b19834": {
-   "id": "adad859d73d640a6ec35de6ac4b19834",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)",
-   "location": "Dusseldorf"
-  },
-  "2bb215c4978865897d225c7e2d657eb7": {
-   "id": "2bb215c4978865897d225c7e2d657eb7",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant Infrastructure & Capital Projects (m/w/d)",
-   "location": "Dusseldorf"
-  },
-  "51bb404623880e39d10e6a605b0952f7": {
-   "id": "51bb404623880e39d10e6a605b0952f7",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant M&a Analytics / Transaction Diligence (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "dfdaa4bb3b7e4d093e58c0b93269ba76": {
-   "id": "dfdaa4bb3b7e4d093e58c0b93269ba76",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant Corporate Treasury (m/w/d)",
-   "location": "Berlin"
-  },
-  "ce60f2bb7f2bb87b56e3f48db9dceb35": {
-   "id": "ce60f2bb7f2bb87b56e3f48db9dceb35",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant / Werkstudent Transfer Pricing (m/w/d)",
-   "location": "Berlin"
-  },
-  "34393b40f8e7596fbcf3e921506fad2c": {
-   "id": "34393b40f8e7596fbcf3e921506fad2c",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant Government & Finance Support Public Services (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "0a64257b46a161fd59059089de59a373": {
-   "id": "0a64257b46a161fd59059089de59a373",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Organisationsberatung (m/w/d)",
-   "location": "Cologne"
-  },
-  "e04b367af6b60cd1325a1bf11e282553": {
-   "id": "e04b367af6b60cd1325a1bf11e282553",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Audit / Wirtschaftsprüfung (m/w/d)",
-   "location": "Berlin"
-  },
   "33847b0472aee75e46264b7127077abc": {
    "id": "33847b0472aee75e46264b7127077abc",
    "company": "Hornbach Baumarkt AG",
@@ -541,6 +541,24 @@
    "company": "Uniper Holding GmbH",
    "role": "Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027",
    "location": "Unterreit"
+  },
+  "eb25e511fd8b5dfb59c4c280f68d8e14": {
+   "id": "eb25e511fd8b5dfb59c4c280f68d8e14",
+   "company": "Nexus Schweiz GmbH",
+   "role": "One Nexus / Trainee (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "76f0adb3620267294b03c8ea50cb5f57": {
+   "id": "76f0adb3620267294b03c8ea50cb5f57",
+   "company": "ROCKWOOL Operations GmbH & Co. KG",
+   "role": "Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) - Start 01.08.2027",
+   "location": "Dortmund"
+  },
+  "bde6f1c6c81555e89263646e0b9a8bc9": {
+   "id": "bde6f1c6c81555e89263646e0b9a8bc9",
+   "company": "ZF Friedrichshafen",
+   "role": "Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover",
+   "location": "Hanover"
   },
   "78fccd484705ad02dcd4e7ae5630a2af": {
    "id": "78fccd484705ad02dcd4e7ae5630a2af",
@@ -968,24 +986,6 @@
    "role": "Bachelor In It With Apprenticeship It Specialist In System Integration (bhh) (m/f/d)",
    "location": "Hamburg"
   },
-  "5a0986a9137c6f7cc6558f7173b8bfa2": {
-   "id": "5a0986a9137c6f7cc6558f7173b8bfa2",
-   "company": "Vonovia SE",
-   "role": "Trainee (m/w/d) Technischer Service - Maintal",
-   "location": "Frankfurt Am Main"
-  },
-  "5589a15b36838ee5b9fc75bdff2d07d1": {
-   "id": "5589a15b36838ee5b9fc75bdff2d07d1",
-   "company": "DS Smith PLC",
-   "role": "Ausbildung Medientechnologe Druck (m/w/d) - 1.9.2027",
-   "location": "Frankfurt Am Main"
-  },
-  "0d35eecff690c13ff197b385118c29b7": {
-   "id": "0d35eecff690c13ff197b385118c29b7",
-   "company": "Emerson Electric Company",
-   "role": "Ausbildung Zum Fachlageristen (m/w/d)",
-   "location": "Wuppertal"
-  },
   "d597bab54941d93402655ea2871a8801": {
    "id": "d597bab54941d93402655ea2871a8801",
    "company": "Festo AG & Co. KG",
@@ -1165,6 +1165,24 @@
    "company": "Jobgether",
    "role": "Founding Full-stack Engineer",
    "location": "Germany"
+  },
+  "6668e7452ffd2b09660107325a41a82c": {
+   "id": "6668e7452ffd2b09660107325a41a82c",
+   "company": "NEXUS / SCHAUF GmbH",
+   "role": "It-support & Projektmitarbeiter (m/w/d)",
+   "location": "Berlin"
+  },
+  "72addc72a2421e1bb33a0d1c7b952bc2": {
+   "id": "72addc72a2421e1bb33a0d1c7b952bc2",
+   "company": "NEXUS Deutschland GmbH",
+   "role": "Softwareentwickler C# / .net Core (m/w/d) - Berlin",
+   "location": "Berlin"
+  },
+  "a5594e0f82f12fe252db04ffd43b750a": {
+   "id": "a5594e0f82f12fe252db04ffd43b750a",
+   "company": "Nexus Schweiz GmbH",
+   "role": "Backend-/datenbank-entwickler (m/w/d) - Berlin",
+   "location": "Berlin"
   },
   "1ffc3aa2420e1350375156911665c9f6": {
    "id": "1ffc3aa2420e1350375156911665c9f6",
@@ -1616,24 +1634,6 @@
    "role": "Backend Engineer - Cards & Digital Wallets",
    "location": "Berlin"
   },
-  "bfb1a2e9cf8ae50ff24ab62109a9694d": {
-   "id": "bfb1a2e9cf8ae50ff24ab62109a9694d",
-   "company": "Eterno Health",
-   "role": "Full-stack Engineer (berlin/hybrid)",
-   "location": "Berlin"
-  },
-  "72addc72a2421e1bb33a0d1c7b952bc2": {
-   "id": "72addc72a2421e1bb33a0d1c7b952bc2",
-   "company": "NEXUS Deutschland GmbH",
-   "role": "Softwareentwickler C# / .net Core (m/w/d) - Berlin",
-   "location": "Berlin"
-  },
-  "a5594e0f82f12fe252db04ffd43b750a": {
-   "id": "a5594e0f82f12fe252db04ffd43b750a",
-   "company": "Nexus Schweiz GmbH",
-   "role": "Backend-/datenbank-entwickler (m/w/d) - Berlin",
-   "location": "Berlin"
-  },
   "fa7bc84d3c3bda291f11cfb91f31f615": {
    "id": "fa7bc84d3c3bda291f11cfb91f31f615",
    "company": "createyourowncareer",
@@ -2022,6 +2022,12 @@
    "id": "0dbae2948be557167f46bbbc98a6d1fe",
    "company": "Ernst & Young Global Ltd",
    "role": "Bilanzbuchhalter Experte Umsatzrealisierung (w/m/d)",
+   "location": "Germany"
+  },
+  "b138c44617fc0a63761e7f7c0741072d": {
+   "id": "b138c44617fc0a63761e7f7c0741072d",
+   "company": "Gv Management GmbH",
+   "role": "Bilanz- Oder Finanzbuchhalter In Vz (m/w/d)",
    "location": "Germany"
   },
   "2017b432d6fef839a8d6961f9463b20a": {
@@ -2486,12 +2492,6 @@
    "role": "Sap Business Transformation Resources (all Genders)",
    "location": "Frankfurt Am Main"
   },
-  "6d3ad9d73e8cf6e7e7fcba1630d97fab": {
-   "id": "6d3ad9d73e8cf6e7e7fcba1630d97fab",
-   "company": "Datwyler Holding AG",
-   "role": "Bilanzbuchhalter In Teilzeit (50%)",
-   "location": "Cleebronn"
-  },
   "86a4b5909e7f9df0a2fc2667a06bcc5e": {
    "id": "86a4b5909e7f9df0a2fc2667a06bcc5e",
    "company": "Kirchliche Hochschule Bethel",
@@ -2749,6 +2749,24 @@
    "company": "Rosler Oberflachentechnik GmbH",
    "role": "Servicemonteur (m/w/d)",
    "location": "Untermerzbach"
+  },
+  "28550b39a814644b1ce3b37ed0e206d8": {
+   "id": "28550b39a814644b1ce3b37ed0e206d8",
+   "company": "AMETEK Inc",
+   "role": "Service Techniker Im Außendienst (m/w/d) Im Großraum Hessen/baden-württemberg",
+   "location": "Hessen +1"
+  },
+  "c96622d837c0e9fa010e613df5daf2c3": {
+   "id": "c96622d837c0e9fa010e613df5daf2c3",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Servicetechniker (m/w/d) Außendienst Für Central Deutschland",
+   "location": "ThüRingen +1"
+  },
+  "29343fdbc931d5c09d865cb379592a22": {
+   "id": "29343fdbc931d5c09d865cb379592a22",
+   "company": "ZF Friedrichshafen AG",
+   "role": "Servicemonteur (m/w/d)",
+   "location": "Berlin"
   },
   "9106b17d3e1fd7585825095e0fa0faa6": {
    "id": "9106b17d3e1fd7585825095e0fa0faa6",
@@ -3170,24 +3188,6 @@
    "role": "Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)",
    "location": "RoßBach"
   },
-  "1c8383f08e20b7356a1b8e423cce1e8f": {
-   "id": "1c8383f08e20b7356a1b8e423cce1e8f",
-   "company": "Schwarz Produktion",
-   "role": "Mechatroniker / Elektroniker Für Betriebstechnik (w/m/d)",
-   "location": "ÜBach"
-  },
-  "2ae5690e3b8fb8354dbeba570748fb4f": {
-   "id": "2ae5690e3b8fb8354dbeba570748fb4f",
-   "company": "Schwarz Produktion",
-   "role": "Haustechniker / Anlagentechniker Versorgungstechnik / Betriebstechniker (w/m/d)",
-   "location": "Eystrup"
-  },
-  "7103d122d5bd0c7625b38c4d6e14a814": {
-   "id": "7103d122d5bd0c7625b38c4d6e14a814",
-   "company": "Schwarz Produktion",
-   "role": "Instandhaltung - Mechanik (w/m/d)",
-   "location": "RoßBach"
-  },
   "9ec8e5355bb0d2f97d4f0fd2af3053c6": {
    "id": "9ec8e5355bb0d2f97d4f0fd2af3053c6",
    "company": "Hornbach Baumarkt AG",
@@ -3331,6 +3331,144 @@
    "company": "PVH",
    "role": "Mini-jobber München Tommy Hilfiger Oberpollinger (m/w/d)",
    "location": "Munich"
+  },
+  "926ca928c25cd3075622abdc5a58baa8": {
+   "id": "926ca928c25cd3075622abdc5a58baa8",
+   "company": "PENNY",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Hamburg"
+  },
+  "3a3abee9fa351a4a84f2f61f0a4d96b5": {
+   "id": "3a3abee9fa351a4a84f2f61f0a4d96b5",
+   "company": "Rewe Group",
+   "role": "Aushilfe / Minijob Warenverräumung (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "255bbb836801bfd486caae48ee5d7fc5": {
+   "id": "255bbb836801bfd486caae48ee5d7fc5",
+   "company": "REWE Mathias Götz oHG",
+   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "0abb9e552a5819fd259c70fdfcd05767": {
+   "id": "0abb9e552a5819fd259c70fdfcd05767",
+   "company": "Rewe Group",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "53e3f4091b8b506df256af09e330992a": {
+   "id": "53e3f4091b8b506df256af09e330992a",
+   "company": "Rewe Group",
+   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "350ac62acf85d62b51f0a29866b9a752": {
+   "id": "350ac62acf85d62b51f0a29866b9a752",
+   "company": "REWE",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "cf10ffcf5e5e25af9d8ba0b721855dea": {
+   "id": "cf10ffcf5e5e25af9d8ba0b721855dea",
+   "company": "Rewe Group",
+   "role": "Lagerassistent Warenausgang (m/w/d)",
+   "location": "Eitting"
+  },
+  "c9bce6e47e80695bda5eb12dfdb298bb": {
+   "id": "c9bce6e47e80695bda5eb12dfdb298bb",
+   "company": "REWE Astrid Gogol oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "27c2aada91086e3d08a113abada92e1a": {
+   "id": "27c2aada91086e3d08a113abada92e1a",
+   "company": "Rewe Group",
+   "role": "Verkäufer Werkzeuge Und Baustoffe - Auch Quereinsteiger (m/w/d)",
+   "location": "Berlin"
+  },
+  "92552c7d5bd922e096acfaf8537d4624": {
+   "id": "92552c7d5bd922e096acfaf8537d4624",
+   "company": "REWE Arthur Boos GmbH & Co. oHG",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
+  },
+  "759952e61e5f7e00f75945010503124f": {
+   "id": "759952e61e5f7e00f75945010503124f",
+   "company": "REWE Arthur Boos GmbH & Co. oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "517173ff94f90be3236018ecd5896ba0": {
+   "id": "517173ff94f90be3236018ecd5896ba0",
+   "company": "REWE Arthur Boos GmbH & Co. oHG",
+   "role": "Verkäufer Obst & Gemüse (m/w/d)",
+   "location": "Cologne"
+  },
+  "1fd37901c8cbc7bf103c1318398c84c3": {
+   "id": "1fd37901c8cbc7bf103c1318398c84c3",
+   "company": "REWE Arthur Boos GmbH & Co. oHG",
+   "role": "Verkäufer Getränke (m/w/d)",
+   "location": "Cologne"
+  },
+  "028859e79315bc1dcc3c90237bd2cfe8": {
+   "id": "028859e79315bc1dcc3c90237bd2cfe8",
+   "company": "Rewe Group",
+   "role": "Verkäufer Backshop (m/w/d)",
+   "location": "Munich"
+  },
+  "13ae18f859998e98fcfd7f65d5f202c6": {
+   "id": "13ae18f859998e98fcfd7f65d5f202c6",
+   "company": "REWE Gritzner oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Sb-frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "e3b3f929926d658fc9ea611d05a26401": {
+   "id": "e3b3f929926d658fc9ea611d05a26401",
+   "company": "REWE Istas Verbrauchermarkt GmbH & Co. OHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "42e0fc3966b9cbce9c944e20a3691953": {
+   "id": "42e0fc3966b9cbce9c944e20a3691953",
+   "company": "REWE",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "dfda0a240d3cdbf7b36000a73f47d1f4": {
+   "id": "dfda0a240d3cdbf7b36000a73f47d1f4",
+   "company": "Rewe Group",
+   "role": "Verkäufer Werkzeuge, Eisenwaren Und Baustoffe - Auch Quereinsteiger (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "feb7458bdd6393b9b85def68e58ee5e5": {
+   "id": "feb7458bdd6393b9b85def68e58ee5e5",
+   "company": "Rewe Group",
+   "role": "Lagerist / Kommissionierer (m/w/d)",
+   "location": "GäUfelden"
+  },
+  "665f5e24cce65fb3559ff61c9df59e88": {
+   "id": "665f5e24cce65fb3559ff61c9df59e88",
+   "company": "REWE Oliver Frank GmbH & Co. oHG",
+   "role": "Verkäufer Schließfunktion (m/w/d)",
+   "location": "Cologne"
+  },
+  "566e635776252cfd8329e02897882465": {
+   "id": "566e635776252cfd8329e02897882465",
+   "company": "REWE Oliver Frank GmbH & Co. oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "3f6460dee995518d72b19df327266d6e": {
+   "id": "3f6460dee995518d72b19df327266d6e",
+   "company": "Rewe Group",
+   "role": "Verkäufer Obst & Gemüse (m/w/d)",
+   "location": "Cologne"
+  },
+  "dbdc7e55ee3518160db1e54ab25060a6": {
+   "id": "dbdc7e55ee3518160db1e54ab25060a6",
+   "company": "REWE Buhlmann oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
   },
   "e4ea55cadd9deb344dc12593f9403723": {
    "id": "e4ea55cadd9deb344dc12593f9403723",
@@ -3518,149 +3656,17 @@
    "role": "Verkäufer (m/w/d), Teilzeit, Köln (chlodwigplatz)",
    "location": "Cologne"
   },
-  "cce227aff2e6fb7fabe84dcca696586e": {
-   "id": "cce227aff2e6fb7fabe84dcca696586e",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Aushilfe, Köln (porz)",
-   "location": "Cologne"
-  },
-  "eea8f36cafed03c80033e2d13b0af72b": {
-   "id": "eea8f36cafed03c80033e2d13b0af72b",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Berlin (alex)",
-   "location": "Berlin"
-  },
-  "dfe5bafdb1ed2659837cff7e669d5684": {
-   "id": "dfe5bafdb1ed2659837cff7e669d5684",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Aushilfe, Berlin (hbf)",
-   "location": "Berlin"
-  },
-  "d6c047b05ac413e9c42b79601faa5424": {
-   "id": "d6c047b05ac413e9c42b79601faa5424",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Aushilfe, Bonn (innenstadt)",
-   "location": "Cologne"
-  },
-  "ca3363963c731d10a2594e833f5e9b9e": {
-   "id": "ca3363963c731d10a2594e833f5e9b9e",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Bonn (bad Godesberg)",
-   "location": "Cologne"
-  },
-  "99cd4c367c25c8aacc966cffcc2293fc": {
-   "id": "99cd4c367c25c8aacc966cffcc2293fc",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Saarbrücken",
-   "location": "Saarbruecken"
-  },
-  "ddc7a6951fd8e08562c1eac665086f0f": {
-   "id": "ddc7a6951fd8e08562c1eac665086f0f",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Aushilfe, Ravensburg",
-   "location": "Constance"
-  },
-  "53be4562ab82035fe156484f366a07c0": {
-   "id": "53be4562ab82035fe156484f366a07c0",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Bochum (drehscheibe)",
-   "location": "Dortmund"
-  },
-  "2003a883c0633b2502527e842f5e0031": {
-   "id": "2003a883c0633b2502527e842f5e0031",
-   "company": "Tchibo GmbH",
-   "role": "Verkaufsmitarbeiter (m/w/d), Teilzeit, Mülheim/ruhr",
-   "location": "Dusseldorf"
-  },
-  "fe3ac8c2c8de27031b6f1e764f63e1b0": {
-   "id": "fe3ac8c2c8de27031b6f1e764f63e1b0",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)",
-   "location": "Cologne"
-  },
-  "f6a84dc9dc9183cc4bea831860ea32f8": {
-   "id": "f6a84dc9dc9183cc4bea831860ea32f8",
-   "company": "Dyson",
-   "role": "Verkaufsberater:in/sales Associate",
-   "location": "Cologne"
-  },
-  "59acc9d947d2eba8eac835e53413f839": {
-   "id": "59acc9d947d2eba8eac835e53413f839",
-   "company": "TJX Deutschland Ltd. & Co. KG",
-   "role": "Verkäufer / Mitarbeiter Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "ae689442f79460b51b7d2fe75b9f67b8": {
-   "id": "ae689442f79460b51b7d2fe75b9f67b8",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Initiativbewerbung / Sales Associate (m/w/d) In Einer Unserer Boutiquen Am Standort München",
-   "location": "Munich"
-  },
-  "739a1fd5b934e5527cb91e1230b43b3e": {
-   "id": "739a1fd5b934e5527cb91e1230b43b3e",
-   "company": "Levis Media",
-   "role": "Sales Stylist /verkäufer In Teilzeit (m/w/d) In Teilzeit (20 Stunden)",
-   "location": "Berlin"
-  },
-  "a954868c8510b9f28b2946d9d239ed08": {
-   "id": "a954868c8510b9f28b2946d9d239ed08",
-   "company": "Levis Media",
-   "role": "Sales Stylist In Teilzeit M/w/d",
-   "location": "Cologne"
-  },
-  "3afd81b5eb20429c361b780c9a6ecdfa": {
-   "id": "3afd81b5eb20429c361b780c9a6ecdfa",
-   "company": "Levis Media",
-   "role": "Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)",
-   "location": "Hamburg"
-  },
-  "bb36126115f43785b6ad7e447d687fca": {
-   "id": "bb36126115f43785b6ad7e447d687fca",
-   "company": "TJX Companies",
-   "role": "Ausbildung Zum*zur Verkäufer*in (m/w/d)",
-   "location": "Berlin"
-  },
-  "ca5a24078fc041f1d64c5f98a2e374c5": {
-   "id": "ca5a24078fc041f1d64c5f98a2e374c5",
-   "company": "ManualUSA",
-   "role": "Specialist Storage",
-   "location": "Dusseldorf"
-  },
-  "3bcf2f48d1772490d28efd041a9de1e4": {
-   "id": "3bcf2f48d1772490d28efd041a9de1e4",
-   "company": "The LEGO Group",
-   "role": "Verkäufer (m/w/d) - Lego Store Bonn - Teilzeit",
-   "location": "Cologne"
-  },
-  "2646cf02b46a14809a66fc6f47af789d": {
-   "id": "2646cf02b46a14809a66fc6f47af789d",
-   "company": "COS",
-   "role": "Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)",
-   "location": "Hamburg"
-  },
-  "3ae7df95542edf7f08bca0b1460a754b": {
-   "id": "3ae7df95542edf7f08bca0b1460a754b",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Hamburg-wandsbek (20 Std)",
-   "location": "Hamburg"
-  },
-  "d38c211648f20a790d5c4c47eafebb24": {
-   "id": "d38c211648f20a790d5c4c47eafebb24",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Hamburg-altona (20 Std)",
-   "location": "Hamburg"
-  },
-  "7a73d8261ac43282a3eca1627bb03a3e": {
-   "id": "7a73d8261ac43282a3eca1627bb03a3e",
-   "company": "JYSK",
-   "role": "Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-langenhorn",
-   "location": "Hamburg"
-  },
   "a184c0e1381b7d0645b7dbf01912832c": {
    "id": "a184c0e1381b7d0645b7dbf01912832c",
    "company": "Hornbach Baumarkt AG",
    "role": "Exportkoordinator (gn) - Zoll & Außenwirtschaft",
    "location": "76879"
+  },
+  "d53c2b9e0dd06d5fa79a6010fe3e4feb": {
+   "id": "d53c2b9e0dd06d5fa79a6010fe3e4feb",
+   "company": "1&1 AG",
+   "role": "Bereichsassistenz (m/w/d)",
+   "location": "Dusseldorf"
   },
   "6b5c34e3f55ea7caed44e53ed2a1ea2d": {
    "id": "6b5c34e3f55ea7caed44e53ed2a1ea2d",
@@ -4129,12 +4135,6 @@
    "company": "KION",
    "role": "Assistant (m/w/d) In Vollzeit",
    "location": "Hamburg"
-  },
-  "0b11bf8fac45386c1732749e23933217": {
-   "id": "0b11bf8fac45386c1732749e23933217",
-   "company": "adidas AG",
-   "role": "Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde",
-   "location": "Ahrensfelde"
   }
  }
 }
