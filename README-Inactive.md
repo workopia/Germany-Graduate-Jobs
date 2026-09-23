@@ -7466,4 +7466,31 @@
 <tr><td>PENNY</td><td>Penny_verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
 <tr><td>REWE Bosen oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
 <tr><td>REWE Armin Lenzen oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>My Jewellery</td><td>Werkstudent Berlin (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Your Tax Experience (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Transaction Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum M&a Advisory (m/w/d)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum / Werkstudent Digital Tax Transformation (m/w/d)</td><td>Ulm</td><td>2026-09-23</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Business Recovery Services (m/w/d)</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Praktikum (m/w/d)</td><td>Bad Berneck</td><td>2026-09-23</td></tr>
+<tr><td>HELM AG</td><td>Duales Studium International Management (hsba) (m/w/d)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Werkstudent Initiative Rot Gegen Rassismus (m/w/d)</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Corporate Hr (m/w/d)</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Initiative Rot Gegen Rassismus (m/w/d)</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Recruiting (m/w/d)</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Ipo & Growth Financing Am Börsenplatz (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Crm & Analytics Trading & Clearing Marketing (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Gustav Klauke GmbH</td><td>Ausbildung Zum Fachlageristen (m/w/d)</td><td>Wuppertal</td><td>2026-09-23</td></tr>
+<tr><td>TE Connectivity</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Woert</td><td>2026-09-23</td></tr>
+<tr><td>NEXUS / SCHAUF GmbH</td><td>It-support & Projektmitarbeiter (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Schwarz Produktion</td><td>Fachkraft Gebäudeinstandhaltung/ Handwerker Instandhaltung Bauwesen (w/m/d)</td><td>Eystrup</td><td>2026-09-23</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-09-23</td></tr>
+<tr><td>workday.gea</td><td>Servicetechniker Für Kältetechnik Deutschlandweit (m/w/d)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>Formlabs</td><td>Technical Support Engineer, Field - Remote</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>LKQ Europe</td><td>Anwendungstechniker (m/w/d) Prüftechnik Technisches Service Center</td><td>Neu</td><td>2026-09-23</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Mechaniker / Anlagenbediener (m/w/d)</td><td>Emleben</td><td>2026-09-23</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-hummelsbüttel</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-hummelsbüttel (18,5/20 Std)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
 </table>

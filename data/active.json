@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-23",
- "count": 688,
+ "count": 689,
  "jobs": {
   "2418284": {
    "id": "2418284",
@@ -25,12 +25,6 @@
    "company": "oyora GmbH",
    "role": "Facharzt Für Strahlentherapie (m/w/d) – Cyberknife & Moderne Strahlentherapie",
    "location": "Hamburg"
-  },
-  "2724652": {
-   "id": "2724652",
-   "company": "My Jewellery",
-   "role": "Werkstudent Berlin (m/w/d)",
-   "location": "Berlin"
   },
   "1dd3e172cf5a54128755fc2080c66e0f": {
    "id": "1dd3e172cf5a54128755fc2080c66e0f",
@@ -128,11 +122,89 @@
    "role": "Praktikum In Der Logistik",
    "location": "Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen"
   },
+  "2522f69cd1b04176a986ee34850096aa": {
+   "id": "2522f69cd1b04176a986ee34850096aa",
+   "company": "elobau GmbH & Co. KG",
+   "role": "Werkstudent Im Ip-management (m/w/d)",
+   "location": "Kempten Allgau"
+  },
+  "4bd0206f1b7d5f7ff8c380397f035947": {
+   "id": "4bd0206f1b7d5f7ff8c380397f035947",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Pflichtpraktikum Im Betrieblichen Gesundheitsmanagement",
+   "location": "Stuttgart"
+  },
+  "37a886519972dc7c4fdeada733569122": {
+   "id": "37a886519972dc7c4fdeada733569122",
+   "company": "Sephora USA Inc",
+   "role": "Hq Working Student Merchandising",
+   "location": "Dusseldorf"
+  },
+  "563087413462611": {
+   "id": "563087413462611",
+   "company": "Forvia",
+   "role": "Praktikant Personalwesen (m/w/d)",
+   "location": "Hanover"
+  },
+  "c817bfd1c10e347c88844f0758c456cb": {
+   "id": "c817bfd1c10e347c88844f0758c456cb",
+   "company": "Jenoptik AG",
+   "role": "Dein Praktikum Bei Jenoptik",
+   "location": "Jena"
+  },
+  "562949978309688": {
+   "id": "562949978309688",
+   "company": "Bayer",
+   "role": "Internship Analytics Advisory & Data Democratization / Sc&l Analytics (all Genders)",
+   "location": "Cologne"
+  },
+  "562949978508790": {
+   "id": "562949978508790",
+   "company": "Bayer",
+   "role": "Praktikant Digitalisierung & Projekte Am Cropscience Produktionsstandort Dormagen (w/d/m)",
+   "location": "Cologne"
+  },
+  "562949978475264": {
+   "id": "562949978475264",
+   "company": "Bayer",
+   "role": "Intern Global Public Affairs (all Genders)",
+   "location": "Cologne"
+  },
+  "988eaf72e8a6f092822a40ff27bf4611": {
+   "id": "988eaf72e8a6f092822a40ff27bf4611",
+   "company": "Kws Group",
+   "role": "Praktikant (m/w/d) - Initiativbewerbung",
+   "location": "Berlin"
+  },
+  "7f0f1d6720cca6112f308f3d9cf535d1": {
+   "id": "7f0f1d6720cca6112f308f3d9cf535d1",
+   "company": "Kws Group",
+   "role": "Internship (m/f/d) - Unsolicited Application",
+   "location": "Berlin"
+  },
+  "e4c6e80f4e61ee90c21c90bd1549aa15": {
+   "id": "e4c6e80f4e61ee90c21c90bd1549aa15",
+   "company": "Uniper Holding GmbH",
+   "role": "Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)",
+   "location": "Dusseldorf"
+  },
   "2f90c438cdf0b2d4f0ee01434ced3994": {
    "id": "2f90c438cdf0b2d4f0ee01434ced3994",
    "company": "Zurich Insurance Company Ltd",
    "role": "Werkstudent Im Bereich Technical Claims Commercial (m/w/d)",
    "location": "Frankfurt Am Main"
+  },
+  "ffbd9c8597d11ca0c02575bda878e181": {
+   "id": "ffbd9c8597d11ca0c02575bda878e181",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Pflichtpraktikum Im Weltweiten Angebotscontrolling",
+   "location": "Stuttgart"
+  },
+  "f8c39f4103b22aad3e5454147e6461bb": {
+   "id": "f8c39f4103b22aad3e5454147e6461bb",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Pflichtpraktikum In Der Organisationsentwicklung - Mobility Purchasing",
+   "location": "Stuttgart"
   },
   "b32e2e318d528bc09ac92116d4af7df2": {
    "id": "b32e2e318d528bc09ac92116d4af7df2",
@@ -199,6 +271,12 @@
    "company": "Fritz Schaefer GmbH",
    "role": "Ausbildung Fachinformatiker Für Systemintegration (w/m/d) 2027",
    "location": "Giebelstadt"
+  },
+  "ab0a7e47f2aa8ffb656a8f7619a9081b": {
+   "id": "ab0a7e47f2aa8ffb656a8f7619a9081b",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Pflichtpraktikum Im Learning & Skill Management - Bosch Global Real Estate Academy",
+   "location": "Stuttgart"
   },
   "56bea951e9bd3f450ecde7749be837eb": {
    "id": "56bea951e9bd3f450ecde7749be837eb",
@@ -428,90 +506,6 @@
    "role": "Praktikum Audit / Wirtschaftsprüfung (m/w/d)",
    "location": "Berlin"
   },
-  "7402ab46c4c72a0c6ec0a48277fd5dec": {
-   "id": "7402ab46c4c72a0c6ec0a48277fd5dec",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Your Tax Experience (m/w/d)",
-   "location": "Berlin"
-  },
-  "667de2916956a4b6e0a2cb1e0df382b9": {
-   "id": "667de2916956a4b6e0a2cb1e0df382b9",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Transaction Services (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "c6947a5d57e82ac2930c17a069821ac2": {
-   "id": "c6947a5d57e82ac2930c17a069821ac2",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum M&a Advisory (m/w/d)",
-   "location": "Hamburg"
-  },
-  "38d30e43128031115aab7511df896f94": {
-   "id": "38d30e43128031115aab7511df896f94",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum / Werkstudent Digital Tax Transformation (m/w/d)",
-   "location": "Ulm"
-  },
-  "ffe62fc487b2480c39924d1d5d4dba57": {
-   "id": "ffe62fc487b2480c39924d1d5d4dba57",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Business Recovery Services (m/w/d)",
-   "location": "Munich"
-  },
-  "a6a2b1bb54d1f60d02ee0968a7618279": {
-   "id": "a6a2b1bb54d1f60d02ee0968a7618279",
-   "company": "Nestle SA",
-   "role": "Praktikum Brand Management (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "f01a3af0cb479200b998ad45dcf9c0da": {
-   "id": "f01a3af0cb479200b998ad45dcf9c0da",
-   "company": "Frenzelit GmbH",
-   "role": "Praktikum (m/w/d)",
-   "location": "Bad Berneck"
-  },
-  "210a5582f1bd1e26aed50c39abf6d7ce": {
-   "id": "210a5582f1bd1e26aed50c39abf6d7ce",
-   "company": "HELM AG",
-   "role": "Duales Studium International Management (hsba) (m/w/d)",
-   "location": "Hamburg"
-  },
-  "ed1f98d31f63647e1e683f9d14d1d5bd": {
-   "id": "ed1f98d31f63647e1e683f9d14d1d5bd",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Werkstudent Initiative Rot Gegen Rassismus (m/w/d)",
-   "location": "Munich"
-  },
-  "79dd8d5d4da2c6b232b5036bc2a33e17": {
-   "id": "79dd8d5d4da2c6b232b5036bc2a33e17",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Praktikant Corporate Hr (m/w/d)",
-   "location": "Munich"
-  },
-  "86b814a218331ed7bc72573b8cdbe5a6": {
-   "id": "86b814a218331ed7bc72573b8cdbe5a6",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Praktikant Initiative Rot Gegen Rassismus (m/w/d)",
-   "location": "Munich"
-  },
-  "4d6fe344f571686964ba733a9219d4d0": {
-   "id": "4d6fe344f571686964ba733a9219d4d0",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Praktikant Recruiting (m/w/d)",
-   "location": "Munich"
-  },
-  "733b42cc4f1a31b872a735c13722100b": {
-   "id": "733b42cc4f1a31b872a735c13722100b",
-   "company": "Deutsche Boerse AG",
-   "role": "Praktikum - Ipo & Growth Financing Am Börsenplatz (w/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "6e7cdf017753ddfc0adf913d936da0d9": {
-   "id": "6e7cdf017753ddfc0adf913d936da0d9",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Crm & Analytics Trading & Clearing Marketing (f/m/d)",
-   "location": "Frankfurt Am Main"
-  },
   "33847b0472aee75e46264b7127077abc": {
    "id": "33847b0472aee75e46264b7127077abc",
    "company": "Hornbach Baumarkt AG",
@@ -535,6 +529,18 @@
    "company": "Festo AG & Co. KG",
    "role": "Ausbildung Industriekaufleute (m/w/d) 2027",
    "location": "Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen"
+  },
+  "a9f04c7957bfb791c5b8cfe1cf695774": {
+   "id": "a9f04c7957bfb791c5b8cfe1cf695774",
+   "company": "Hirschvogel Incorporated",
+   "role": "Ausbildung Als Werkzeugmechaniker (m/w/d) Ab 01.09.2027",
+   "location": "Denklingen"
+  },
+  "fbf31c46d8a63c362d78cf6c0ab5f145": {
+   "id": "fbf31c46d8a63c362d78cf6c0ab5f145",
+   "company": "Uniper Holding GmbH",
+   "role": "Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027",
+   "location": "Unterreit"
   },
   "78fccd484705ad02dcd4e7ae5630a2af": {
    "id": "78fccd484705ad02dcd4e7ae5630a2af",
@@ -980,18 +986,6 @@
    "role": "Ausbildung Zum Fachlageristen (m/w/d)",
    "location": "Wuppertal"
   },
-  "65e76296426650e1bde05c64fb46e637": {
-   "id": "65e76296426650e1bde05c64fb46e637",
-   "company": "Gustav Klauke GmbH",
-   "role": "Ausbildung Zum Fachlageristen (m/w/d)",
-   "location": "Wuppertal"
-  },
-  "1a16619c2f5f0161013dd607cb911587": {
-   "id": "1a16619c2f5f0161013dd607cb911587",
-   "company": "TE Connectivity",
-   "role": "Ausbildung Mechatroniker 2027 (m/w/d)",
-   "location": "Woert"
-  },
   "d597bab54941d93402655ea2871a8801": {
    "id": "d597bab54941d93402655ea2871a8801",
    "company": "Festo AG & Co. KG",
@@ -1182,6 +1176,12 @@
    "id": "b5b12bb82c06915bdcfb6f048b7f4814",
    "company": "adesso-group",
    "role": "Software Engineer Java Ee (all Genders)",
+   "location": "Germany"
+  },
+  "0b40c266957d19c9059a093842477c26": {
+   "id": "0b40c266957d19c9059a093842477c26",
+   "company": "Grafana Labs",
+   "role": "Staff Backend Engineer - Databases - Analytics / Germany / Remote",
    "location": "Germany"
   },
   "4fb43e0e1c617a8ee1f66115d459937c": {
@@ -1634,12 +1634,6 @@
    "role": "Backend-/datenbank-entwickler (m/w/d) - Berlin",
    "location": "Berlin"
   },
-  "6668e7452ffd2b09660107325a41a82c": {
-   "id": "6668e7452ffd2b09660107325a41a82c",
-   "company": "NEXUS / SCHAUF GmbH",
-   "role": "It-support & Projektmitarbeiter (m/w/d)",
-   "location": "Berlin"
-  },
   "fa7bc84d3c3bda291f11cfb91f31f615": {
    "id": "fa7bc84d3c3bda291f11cfb91f31f615",
    "company": "createyourowncareer",
@@ -1907,6 +1901,12 @@
   "b40c060e722be7dcd407b87f3b1a5004": {
    "id": "b40c060e722be7dcd407b87f3b1a5004",
    "company": "Ernst & Young Global Ltd",
+   "role": "Praktikant Non-financial Risk Management (financial Services) (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "a922a0d9df6401eace059017c1ed278c": {
+   "id": "a922a0d9df6401eace059017c1ed278c",
+   "company": "EY",
    "role": "Praktikant Non-financial Risk Management (financial Services) (w/m/d)",
    "location": "Frankfurt Am Main"
   },
@@ -2732,6 +2732,42 @@
    "role": "Mechaniker Energietechnik (m/w/d) 1",
    "location": "Norf"
   },
+  "9c46e740d0ccb1d5fea1db662d453d14": {
+   "id": "9c46e740d0ccb1d5fea1db662d453d14",
+   "company": "NTT Global Data Centers Americas",
+   "role": "Data Center Services Technician (mwd)",
+   "location": "Frankfurt Am Main"
+  },
+  "0f58a1b5c59110eba04c67ac2b75bb5e": {
+   "id": "0f58a1b5c59110eba04c67ac2b75bb5e",
+   "company": "Hirschvogel Incorporated",
+   "role": "Industriemechaniker Für Die Instandhaltung (m/w/d)",
+   "location": "Denklingen"
+  },
+  "f4f75c27e74ee6a034305c690c0c9291": {
+   "id": "f4f75c27e74ee6a034305c690c0c9291",
+   "company": "Rosler Oberflachentechnik GmbH",
+   "role": "Servicemonteur (m/w/d)",
+   "location": "Untermerzbach"
+  },
+  "9106b17d3e1fd7585825095e0fa0faa6": {
+   "id": "9106b17d3e1fd7585825095e0fa0faa6",
+   "company": "Securitas Critical Infrastructure Services",
+   "role": "Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Leipzig",
+   "location": "Leipzig"
+  },
+  "bc131526b46d72306bd206b816f1518d": {
+   "id": "bc131526b46d72306bd206b816f1518d",
+   "company": "Securitas Critical Infrastructure Services",
+   "role": "Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe München",
+   "location": "Munich"
+  },
+  "ec824b8f52fa0e0132e37e1ef49a46e2": {
+   "id": "ec824b8f52fa0e0132e37e1ef49a46e2",
+   "company": "Securitas Critical Infrastructure Services",
+   "role": "Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Berlin",
+   "location": "Berlin"
+  },
   "ee54020daa353963eeafc1d4b40dfa41": {
    "id": "ee54020daa353963eeafc1d4b40dfa41",
    "company": "Ariston Holding N.V",
@@ -3152,42 +3188,6 @@
    "role": "Instandhaltung - Mechanik (w/m/d)",
    "location": "RoßBach"
   },
-  "68bc16bad1ae2417e22d8256d1cd37fb": {
-   "id": "68bc16bad1ae2417e22d8256d1cd37fb",
-   "company": "Schwarz Produktion",
-   "role": "Fachkraft Gebäudeinstandhaltung/ Handwerker Instandhaltung Bauwesen (w/m/d)",
-   "location": "Eystrup"
-  },
-  "ed86403cf9c5de8e5c310ef4d9308cd7": {
-   "id": "ed86403cf9c5de8e5c310ef4d9308cd7",
-   "company": "Pfeiffer Vacuum GmbH",
-   "role": "Servicetechniker Raum Stuttgart (m/w/d)",
-   "location": "Maulburg"
-  },
-  "d2bdc9a886d937e1a5bb72cfe3a2aa2d": {
-   "id": "d2bdc9a886d937e1a5bb72cfe3a2aa2d",
-   "company": "workday.gea",
-   "role": "Servicetechniker Für Kältetechnik Deutschlandweit (m/w/d)",
-   "location": "Berlin"
-  },
-  "bc3567d8ac54035c9d0578291a6576f7": {
-   "id": "bc3567d8ac54035c9d0578291a6576f7",
-   "company": "Formlabs",
-   "role": "Technical Support Engineer, Field - Remote",
-   "location": "Munich"
-  },
-  "56db2f68014dd2790d97ca4a8fd23a77": {
-   "id": "56db2f68014dd2790d97ca4a8fd23a77",
-   "company": "LKQ Europe",
-   "role": "Anwendungstechniker (m/w/d) Prüftechnik Technisches Service Center",
-   "location": "Neu"
-  },
-  "c69182d43e2fd364f9b1702a5f1d0b3b": {
-   "id": "c69182d43e2fd364f9b1702a5f1d0b3b",
-   "company": "Kraftverkehr Nagel SE & Co. KG",
-   "role": "Mechaniker / Anlagenbediener (m/w/d)",
-   "location": "Emleben"
-  },
   "9ec8e5355bb0d2f97d4f0fd2af3053c6": {
    "id": "9ec8e5355bb0d2f97d4f0fd2af3053c6",
    "company": "Hornbach Baumarkt AG",
@@ -3290,6 +3290,24 @@
    "role": "Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit",
    "location": "Nuremberg"
   },
+  "2350a537a4a0e6c9773ad1cd2f476ab5": {
+   "id": "2350a537a4a0e6c9773ad1cd2f476ab5",
+   "company": "Levis Media",
+   "role": "Sales Stylist In Vollzeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "62cb70e980da1626cd30ae401426a749": {
+   "id": "62cb70e980da1626cd30ae401426a749",
+   "company": "Levis Media",
+   "role": "Sales Stylist, Werksstudent (m/w/d)",
+   "location": "Cologne"
+  },
+  "c1bc177381b6c914de94d456c3193cac": {
+   "id": "c1bc177381b6c914de94d456c3193cac",
+   "company": "Levis",
+   "role": "Sales Stylist In Teilzeit (m/w/d)",
+   "location": "Cologne"
+  },
   "4da78a267f580c7de98bf0cea13a75bf": {
    "id": "4da78a267f580c7de98bf0cea13a75bf",
    "company": "JYSK",
@@ -3307,6 +3325,12 @@
    "company": "JYSK",
    "role": "Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Radevormwald",
    "location": "Wuppertal"
+  },
+  "af6af32a292adfb6d977fdbc7eb36eb0": {
+   "id": "af6af32a292adfb6d977fdbc7eb36eb0",
+   "company": "PVH",
+   "role": "Mini-jobber München Tommy Hilfiger Oberpollinger (m/w/d)",
+   "location": "Munich"
   },
   "e4ea55cadd9deb344dc12593f9403723": {
    "id": "e4ea55cadd9deb344dc12593f9403723",
@@ -3631,24 +3655,6 @@
    "company": "JYSK",
    "role": "Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-langenhorn",
    "location": "Hamburg"
-  },
-  "4759495e48092a0bcc224cadaef6ebe2": {
-   "id": "4759495e48092a0bcc224cadaef6ebe2",
-   "company": "JYSK",
-   "role": "Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-hummelsbüttel",
-   "location": "Hamburg"
-  },
-  "3e54cd325c3f3b628f035292f50892f1": {
-   "id": "3e54cd325c3f3b628f035292f50892f1",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Hamburg-hummelsbüttel (18,5/20 Std)",
-   "location": "Hamburg"
-  },
-  "49c1d9c0790bf45b71f8c21d0de88baa": {
-   "id": "49c1d9c0790bf45b71f8c21d0de88baa",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Sales Associate (m/w/d)",
-   "location": "Frankfurt Am Main"
   },
   "a184c0e1381b7d0645b7dbf01912832c": {
    "id": "a184c0e1381b7d0645b7dbf01912832c",
