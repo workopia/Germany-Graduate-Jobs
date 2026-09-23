@@ -7404,4 +7404,66 @@
 <tr><td>REWE Ambroise Forssman-Trevedy oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
 <tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-22</td></tr>
 <tr><td>REWE Salvatore Minacapilli oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Saarbruecken</td><td>2026-09-22</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Regulatory Reporting (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Global Rm, Sales & Client Services (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum Kaufmännisch</td><td>Stuttgart</td><td>2026-09-23</td></tr>
+<tr><td>Coca-Cola</td><td>Coca-Cola - Intern Communications -PACS</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Konzern-risikocontrolling, Marktrisikomanagement Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Werkstudent (m/w/d) In Operations & Services, Eigene Emissionen / Steuern Am Standort München 2026</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>Partners Group AG</td><td>Intern - Private Equity Buy-outs - Business Services Vertical (munich, Germany)</td><td>Munich</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 18.01. - 29.01.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG</td><td>Schulpraktikum Versicherungen Im Zeitraum 11.10. - 22.10.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 25.01. - 05.02.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 18.01. - 29.01.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 27.09. - 08.10.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 15.03. - 25.03.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 14.06. - 25.06.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 08.02. - 19.02.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-09-23</td></tr>
+<tr><td>Adalbert Zajadacz GmbH & Co. KG</td><td>Auszubildende (m/w/d) Im Groß- Und Außenhandelsmanagement</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Vishay Siliconix Itzehoe GmbH</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Zeppelin GmbH</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Abiturientenprogramm Filiale Handelsfachwirt (m/w/d) 2026</td><td>Hanover</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Fullstack Software Engineer - Core</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>RESMED PTY</td><td>It Support Specialist (2nd Level) (m/w/d)</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>RESMED ASIA PACIFIC LIMITED</td><td>It Support Specialist (2nd Level) (m/w/d)</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>mementor DE GmbH</td><td>It Support Specialist (2nd Level) (m/w/d)</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python/golang - Kubernetes</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>Deutsche Automobil Treuhand GmbH</td><td>Software Engineer (m/w/d)</td><td>Unknown</td><td>2026-09-23</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Softwareingenieur Für Hardwarenahe Testentwicklung (w/m/d)</td><td>Ulm</td><td>2026-09-23</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Core Apis</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Edi (all Genders)</td><td>Nach Standort Suchen</td><td>2026-09-23</td></tr>
+<tr><td>Sopra Steria UK</td><td>Business Analyst Risikomanagement (m/w/d)</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>Azolver</td><td>Mitarbeiter Rechnungswesen (w/m/d)</td><td>Wittenberge</td><td>2026-09-23</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Und Bankfachlicher Designer (w/m/d) Retail-depotplattform</td><td>Germany</td><td>2026-09-23</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicetechniker Sprinklertechnik / Alarmierungseinrichtungen (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicetechniker Sicherheitstechnik (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicemitarbeiter/-in Rolltreppen</td><td>Frankfurt Am Main</td><td>2026-09-23</td></tr>
+<tr><td>Skylight</td><td>Servicetechniker / Kundendiensttechniker (m/w/d) Für Die Landkreise Böblingen, Calw, Freudenstadt</td><td>Stuttgart</td><td>2026-09-23</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer Bedientheke In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>NIKE, Inc.</td><td>Verkäufer (athlete) (w/m/d) – 25 H/wo Flex – Zweibrücken</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
+<tr><td>Nike Digital</td><td>Studentische Aushilfe (athlete) (m/w/d) 19,5h</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>NIKE, Inc.</td><td>Verkäufer (athlete) (w/m/d) – 10/20h Wochenendhilfe (freitag & Samstag)</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>SKF Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Gartentechnik - Auch Quereinsteiger (m/w/d)</td><td>Constance</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d) Schönefeld / Großziethen 8201475692</td><td>Berlin</td><td>2026-09-23</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>REWE Frédéric Cahon oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>REWE</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>REWE</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>REWE Rahmati</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>REWE Oliver Scherff oHG</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Backshop (m/w/d)</td><td>Dusseldorf</td><td>2026-09-23</td></tr>
+<tr><td>REWE Daniel Weber oHG</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>REWE Schäfer oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>PENNY</td><td>Penny_verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Saarbruecken</td><td>2026-09-23</td></tr>
+<tr><td>REWE Bosen oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
+<tr><td>REWE Armin Lenzen oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-23</td></tr>
 </table>
