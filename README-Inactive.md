@@ -7535,4 +7535,5 @@
 <tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-altona (20 Std)</td><td>Hamburg</td><td>2026-09-23</td></tr>
 <tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-langenhorn</td><td>Hamburg</td><td>2026-09-23</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Ahrensfelde</td><td>2026-09-23</td></tr>
+<tr><td>FRoSTA AG</td><td>Data Analyst & Process Automation Expert (f/m/d)</td><td>Bremerhaven +1</td><td>2026-09-23</td></tr>
 </table>

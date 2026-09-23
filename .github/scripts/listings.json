@@ -12,8 +12,8 @@
   "as_of": "2026-09-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 11484,
-  "generated_at": "2026-09-23T10:29:43.434Z"
+  "country_live_total": 11478,
+  "generated_at": "2026-09-23T13:22:09.136Z"
  },
  "categories": [
   {
@@ -5358,23 +5358,6 @@
    "date_posted": "2026-07-28T12:30:40.145Z",
    "active": true,
    "url": "https://workopia.io/jobs/47aecea84bb2a1fda8a39449e96524a9",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "7e0e181de0077acc78d538ad4aee0d43",
-   "source": "Workopia",
-   "company_name": "FRoSTA AG",
-   "company_hi_slug": "frosta-ag",
-   "title": "Data Analyst & Process Automation Expert (f/m/d)",
-   "location": "Bremerhaven +1",
-   "skills": "Data analysis, Process automation",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-25T10:33:43.367Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/7e0e181de0077acc78d538ad4aee0d43",
    "category": "data",
    "tier": "Entry-level"
   },
