@@ -7618,4 +7618,81 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (sülz)</td><td>Cologne</td><td>2026-09-24</td></tr>
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (chlodwigplatz)</td><td>Cologne</td><td>2026-09-24</td></tr>
 <tr><td>KION</td><td>Assistant (m/w/d) In Vollzeit</td><td>Hamburg</td><td>2026-09-24</td></tr>
+<tr><td>elobau GmbH & Co. KG</td><td>Werkstudent Im Ip-management (m/w/d)</td><td>Kempten Allgau</td><td>2026-09-24</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Betrieblichen Gesundheitsmanagement</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>Sephora USA Inc</td><td>Hq Working Student Merchandising</td><td>Dusseldorf</td><td>2026-09-24</td></tr>
+<tr><td>Forvia</td><td>Praktikant Personalwesen (m/w/d)</td><td>Hanover</td><td>2026-09-24</td></tr>
+<tr><td>Jenoptik AG</td><td>Dein Praktikum Bei Jenoptik</td><td>Jena</td><td>2026-09-24</td></tr>
+<tr><td>Bayer</td><td>Internship Analytics Advisory & Data Democratization / Sc&l Analytics (all Genders)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Bayer</td><td>Praktikant Digitalisierung & Projekte Am Cropscience Produktionsstandort Dormagen (w/d/m)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Bayer</td><td>Intern Global Public Affairs (all Genders)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Kws Group</td><td>Praktikant (m/w/d) - Initiativbewerbung</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Kws Group</td><td>Internship (m/f/d) - Unsolicited Application</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)</td><td>Dusseldorf</td><td>2026-09-24</td></tr>
+<tr><td>Barilla Group</td><td>Praktikum Im Marketing Category Condiments (pesto)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>flatexDEGIRO AG</td><td>Werkstudent/ In Corporate Actions (m/w/d)</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Praktikum Controlling</td><td>Constance</td><td>2026-09-24</td></tr>
+<tr><td>CLAAS</td><td>Student (m/w/d) Claas Inside Im Bereich Fertigungstechnik</td><td>Bielefeld</td><td>2026-09-24</td></tr>
+<tr><td>CLAAS</td><td>Claas Inside Absatzfinanzierung</td><td>Herzebrock-Clarholz</td><td>2026-09-24</td></tr>
+<tr><td>LEMKEN GmbH</td><td>Initiativbewerbung Praktikum Und/oder Abschlussarbeit</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>LEMKEN GmbH</td><td>Praktikum Und/oder Abschlussarbeit Corporate Marketing (messe & Event)</td><td>Unknown</td><td>2026-09-24</td></tr>
+<tr><td>ORBIS AG</td><td>It-praktikant (m/w/d) Am Standort Saarbrücken</td><td>Saarbruecken</td><td>2026-09-24</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Freiwilliges Praktikum: Mergers & Acquisitions / Kooperationen / Finanz Zf Group (m/w/d)</td><td>Constance</td><td>2026-09-24</td></tr>
+<tr><td>Zdf</td><td>Schülerpraktikant*in Red Fernsehgarten (3. Quartal 2027)</td><td>Darmstadt</td><td>2026-09-24</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>ÜBach</td><td>2026-09-24</td></tr>
+<tr><td>Clariant Produkte (Deutschland) GmbH</td><td>Ausbildungsplatz Chemielaborant (m/w/d) Am Standort Heufeld</td><td>Heufeld</td><td>2026-09-24</td></tr>
+<tr><td>University Hospital Carl Gustav Carus</td><td>Schülerbetriebspraktikum In Der Lagerlogistik</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Scania CV AB</td><td>Lehrling Betriebslogistik (m/w/d) Für Haid</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>KraussMaffei Group</td><td>Auszubildenden Zum Zerspanungsmechaniker (m/w/d) Ab 01.09.2026</td><td>Parsdorf</td><td>2026-09-24</td></tr>
+<tr><td>Constellium Switzerland AG</td><td>Werkstudent It Support (m/w/d)</td><td>Dahenfeld</td><td>2026-09-24</td></tr>
+<tr><td>CGM</td><td>Ausbildung: Fachinformatik Für Anwendungsentwicklung (m/w/d) Am Standort St. Wolfgang Zum 01.09.2026</td><td>St. Wolfgang</td><td>2026-09-24</td></tr>
+<tr><td>SumUp</td><td>Backend Engineer (golang) - Transfers Eu</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Zalando</td><td>Software Engineer Ad Platform (all Genders)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>THALES</td><td>Embedded Software Engineer (m/f/d) Ai & Rapid Prototyping</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>Tesat-Spacecom GmbH & Co. KG</td><td>Ai Software Developer & Embedded Systems (m/w/d)</td><td>Stuttgart Area</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml & Forward Deployed Engineer</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Cloud Native & Ai Developer</td><td>85748</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Ai/ml Engineer</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Universidad Carlos III de Madrid</td><td>Ai Software Developer & Embedded Systems (m/w/d)</td><td>Stuttgart Area</td><td>2026-09-24</td></tr>
+<tr><td>bfl.ai</td><td>It Engineer</td><td>Freiburg +1</td><td>2026-09-24</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Prompt / Ai Engineer (m/w/d) Conversational Agents</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ai Implementation Engineer (m/w/d)</td><td>Oberopfingen</td><td>2026-09-24</td></tr>
+<tr><td>Pernod Ricard Winemakers</td><td>(junior) Product Data Analyst (m/w/d)</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Ai Observability Engineer</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Ai-native Software Developer</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Jobgether</td><td>Ai Product Engineer</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman – Consultant Intern (m/f/d) – Germany</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Praktikant:in – People Advisory (m/w/d) – Transformation Team</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Marsh</td><td>Praktikant:in – People Advisory (m/w/d) – Transformation Team</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>EY</td><td>Praktikant Unternehmensberatung - Business Transformation - Consulting (financial Services) (w/m/d)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Turner & Townsend Pty Ltd</td><td>Werkstudent (m/w/d) Cost Management - Data Centres</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Sixt</td><td>Internship In Inhouse Consulting</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Unternehmensberatung - Business Transformation - Consulting (financial Services) (w/m/d)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Ivivamedical</td><td>Vp, Consulting, Central And Eastern Europe</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Prolific</td><td>Copy Of Germany Leadership Diagnostic Survey – Leaders</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Gartner UK</td><td>Managing Partner - Manufacturing, Consumer Goods, Retail & Utility Sectors</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Gartner UK</td><td>Managing Partner - Energy & Utilities</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Gartner UK</td><td>Managing Partner - Gartner Consulting (public Sector)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Boston Consulting Group</td><td>Traditional Consulting - Project Leader</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Wolters Kluwer Tax & Accounting Deutschland GmbH</td><td>Business analyst (m/w/d) – lohn- und gehaltsabrechnung</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>Misterspex</td><td>Junior Ai & Business Analyst (m/w/d)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Mercer</td><td>Initiativbewerbung Bei Mercer</td><td>S See All</td><td>2026-09-24</td></tr>
+<tr><td>Charles River Associates</td><td>Consulting Associate (european Competition Practice) - M/f/d</td><td>Dusseldorf</td><td>2026-09-24</td></tr>
+<tr><td>SAP SE</td><td>Speedboat: Project Management Associate (f/m/d) - Enterprise Architecture Mee</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Rewe Group</td><td>Berater Prozessmanagement (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Accenture Australia</td><td>Sap Advisory Financial Services Consulting (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Halfspace ApS</td><td>Sap Advisory Financial Services Consulting (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>ANZ</td><td>Sap Advisory Financial Services Consulting (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>IQVIA UK</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>IQVIA Inc</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>IQVIA UK</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>ICON Clinical Research, LP</td><td>Junior Clinical Research Associate</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>ICON Broadbean</td><td>Junior Clinical Research Associate</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Precision for Medicine</td><td>Clinical Research Associate</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Syneos Health</td><td>Clinical Research Associate</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>AbbVie</td><td>Clinical Research Associate I (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Precision Medicine Group</td><td>Clinical Research Associate</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Christiana Care Home Health And Community Services Inc</td><td>Registered Nurse (rn) - Hvis Float Pool</td><td>Newark</td><td>2026-09-24</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (friedrich-breuer-str.)</td><td>Cologne</td><td>2026-09-24</td></tr>
 </table>
