@@ -7536,4 +7536,86 @@
 <tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-langenhorn</td><td>Hamburg</td><td>2026-09-23</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Ahrensfelde</td><td>2026-09-23</td></tr>
 <tr><td>FRoSTA AG</td><td>Data Analyst & Process Automation Expert (f/m/d)</td><td>Bremerhaven +1</td><td>2026-09-23</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Werkstudent Im Bereich Technical Claims Commercial (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Weltweiten Angebotscontrolling</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum In Der Organisationsentwicklung - Mobility Purchasing</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - F&e Vorentwicklung Des Unternehmensbereichs E-mobilität (d/m/w)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Inhouse Consulting: Change Management, Communication And Learning (m/w/d)</td><td>Unknown</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Human Resources (d/m/w)</td><td>Unknown</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum In Hr/it - People, Organization & Agile Practices (d/m/w)</td><td>Unknown</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Qualification & Learning Europe (d/m/w)</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>Yunex Traffic</td><td>Werkstudent (w/m/d) Im It Application Management</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Fos-praktikum Mücke 2027</td><td>MüCke</td><td>2026-09-24</td></tr>
+<tr><td>FFT Produktionssysteme GmbH</td><td>Schnupperpraktikum In Den Schulferien Mücke</td><td>MüCke</td><td>2026-09-24</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Ausbildung Fachinformatiker Für Systemintegration (w/m/d) 2027</td><td>Giebelstadt</td><td>2026-09-24</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Learning & Skill Management - Bosch Global Real Estate Academy</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>linde-mh.co.uk</td><td>Praktikant Entwicklung</td><td>Aschaffenburg</td><td>2026-09-24</td></tr>
+<tr><td>EndressHauser AG</td><td>Einwöchiges Schülerpraktikum 2027</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>HARTMANN</td><td>Praktikant Controlling (w/m/d)</td><td>Ulm</td><td>2026-09-24</td></tr>
+<tr><td>adesso Group</td><td>Schulpraktikum (all Genders)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Infineon</td><td>Working Student - Performance Marketing (f/m/div)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Internal Communications (m/w/d)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Smart Connected Factory (m/w/d)</td><td>Mannheim</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Logistikplanung (m/w/d)</td><td>Saarbruecken</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Logistik (m/w/d)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Lean Management (m/w/d)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Business Improvement (m/w/d)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Im Strategischen Qualitätsmanagement (m/w/d)</td><td>Karlsruhe</td><td>2026-09-24</td></tr>
+<tr><td>John Deere</td><td>Praktikum Indirect Sourcing Europe North (m/w/d)</td><td>Mannheim</td><td>2026-09-24</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Werkstudent Im Bereich Technical Claims Commercial (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Festo</td><td>Praktikum In Der Logistik</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-09-24</td></tr>
+<tr><td>HiPP-Werk Georg Hipp OHG</td><td>Praktikum/ Abschlussarbeit</td><td>Bielefeld</td><td>2026-09-24</td></tr>
+<tr><td>Hollister Incorporated</td><td>Praktikant Marketing (m/w/d)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Brose Ventures</td><td>Internship Corporate Venture Capital - Brose Ventures</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Thesis Project Corp. Research Charging Systems - System Development Wireless Charging 22kw+ (m/f/d)</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship In Occupational Health, Environmental Protection And Sustainability, Europe (m/f/d)</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship Global Talent & Leadership Development (m/f/d)</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship Engagement & Belonging (m/f/d)</td><td>Stuttgart</td><td>2026-09-24</td></tr>
+<tr><td>Terumo</td><td>Hr Administration Intern</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>musashi-group</td><td>Praktikum/praxissemester/abschlussarbeiten</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>musashi-group</td><td>Kaufmännisches Praktikum</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Audit Financial Services - Sustainability (m/w/d)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/werkstudent - Operations Consulting - The Smart Factory @düsseldorf (m/w/d)</td><td>Dusseldorf</td><td>2026-09-24</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Performance Improvement Schwerpunkt Operative Restrukturierung(m/w/d)</td><td>Dusseldorf</td><td>2026-09-24</td></tr>
+<tr><td>Helm Ag</td><td>Ausbildung - Betriebswirt Im Außenhandel (m/w/d)</td><td>Hamburg</td><td>2026-09-24</td></tr>
+<tr><td>Helm Ag</td><td>Bachelor In It With Apprenticeship It Specialist In System Integration (bhh) (m/f/d)</td><td>Hamburg</td><td>2026-09-24</td></tr>
+<tr><td>N26 GmbH</td><td>Backend Engineer - Cards & Digital Wallets</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>SSI Schäfer Automation GmbH</td><td>Financial Accountant (w/m/d)</td><td>Giebelstadt</td><td>2026-09-24</td></tr>
+<tr><td>Accenture Australia</td><td>Sap Business Transformation Resources (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Accenture</td><td>Sap Business Transformation Resources (all Genders)</td><td>Frankfurt Am Main</td><td>2026-09-24</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-09-24</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-09-24</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-09-24</td></tr>
+<tr><td>Ontex</td><td>Mechaniker / Mechatroniker (m/w/d)</td><td>Grosspostwitz</td><td>2026-09-24</td></tr>
+<tr><td>Aebi Schmidt Group</td><td>Technischer Support</td><td>Hanover</td><td>2026-09-24</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Techniker Für Schraubenkompressoren (m/w/d)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Instandhaltungstechniker (m/w/d)</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Betriebsschlosser / Industriemechaniker - Instandhaltung (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechatroniker - Instandhaltung (m/w/d)</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechatroniker / Mechaniker / Schlosser Ttfs (m/w/d)</td><td>Munich</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Willkommensprämie* Bis Zu 3.000€</td><td>Rostock Roggentin</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Fluidmanagement (m/w/d)</td><td>Hanover</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Meister / Techniker Hlsk (m/w/d)</td><td>Germany</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Deutschlandweit</td><td>Deutschlandweit</td><td>2026-09-24</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Für Wartungs- Und Betriebsservicearbeiten (m/w/d)</td><td>Hanover</td><td>2026-09-24</td></tr>
+<tr><td>Ferrero LADM</td><td>Industriemechaniker (w/m/d)</td><td>Unknown</td><td>2026-09-24</td></tr>
+<tr><td>enport by MB Energy</td><td>Techniker Infrastruktur & Instandhaltung (m/w/d)</td><td>Blumensand</td><td>2026-09-24</td></tr>
+<tr><td>Bosch Sicherheitssysteme Montage und Service GmbH</td><td>Elektroniker / Sicherheitstechniker Für Ela/saa - Gebiet Hannover/hildesheim/braunschweig (w/m/div.)</td><td>Isernhagen</td><td>2026-09-24</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker Für Betriebstechnik - Instandhaltung (w/m/d)</td><td>ÜBach</td><td>2026-09-24</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker / Mechaniker - Bereich Instandhaltung (w/m/d)</td><td>ÜBach</td><td>2026-09-24</td></tr>
+<tr><td>MEG Roßbach GmbH</td><td>Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)</td><td>RoßBach</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Homburg</td><td>Saarbruecken</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Potsdam (bahnhofspassage)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (steglitz)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Aushilfe, Mülheim/ruhr</td><td>Dusseldorf</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (hbf)</td><td>Berlin</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Köln (sülz)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (innenstadt)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (rhein-center)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Warenverräumer (m/w/d), Aushilfe, Hürth</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (sülz)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (chlodwigplatz)</td><td>Cologne</td><td>2026-09-24</td></tr>
+<tr><td>KION</td><td>Assistant (m/w/d) In Vollzeit</td><td>Hamburg</td><td>2026-09-24</td></tr>
 </table>
