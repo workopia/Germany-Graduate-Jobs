@@ -7870,4 +7870,38 @@
 <tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
 <tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
 <tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>Krahl Verladesysteme GmbH</td><td>Elektriker (m/w/d) Als Servicetechniker - Rhein-main</td><td>Frankfurt Am Main</td><td>2026-09-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Bereich Interne Kommunikation Und Eventmanagement</td><td>Stuttgart</td><td>2026-09-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Bereich Fertigung/ Lean Management</td><td>Reutlingen</td><td>2026-09-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Bereich Controlling</td><td>Horb A. N.</td><td>2026-09-25</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Bereich Ausbildung</td><td>Reutlingen</td><td>2026-09-25</td></tr>
+<tr><td>Ardian</td><td>Infrastructure Internship - October 2026 / Frankfurt (m/f)</td><td>Frankfurt Am Main</td><td>2026-09-25</td></tr>
+<tr><td>GlobalFoundries</td><td>Werkstudent*in Im Bereich Global Repair Shop</td><td>Dresden</td><td>2026-09-25</td></tr>
+<tr><td>Voith Group</td><td>Intern (m/f/d) - Research & Development - Stock Preparation</td><td>Ulm</td><td>2026-09-25</td></tr>
+<tr><td>Voith Group</td><td>Internship (m/f/d) - Business Development International Service</td><td>Ulm</td><td>2026-09-25</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zum Lacklaboranten (m/w/d) Start 2027</td><td>Germany</td><td>2026-09-25</td></tr>
+<tr><td>Hitachi Digital Services</td><td>Software Engineer - Dmt (data Management Tool)</td><td>Stuttgart</td><td>2026-09-25</td></tr>
+<tr><td>Schneider Electric</td><td>Servicetechniker Für Nieder- Und Mittelspannungsschaltanlagen (w/m/d)</td><td>Germany</td><td>2026-09-25</td></tr>
+<tr><td>Novantaphotonics Jp</td><td>Service & Repair Technician (m/w/d)</td><td>Ludwigsstadt</td><td>2026-09-25</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Mechaniker Energietechnik (m/w/d) 1</td><td>Norf</td><td>2026-09-25</td></tr>
+<tr><td>NTT Global Data Centers Americas</td><td>Data Center Services Technician (mwd)</td><td>Frankfurt Am Main</td><td>2026-09-25</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Industriemechaniker Für Die Instandhaltung (m/w/d)</td><td>Denklingen</td><td>2026-09-25</td></tr>
+<tr><td>Rosler Oberflachentechnik GmbH</td><td>Servicemonteur (m/w/d)</td><td>Untermerzbach</td><td>2026-09-25</td></tr>
+<tr><td>AMETEK Inc</td><td>Service Techniker Im Außendienst (m/w/d) Im Großraum Hessen/baden-württemberg</td><td>Hessen +1</td><td>2026-09-25</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Außendienst Für Central Deutschland</td><td>ThüRingen +1</td><td>2026-09-25</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Servicemonteur (m/w/d)</td><td>Berlin</td><td>2026-09-25</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Leipzig</td><td>Leipzig</td><td>2026-09-25</td></tr>
+<tr><td>REWE Fickeis oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Ahmad-Shah Hessami oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Holger Rohe oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Markt Ridders oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Rahmati</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Fickeis oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Mahmut Mersinlioglu oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Christian Werner oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Peter Ziegler oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-09-25</td></tr>
+<tr><td>KION North America Corporation</td><td>Assistant (m/w/d) In Vollzeit</td><td>Hamburg</td><td>2026-09-25</td></tr>
 </table>
