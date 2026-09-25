@@ -7847,4 +7847,27 @@
 <tr><td>FC Bayern Muenchen AG</td><td>Sales Assistant (m/w/d) - Store Flughafen München</td><td>Munich</td><td>2026-09-25</td></tr>
 <tr><td>HUGO BOSS AG</td><td>Aushilfe Im Verkauf Boss Outlet (w/m/d)</td><td>Wurzburg</td><td>2026-09-25</td></tr>
 <tr><td>STILL</td><td>Assistant (m/w/d) In Vollzeit</td><td>Hamburg</td><td>2026-09-25</td></tr>
+<tr><td>Henkel</td><td>Internship Global Business Controlling</td><td>Hamburg</td><td>2026-09-25</td></tr>
+<tr><td>Henkel</td><td>Internship Global Diversity, Equity & Inclusion</td><td>Dusseldorf</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Qualitätssicherung - Analytisches Labor (m/w/d)</td><td>Constance</td><td>2026-09-25</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Praktikum In Der Personalentwicklung</td><td>Wolfertschwenden</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Pharmaziepraktikant*in Im Bereich Qualitätskontrolle Für Mai 2027 (alle Geschlechter)</td><td>Berlin</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Rechtsreferendar*in Im Bereich Pharmaceuticals In Berlin (alle Geschlechter)</td><td>Berlin</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Pharmaziepraktikant*in Im Verpackungsbetrieb One Packaging (alle Geschlechter)</td><td>Berlin</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Praktikant*in Im Bereich Closing & External Reporting (alle Geschlechter)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Intern In Integrated Process & Mathematical Solutions (all Genders)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Praktikant*in Im Bereich Qualitätskontrolle Für 2027 (alle Geschlechter)</td><td>Freiburg Im Breisgau</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Pharmaziepraktikant*in Im Bereich Quality In Weimar (alle Geschlechter)</td><td>Jena</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Intern - Drug Substance Digital Process Chemistry (all Genders)</td><td>Wuppertal</td><td>2026-09-25</td></tr>
+<tr><td>Bayer</td><td>Pharmaziepraktikant*in Im Bereich Parenteralia Produktion (alle Geschlechter) Ab November 2027</td><td>Berlin</td><td>2026-09-25</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - F&e Vorentwicklung Des Unternehmensbereichs E-mobilität (d/m/w)</td><td>Karlsruhe</td><td>2026-09-25</td></tr>
+<tr><td>Texas Instruments</td><td>Intern (m/f/d) In Finance, Controlling, Tax Or Accounting – 2027</td><td>Munich</td><td>2026-09-25</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (stuttgart)</td><td>Stuttgart</td><td>2026-09-25</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zum Industriekaufmann (m/w/d) - Start 2027</td><td>Germany</td><td>2026-09-25</td></tr>
+<tr><td>ww-ag</td><td>Auszubildender Zum Fachinformatiker (m/w/d) - Alle Fachrichtungen 2027</td><td>Stuttgart</td><td>2026-09-25</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Softwareentwickler Automatisierungstechnik (m/w/d)</td><td>Wolfertschwenden</td><td>2026-09-25</td></tr>
+<tr><td>bk-berater</td><td>Lohn- Und Gehaltsbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-09-25</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
 </table>

@@ -1,19 +1,7 @@
 {
  "asOf": "2026-09-25",
- "count": 655,
+ "count": 656,
  "jobs": {
-  "88421": {
-   "id": "88421",
-   "company": "Henkel",
-   "role": "Internship Global Business Controlling",
-   "location": "Hamburg"
-  },
-  "88502": {
-   "id": "88502",
-   "company": "Henkel",
-   "role": "Internship Global Diversity, Equity & Inclusion",
-   "location": "Dusseldorf"
-  },
   "2339357": {
    "id": "2339357",
    "company": "boeckels-beste.de",
@@ -55,6 +43,66 @@
    "company": "My Jewellery",
    "role": "Verkaufstalent Shop In Shop Kadewe Berlin",
    "location": "Berlin"
+  },
+  "6193563000b8bccf9a81bc2fb775abd9": {
+   "id": "6193563000b8bccf9a81bc2fb775abd9",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Praktikum (m/w/d) Im Bereich Konzern-personal, Schwerpunkt Global Mobility In Frankfurt 2026",
+   "location": "Frankfurt Am Main"
+  },
+  "609481912c7daf720886339110da6514": {
+   "id": "609481912c7daf720886339110da6514",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Praktikum (m/w/d) Im Bereich Konzern-risikocontrolling, Marktrisikomanagement Frankfurt 2027",
+   "location": "Frankfurt Am Main"
+  },
+  "fea1a2ccefdd5babb5714ef377613516": {
+   "id": "fea1a2ccefdd5babb5714ef377613516",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Praktikum (m/w/d) Im Employer Branding/personalmarketing, Schwerpunkt Social Media In Frankfurt 2026",
+   "location": "Frankfurt Am Main"
+  },
+  "d836082cd46570224c1ac971ac84bed4": {
+   "id": "d836082cd46570224c1ac971ac84bed4",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Praktikum (m/w/d) Im Bereich Strategie & Konzernentwicklung / Abteilung Strategie In Frankfurt 2027",
+   "location": "Frankfurt Am Main"
+  },
+  "6faaf2cfe6722bc1a4243f658342b3d4": {
+   "id": "6faaf2cfe6722bc1a4243f658342b3d4",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Werkstudent (m/w/d) Im Bereich Kredit / Restrukturierung In Frankfurt 2026",
+   "location": "Frankfurt Am Main"
+  },
+  "7f2738b7fbf2e55b5f829b52764e3d38": {
+   "id": "7f2738b7fbf2e55b5f829b52764e3d38",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Werkstudent (m/w/d) In Operations & Services, Eigene Emissionen / Steuern Am Standort München 2026",
+   "location": "Munich"
+  },
+  "25f3ab6051128663ccd631af68f04bd0": {
+   "id": "25f3ab6051128663ccd631af68f04bd0",
+   "company": "CLAAS Selbstfahrende Erntemaschinen GmbH",
+   "role": "Praktikum / Abschlussarbeit Bordnetzentwicklung",
+   "location": "Bielefeld"
+  },
+  "f6c883f810d0c0f9f4698be733515b87": {
+   "id": "f6c883f810d0c0f9f4698be733515b87",
+   "company": "Nrw.Bank",
+   "role": "Schülerpraktikum Im Kreditmanagement - Düsseldorf - 2027 (w/m/d)",
+   "location": "Dusseldorf"
+  },
+  "2d67bff74a5a8814902e631d43795035": {
+   "id": "2d67bff74a5a8814902e631d43795035",
+   "company": "Nrw.Bank",
+   "role": "Schülerpraktikum Im It-bereich - Düsseldorf - 2027 (w/m/d)",
+   "location": "Dusseldorf"
+  },
+  "87d5191896f91e819ec17ab82e4d67e8": {
+   "id": "87d5191896f91e819ec17ab82e4d67e8",
+   "company": "Nrw.Bank",
+   "role": "Schülerpraktikum In Der Wohnraumförderung - Düsseldorf Oder Münster - 2027 (w/m/d)",
+   "location": "Dusseldorf"
   },
   "8e753f05584ff0e22e9e50727beba47a": {
    "id": "8e753f05584ff0e22e9e50727beba47a",
@@ -296,6 +344,36 @@
    "role": "Human Resources Intern / Pflichtpraktikum (m/w/d)",
    "location": "Berlin"
   },
+  "a10dbb2fcbf3a0ea4999d49954401d6c": {
+   "id": "a10dbb2fcbf3a0ea4999d49954401d6c",
+   "company": "Amplifon",
+   "role": "Praktikant Hr-learning & Development (personalentwicklung) (m/w/d)",
+   "location": "Hamburg"
+  },
+  "9d201dc6b9445029a84aea2531209c77": {
+   "id": "9d201dc6b9445029a84aea2531209c77",
+   "company": "Nestle SA",
+   "role": "Werkstudent International Sales (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "0e8ecdf3334acdfcb69ef5379a7efe95": {
+   "id": "0e8ecdf3334acdfcb69ef5379a7efe95",
+   "company": "Nestle SA",
+   "role": "Praktikum Qualitätssicherung - Analytisches Labor (m/w/d)",
+   "location": "Constance"
+  },
+  "28df864bf3e2e707708132e71c1b7ccb": {
+   "id": "28df864bf3e2e707708132e71c1b7ccb",
+   "company": "AGCO Corporation (Fendt)",
+   "role": "Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market Training (sose 2027)",
+   "location": "Kempten Allgau"
+  },
+  "c7520477bcb8116712b54a584827cda7": {
+   "id": "c7520477bcb8116712b54a584827cda7",
+   "company": "KPMG LLP",
+   "role": "Unknown",
+   "location": "Frankfurt Am Main"
+  },
   "23a897006ccf6c777c1ffdd6bba3685d": {
    "id": "23a897006ccf6c777c1ffdd6bba3685d",
    "company": "COTY Inc",
@@ -446,83 +524,17 @@
    "role": "Internship (m/f/d) - Business Development International Service",
    "location": "Ulm"
   },
-  "9d5eca2966e818719c2cc8a5204b8312": {
-   "id": "9d5eca2966e818719c2cc8a5204b8312",
-   "company": "Nestle Ltd",
-   "role": "Praktikum Qualitätssicherung - Analytisches Labor (m/w/d)",
-   "location": "Constance"
-  },
-  "4cee5334f191eff0387b0386629701e0": {
-   "id": "4cee5334f191eff0387b0386629701e0",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Praktikum In Der Personalentwicklung",
-   "location": "Wolfertschwenden"
-  },
-  "562949973773468": {
-   "id": "562949973773468",
-   "company": "Bayer",
-   "role": "Pharmaziepraktikant*in Im Bereich Qualitätskontrolle Für Mai 2027 (alle Geschlechter)",
-   "location": "Berlin"
-  },
-  "562949974736434": {
-   "id": "562949974736434",
-   "company": "Bayer",
-   "role": "Rechtsreferendar*in Im Bereich Pharmaceuticals In Berlin (alle Geschlechter)",
-   "location": "Berlin"
-  },
-  "562949974723226": {
-   "id": "562949974723226",
-   "company": "Bayer",
-   "role": "Pharmaziepraktikant*in Im Verpackungsbetrieb One Packaging (alle Geschlechter)",
-   "location": "Berlin"
-  },
-  "562949974736465": {
-   "id": "562949974736465",
-   "company": "Bayer",
-   "role": "Praktikant*in Im Bereich Closing & External Reporting (alle Geschlechter)",
-   "location": "Cologne"
-  },
-  "562949974736435": {
-   "id": "562949974736435",
-   "company": "Bayer",
-   "role": "Intern In Integrated Process & Mathematical Solutions (all Genders)",
-   "location": "Cologne"
-  },
-  "562949974073836": {
-   "id": "562949974073836",
-   "company": "Bayer",
-   "role": "Praktikant*in Im Bereich Qualitätskontrolle Für 2027 (alle Geschlechter)",
-   "location": "Freiburg Im Breisgau"
-  },
-  "562949974542895": {
-   "id": "562949974542895",
-   "company": "Bayer",
-   "role": "Pharmaziepraktikant*in Im Bereich Quality In Weimar (alle Geschlechter)",
-   "location": "Jena"
-  },
-  "562949973605476": {
-   "id": "562949973605476",
-   "company": "Bayer",
-   "role": "Intern - Drug Substance Digital Process Chemistry (all Genders)",
-   "location": "Wuppertal"
-  },
-  "562949977008143": {
-   "id": "562949977008143",
-   "company": "Bayer",
-   "role": "Pharmaziepraktikant*in Im Bereich Parenteralia Produktion (alle Geschlechter) Ab November 2027",
-   "location": "Berlin"
-  },
-  "5632c05df34177f627ce842137f8f7b9": {
-   "id": "5632c05df34177f627ce842137f8f7b9",
-   "company": "Schaeffler",
-   "role": "Praktikum - F&e Vorentwicklung Des Unternehmensbereichs E-mobilität (d/m/w)",
-   "location": "Karlsruhe"
-  },
-  "d97ba9709d77cb5842381a25cc9ea85c": {
-   "id": "d97ba9709d77cb5842381a25cc9ea85c",
-   "company": "Texas Instruments",
-   "role": "Intern (m/f/d) In Finance, Controlling, Tax Or Accounting – 2027",
+  "e8306a63409834eaf09b5efcbf13ed63": {
+   "id": "e8306a63409834eaf09b5efcbf13ed63",
+   "company": "HARTMANN",
+   "role": "Auszubildender (w/m/d) Zur Fachkraft Für Lagerlogistik - Standort Brück (start 2027)",
    "location": "Munich"
+  },
+  "6daebf6718b78879cd79c343f1ab035c": {
+   "id": "6daebf6718b78879cd79c343f1ab035c",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (stuttgart)",
+   "location": "Stuttgart"
   },
   "53f00ffda6f32e37069221278179129f": {
    "id": "53f00ffda6f32e37069221278179129f",
@@ -613,6 +625,12 @@
    "company": "Rewe Group",
    "role": "Trainee - Nachwuchsführungskraft Für Die Zielposition Gartencenterleiter (m/w/d)",
    "location": "Region Braunschweig"
+  },
+  "b0455f4bdfef1d2fb60918e5d4fb7a65": {
+   "id": "b0455f4bdfef1d2fb60918e5d4fb7a65",
+   "company": "Ardagh Group",
+   "role": "Ausbildung Mechatroniker 2027 (m/w/d)",
+   "location": "Hanover"
   },
   "89cd5b5077ba261124c48d602ef694e5": {
    "id": "89cd5b5077ba261124c48d602ef694e5",
@@ -721,12 +739,6 @@
    "company": "Scania CV AB",
    "role": "Ausbildung Mechatroniker 2026 (m/w/d) Für München/oberschleißheim",
    "location": "Munich"
-  },
-  "2f3837f5fc68e9b8a5ac1466b8039a47": {
-   "id": "2f3837f5fc68e9b8a5ac1466b8039a47",
-   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
-   "role": "Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (stuttgart)",
-   "location": "Stuttgart"
   },
   "b71ad57bae2c91b5f5f9c60388b7697f": {
    "id": "b71ad57bae2c91b5f5f9c60388b7697f",
@@ -992,18 +1004,6 @@
    "role": "Ausbildung Zum Lacklaboranten (m/w/d) Start 2027",
    "location": "Germany"
   },
-  "224d3021fa03cd69ea08166ae128aa5e": {
-   "id": "224d3021fa03cd69ea08166ae128aa5e",
-   "company": "Altana AG",
-   "role": "Ausbildung Zum Industriekaufmann (m/w/d) - Start 2027",
-   "location": "Germany"
-  },
-  "d9645f83c1766ca5992ca5567011f564": {
-   "id": "d9645f83c1766ca5992ca5567011f564",
-   "company": "ww-ag",
-   "role": "Auszubildender Zum Fachinformatiker (m/w/d) - Alle Fachrichtungen 2027",
-   "location": "Stuttgart"
-  },
   "d597bab54941d93402655ea2871a8801": {
    "id": "d597bab54941d93402655ea2871a8801",
    "company": "Festo AG & Co. KG",
@@ -1189,6 +1189,12 @@
    "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
    "role": "Softwareentwickler - Plc Research & Development (m/w/d)",
    "location": "Wolfertschwenden"
+  },
+  "3856f2b28aa31a9b330993abf523264a": {
+   "id": "3856f2b28aa31a9b330993abf523264a",
+   "company": "Jobgether",
+   "role": "Software Engineer - Crypto",
+   "location": "Germany"
   },
   "36276f3ca4072a692ef220851722f4e1": {
    "id": "36276f3ca4072a692ef220851722f4e1",
@@ -1610,23 +1616,17 @@
    "role": "Software Engineer - Dmt (data Management Tool)",
    "location": "Stuttgart"
   },
-  "6716f1757be9e534d756830da9dd51b1": {
-   "id": "6716f1757be9e534d756830da9dd51b1",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Softwareentwickler Automatisierungstechnik (m/w/d)",
-   "location": "Wolfertschwenden"
+  "bd748de948899c755e1991631b68b15b": {
+   "id": "bd748de948899c755e1991631b68b15b",
+   "company": "EndressHauser AG",
+   "role": "Werkstudent Data Analysis & Data Foundation (w/m/d)",
+   "location": "Nesselwang"
   },
   "fa7bc84d3c3bda291f11cfb91f31f615": {
    "id": "fa7bc84d3c3bda291f11cfb91f31f615",
    "company": "createyourowncareer",
    "role": "Werkstudent Data & Analytics (m/w/d)",
    "location": "44369"
-  },
-  "bd748de948899c755e1991631b68b15b": {
-   "id": "bd748de948899c755e1991631b68b15b",
-   "company": "EndressHauser AG",
-   "role": "Werkstudent Data Analysis & Data Foundation (w/m/d)",
-   "location": "Nesselwang"
   },
   "8e38a3ddc229838ab95be238557acaaa": {
    "id": "8e38a3ddc229838ab95be238557acaaa",
@@ -1645,6 +1645,12 @@
    "company": "Korber AG",
    "role": "Werkstudent (m/w/d) Data Analyst Im Reportingbereich",
    "location": "Unknown"
+  },
+  "34f396c505a4349a60cca62b056f972c": {
+   "id": "34f396c505a4349a60cca62b056f972c",
+   "company": "Jobgether",
+   "role": "Ai Science Writer, Nebius Academy (contract)",
+   "location": "Germany"
   },
   "6b44c834db5f3bf3e71172f07024d929": {
    "id": "6b44c834db5f3bf3e71172f07024d929",
@@ -1890,6 +1896,12 @@
    "id": "372df35dad89a0636d65a9a19e3bf850",
    "company": "AlixPartners",
    "role": "Praktikum Im Consulting - Industry & Performance Improvement (m/w/d)",
+   "location": "Germany"
+  },
+  "eb5611ecf8cecac4ed53d789659711f6": {
+   "id": "eb5611ecf8cecac4ed53d789659711f6",
+   "company": "Jobgether",
+   "role": "International Accountant",
    "location": "Germany"
   },
   "50dff9e5d4e0e82a6e877439c1d15675": {
@@ -2358,12 +2370,6 @@
    "id": "4efc6621317a51c9ad0d909f7c12bc9a",
    "company": "bk-berater",
    "role": "Finanzbuchhalter In Ammerbuch (m/w/d)",
-   "location": "Ammerbuch"
-  },
-  "63634297f6306e86ffb59beada6e71d9": {
-   "id": "63634297f6306e86ffb59beada6e71d9",
-   "company": "bk-berater",
-   "role": "Lohn- Und Gehaltsbuchhalter In Ammerbuch (m/w/d)",
    "location": "Ammerbuch"
   },
   "86a4b5909e7f9df0a2fc2667a06bcc5e": {
@@ -3188,6 +3194,24 @@
    "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
    "location": "Cologne"
   },
+  "9e6dd4bb727e7fefccbb69be3700d9d3": {
+   "id": "9e6dd4bb727e7fefccbb69be3700d9d3",
+   "company": "vorwerkgroup",
+   "role": "Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)",
+   "location": "Munich"
+  },
+  "5eb37181885946f0565cd65cf37afb1b": {
+   "id": "5eb37181885946f0565cd65cf37afb1b",
+   "company": "vorwerkgroup",
+   "role": "Verkäufer Im Store Konstanz (m/w/d) (20 Std./wo.)",
+   "location": "Constance"
+  },
+  "99f40b87f56deb7fa93d54e67d90fcbd": {
+   "id": "99f40b87f56deb7fa93d54e67d90fcbd",
+   "company": "vorwerkgroup",
+   "role": "Verkäufer Im Store Ludwigsburg (m/w/d) (20 Std./wo.) (befr. Für 1 Jahr)",
+   "location": "Stuttgart"
+  },
   "1473da27c0168e2e327dfa8db50f72ec": {
    "id": "1473da27c0168e2e327dfa8db50f72ec",
    "company": "Michael Kors",
@@ -3433,24 +3457,6 @@
    "company": "Rewe Group",
    "role": "Verkäufer Werkzeuge Und Baustoffe - Auch Quereinsteiger (m/w/d)",
    "location": "Berlin"
-  },
-  "92552c7d5bd922e096acfaf8537d4624": {
-   "id": "92552c7d5bd922e096acfaf8537d4624",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "3490a7f08fe5b6c0e46137cdd5048dbc": {
-   "id": "3490a7f08fe5b6c0e46137cdd5048dbc",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "1fd37901c8cbc7bf103c1318398c84c3": {
-   "id": "1fd37901c8cbc7bf103c1318398c84c3",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
-   "role": "Verkäufer Getränke (m/w/d)",
-   "location": "Cologne"
   },
   "d799e65f4e0dc69e2e8ec37386855084": {
    "id": "d799e65f4e0dc69e2e8ec37386855084",
