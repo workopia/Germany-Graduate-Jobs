@@ -7904,4 +7904,94 @@
 <tr><td>REWE Peter Ziegler oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-25</td></tr>
 <tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-09-25</td></tr>
 <tr><td>KION North America Corporation</td><td>Assistant (m/w/d) In Vollzeit</td><td>Hamburg</td><td>2026-09-25</td></tr>
+<tr><td>Eiffage Infra-Bau</td><td>Vocatium Münster</td><td>Dortmund</td><td>2026-09-26</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship It Innovation & Digitalization (m/f/d)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship Human Resources Development - Focus Learning (m/f/d)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship Health, Safety, And Environment (m/f/d)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship Ai & Data-driven Innovation Management (m/f/d)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>SGL Carbon</td><td>Praktikant (m/w/d) Im Bereich Site Environment, Health & Safety</td><td>Augsburg</td><td>2026-09-26</td></tr>
+<tr><td>Everllence</td><td>Schülerpraktikum: 22.03.2027 - 25.03.2027</td><td>Augsburg</td><td>2026-09-26</td></tr>
+<tr><td>Everllence</td><td>Schülerpraktikum: 26.04.2027 - 30.04.2027</td><td>Augsburg</td><td>2026-09-26</td></tr>
+<tr><td>Everllence</td><td>Schülerpraktikum: 01.02.2027 - 05.02.2027</td><td>Augsburg</td><td>2026-09-26</td></tr>
+<tr><td>Everllence</td><td>Schülerpraktikum: 08.02.2027 - 12.02.2027</td><td>Augsburg</td><td>2026-09-26</td></tr>
+<tr><td>Korber AG</td><td>Schülerpraktikanten (m/w/d) In Hamburg-bergedorf 2027</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>AVL List GmbH</td><td>Initiativbewerbung (m/w/d) Young Professionals Avl In Deutschland</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>AVL List GmbH</td><td>Unsolicited Application For Young Professionals (m/f/d)</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>Deutz AG</td><td>Praktikant / Umschüler (m/w/d) Gewerblich</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>Bitzer SE</td><td>Initiativbewerbung Praktikum / Abschlussarbeit (m/w/d)</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>Bitzer SE</td><td>Praktikum Human Resources (m/w/d)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum / Hochschulpraktikum Im Bereich Ground Services Mit Schwerpunkt Kommunikation</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Loyalty Marketing & Customer Programs (miles & More)</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Retail Marketing - Pr</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum Mit Schwerpunkt Online Marketing & Services - Onlinemarketing, Social Media & Kpis</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Pflichtpraktikum In Der Fraport Academy Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Rewe Group</td><td>Praktikum Loyalty Processes & Performance (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>Nordex SE</td><td>Intern People & Culture Systems Support</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>Nordex SE</td><td>Product Strategy & Sales Support Intern (m/f/d)</td><td>Madrid +1</td><td>2026-09-26</td></tr>
+<tr><td>Nordex SE</td><td>Working Student (m/f/d) It Strategic Sourcing</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>JW Marriott Berlin</td><td>Human Resources Intern / Pflichtpraktikum (m/w/d)</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>Amplifon</td><td>Praktikant Hr-learning & Development (personalentwicklung) (m/w/d)</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>Nestle SA</td><td>Werkstudent International Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Qualitätssicherung - Analytisches Labor (m/w/d)</td><td>Constance</td><td>2026-09-26</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Go-to-market Training (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-26</td></tr>
+<tr><td>KPMG LLP</td><td>Unknown</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>COTY Inc</td><td>Working Student R&d - Packaging Development</td><td>Darmstadt</td><td>2026-09-26</td></tr>
+<tr><td>Salonichopra</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing Ab Mai 2027</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikum Im Bereich Bioanalytics Germany November 2027</td><td>Frankfurt Am Main</td><td>2026-09-26</td></tr>
+<tr><td>Salonichopra</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing Ab November 2027</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>valeo.info</td><td>Working Student - Research & Development (m/f/d)</td><td>Karlsruhe</td><td>2026-09-26</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Corporate Marketing (w/m/d)</td><td>Ulm</td><td>2026-09-26</td></tr>
+<tr><td>Zalando</td><td>Intern Buying & Partner Consultant (all Genders)</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Werkstudent Im Betrieblichen Mobilitätsmanagement (w/m/div.)</td><td>Reutlingen</td><td>2026-09-26</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Werkscontrolling</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>Aquila Group</td><td>Intern (f/m/d) Asset Management</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>Airbus Aerostructures</td><td>Werkstudent Quality Plant Hamburg (d/m/w)</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Intern (d/f/m) - Talent & Executive Management</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>Tesat-Spacecom GmbH & Co. KG</td><td>Praktikum Im Operativen Einkauf Für Elektronik (d/m/w)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-09-26</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler In Nicht-gewerblichen Bereichen</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Marketing Und Vertrieb Mit Fokus Auf Pos</td><td>Leinfelden</td><td>2026-09-26</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/-in (m/w/d) Am Standort Ahorn 2027</td><td>Ahorn</td><td>2026-09-26</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>Telefónica Deutschland</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-09-26</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für Halle/landsberg</td><td>Land</td><td>2026-09-26</td></tr>
+<tr><td>The Ritz-Carlton, Berlin</td><td>Ausbildung Im Restaurant- Und Veranstaltungsfach (m/w/d) - The Ritz-carlton, Berlin</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>Surteco SE</td><td>Auszubildender Kunststoff-und Kautschuktechnologe (m/w/d) Für 2027</td><td>Dortmund</td><td>2026-09-26</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Ausbildung Als Fachinformatiker (m/w/d) Ab 01.09.2027</td><td>Denklingen</td><td>2026-09-26</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Ausbildung Zur Pflegefachkraft (m/w/d) Id 33773</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>VISHAY BCcomponents BEYSCHLAG GmbH</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Kiel</td><td>2026-09-26</td></tr>
+<tr><td>Bertelsmann</td><td>Ausbildung Zum Fachinformatiker Bei Bertelsmann 2027 (m/w/d)</td><td>33335</td><td>2026-09-26</td></tr>
+<tr><td>Verlegerdienst München GmbH (VM)</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/x)</td><td>82205</td><td>2026-09-26</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2027</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Start 2027</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>createyourowncareer</td><td>Software Engineer (f/m/d) – Cross-platform Sdk Development</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>createyourowncareer</td><td>C++ Engineer (f/m/d)</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>Hitachi Rail GTS Deutschland GmbH</td><td>Software Engineer - Dmt (data Management Tool)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>Hitachi Metals</td><td>Software Engineer - Dmt (data Management Tool)</td><td>Stuttgart</td><td>2026-09-26</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Ordermanagement Im Projektumfeld</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>Franke Group</td><td>Mitarbeiter Finanzbuchhaltung (m/w/d)</td><td>Gruensfeld</td><td>2026-09-26</td></tr>
+<tr><td>bk-berater</td><td>Finanzbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-09-26</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Berlin Und Umgebung</td><td>Genshagen</td><td>2026-09-26</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Magdeburg Und Umgebung</td><td>Genshagen</td><td>2026-09-26</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-09-26</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-09-26</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-09-26</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - München</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>diversey.in</td><td>Servicetechniker Taski (m/w/d) - Gebiet Nrw</td><td>NRW</td><td>2026-09-26</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>Rewe Group</td><td>Lagerassistent Warenausgang (m/w/d)</td><td>Eitting</td><td>2026-09-26</td></tr>
+<tr><td>REWE Astrid Gogol oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Werkzeuge Und Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Berlin</td><td>2026-09-26</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Backshop (m/w/d)</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>REWE Gritzner oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Sb-frischetheke (m/w/d)</td><td>Cologne</td><td>2026-09-26</td></tr>
+<tr><td>Arvato</td><td>Spezialist Leitstand Logistik (m/w/d)</td><td>Heideloh/GroßZöBeritz</td><td>2026-09-26</td></tr>
+<tr><td>Clydeco</td><td>Assistant</td><td>Munich</td><td>2026-09-26</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Teamassistenz (m/w/d) Bereich Nachhaltigkeit</td><td>Hamburg</td><td>2026-09-26</td></tr>
+<tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Mecklenburg Vorpommern</td><td>2026-09-26</td></tr>
 </table>
