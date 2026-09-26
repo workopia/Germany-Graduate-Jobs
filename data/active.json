@@ -326,6 +326,12 @@
    "role": "Praktikant/werkstudent (m/w/d) Im Bereich Globales Qualitätsmanagement/product Integrity (sose 2027)",
    "location": "Kempten Allgau"
   },
+  "d9cd587cb24a5e7849874e95d98f0204": {
+   "id": "d9cd587cb24a5e7849874e95d98f0204",
+   "company": "Melia",
+   "role": "Praktikum Im Personalbereich (m/w/d)",
+   "location": "Dusseldorf"
+  },
   "6193563000b8bccf9a81bc2fb775abd9": {
    "id": "6193563000b8bccf9a81bc2fb775abd9",
    "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
@@ -470,6 +476,18 @@
    "role": "Liga Travel Gmbh - Pflichtpraktikum",
    "location": "Frankfurt Am Main"
   },
+  "83db8a35d39cd2e4a8e4aa197569a9b7": {
+   "id": "83db8a35d39cd2e4a8e4aa197569a9b7",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Praktikum In Der Logistikplanung",
+   "location": "Karlsruhe"
+  },
+  "d478014bae0f9022ebc64cf7fb2cb130": {
+   "id": "d478014bae0f9022ebc64cf7fb2cb130",
+   "company": "Bosch Smart Home",
+   "role": "Praktikum Im Bereich Human Resources Bei Bosch Smart Home",
+   "location": "Stuttgart"
+  },
   "8e9741900867bee040c30bed4328a5ba": {
    "id": "8e9741900867bee040c30bed4328a5ba",
    "company": "E.ON SE",
@@ -499,24 +517,6 @@
    "company": "Ernst & Young Global Ltd",
    "role": "Duales Studium In Der Wirtschaftsprüfung / Audit (w/m/d)",
    "location": "Frankfurt Am Main"
-  },
-  "6c09a613f0de9895a20645b09e761da0": {
-   "id": "6c09a613f0de9895a20645b09e761da0",
-   "company": "Kenvue",
-   "role": "Pharmazeut Im Praktikum / Phip (m/w/d)",
-   "location": "Germany"
-  },
-  "8871548f8740eb4e32f78334a6c35c25": {
-   "id": "8871548f8740eb4e32f78334a6c35c25",
-   "company": "Alcon",
-   "role": "Student*in /m/w/d) Für Ein Mehrmonatiges Praxissemester/pflichtpraktikum Im Bereich Automatisierung & Digitalisierung Kontaktlinsenproduktion",
-   "location": "Grosswallstadt"
-  },
-  "9b7e081c018db085f0504b108dbd95d9": {
-   "id": "9b7e081c018db085f0504b108dbd95d9",
-   "company": "Zeiss Group",
-   "role": "Praktikum - Corporate Venture Capital (m/w/x)",
-   "location": "Goppingen"
   },
   "b0e01d433b2f9737e5a946b82b3a0952": {
    "id": "b0e01d433b2f9737e5a946b82b3a0952",
@@ -601,6 +601,12 @@
    "company": "Lilly",
    "role": "Marketing & Sales Trainee (m/d/w)",
    "location": "Frankfurt Am Main"
+  },
+  "850a592f9f26f238498215e61e51b6c4": {
+   "id": "850a592f9f26f238498215e61e51b6c4",
+   "company": "Sandoz",
+   "role": "Apprentice Chemical Labs / Ausbildung Chemielaborant*in (m/w/d) Start 01.09.2027 / Standort Holzkirchen",
+   "location": "Munich"
   },
   "e8306a63409834eaf09b5efcbf13ed63": {
    "id": "e8306a63409834eaf09b5efcbf13ed63",
@@ -991,12 +997,6 @@
    "company": "Rewe Group",
    "role": "Trainee - Nachwuchsführungskraft Für Die Zielposition Marktleiter (m/w/d)",
    "location": "Mecklenburg"
-  },
-  "6afd367f2b37050dfd379884caf2d7a8": {
-   "id": "6afd367f2b37050dfd379884caf2d7a8",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Ausbildung Industriekaufmann/-frau Mit Zusatzqualifikation (m/w/d) Am Standort Obersontheim 2027",
-   "location": "Obersontheim"
   },
   "d597bab54941d93402655ea2871a8801": {
    "id": "d597bab54941d93402655ea2871a8801",
@@ -2618,6 +2618,12 @@
    "role": "Servicetechniker Industriekälte (w/m/d)",
    "location": "Freiburg Im Breisgau"
   },
+  "3c7aefb1f0e7559cbc0717bf2fe03887": {
+   "id": "3c7aefb1f0e7559cbc0717bf2fe03887",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicetechniker Industriekälte (w/m/d)",
+   "location": "Stuttgart"
+  },
   "63592d95129e090b2e1f2d14f59ef694": {
    "id": "63592d95129e090b2e1f2d14f59ef694",
    "company": "Ariston Holding N.V",
@@ -3018,12 +3024,6 @@
    "id": "093f638e3268255b42ec755d3c55c5d6",
    "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
    "role": "Mechaniker Endmontage (m/w/d)",
-   "location": "Wolfertschwenden"
-  },
-  "b4b2069adc673cc7f8036615aff6011c": {
-   "id": "b4b2069adc673cc7f8036615aff6011c",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Servicetechniker International (m/w/d)",
    "location": "Wolfertschwenden"
   },
   "563705892752028": {

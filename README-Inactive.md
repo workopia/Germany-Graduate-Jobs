@@ -7994,4 +7994,9 @@
 <tr><td>Clydeco</td><td>Assistant</td><td>Munich</td><td>2026-09-26</td></tr>
 <tr><td>SGS Australia Pty Ltd</td><td>Teamassistenz (m/w/d) Bereich Nachhaltigkeit</td><td>Hamburg</td><td>2026-09-26</td></tr>
 <tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Mecklenburg Vorpommern</td><td>2026-09-26</td></tr>
+<tr><td>Kenvue</td><td>Pharmazeut Im Praktikum / Phip (m/w/d)</td><td>Germany</td><td>2026-09-26</td></tr>
+<tr><td>Alcon</td><td>Student*in /m/w/d) Für Ein Mehrmonatiges Praxissemester/pflichtpraktikum Im Bereich Automatisierung & Digitalisierung Kontaktlinsenproduktion</td><td>Grosswallstadt</td><td>2026-09-26</td></tr>
+<tr><td>Zeiss Group</td><td>Praktikum - Corporate Venture Capital (m/w/x)</td><td>Goppingen</td><td>2026-09-26</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Industriekaufmann/-frau Mit Zusatzqualifikation (m/w/d) Am Standort Obersontheim 2027</td><td>Obersontheim</td><td>2026-09-26</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Servicetechniker International (m/w/d)</td><td>Wolfertschwenden</td><td>2026-09-26</td></tr>
 </table>
