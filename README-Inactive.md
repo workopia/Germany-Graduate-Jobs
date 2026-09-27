@@ -8073,4 +8073,26 @@
 <tr><td>Solenis</td><td>Versand- Und Logistikkoordinator (m/w/d)</td><td>Sobernheim</td><td>2026-09-27</td></tr>
 <tr><td>Hellmann</td><td>Customer Service Specialist (m/w/d)</td><td>Hanover</td><td>2026-09-27</td></tr>
 <tr><td>Zeppelin</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>RTL Nord</td><td>Praktikum Redaktion (w/m/d)</td><td>Hanover</td><td>2026-09-27</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikum Bfs</td><td>Dortmund</td><td>2026-09-27</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikant Redaktion Frankfurt (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>Penguin Random House Verlagsgruppe GmbH</td><td>Praktikum Youtube & Video-content (m/w/d)</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Hris (m/w/d)</td><td>Bielefeld</td><td>2026-09-27</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Category Management & Shopper Marketing (w/m/d)</td><td>Germany</td><td>2026-09-27</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Germany</td><td>2026-09-27</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marktforschung - Brand & Social Media Monitoring (m/w/d)</td><td>Unknown</td><td>2026-09-27</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Germany</td><td>2026-09-27</td></tr>
+<tr><td>TE Connectivity</td><td>Strategic Procurement Intern (m/w/d)</td><td>Stuttgart</td><td>2026-09-27</td></tr>
+<tr><td>Festo</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Stuttgart</td><td>2026-09-27</td></tr>
+<tr><td>SumUp</td><td>Backend Engineer (golang) - Bank Balance</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)</td><td>RoßBach</td><td>2026-09-27</td></tr>
+<tr><td>Schwarz Produktion</td><td>Haustechniker / Anlagentechniker Versorgungstechnik / Betriebstechniker (w/m/d)</td><td>Eystrup</td><td>2026-09-27</td></tr>
+<tr><td>Schwarz Produktion</td><td>Fachkraft Gebäudeinstandhaltung/ Handwerker Instandhaltung Bauwesen (w/m/d)</td><td>Eystrup</td><td>2026-09-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Versand (gn) Vollzeit Oder Teilzeit</td><td>Ahrensfelde</td><td>2026-09-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Dortmund</td><td>2026-09-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Dortmund</td><td>2026-09-27</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren, Werkzeuge, Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist, Werksstudent (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
+<tr><td>Levis</td><td>Sales Stylist In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
 </table>
