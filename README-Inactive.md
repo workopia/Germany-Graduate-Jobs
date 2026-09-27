@@ -7999,4 +7999,78 @@
 <tr><td>Zeiss Group</td><td>Praktikum - Corporate Venture Capital (m/w/x)</td><td>Goppingen</td><td>2026-09-26</td></tr>
 <tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Industriekaufmann/-frau Mit Zusatzqualifikation (m/w/d) Am Standort Obersontheim 2027</td><td>Obersontheim</td><td>2026-09-26</td></tr>
 <tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Servicetechniker International (m/w/d)</td><td>Wolfertschwenden</td><td>2026-09-26</td></tr>
+<tr><td>Idealo Internet GmbH</td><td>Werkstudent:in Content Marketing - Spanien (m/w/d)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Idealo Internet GmbH</td><td>Werkstudent:in Content Marketing - Frankreich (m/w/d)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Partners Group AG</td><td>Intern - Private Equity Buy-outs - Business Services Vertical (munich, Germany)</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>Nestle</td><td>Werkstudent International Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Trade Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Praktikum Im Bereich Versuch Tiefziehverpackungsmaschinen</td><td>Wolfertschwenden</td><td>2026-09-27</td></tr>
+<tr><td>JW Marriott Berlin</td><td>Human Resources Intern / Pflichtpraktikum (m/w/d)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Ernst & Young</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>Zeiss Group</td><td>Intern - Ai-enhanced Business Strategy (f/m/x)</td><td>Goppingen</td><td>2026-09-27</td></tr>
+<tr><td>Zeiss Group</td><td>Praktikum Entwicklung Optischer Messsysteme (m/w/x)</td><td>Goppingen</td><td>2026-09-27</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant (m/w/d) Für Den Bereich Entwicklung Motor/motorperipherie, Räder/reifen (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-27</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Für Den Bereicht Fendt Sales Operations (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-27</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant / Werkstudent (m/w/d) Im Bereich Fendt Market Management Traktoren (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-27</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/werkstudent (m/w/d) Im Bereich Globales Qualitätsmanagement/product Integrity (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-27</td></tr>
+<tr><td>Melia</td><td>Praktikum Im Personalbereich (m/w/d)</td><td>Dusseldorf</td><td>2026-09-27</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Konzern-personal, Schwerpunkt Global Mobility In Frankfurt 2026</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Konzern-risikocontrolling, Marktrisikomanagement Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Employer Branding/personalmarketing, Schwerpunkt Social Media In Frankfurt 2026</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Strategie & Konzernentwicklung / Abteilung Strategie In Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Werkstudent (m/w/d) Im Bereich Kredit / Restrukturierung In Frankfurt 2026</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Werkstudent (m/w/d) In Operations & Services, Eigene Emissionen / Steuern Am Standort München 2026</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Bordnetzentwicklung</td><td>Bielefeld</td><td>2026-09-27</td></tr>
+<tr><td>Nrw.Bank</td><td>Schülerpraktikum Im Kreditmanagement - Düsseldorf - 2027 (w/m/d)</td><td>Dusseldorf</td><td>2026-09-27</td></tr>
+<tr><td>Nrw.Bank</td><td>Schülerpraktikum Im It-bereich - Düsseldorf - 2027 (w/m/d)</td><td>Dusseldorf</td><td>2026-09-27</td></tr>
+<tr><td>Nrw.Bank</td><td>Schülerpraktikum In Der Wohnraumförderung - Düsseldorf Oder Münster - 2027 (w/m/d)</td><td>Dusseldorf</td><td>2026-09-27</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Aktuariat Lebensversicherung</td><td>Dortmund</td><td>2026-09-27</td></tr>
+<tr><td>adesso-group</td><td>Schulpraktikum (all Genders)</td><td>Dortmund</td><td>2026-09-27</td></tr>
+<tr><td>Valeo SA</td><td>Working Student In Purchasing (m/f/d)</td><td>Karlsruhe</td><td>2026-09-27</td></tr>
+<tr><td>Berliner Wasserbetriebe</td><td>Werkstudent:in Im Bereich Recruiting (w/m/d)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Praktikum - Capital Markets Analytics / Ipos & Listed Companies (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-09-27</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-09-27</td></tr>
+<tr><td>Yunex Traffic</td><td>Werkstudent (w/m/d) Im It Application Management</td><td>Hamburg</td><td>2026-09-27</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Berlin (01/2027 - 02/2027)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Brandenburg (01/2027 - 06/2027)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Rheinland-pfalz</td><td>Darmstadt</td><td>2026-09-27</td></tr>
+<tr><td>zdf</td><td>Praktikant*in Zdfkultur (02/2027 - 07/2027)</td><td>Darmstadt</td><td>2026-09-27</td></tr>
+<tr><td>Puma</td><td>Internship Product Line Management Kids Footwear</td><td>Germany</td><td>2026-09-27</td></tr>
+<tr><td>Liga Travel Gmbh</td><td>Liga Travel Gmbh - Pflichtpraktikum</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum In Der Logistikplanung</td><td>Karlsruhe</td><td>2026-09-27</td></tr>
+<tr><td>Bosch Smart Home</td><td>Praktikum Im Bereich Human Resources Bei Bosch Smart Home</td><td>Stuttgart</td><td>2026-09-27</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-09-27</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Praktikum Für Frauen</td><td>Wuppertal</td><td>2026-09-27</td></tr>
+<tr><td>HanseWerk AG</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-09-27</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Internship: Curing Kinetics Investigations D/f/m)</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Duales Studium In Der Wirtschaftsprüfung / Audit (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-09-27</td></tr>
+<tr><td>Rewe Group</td><td>Trainee - Nachwuchsführungskraft Für Die Zielposition Marktleiter (m/w/d)</td><td>Mecklenburg</td><td>2026-09-27</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Werkstudent (w/m/d) It Service Desk</td><td>Giebelstadt</td><td>2026-09-27</td></tr>
+<tr><td>SSI Schaefer</td><td>Werkstudent (w/m/d) It Service Desk</td><td>Giebelstadt</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Consulting Intern (m/f/d) - Germany</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern Consultant (m/f/d) - Germany</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhaltung - Mechanik (w/m/d)</td><td>RoßBach</td><td>2026-09-27</td></tr>
+<tr><td>Bonback Halle GmbH</td><td>Elektroniker / Elektriker / Mechatroniker - Instandhaltung (w/m/d)</td><td>Halle (Saale)</td><td>2026-09-27</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-09-27</td></tr>
+<tr><td>KONE</td><td>Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge</td><td>Frankfurt Am Main</td><td>2026-09-27</td></tr>
+<tr><td>Ontex Group</td><td>Mechaniker / Mechatroniker (m/w/d)</td><td>Grosspostwitz</td><td>2026-09-27</td></tr>
+<tr><td>KNDS Group</td><td>Mechatroniker (m/w/d) Werksinstandhaltung</td><td>Unknown</td><td>2026-09-27</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>KNDS Group</td><td>Service-techniker (m/w/d)</td><td>Unknown</td><td>2026-09-27</td></tr>
+<tr><td>heidelbergmaterials.pl</td><td>Schlosser / Mitarbeiter In Der Mechanischen Instandhaltung (w/m/d)</td><td>Triefenstein</td><td>2026-09-27</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Mechaniker Endmontage (m/w/d)</td><td>Wolfertschwenden</td><td>2026-09-27</td></tr>
+<tr><td>JYSK</td><td>Werkstudent/in Im Verkauf (m/w/d) - Berlin Rosenthal (18 Std)</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Berlin Rosenthal</td><td>Berlin</td><td>2026-09-27</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Radevormwald</td><td>Wuppertal</td><td>2026-09-27</td></tr>
+<tr><td>PVH</td><td>Mini-jobber München Tommy Hilfiger Oberpollinger (m/w/d)</td><td>Munich</td><td>2026-09-27</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Saarbruecken</td><td>2026-09-27</td></tr>
+<tr><td>REWE Mathias Götz oHG</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Saarbruecken</td><td>2026-09-27</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
+<tr><td>REWE</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
+<tr><td>Solenis</td><td>Versand- Und Logistikkoordinator (m/w/d)</td><td>Sobernheim</td><td>2026-09-27</td></tr>
+<tr><td>Hellmann</td><td>Customer Service Specialist (m/w/d)</td><td>Hanover</td><td>2026-09-27</td></tr>
+<tr><td>Zeppelin</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-09-27</td></tr>
 </table>
