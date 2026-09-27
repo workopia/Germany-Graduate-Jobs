@@ -8095,4 +8095,5 @@
 <tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren, Werkzeuge, Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-27</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist, Werksstudent (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
 <tr><td>Levis</td><td>Sales Stylist In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
+<tr><td>Bayada</td><td>Registered Nurse, Home Health</td><td>Laurel +2</td><td>2026-09-27</td></tr>
 </table>

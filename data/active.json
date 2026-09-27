@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-27",
- "count": 662,
+ "count": 661,
  "jobs": {
   "2339357": {
    "id": "2339357",
@@ -2551,12 +2551,6 @@
    "company": "DKMS Deutsche Knochenmarkspenderdatei gGmbH",
    "role": "Arzt (m/w/d) (voll- Oder Teilzeit)",
    "location": "Cologne"
-  },
-  "52cfe32f2ee62ec09687ee3f52c2958d": {
-   "id": "52cfe32f2ee62ec09687ee3f52c2958d",
-   "company": "Bayada",
-   "role": "Registered Nurse, Home Health",
-   "location": "Laurel +2"
   },
   "497818e6855528cbd1e11d14fce2f209": {
    "id": "497818e6855528cbd1e11d14fce2f209",
