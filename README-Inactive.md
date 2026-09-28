@@ -8096,4 +8096,88 @@
 <tr><td>Levis Media</td><td>Sales Stylist, Werksstudent (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
 <tr><td>Levis</td><td>Sales Stylist In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-09-27</td></tr>
 <tr><td>Bayada</td><td>Registered Nurse, Home Health</td><td>Laurel +2</td><td>2026-09-27</td></tr>
+<tr><td>CLAAS Group</td><td>Praktikum Im Bereich Digital Channels & Ai Solutions</td><td>Herzebrock-Clarholz</td><td>2026-09-28</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Duales Studium In Der Wirtschaftsprüfung / Audit (w/m/d)</td><td>Stuttgart</td><td>2026-09-28</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Festo</td><td>Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-09-28</td></tr>
+<tr><td>Festo</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>Saarland</td><td>2026-09-28</td></tr>
+<tr><td>Festo</td><td>Praktikum Duales Studium - Bogy & Studienorientierung</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-09-28</td></tr>
+<tr><td>Estée Lauder</td><td>Earned & Owned Media Intern (m/w/d)</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Estée Lauder Companies Inc</td><td>360 Marketing Intern (m/w/d) Skincare</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Stryker Corp</td><td>Praktikum Im Bereich Controlling & Finanzen – Start März/ April 2027, 6 Monate</td><td>Freiburg Im Breisgau</td><td>2026-09-28</td></tr>
+<tr><td>Puma</td><td>Internship 3d Design Apparel</td><td>Germany</td><td>2026-09-28</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Intern - Retail Management Central Europe W/m/d</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>DACHSER SE</td><td>Praktikant (m/w/d)</td><td>Stavenhagen</td><td>2026-09-28</td></tr>
+<tr><td>DACHSER SE</td><td>Initiativbewerbung (m/w/d) Praktikum</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>DACHSER SE</td><td>Praktikant (m/w/d) Fos - Jahrespraktikum</td><td>Saarbruecken</td><td>2026-09-28</td></tr>
+<tr><td>Fromageries Bel</td><td>Praktikum (m/w/d) Trade & Shopper Marketing Mini Babybel & Kiri</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Airbus Aerostructures GmbH</td><td>Praktikum (d/m/w) Im Bereich Der Airbus Berufsausbildung Stade</td><td>Hamburg</td><td>2026-09-28</td></tr>
+<tr><td>Raisin</td><td>Intern Brand Marketing (m/f/d)</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement</td><td>Stuttgart</td><td>2026-09-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) / Praktikum Informationssicherheit</td><td>Stuttgart</td><td>2026-09-28</td></tr>
+<tr><td>Apple</td><td>Analog Ic Design Intern</td><td>Germany</td><td>2026-09-28</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Im Bereich Versuch - Getriebe, Bremse, Vorderachse, Pneumatik (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-28</td></tr>
+<tr><td>AGCO</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-09-28</td></tr>
+<tr><td>AGCO</td><td>Praktikant (m/w/d) Für Den Bereich Entwicklung Motor/motorperipherie, Räder/reifen (sose 2027)</td><td>Kempten Allgau</td><td>2026-09-28</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Produktmarketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>HelloFresh</td><td>Physical Product Planning Intern (all Genders)</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Raisin</td><td>Working Student B2c Channels Eu (m/f/d) – Dutch Market</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Celonis</td><td>Intern External Communications</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum In Der Produktentwicklung Neuer Bremssysteme</td><td>Kempten Allgau</td><td>2026-09-28</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>Bielefeld</td><td>2026-09-28</td></tr>
+<tr><td>Bertelsmann Stiftung</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-09-28</td></tr>
+<tr><td>RTL Deutschland</td><td>Praktikum In Der Radioredaktion</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Riverty</td><td>Initiativbewerbung: Praktikum (m/w/d)</td><td>Karlsruhe</td><td>2026-09-28</td></tr>
+<tr><td>Penguin Random House Verlagsgruppe GmbH</td><td>Praktikant*in (m/w/d) Im Bereich Marketing (campaign Management Belletristik)</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Corporate Responsibility (m/w/d)</td><td>Bielefeld</td><td>2026-09-28</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung In Markt Bibart</td><td>Markt Bibart</td><td>2026-09-28</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Bevern</td><td>Bevern</td><td>2026-09-28</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Marienmünster</td><td>MarienmüNster</td><td>2026-09-28</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Ausbildung Zum Informationselektroniker (m/w/d)</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zum Zerspanungsmechaniker (m/w/d) - Start 2027</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>Halle (Saale)</td><td>2026-09-28</td></tr>
+<tr><td>Meliá Frankfurt City</td><td>Ausbildung Hotelfachmann / Hotelfachfrau (m/w/d) - Meliá Frankfurt City</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>SKF Marine GmbH</td><td>Ausbildung - Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-09-28</td></tr>
+<tr><td>Edag Engineering GmbH</td><td>Softwareentwickler Adas (m/w/d)</td><td>Ingolstadt</td><td>2026-09-28</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Defensive Aids Simulation Sw Engineer (d/m/f)</td><td>Ingolstadt</td><td>2026-09-28</td></tr>
+<tr><td>RAGING WATERS SYDNEY PTY</td><td>First Level Support (m/w/d).</td><td>Tropical Island</td><td>2026-09-28</td></tr>
+<tr><td>eos-apac.info</td><td>Softwareentwickler Schwerpunkt Testautomatisierung (m/w/d)</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Estrel</td><td>Aushilfe Im Bereich It (m/w/d)</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Fund Accountant (m/w/d) Real Assets - Befristete Elternzeitvertretung</td><td>Germany</td><td>2026-09-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Junior Process Analyst (m/w/d) Order-to-cash</td><td>Stuttgart</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Leipzig</td><td>Leipzig</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum Karlsruhe/offenburg</td><td>Karlsruhe</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Bremen</td><td>Bremen</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Teamleitung (m/w/d) Für Den Service Von Aufzügen Im Raum Eberswalde</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>Everllence</td><td>Industriemechaniker; Mechatroniker Instandhaltung (m/w/d)</td><td>Germany</td><td>2026-09-28</td></tr>
+<tr><td>Korber AG</td><td>Servicetechniker - Elektrotechnik (m/w/d) - Internationaler Einsatz - Vollzeit</td><td>Schloß Holte</td><td>2026-09-28</td></tr>
+<tr><td>Korber AG</td><td>Vision Expert Field Service (m/w/d)</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Korber AG</td><td>Servicetechniker (m/w/d) Maschinenbau</td><td>Munich</td><td>2026-09-28</td></tr>
+<tr><td>Bitzer SE</td><td>Mechatroniker Instandhaltung (m/w/d)</td><td>Rottenburg-Ergenzingen</td><td>2026-09-28</td></tr>
+<tr><td>LKQ Europe</td><td>Anwendungstechniker (m/w/d) Prüftechnik Technisches Service Center</td><td>Neu</td><td>2026-09-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicetechniker Sprinklertechnik / Alarmierungseinrichtungen (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicemitarbeiter/-in Rolltreppen</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Servicetechniker Tür-/toranlagen Und Einbruchmeldetechnik (m/w/d) Am Flughafen Frankfurt</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker Druckluft/kälte (m/w/d)</td><td>Neukieritzsch</td><td>2026-09-28</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschlandweite Einsätze (kennziffer: Bu/smde)</td><td>Buseck</td><td>2026-09-28</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Rga/sme)</td><td>Rosengarten</td><td>2026-09-28</td></tr>
+<tr><td>Bilfinger SE</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Hamburg</td><td>2026-09-28</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Frankfurt Am Main</td><td>2026-09-28</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Kleinkoschen</td><td>Senftenberg - Kleinkoschen</td><td>2026-09-28</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Stäbelow</td><td>StäBelow</td><td>2026-09-28</td></tr>
+<tr><td>Nordex SE</td><td>Elektroniker Für Die Inbetriebnahme (m/w/d) Windenergieanlagen</td><td>Hamburg</td><td>2026-09-28</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Stuttgart</td><td>2026-09-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter / Sachbearbeiter Service / Büro / Verkauf (gn) 1</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Fliesen / Bodenbeläge (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Holzzuschnitt (gn)</td><td>Berlin</td><td>2026-09-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Zoo / Aquaristik (gn) Vollzeit Oder Teilzeit</td><td>Hamburg</td><td>2026-09-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten Technik Und Hartware (gn)</td><td>Stuttgart</td><td>2026-09-28</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Vollzeit (m/w/d)</td><td>Cologne</td><td>2026-09-28</td></tr>
+<tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-09-28</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) Logistik & Fabrikplanung - Fertigungskonzept</td><td>Obersontheim</td><td>2026-09-28</td></tr>
 </table>
