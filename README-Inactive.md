@@ -8180,4 +8180,63 @@
 <tr><td>Levis Media</td><td>Sales Stylist In Vollzeit (m/w/d)</td><td>Cologne</td><td>2026-09-28</td></tr>
 <tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-09-28</td></tr>
 <tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) Logistik & Fabrikplanung - Fertigungskonzept</td><td>Obersontheim</td><td>2026-09-28</td></tr>
+<tr><td>My Jewellery</td><td>Verkaufstalent Oberhausen (m/w/d)</td><td>Dusseldorf</td><td>2026-09-29</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Sales - Team Hsv</td><td>Hamburg</td><td>2026-09-29</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/d/m) Esports & Gaming</td><td>Hamburg</td><td>2026-09-29</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/d/m) Marketing & Sales - Team Fc Augsburg</td><td>Augsburg</td><td>2026-09-29</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Praktikantin/werkstudentin Oder Praktikant/werkstudent (w/m/d) - Controlling</td><td>Hamburg</td><td>2026-09-29</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(pflicht-)praktikantin Oder -praktikant (w/m/d) Premium Partnerships/strategic Brand Partnerships</td><td>Hamburg</td><td>2026-09-29</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Pflichtpraktikantin Oder -praktikant (w/m/d) Brand Activation - Sportsponsoring & Eventmanagement</td><td>Frankfurt Am Main</td><td>2026-09-29</td></tr>
+<tr><td>MSD</td><td>Pharmazeut (m/w/d) Im Praktikum In Der Qualitätskontrolle</td><td>Oldenburg</td><td>2026-09-29</td></tr>
+<tr><td>MSD</td><td>Pharmazeut (m/w/d) Im Praktikum In Der Produktion</td><td>Oldenburg</td><td>2026-09-29</td></tr>
+<tr><td>SV Gruppe – Schwäbischer Verlag GmbH & Co. Kg Drexler, Gessler</td><td>Praktikant (m/w/d) Regio Tv Bodensee - Redaktion</td><td>Constance</td><td>2026-09-29</td></tr>
+<tr><td>Schwaebisch Media</td><td>Praktikant (m/w/d) Regio Tv Bodensee - Mediengestaltung</td><td>Constance</td><td>2026-09-29</td></tr>
+<tr><td>Schwaebisch Media</td><td>Praktikant (m/w/d) Regio Tv Stuttgart - Produktion</td><td>Stuttgart</td><td>2026-09-29</td></tr>
+<tr><td>Schwaebisch Media</td><td>Praktikant (m/w/d) Regio Tv Schwaben - Redaktion</td><td>Ulm</td><td>2026-09-29</td></tr>
+<tr><td>Schwaebisch Media</td><td>Praktikant (m/w/d) Regio Tv Schwaben - Produktion</td><td>Ulm</td><td>2026-09-29</td></tr>
+<tr><td>CLAAS Group</td><td>Praktikum Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-09-29</td></tr>
+<tr><td>CLAAS Group</td><td>Claas Inside Marketing</td><td>Herzebrock-Clarholz</td><td>2026-09-29</td></tr>
+<tr><td>CLAAS Group</td><td>Praktikum / Abschlussarbeit Im Entwicklungsbereich Für Den Xerion</td><td>Bielefeld</td><td>2026-09-29</td></tr>
+<tr><td>CLAAS Group</td><td>Claas Inside Group Hr Rewards & Mobility</td><td>Bielefeld</td><td>2026-09-29</td></tr>
+<tr><td>CLAAS Group</td><td>Internship Business Process Management</td><td>Bielefeld</td><td>2026-09-29</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Praktikum / Abschlussarbeit Vorentwicklung</td><td>Constance</td><td>2026-09-29</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2026 - Standort Niederwinkling</td><td>Niederwinkling</td><td>2026-09-29</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kunststoff- Und Kautschuktechnologen (all Genders) - Start 08/2027 Standort Le-elspe</td><td>Lennestadt-Elspe</td><td>2026-09-29</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Berufskraftfahrer (all Genders) - Start 08/2026 - Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-09-29</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Zerspanungsmechaniker (all Genders) - Start 08/2027 Standort Attendorn-ennest</td><td>Attendorn-Ennest</td><td>2026-09-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Trainee Filialleiter/shop Manager (m/w/d), Teilzeit, Großraum Düsseldorf</td><td>Dusseldorf</td><td>2026-09-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Hamburg</td><td>2026-09-29</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Smalltalk (all Genders)</td><td>Nach Standort Suchen</td><td>2026-09-29</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Golang (all Genders)</td><td>Not Specified</td><td>2026-09-29</td></tr>
+<tr><td>S-Payment</td><td>Teamleiter (m/w/d) Softwareentwicklung Kryptosysteme</td><td>Stuttgart</td><td>2026-09-29</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Conversational Ai (all Genders)</td><td>Germany</td><td>2026-09-29</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Zahlungsverkehr (all Genders)</td><td>Germany</td><td>2026-09-29</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Nuremberg</td><td>2026-09-29</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Frankfurt Konstablerwache (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-29</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d) - Festive Season</td><td>Dortmund</td><td>2026-09-29</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Stuttgart-wangen (18,5 Std)</td><td>Stuttgart</td><td>2026-09-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen</td><td>Dusseldorf</td><td>2026-09-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Essen</td><td>Wuppertal</td><td>2026-09-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d) Aushilfe, Essen</td><td>Wuppertal</td><td>2026-09-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Leverkusen (opladen)</td><td>Cologne</td><td>2026-09-29</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Dusseldorf</td><td>2026-09-29</td></tr>
+<tr><td>SKF Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-09-29</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Falkensee</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Drive-in (gn)</td><td>Munich</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baufertigteile (gn)</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Deko (gn)</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baufertigteile (gn)</td><td>Cologne</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d), Befristet - Adidas Originals Flaghsip Store Berlin, Müntzstr.</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Ahrensfelde</td><td>2026-09-29</td></tr>
+<tr><td>Atos SE</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Fo Kids Neumünster</td><td>Kiel</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Berlin Flagship Store Berlin</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob Fo Neumünster (temp) (m/w/d)</td><td>Kiel</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Factory Outlet Wustermark</td><td>Berlin</td><td>2026-09-29</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Factory Outlet Berlin Wustermark</td><td>Berlin Wustermark</td><td>2026-09-29</td></tr>
+<tr><td>diversey.cz</td><td>Versand- Und Logistikkoordinator (m/w/d)</td><td>Sobernheim</td><td>2026-09-29</td></tr>
 </table>
