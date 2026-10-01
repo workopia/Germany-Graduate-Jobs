@@ -8340,4 +8340,57 @@
 <tr><td>Michael Kors</td><td>Michael Kors Weihnachtsaushilfe (m/w/d) Im Verkauf Für 10h/woche - Minijob-basis, Cologne - Köln, Deutschland</td><td>Cologne</td><td>2026-09-30</td></tr>
 <tr><td>CHANEL</td><td>Verkäufer:in (m/w/d) Boutique Chanel Parfums & Beauté Düsseldorf</td><td>Dusseldorf</td><td>2026-09-30</td></tr>
 <tr><td>IQVIA UK</td><td>Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-09-30</td></tr>
+<tr><td>My Jewellery</td><td>Verkaufstalent Shop In Shop Kadewe Berlin</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Mint - Tax (m/w/d)</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Global Trade Advisory - Indirect Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-10-01</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fsi - Managementberatung Regionalbanken (m/w/d)</td><td>Hamburg</td><td>2026-10-01</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Risk & Compliance / Internal Audit (m/w/d)</td><td>Munich</td><td>2026-10-01</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a / Debt Advisory (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-01</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>Ericsson</td><td>Internship: 6g Ai/ar Experiences (m/f/d)</td><td>Duren</td><td>2026-10-01</td></tr>
+<tr><td>Electronic Arts</td><td>Live Support Football Production - Opportunity For Students</td><td>Cologne</td><td>2026-10-01</td></tr>
+<tr><td>Zdf</td><td>Praktikant*in Team Löwenzahn (01/2027 - 11/2027)</td><td>Darmstadt</td><td>2026-10-01</td></tr>
+<tr><td>Everllence</td><td>Schülerpraktikum: 30.03.2027 - 02.04.2027</td><td>Augsburg</td><td>2026-10-01</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Master Student / Internship In Information Technology Or Physics (f/m/d) - Adaptive Optics Software</td><td>Oberpfaffenhofen</td><td>2026-10-01</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship Corporate Security (m/f/d)</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Freiwilliges Praktikum: Mergers & Acquisitions / Kooperationen / Finanz Zf Group (m/w/d)</td><td>Constance</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Initiativbewerbung Für Ein Schulpraktikum Am Standort Winnenden</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Venture Clienting And Startup Investment</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Compliance</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship History Management</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Cost Management</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Employee Development</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Crm & Sales Systems</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Supplier Quality & Development</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Im Bereich Logistik & Kundenauftragsabwicklung / Internship Logistics & Supply Chain</td><td>Obersontheim</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Business Development - Aftermarket & Services</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Apprentice</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>RWE AG</td><td>Ausbildung Zum Fachinformatiker 2027 D/w/m</td><td>Wuppertal</td><td>2026-10-01</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Klein Wanzleben</td><td>2026-10-01</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Berater Finance Strategy Und Business Services - Business Consulting (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-01</td></tr>
+<tr><td>Hannover Rueck SE</td><td>Financial Accountant (mat Cover)</td><td>Germany</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Filderstadt / Leinfelden-echterdingen</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker* In (m/w/d) Für Halle/ Leipzig</td><td>Leipzig</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge In Stuttgart</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-10-01</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Duisburg Nord / Dinslaken</td><td>Dusseldorf</td><td>2026-10-01</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Stuttgart (königstr. 27), Befristet Für 1 Jahr</td><td>Stuttgart</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Berlin / Wustermark 2027 (m/w/d)</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Frankfurt 2027 (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Zweibrücken 2027 (m/w/d)</td><td>Saarbruecken</td><td>2026-10-01</td></tr>
+<tr><td>PVH</td><td>Flexible Aushilfe Berlin Alexa Calvin Klein Underwear (m/w/d)</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>TE Connectivity</td><td>Mitarbeiter Im Lager/versand (m/w/d) Befristet Für 1 Jahr</td><td>Calw</td><td>2026-10-01</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/w/d)</td><td>Munich</td><td>2026-10-01</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)</td><td>Munich</td><td>2026-10-01</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-01</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-01</td></tr>
+<tr><td>ALDI SE & Co. KG Sankt Augustin</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-01</td></tr>
+<tr><td>Shaping New Tomorrow</td><td>Studentische Aushilfe (m/w/d) Im Verkauf - Cologne</td><td>Cologne</td><td>2026-10-01</td></tr>
+<tr><td>GE HealthCare Technologies</td><td>Working Student (f/m/d) - Medical Affairs Administration Assistant</td><td>Munich</td><td>2026-10-01</td></tr>
+<tr><td>GE HealthCare</td><td>Working Student (f/m/d) - Medical Affairs Administration Assistant</td><td>Munich</td><td>2026-10-01</td></tr>
+<tr><td>GE Vernova</td><td>Office & Team Assistant (m/w/d)</td><td>Berlin</td><td>2026-10-01</td></tr>
 </table>
