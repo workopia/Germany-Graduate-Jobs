@@ -8393,4 +8393,68 @@
 <tr><td>GE HealthCare Technologies</td><td>Working Student (f/m/d) - Medical Affairs Administration Assistant</td><td>Munich</td><td>2026-10-01</td></tr>
 <tr><td>GE HealthCare</td><td>Working Student (f/m/d) - Medical Affairs Administration Assistant</td><td>Munich</td><td>2026-10-01</td></tr>
 <tr><td>GE Vernova</td><td>Office & Team Assistant (m/w/d)</td><td>Berlin</td><td>2026-10-01</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Innovation & Business Development In (m/w/d) Düsseldorf</td><td>Dusseldorf</td><td>2026-10-02</td></tr>
+<tr><td>Vodafone</td><td>Praktikant - Nachhaltigkeit & Digitalisierung (m/w/d) Im Vodafone Institut In Berlin</td><td>Dusseldorf</td><td>2026-10-02</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Praktikant (m/w/d) Im Aktuariat Komposit</td><td>Dortmund</td><td>2026-10-02</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bünde</td><td>Bielefeld</td><td>2026-10-02</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bevern</td><td>Bevern</td><td>2026-10-02</td></tr>
+<tr><td>Sephora USA Inc</td><td>Hq Intern Merchandising</td><td>Dusseldorf</td><td>2026-10-02</td></tr>
+<tr><td>Clariant International</td><td>Intern (m/f/d) - Specialisation Sustainability</td><td>Frankfurt Am Main</td><td>2026-10-02</td></tr>
+<tr><td>AGCO Corporation (Fendt)</td><td>Praktikant/ Werkstudent (m/w/d) Hr Payroll & Total Rewards (wise 26/27)</td><td>Kempten Allgau</td><td>2026-10-02</td></tr>
+<tr><td>EY</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Berlin</td><td>2026-10-02</td></tr>
+<tr><td>KNDS Group</td><td>Praktikant (m/w/d)</td><td>Saarbruecken</td><td>2026-10-02</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Schüler Im Gewerblichen Bereich (m/w/d)</td><td>Germany</td><td>2026-10-02</td></tr>
+<tr><td>KNDS Group</td><td>Praktikum Für Studierende In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-10-02</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Internship (d/f/m) For Multi-agent Trajectory Planning</td><td>Ingolstadt</td><td>2026-10-02</td></tr>
+<tr><td>Airbus Operations / Airbus Aerostructures</td><td>Werkstudent (d/m/w) Im Quality Procurement</td><td>Hamburg</td><td>2026-10-02</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Hpe Labs - Emea Research Lab Ph.d. Intern</td><td>Munich</td><td>2026-10-02</td></tr>
+<tr><td>Apple</td><td>Analog Design Automation And Functional Verification Intern</td><td>Germany</td><td>2026-10-02</td></tr>
+<tr><td>Nordex SE</td><td>Working Student International Tax (m/f/d)</td><td>Hamburg</td><td>2026-10-02</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Transaction Services Intern Germany 2027</td><td>Frankfurt Am Main</td><td>2026-10-02</td></tr>
+<tr><td>MSX International Ltd</td><td>Praktikant:in (m/w/d) – People & Sustainability (pflichtpraktikum)</td><td>Cologne</td><td>2026-10-02</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Pflichtpraktikum Im Bereich Kommunikation Und Design</td><td>Stuttgart</td><td>2026-10-02</td></tr>
+<tr><td>Suntory Global Spirits</td><td>Working Student - Marketing</td><td>Frankfurt Am Main</td><td>2026-10-02</td></tr>
+<tr><td>Teledynecontrols</td><td>Intern - Service Engineering</td><td>Germany</td><td>2026-10-02</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Projektmanagement Einkauf New Braking Systems</td><td>Abstatt</td><td>2026-10-02</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-10-02</td></tr>
+<tr><td>ROCKWOOL Operations GmbH & Co. KG</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) - Start 01.08.2027</td><td>Dortmund</td><td>2026-10-02</td></tr>
+<tr><td>Schönmackers Umweltdienste GmbH</td><td>Ausbildung 2027 - Kaufmann/-frau Für Büromanagement (m/w/d)</td><td>Dusseldorf</td><td>2026-10-02</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Ausbildung - Fachinformatiker Für Anwendungsentwicklung (w/m/d) 2027</td><td>Giebelstadt +1</td><td>2026-10-02</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Fachkraft Lagerlogistik (m/w/d) 2026 Für München/oberschleißheim</td><td>Munich</td><td>2026-10-02</td></tr>
+<tr><td>Scania CV AB</td><td>Ausbildung Mechatroniker 2026 (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-10-02</td></tr>
+<tr><td>Suewag Energie AG</td><td>Ausbildung Fachinformatiker Für Anwendungsentwicklung (m/w/d) In Frankfurt Am Main 2027</td><td>Frankfurt Am Main</td><td>2026-10-02</td></tr>
+<tr><td>Westnetz GmbH</td><td>Auszubildende Fachkraft Für Lagerlogistik (2027)</td><td>Cologne</td><td>2026-10-02</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Ausbildung Zum Kaufmann (all Genders) Speditions-/logistikdienstl. - Start 08/2026 - Standort Ennest</td><td>Attendorn-Ennest</td><td>2026-10-02</td></tr>
+<tr><td>Festo</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-10-02</td></tr>
+<tr><td>Festo</td><td>Umschulung Mechatroniker (m/w/d)</td><td>St. Ingbert</td><td>2026-10-02</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Software Development Engineer (m/w/d)</td><td>Hamburg</td><td>2026-10-02</td></tr>
+<tr><td>Zalando</td><td>Frontend Engineer - Zeos (all Genders)</td><td>Berlin</td><td>2026-10-02</td></tr>
+<tr><td>THALES</td><td>It Office Support Engineer (w/m/d)</td><td>Berlin</td><td>2026-10-02</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Servicetechniker Industriekälte (w/m/d)</td><td>Freiburg Im Breisgau</td><td>2026-10-02</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Servicetechniker Industriekälte (w/m/d)</td><td>Stuttgart</td><td>2026-10-02</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Südl. Berlin / Brandenburg</td><td>Genshagen</td><td>2026-10-02</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Industrie Servicetechniker (m/w/d) Region Fulda</td><td>MöRfelden</td><td>2026-10-02</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)</td><td>Hanover</td><td>2026-10-02</td></tr>
+<tr><td>Formlabs</td><td>Außendiensttechniker - Remote</td><td>Munich</td><td>2026-10-02</td></tr>
+<tr><td>Formlabs</td><td>Field Service Engineer - Remote</td><td>Munich</td><td>2026-10-02</td></tr>
+<tr><td>Formlabs</td><td>Field Service Technician</td><td>Munich</td><td>2026-10-02</td></tr>
+<tr><td>Bilfinger SE</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-10-02</td></tr>
+<tr><td>E.ON Gas Mobil GmbH</td><td>Servicemonteur Cng Anlagen (w/m/d) Region Südwest</td><td>Hessen +1</td><td>2026-10-02</td></tr>
+<tr><td>Stiftung kreuznacher diakonie</td><td>Haustechniker (w/m/d)</td><td>Meisenheim</td><td>2026-10-02</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Kundendiensttechniker Raum Stralsund/greifswald (w/m/div.)</td><td>Neubrandenburg</td><td>2026-10-02</td></tr>
+<tr><td>Bosch Home Comfort Group</td><td>Kundendiensttechniker Raum Trier (w/m/div.)</td><td>FöHren</td><td>2026-10-02</td></tr>
+<tr><td>Zeppelin Baumaschinen GmbH</td><td>Mechatroniker Spezialisierung Hydraulik (m/w/d)</td><td>Cologne</td><td>2026-10-02</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Bremen / Schneverdingen / Hemmoor</td><td>Bremen</td><td>2026-10-02</td></tr>
+<tr><td>Avis Car Rental</td><td>Kundenberater:in / Verkaufsberater:in (m/w/d) Mit Regionalem Einsatzgebiet In Der Autovermietung</td><td>Nuremberg</td><td>2026-10-02</td></tr>
+<tr><td>Diptyque Paris</td><td>Client Advisor (m/w/d)</td><td>Dusseldorf</td><td>2026-10-02</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-02</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Cologne</td><td>2026-10-02</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Versand (gn) Vollzeit Oder Teilzeit</td><td>Freiberg In Sachsen</td><td>2026-10-02</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Alle Warenbereiche (gn)</td><td>Berlin</td><td>2026-10-02</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Cologne</td><td>2026-10-02</td></tr>
+<tr><td>Dodo Deutschland GmbH</td><td>Dodo_client Advisor Hamburg (fixed Term, Full-time 40h, M/f/x)</td><td>Hamburg</td><td>2026-10-02</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Client Advisor Düsseldorf-breuninger W/m/d</td><td>Dusseldorf</td><td>2026-10-02</td></tr>
+<tr><td>DACHSER SE</td><td>Werkstudent (m/w/d) Kommissionierung</td><td>Dortmund</td><td>2026-10-02</td></tr>
+<tr><td>Vodafone</td><td>Ausbildung Zum kaufmann Im Einzelhandel (m/w/d) In Reutlingen (2027)</td><td>Reutlingen</td><td>2026-10-02</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Stuttgart (mailänder Platz 7), Befristet Für 1 Jahr</td><td>Stuttgart</td><td>2026-10-02</td></tr>
 </table>
