@@ -8695,4 +8695,129 @@
 <tr><td>Computacenter Plc</td><td>Business Development Specialist W/m/d - Technology & Commercial Enablement Workplace</td><td>Dusseldorf</td><td>2026-10-04</td></tr>
 <tr><td>Magna Electronics Inc.</td><td>Teamkoordinator Lagerlogistik</td><td>Elsendorf</td><td>2026-10-04</td></tr>
 <tr><td>Magna</td><td>Teamkoordinator Lagerlogistik</td><td>Elsendorf</td><td>2026-10-04</td></tr>
+<tr><td>Bäcker Görtz</td><td>Mitarbeiter Im Verkauf (m/w/d) - Altrip</td><td>Mannheim</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 11.10. - 22.10.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 28.06. - 09.07.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG</td><td>Schulpraktikum Versicherungen Im Zeitraum 25.01. - 05.02.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2026 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 18.01. - 29.01.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 27.09. - 08.10.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 14.06. - 25.06.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 27.09. - 08.10.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 27.09. - 08.10.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 25.06.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.10.-16.10.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 25.01. - 05.02.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 02.11.-13.11.2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Hamburger Containerboard Standort Spremberg</td><td>Spremberg</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Tv-produktion Magazine & News (m/w/d)</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Galileo (m/w/d)</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Werkstudent Pay Tv (m/w/d)</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Redaktion Taff (m/w/d)</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Chefredaktion Inhouse Production (m/w/d)</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Joyn Curation (m/w/d)</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Media & Audience Management (m/w/d)</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>Airbus</td><td>Schulpraktikum Airbus Hamburg 12.04. - 23.04.2027</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Airbus</td><td>Schulpraktikum Airbus Hamburg 5.04. - 16.04.2027</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Schulpraktikum Airbus Hamburg 19.04. - 30.04.2027</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Google</td><td>Software Engineering, Site Reliability Engineering Bs/ms Intern, 2027</td><td>ZüRich +1</td><td>2026-10-05</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Kaufmännisches Schülerpraktikum - Bogy (w/m/d) Ulm</td><td>Ulm</td><td>2026-10-05</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Kaufmännisches Schülerpraktikum - Bors (w/m/d) Ulm</td><td>Ulm</td><td>2026-10-05</td></tr>
+<tr><td>VALEO Telematik und Akustik GmbH</td><td>Working Student Manufacturing (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Databricks</td><td>Product Management Intern (2026) - Berlin</td><td>Berlin</td><td>2026-10-05</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Corporate Finance / M&a Am Standort Stuttgart In 2026 1</td><td>Stuttgart</td><td>2026-10-05</td></tr>
+<tr><td>PG Solutions</td><td>Clinical And Medical Internship - Pharmaziepraktikum (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Airbus</td><td>Schulpraktikum Airbus Bremen Im Monat April (05.04.27 - 30.04.27)</td><td>Bremen</td><td>2026-10-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Produktmarketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>adidas AG</td><td>Internship Opportunities - Consumer, Marketplace And Sales Insights & Analytics (m/f/d)</td><td>Herzenaurach</td><td>2026-10-05</td></tr>
+<tr><td>Robert Bosch GmbH</td><td>Praktikum In Der Internationalen Logistik – Supply Chain Für Halbleiter</td><td>Reutlingen</td><td>2026-10-05</td></tr>
+<tr><td>McDermott Will & Emery</td><td>Legal Spring 2027 - Das Praktikantenprogramm</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Voith Group</td><td>Unknown</td><td>Kempten Allgau</td><td>2026-10-05</td></tr>
+<tr><td>Rohlig Logistics</td><td>Werksstudent (m/w/d) - Good Distribution Practice (gdp)</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Zum Berufskraftfahrer (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027</td><td>Unterreit</td><td>2026-10-05</td></tr>
+<tr><td>HARTMANN</td><td>Auszubildender (w/m/d) Zur Fachkraft Für Lagerlogistik - Standort Brück (start 2027)</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (stuttgart)</td><td>Stuttgart</td><td>2026-10-05</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Auszubildender Zum Informationselektroniker (m/w/d)</td><td>Cologne</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Ausbildung Zum Industrie-gerüstbauer (m/w/d) Am Standort Teichland-neuendorf Kw Jänschwalde 2027</td><td>Teichland-Neuendorf</td><td>2026-10-05</td></tr>
+<tr><td>Bayernwerk Netz GmbH</td><td>Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>Westnetz GmbH</td><td>Auszubildende Industriekaufmann/-frau (m/w/d) (2027)</td><td>Saffig +1</td><td>2026-10-05</td></tr>
+<tr><td>Helm Ag</td><td>Ausbildung - Betriebswirt Im Außenhandel (m/w/d)</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Mondelēz International</td><td>Ausbildung Zum Milchtechnologen (m/w/d)</td><td>Hanover</td><td>2026-10-05</td></tr>
+<tr><td>KNDS Group</td><td>Softwareentwickler Schwerpunkt Anwendungsentwicklung (m/w/d)</td><td>Constance</td><td>2026-10-05</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Entwickler Java / Angular (w/m/d)</td><td>Ulm</td><td>2026-10-05</td></tr>
+<tr><td>UPM Nordland Papier</td><td>Industriemechaniker / Mechatroniker (m/w/d) Wartung & Instandhaltung Walzenwerkstatt</td><td>DöRpen</td><td>2026-10-05</td></tr>
+<tr><td>Bausch + Lomb</td><td>Industriemechaniker / Mechatroniker (m/w/d) In Der Pharmazeutischen Produktion Apply Now »</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Bausch + Lomb</td><td>Tga-techniker (m/w/d) Apply Now »</td><td>All</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker Pumpen (m/w/d)</td><td>Neukieritzsch</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Mechatroniker (m/w/d) / Elektroniker (m/w/d) (kennziffer: Reh/fe)</td><td>Rehden</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Mechatroniker Druckluft/kälte (m/w/d)</td><td>Neukieritzsch</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Rga/sme)</td><td>Rosengarten</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur (m/w/d) Elektrotechnik (kennziffer: Hfe/sme)</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) Deutschlandweite Einsätze (kennziffer: Bu/smde)</td><td>Buseck</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Elektroniker / Mechatroniker (m/w/d) Als Pat Servicetechniker</td><td>Karlsruhe</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Servicemonteur / Servicetechniker (m/w/d) International (kennziffer: Bu/smi)</td><td>Buseck</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker Maschinen (m/w/d) - Instandhaltung & Fehlerdiagnose</td><td>Schkopau</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker / Schlosser (m/w/d) - Instandhaltung Pumpen - Chemiepark Schkopau</td><td>Schockau</td><td>2026-10-05</td></tr>
+<tr><td>Bilfinger</td><td>Industriemechaniker Armaturen (m/w/d)</td><td>Schkopau</td><td>2026-10-05</td></tr>
+<tr><td>Carrier Corporation</td><td>Service Tech. Gebäudetechnik (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Vossloh</td><td>Mechatroniker / Elektroniker Als Servicetechniker Für Schienenprüftechnik Und Instandhaltung (m/w/d)</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Woodward, Inc.</td><td>Fachkraft Für Instandhaltung (m/w/d) - Schwerpunkt Automatisierung</td><td>Glatten</td><td>2026-10-05</td></tr>
+<tr><td>Trane Technologies</td><td>Servicetechniker (w/m/d)</td><td>Kesselsdorf</td><td>2026-10-05</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-10-05</td></tr>
+<tr><td>Lucid Motors</td><td>Service Techniker, Frankfurt (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Oerlikon</td><td>Servicetechniker (gn)</td><td>Freiburg Im Breisgau</td><td>2026-10-05</td></tr>
+<tr><td>Oerlikon</td><td>Servicetechniker</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Schneider Electric</td><td>Servicetechniker / Gebäudeautomation / Leinfelden-echterdingen, München Oder Seligenstadt / W/m/d</td><td>Stuttgart</td><td>2026-10-05</td></tr>
+<tr><td>SSI Schaefer</td><td>Instandhalter - Grafschaft (w/m/d)</td><td>Grafschaft-Ringen</td><td>2026-10-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Greifswald</td><td>Greifswald</td><td>2026-10-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/w/d) In Nienburg For Geno/gear</td><td>Hanover</td><td>2026-10-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Jaderberg</td><td>Jaderberg</td><td>2026-10-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Gehrde</td><td>Jaderberg</td><td>2026-10-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Maintenance For Wind Turbines In Templin</td><td>Berlin</td><td>2026-10-05</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Servicetechniker International (m/w/d)</td><td>Wolfertschwenden</td><td>2026-10-05</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>(junior) Servicetechniker (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>LKQ Europe</td><td>Anwendungstechniker (m/w/d) Prüftechnik Technisches Service Center</td><td>Neu</td><td>2026-10-05</td></tr>
+<tr><td>Carrier</td><td>Kundenbetreuer (m/w/d) - Technik</td><td>Stuttgart</td><td>2026-10-05</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker (m/w/d) Bhkw-module (region Landberg Am Lech)</td><td>Landberg Am Lech</td><td>2026-10-05</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker (m/w/d) Bhkw-module (region Oberhausen/duisburg/gelsenkirchen)</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Arthrex Inc</td><td>Servicetechniker (m/w/d) Plz: 20 - 25, 27, 28, 38</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Mechaniker (m/w/d) Für Raum Ostalb</td><td>Aalen-Ebnat</td><td>2026-10-05</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>RWS GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Im Bereich Electrical Maintenance</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Thompson's WaterSeal</td><td>Betriebselektriker / Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Sherwin-Williams</td><td>Betriebselektriker / Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Bitzer SE</td><td>Mechatroniker Instandhaltung (m/w/d)</td><td>Rottenburg - Ergenzingen</td><td>2026-10-05</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Carwash Raum Berlin-ost</td><td>Berlin-Ost</td><td>2026-10-05</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Außendienst Für Central Deutschland</td><td>ThüRingen +1</td><td>2026-10-05</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechatroniker - Instandhaltung (m/w/d)</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Meister / Techniker Hlsk (m/w/d)</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Instandhaltungstechniker (m/w/d)</td><td>Germany</td><td>2026-10-05</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Betriebsschlosser / Industriemechaniker - Instandhaltung (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-10-05</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-10-05</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-10-05</td></tr>
+<tr><td>Eaton</td><td>Servicetechniker Für Usv-anlagen (m/w/d) Region Großraum Hannover</td><td>Hanover</td><td>2026-10-05</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dortmund</td><td>2026-10-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-05</td></tr>
+<tr><td>toom Baumarkt</td><td>Ausbildung Kaufmann Im Einzelhandel / Verkäufer (m/w/d) - Bereich Garten</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Kaufmann Im Einzelhandel / Verkäufer (m/w/d) - Bereich Baumarkt</td><td>Saarbruecken</td><td>2026-10-05</td></tr>
+<tr><td>Pandora</td><td>Seasonal Sales Associate (m/f/d)</td><td>Cologne</td><td>2026-10-05</td></tr>
+<tr><td>Balenciaga Germany GmbH</td><td>Balenciaga - Sales Associate - Dusseldorf</td><td>Dusseldorf</td><td>2026-10-05</td></tr>
+<tr><td>Balenciaga Germany GmbH</td><td>Balenciaga - Sales Associate - Metzingen</td><td>Reutlingen</td><td>2026-10-05</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Client Advisor Munich W/m/d</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Client Advisor Oberpollinger-münchen W/m/d</td><td>Munich</td><td>2026-10-05</td></tr>
+<tr><td>Gucci</td><td>Gucci Client Advisor (m/w/d)</td><td>Stuttgart</td><td>2026-10-05</td></tr>
+<tr><td>Vodafone GmbH</td><td>Sales Associate (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-05</td></tr>
+<tr><td>Vodafone</td><td>Sales Associate (m/w/d)</td><td>Stuttgart</td><td>2026-10-05</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Verkäufer (m/w/d) In Vollzeit - Radolfzell</td><td>Constance</td><td>2026-10-05</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Hamburg-bramfeld</td><td>Hamburg</td><td>2026-10-05</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Haan (30 Std)</td><td>Wuppertal</td><td>2026-10-05</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Pfullingen (18,5-30 Std)</td><td>Reutlingen</td><td>2026-10-05</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Schildergasse Köln (m/w/d)</td><td>Cologne</td><td>2026-10-05</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant / Verkäufer_ Adidas Factory Outlet Halle/leipzig, The Style Outlet (temp) (m/f/d)</td><td>Halle (Saale)</td><td>2026-10-05</td></tr>
 </table>
