@@ -8820,4 +8820,73 @@
 <tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Pfullingen (18,5-30 Std)</td><td>Reutlingen</td><td>2026-10-05</td></tr>
 <tr><td>H&M</td><td>Verkäufer Teilzeit - Schildergasse Köln (m/w/d)</td><td>Cologne</td><td>2026-10-05</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant / Verkäufer_ Adidas Factory Outlet Halle/leipzig, The Style Outlet (temp) (m/f/d)</td><td>Halle (Saale)</td><td>2026-10-05</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Cost Management</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Im Bereich Verpackungsentwicklung / Internship Packaging Development</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Compliance</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Product Management - Digitale Produkte / Internship Product Management Vehicle Wash</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) / Praktikum Informationssicherheit</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Procurement Center Of Excellence</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikant (m/w/d) Finance Und Controlling 03/2027</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikant (m/w/d) Key Account Management 03/2027</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>The Coca-Cola Company</td><td>Coca-cola - Intern Communications -pacs</td><td>Berlin</td><td>2026-10-06</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing - Handelskooperationen (m/w/d)</td><td>Unknown</td><td>2026-10-06</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum / Werkstudententätigkeit In Markt Bibart</td><td>Markt Bibart</td><td>2026-10-06</td></tr>
+<tr><td>Voith</td><td>Unknown</td><td>Ulm</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 18.01. - 29.01.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 08.02. - 19.02.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 27.09. - 08.10.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 05.07. - 16.07.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 08.03. - 19.03.2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG</td><td>Schulpraktikum Versicherungen Im Zeitraum 11.10. - 22.10.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 15.03. - 25.03.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 14.06. - 25.06.2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 18.01. - 29.01.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 15.03. - 25.03.2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold</td><td>Bielefeld</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 28.06. - 09.07.2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-06</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2027 Am Standort Düsseldorf</td><td>Dusseldorf</td><td>2026-10-06</td></tr>
+<tr><td>BFS health finance</td><td>Ausbildung Zum/zur Fachinformatiker/in Anwendungsentwicklung (m/w/d) 2027</td><td>Dortmund</td><td>2026-10-06</td></tr>
+<tr><td>TE Connectivity</td><td>Auszubildende Kunststoff- U. Kautschuktechnologe*in (m/w/d)</td><td>Adelberg</td><td>2026-10-06</td></tr>
+<tr><td>TE Connectivity</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Woert</td><td>2026-10-06</td></tr>
+<tr><td>Lilly</td><td>Marketing & Sales Trainee (m/d/w)</td><td>Frankfurt Am Main</td><td>2026-10-06</td></tr>
+<tr><td>Sandoz</td><td>Apprentice Chemical Labs / Ausbildung Chemielaborant*in (m/w/d) Start 01.09.2027 / Standort Holzkirchen</td><td>Munich</td><td>2026-10-06</td></tr>
+<tr><td>Jobgether</td><td>Founding Engineer</td><td>Germany</td><td>2026-10-06</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Embedded Software-entwickler (w/m/d)</td><td>Munich</td><td>2026-10-06</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Engineer Für Autonome Systeme</td><td>Munich</td><td>2026-10-06</td></tr>
+<tr><td>SSI Schäfer Automation GmbH</td><td>Financial Accountant (w/m/d)</td><td>Giebelstadt</td><td>2026-10-06</td></tr>
+<tr><td>Ferrero LADM</td><td>Kreditorenbuchhalter (w/m/d)</td><td>Germany</td><td>2026-10-06</td></tr>
+<tr><td>Wolters Kluwer N.V</td><td>Business Analyst (m/w/d) Kanzleiorganisation</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Schwarz Produktion</td><td>Haustechniker / Anlagentechniker Versorgungstechnik / Betriebstechniker (w/m/d)</td><td>Eystrup</td><td>2026-10-06</td></tr>
+<tr><td>AMETEK Inc</td><td>Service Techniker (m/w/d) Baden-wuerttemberg</td><td>Baden-WüRttemberg</td><td>2026-10-06</td></tr>
+<tr><td>AMETEK Inc</td><td>Service Techniker Im Außendienst (m/w/d) Im Großraum Hessen/baden-württemberg</td><td>Hessen +1</td><td>2026-10-06</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Prenzlau</td><td>Prenzlau</td><td>2026-10-06</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Hannover/lehrte</td><td>Hanover</td><td>2026-10-06</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge</td><td>Frankfurt Am Main</td><td>2026-10-06</td></tr>
+<tr><td>Movie Park Germany</td><td>Servicetechniker Mechanik (m/w/d)</td><td>Germany</td><td>2026-10-06</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Servicetechniker (m/w/d) Gebäudeautomation</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-06</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-06</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-06</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Konstanz, Befristet Für 1 Jahr</td><td>Constance</td><td>2026-10-06</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Hamburg (jungfernstieg 14), In Teilzeit, Befristet</td><td>Hamburg</td><td>2026-10-06</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Stuttgart (königstr. 27), Befristet Für 1 Jahr</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Stuttgart (königstr. 27)</td><td>Stuttgart</td><td>2026-10-06</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Wolfertschwenden</td><td>2026-10-06</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) In Teilzeit - Flagshipstore München Kaufingerstraße</td><td>Munich</td><td>2026-10-06</td></tr>
+<tr><td>Timberland Com Tr</td><td>Sales Associate (m/w/d)</td><td>Reutlingen</td><td>2026-10-06</td></tr>
+<tr><td>Sustainabilityleads</td><td>Sales Associate (m/w/d)</td><td>Reutlingen</td><td>2026-10-06</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Mannheim</td><td>2026-10-06</td></tr>
+<tr><td>Levis</td><td>Sales Stylist /verkäufer In Teilzeit (m/w/d) In Teilzeit (20 Stunden)</td><td>Berlin</td><td>2026-10-06</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-moorfleet (25-30 Std)</td><td>Hamburg</td><td>2026-10-06</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Kaufmann Im Einzelhandel / Verkäufer (m/w/d) - Bereich Garten</td><td>Frankfurt Am Main</td><td>2026-10-06</td></tr>
+<tr><td>PENNY</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-10-06</td></tr>
+<tr><td>REWE Alexander Pütz oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-06</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Warenverräumung (m/w/d) 8305475884</td><td>Cologne</td><td>2026-10-06</td></tr>
+<tr><td>REWE Oliver Frank GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-06</td></tr>
+<tr><td>RWS GmbH</td><td>Disponent Transport (m/w/d) Im Bereich Logistik</td><td>Germany</td><td>2026-10-06</td></tr>
 </table>
