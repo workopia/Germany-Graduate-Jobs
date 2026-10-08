@@ -8987,4 +8987,81 @@
 <tr><td>adidas AG</td><td>Ausbildung Verkäufer:in / Kaufleute Im Einzelhandel In Zweibrücken 2027 (m/w/d)</td><td>Saarbruecken</td><td>2026-10-07</td></tr>
 <tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Ahrensburg</td><td>Hamburg</td><td>2026-10-07</td></tr>
 <tr><td>JD</td><td>Administrative Support</td><td>North Rhine</td><td>2026-10-07</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Berlin (01/2027 - 02/2027)</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>zdf</td><td>Praktikum Team Wirtschaft</td><td>Darmstadt</td><td>2026-10-08</td></tr>
+<tr><td>zdf</td><td>Praktikant*in Team Löwenzahn (01/2027 - 11/2027)</td><td>Darmstadt</td><td>2026-10-08</td></tr>
+<tr><td>zdf</td><td>Praktikum Redaktion Religion Und Leben (02/2027 - 07/2027)</td><td>Darmstadt</td><td>2026-10-08</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Rheinland-pfalz</td><td>Darmstadt</td><td>2026-10-08</td></tr>
+<tr><td>zdf</td><td>Praktikant*in Zdfkultur (02/2027 - 07/2027)</td><td>Darmstadt</td><td>2026-10-08</td></tr>
+<tr><td>HanseWerk AG</td><td>Initiativbewerbung Für Studierende (m/w/d)</td><td>Hamburg</td><td>2026-10-08</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Internship For Women</td><td>Wuppertal</td><td>2026-10-08</td></tr>
+<tr><td>E.ON SE</td><td>Female Excellence - Consulting Praktikum Für Frauen</td><td>Wuppertal</td><td>2026-10-08</td></tr>
+<tr><td>689</td><td>2027 Mufg 6-month Early Careers Placement - Germany</td><td>Dusseldorf</td><td>2026-10-08</td></tr>
+<tr><td>Cafeyn</td><td>Performance Marketing Intern</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>aeroshiftedge.pics</td><td>Internship (d/f/m) Within Technology, Innovation & Services Flight Physics</td><td>Hamburg</td><td>2026-10-08</td></tr>
+<tr><td>ISS UK</td><td>Internship - Corporate Governance Data Procurement (m/w/d)</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>FRoSTA AG</td><td>Internship In Production / Process Optimization (f/m/d)</td><td>Bremerhaven</td><td>2026-10-08</td></tr>
+<tr><td>ISS UK</td><td>Internship - Corporate Governance Research - Dach Market (m/w/d)</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>dalli group</td><td>Initiativbewerbung Praktikanten - Flörsheim (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
+<tr><td>HiPP-Werk Georg Hipp OHG</td><td>Praktikum/ Abschlussarbeit</td><td>Bielefeld</td><td>2026-10-08</td></tr>
+<tr><td>Voith</td><td>Praktikum (m/w/d) Im Bereich Forschung; Entwicklung; Konstruktion - Start: Flexibel</td><td>Ulm</td><td>2026-10-08</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Research & Development - Stock Preparation</td><td>Ulm</td><td>2026-10-08</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Hr / People Business Partner</td><td>Ulm</td><td>2026-10-08</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Customer Service & Sales</td><td>Heidenheim</td><td>2026-10-08</td></tr>
+<tr><td>Voith</td><td>Internship In Governance, Compliance & Corporate Management</td><td>Ulm</td><td>2026-10-08</td></tr>
+<tr><td>Voith</td><td>Intern (m/f/d) - Global Value Management - Cost-optimized Product Design</td><td>Ulm</td><td>2026-10-08</td></tr>
+<tr><td>Voith Group</td><td>Internship (m/f/d) - Business Development International Service</td><td>Ulm</td><td>2026-10-08</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Initiativbewerbung Pflichtpraktikum</td><td>Germany</td><td>2026-10-08</td></tr>
+<tr><td>Carrier Global</td><td>Schülerpraktikum Metall & Elektro (m/w/d)</td><td>ViessmannstraßE 1</td><td>2026-10-08</td></tr>
+<tr><td>Topjobstoday</td><td>Data Processing Developer Technology Intern - 2027</td><td>Munich</td><td>2026-10-08</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Public Affairs Am Standort Berlin (m/w/d)</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>Bertelsmann</td><td>Praktikant:in Im Bereich Corporate Responsibility - Schwerpunkt Inclusion (m/w/d)</td><td>Bielefeld</td><td>2026-10-08</td></tr>
+<tr><td>Bertelsmann Stiftung</td><td>Initiativbewerbung Praktikant:innen Für Die Bertelsmann Stiftung (m/w/d)</td><td>Bielefeld</td><td>2026-10-08</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in Im Bereich Hris (m/w/d)</td><td>Bielefeld</td><td>2026-10-08</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Trade Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marktforschung - Brand & Social Media Monitoring (m/w/d)</td><td>Unknown</td><td>2026-10-08</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Human Resources Talent & Learning (w/m/d)</td><td>Unknown</td><td>2026-10-08</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Human Resources Bereich Recruiting & Employer Branding (w/m/d)</td><td>Unknown</td><td>2026-10-08</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>Telefónica Deutschland</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-10-08</td></tr>
+<tr><td>Festo</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-10-08</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>KüRnach</td><td>2026-10-08</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>KüRnach</td><td>2026-10-08</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>Thales Group</td><td>Java Softwareentwickler (m/w/d) Für Hmi</td><td>Stuttgart</td><td>2026-10-08</td></tr>
+<tr><td>Thales Group</td><td>It Office Support Engineer (w/m/d)</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Software Engineer - Basic-software For Automotive Control Devices (f/m/d)</td><td>Munich</td><td>2026-10-08</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Working Student (w/m/d) - Quality Management & Data Analysis</td><td>Germany</td><td>2026-10-08</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-10-08</td></tr>
+<tr><td>Everllence</td><td>Industriemechaniker; Mechatroniker Instandhaltung (m/w/d)</td><td>Germany</td><td>2026-10-08</td></tr>
+<tr><td>Everllence</td><td>Servicemonteur / Mechaniker Für Schiffe Und Kraftwerke (m/w/d)</td><td>Hamburg</td><td>2026-10-08</td></tr>
+<tr><td>Everllence</td><td>Bauleitender Monteur (m/w/d)</td><td>Hamburg</td><td>2026-10-08</td></tr>
+<tr><td>Albrecht Jung GmbH & Co. KG</td><td>Servicetechniker - Knx / Jung Systeme Für München (m/w/d)</td><td>Munich</td><td>2026-10-08</td></tr>
+<tr><td>Aebi Schmidt Group</td><td>Technischer Support</td><td>Hanover</td><td>2026-10-08</td></tr>
+<tr><td>Vonovia SE</td><td>Servicetechniker (m/w/d) Wasserschäden / Trocknung</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker Shk (m/w/d) Oranienburg/hennigsdorf/bernau / Bis Zu 7.500 € Brutto Starter-bonus</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>Vonovia SE</td><td>Anlagenmechaniker (m/w/d) Heizung/sanitär Berlin Nord / Bis Zu 7.500 € Brutto Starter-bonus</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>Ontex</td><td>Mechaniker / Mechatroniker (m/w/d)</td><td>Grosspostwitz</td><td>2026-10-08</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Mechatroniker / Mechaniker / Schlosser Ttfs (m/w/d)</td><td>Munich</td><td>2026-10-08</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Willkommensprämie* Bis Zu 3.000€</td><td>Rostock Roggentin</td><td>2026-10-08</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Fluidmanagement (m/w/d)</td><td>Hanover</td><td>2026-10-08</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicemitarbeiter Für Wartungs- Und Betriebsservicearbeiten (m/w/d)</td><td>Hanover</td><td>2026-10-08</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Servicetechniker (m/w/d) Deutschlandweit</td><td>Deutschlandweit</td><td>2026-10-08</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Elektriker / Elektroniker (m/w/d)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Stuttgart</td><td>2026-10-08</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Wuppertal</td><td>2026-10-08</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>The North Face</td><td>Sales Associate (vollzeit, Mwd)</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>REWE Thieme oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>REWE Herbel oHG</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>REWE Achim Blumentritt oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>REWE Herbel oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-08</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer (m/w/d) Hofheim-marxheim (taunus)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
+<tr><td>Postbank Filialvertrieb AG</td><td>Berater Service & Verkauf (d/m/w) (befristet)</td><td>Mannheim</td><td>2026-10-08</td></tr>
+<tr><td>Zalando</td><td>Beauty Expert (all Genders) Teilzeit</td><td>Berlin</td><td>2026-10-08</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Saarbrücken-halberg (23 Std)</td><td>Saarbruecken</td><td>2026-10-08</td></tr>
+<tr><td>Thermo Fisher Scientific Inc.</td><td>Customer Service Specialist (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Customer Service Specialist (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
 </table>
