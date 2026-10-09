@@ -9064,4 +9064,63 @@
 <tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Saarbrücken-halberg (23 Std)</td><td>Saarbruecken</td><td>2026-10-08</td></tr>
 <tr><td>Thermo Fisher Scientific Inc.</td><td>Customer Service Specialist (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
 <tr><td>Thermo Fisher Scientific UK</td><td>Customer Service Specialist (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-08</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Internationales Projektmanagement (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler Automotive Buehl GmbH & Co. KG</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Funktionsentwicklung Im Bereich E-drive (d/m/w)</td><td>Karlsruhe</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - F&e Vorentwicklung Des Unternehmensbereichs E-mobilität (d/m/w)</td><td>Karlsruhe</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Hr (d/m/w)</td><td>Karlsruhe</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - People Development Europe (d/m/w)</td><td>Unknown</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler Consulting GmbH</td><td>Praktikum Im Inhouse Consulting: Change Management, Communication And Learning (m/w/d)</td><td>Unknown</td><td>2026-10-09</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum Im Personalmanagement - Human Resources (d/m/w)</td><td>Unknown</td><td>2026-10-09</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Global Reservations Internship - Design Hotels</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Social Media & Community Management Internship - Design Hotels</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Communications Internship - Design Hotels</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Distribution Technology Internship - Design Hotels</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Bordnetzentwicklung</td><td>Bielefeld</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Wettbewerbsanalyse</td><td>Bielefeld</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Global Sales GmbH</td><td>Praktikum Im Bereich Digital Channels & Ai Solutions</td><td>Herzebrock-Clarholz</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Vertriebsgesellschaft mbH</td><td>Praktikum Controlling</td><td>Herzebrock-Clarholz</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS KGaA mbH</td><td>Praktikum Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Praktikum Controlling</td><td>Constance</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Praktikum / Abschlussarbeit Vorentwicklung</td><td>Constance</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Group</td><td>Claas Inside Marketing</td><td>Herzebrock</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Praktikum / Abschlussarbeit Im Entwicklungsbereich Für Den Xerion</td><td>Bielefeld</td><td>2026-10-09</td></tr>
+<tr><td>CLAAS Vertriebsgesellschaft mbH</td><td>Claas Inside Absatzfinanzierung</td><td>Herzebrock-Clarholz</td><td>2026-10-09</td></tr>
+<tr><td>zdf</td><td>Praktikum Landesstudio Brandenburg (01/2027 - 06/2027)</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Dortmund (m/w/d)</td><td>Dortmund</td><td>2026-10-09</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Elmshorn (m/w/d)</td><td>Hamburg</td><td>2026-10-09</td></tr>
+<tr><td>Deloitte GmbH</td><td>Ausbildung Steuerfachangestellter 2027 (m/w/d)</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Auszubildende/r Mechatronik 2027 (m/w/d)</td><td>Stuttgart</td><td>2026-10-09</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Bevern</td><td>Bevern</td><td>2026-10-09</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Marienmünster</td><td>MarienmüNster</td><td>2026-10-09</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung In Markt Bibart</td><td>Markt Bibart</td><td>2026-10-09</td></tr>
+<tr><td>KWS Group</td><td>Auszubildende/r Zum Pflanzentechnologen (m/w/d)</td><td>Hanover</td><td>2026-10-09</td></tr>
+<tr><td>ZF Friedrichshafen</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-10-09</td></tr>
+<tr><td>Georg Fischer</td><td>Ausbildung Als Maschinen- Und Anlagenführer/-in (m/w/d)</td><td>Zella</td><td>2026-10-09</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Software-entwickler (m/w/d)</td><td>Ulm</td><td>2026-10-09</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Elmshorn</td><td>Hamburg</td><td>2026-10-09</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Ahrensburg</td><td>Hamburg</td><td>2026-10-09</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Norderstedt</td><td>Hamburg</td><td>2026-10-09</td></tr>
+<tr><td>Haushahn GmbH & Co. KG</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Hamburg</td><td>Hamburg</td><td>2026-10-09</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freising/ Landshut/ Erding</td><td>Munich</td><td>2026-10-09</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker* In (m/w/d) Für Halle/ Leipzig</td><td>Leipzig</td><td>2026-10-09</td></tr>
+<tr><td>Haushahn GmbH & Co. KG</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In München</td><td>Munich</td><td>2026-10-09</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge In Stuttgart</td><td>Stuttgart</td><td>2026-10-09</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Fahrtreppen In Berlin</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Saarbruecken</td><td>2026-10-09</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-09</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-10-09</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store Konstanz (m/w/d) (20 Std./wo.)</td><td>Constance</td><td>2026-10-09</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store Ludwigsburg (m/w/d) (20 Std./wo.) (befr. Für 1 Jahr)</td><td>Stuttgart</td><td>2026-10-09</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Essen (kettwiger Str. 47), In Teilzeit, Befristet</td><td>Wuppertal</td><td>2026-10-09</td></tr>
+<tr><td>Diptyque Paris</td><td>Client Advisor (m/w/d)</td><td>Dusseldorf</td><td>2026-10-09</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-09</td></tr>
+<tr><td>25hours Hotel Bikini Berlin</td><td>Sales Trainee (m/f/d)</td><td>Berlin</td><td>2026-10-09</td></tr>
+<tr><td>H&M</td><td>Verkäufer Kurzfristige Beschäftigung - Bad Godesberg (m/w/d)</td><td>Cologne</td><td>2026-10-09</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) Befristet - Fo Zweibrücken</td><td>Saarbruecken</td><td>2026-10-09</td></tr>
+<tr><td>Richemont</td><td>Sales Associate (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-09</td></tr>
+<tr><td>ZG Raiffeisen</td><td>Verkäufer (m/w/d) Garten Und Pflanzen</td><td>Constance</td><td>2026-10-09</td></tr>
+<tr><td>ZG Raiffeisen</td><td>Mitarbeiter Lager & Umschlag (m/w/d) - Düngemittel</td><td>Freiburg Im Breisgau</td><td>2026-10-09</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Customer Service Specialist (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-09</td></tr>
 </table>
