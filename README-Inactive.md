@@ -9123,4 +9123,80 @@
 <tr><td>ZG Raiffeisen</td><td>Verkäufer (m/w/d) Garten Und Pflanzen</td><td>Constance</td><td>2026-10-09</td></tr>
 <tr><td>ZG Raiffeisen</td><td>Mitarbeiter Lager & Umschlag (m/w/d) - Düngemittel</td><td>Freiburg Im Breisgau</td><td>2026-10-09</td></tr>
 <tr><td>PPD (Thermo Fisher) UK</td><td>Customer Service Specialist (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-09</td></tr>
+<tr><td>oyora GmbH</td><td>Facharzt Für Strahlentherapie (m/w/d) – Cyberknife & Moderne Strahlentherapie</td><td>Hamburg</td><td>2026-10-10</td></tr>
+<tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hanover</td><td>2026-10-10</td></tr>
+<tr><td>Apple</td><td>Internship - Software Engineering - Wireless Data Science</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>Apple</td><td>Internship - Software Engineering - Ai-augmented Static Code Analysis</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>Vet Pharma Friesoythe GmbH</td><td>Pharmazeut (m/w/d) Im Praktikum In Der Qualitätskontrolle</td><td>Oldenburg</td><td>2026-10-10</td></tr>
+<tr><td>Vet Pharma Friesoythe GmbH</td><td>Pharmazeut (m/w/d) Im Praktikum In Der Produktion</td><td>Oldenburg</td><td>2026-10-10</td></tr>
+<tr><td>Chiesi Farmaceutici S.p.A</td><td>Pharmazeut (all Genders) Im Praktikum Für 2027</td><td>Hamburg</td><td>2026-10-10</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Praktikum (m/w/d) Initiativ</td><td>Schweitenkirchen</td><td>2026-10-10</td></tr>
+<tr><td>flatexDEGIRO AG</td><td>Werkstudent/ In Corporate Actions (m/w/d)</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>KNDS Group</td><td>Fos Praktikum In Unterschiedlichen Bereichen (m/w/d)</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>LEMKEN GmbH</td><td>Initiativbewerbung Praktikum Und/oder Abschlussarbeit</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>LEMKEN GmbH</td><td>Praktikum Und/oder Abschlussarbeit Corporate Marketing (messe & Event)</td><td>Unknown</td><td>2026-10-10</td></tr>
+<tr><td>LEMKEN GmbH</td><td>Praktikum Und/oder Abschlussarbeit Corporate Marketing (onlinemarketing)</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>Rewe Group</td><td>Praktikum Category Management / Einkauf International Trockensortiment (m/w/d)</td><td>Cologne</td><td>2026-10-10</td></tr>
+<tr><td>ZEISS Group</td><td>Internship – Physically Based Rendering, Vulkan & Digital Twins (f/m/x)</td><td>Goppingen</td><td>2026-10-10</td></tr>
+<tr><td>Autoliv</td><td>Mandatory Intern (m/f/d) In The Field Of End-to-end (e2e) Business Process Modeling</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum In Der Betriebsmittelkonstruktion</td><td>Reutlingen</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Real Estate & Infrastructure, Transformation & Projectmanagement (w/m/d)</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Werkstudent Programmierung - Hr Transactions - Deal Management (w/m/d)</td><td>Dusseldorf</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Valuation Transactions And Corporate Finance (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Corporate Real Estate, Esg (w/m/d)</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Transactions & Corporate Finance Valuation (w/m/d)</td><td>Stuttgart</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Strategy And Execution - Deal Management (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Strategy (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Qualification & Learning Europe (d/m/w)</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum In Hr/it - People, Organization & Agile Practices (d/m/w)</td><td>Unknown</td><td>2026-10-10</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Ausbildung Zum Informationselektroniker (m/w/d)</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>AGCO</td><td>Ausbildung Zum Industriemechaniker (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-BäUmenheim</td><td>2026-10-10</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Ausbildung Zum Fachinformatiker Fr Anwendungsentwicklung (m/w/d) 2027</td><td>Aurich-Tannenhausen</td><td>2026-10-10</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprenticeship As Warehouse Logistics Expert (f/m/d)</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>KNDS FWH Castings GmbH</td><td>*2027* Ausbildung Zum Industriekaufmann (m/w/d)</td><td>Germany</td><td>2026-10-10</td></tr>
+<tr><td>ABB Ltd</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>Wuppertal</td><td>2026-10-10</td></tr>
+<tr><td>valeo.in</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d), Ausbildungsstart 2027</td><td>Stuttgart</td><td>2026-10-10</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Marl (m/w/d)</td><td>Dortmund</td><td>2026-10-10</td></tr>
+<tr><td>Thales</td><td>Embedded Software Developer (m/w/d)</td><td>Stuttgart</td><td>2026-10-10</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Softwareentwickler Baumaschinen (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-10-10</td></tr>
+<tr><td>Ryanair DAC</td><td>Safety Data Analyst - Engineering Base Maintenance</td><td>Frankfurt Hahn</td><td>2026-10-10</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Berlin Und Umgebung</td><td>Genshagen</td><td>2026-10-10</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Freiburg Und Umgebung</td><td>Freiburg Im Breisgau</td><td>2026-10-10</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Technischer Kundenberater Heizung Im Raum Hannover, Dresden, Frankfurt Oder Koblenz (m/w/d)</td><td>Hanover</td><td>2026-10-10</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Karlsruhe Und Umgebung</td><td>Karlsruhe</td><td>2026-10-10</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Für Den Standort Großbritannien</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>KNDS Group</td><td>Service-techniker (m/w/d)</td><td>Unknown</td><td>2026-10-10</td></tr>
+<tr><td>KNDS Group</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>Danfoss AS</td><td>Repair Technician (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Danfoss AS</td><td>Junior Service Application Engineer (m/f/d)</td><td>Hamburg</td><td>2026-10-10</td></tr>
+<tr><td>Rewe Group</td><td>Haustechniker Logistik (m/w/d)</td><td>Neudietendorf</td><td>2026-10-10</td></tr>
+<tr><td>ABB UK</td><td>Field Service Monteur (m/w/d) Im Außendienst Für Schaltanlagen Niederspannung</td><td>Niedersachsen</td><td>2026-10-10</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Systemtechniker (m/w/d) - Zeit- Und Zutrittssysteme / Großraum Leipzig</td><td>Leipzig</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-10-10</td></tr>
+<tr><td>Haushahn GmbH & Co. KG</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Duisburg</td><td>Dusseldorf</td><td>2026-10-10</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Tür- Und Toranlagen Im Raum Frankfurt / Aschaffenburg</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzüge Und Fahrtreppen In München</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Technische/r Spezialist*in / Troubleshooter*in (m/w/d) Für Fahrtreppen Deutschlandweit</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum München</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>Haushahn GmbH & Co. KG</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Berlin</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Wiesbaden</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Bremen</td><td>Bremen</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Großraum Hamburg</td><td>Hamburg</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Reparaturtechniker*in (m/w/d) Für Aufzüge Im Raum Karlsruhe/offenburg</td><td>Karlsruhe</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Reparatur/umbauten Von Aufzügen Im Raum Karlsruhe</td><td>Karlsruhe</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Teamleitung (m/w/d) Für Den Service Von Aufzügen Im Raum Eberswalde</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Das Rhein-main-gebiet</td><td>Frankfurt Am Main</td><td>2026-10-10</td></tr>
+<tr><td>Haushahn</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Bremen / Schneverdingen / Hemmoor</td><td>Bremen</td><td>2026-10-10</td></tr>
+<tr><td>Schindler Group</td><td>Technische/r Spezialist*in Als Troubleshooter (m/w/d) Für Aufzüge Im Rhein-main-gebiet</td><td>Oberursel (Taunus)</td><td>2026-10-10</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-10</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-10</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-10</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Sales Assistant (m/w/d) - Store Flughafen München</td><td>Munich</td><td>2026-10-10</td></tr>
+<tr><td>SKECHERS USA Inc</td><td>Verkäufer (m/w/d) - Oberhausen</td><td>Dusseldorf</td><td>2026-10-10</td></tr>
+<tr><td>MANGO</td><td>Verkäufer (m/w/d) In Teilzeit 30 Std./w. / Neueröffnung</td><td>Berlin</td><td>2026-10-10</td></tr>
+<tr><td>Sonae Arauco</td><td>Assistenz Produktionsleitung Pb/osb (m/w/d)</td><td>Nettgau</td><td>2026-10-10</td></tr>
 </table>
