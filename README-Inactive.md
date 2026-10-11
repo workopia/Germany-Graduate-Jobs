@@ -9199,4 +9199,150 @@
 <tr><td>SKECHERS USA Inc</td><td>Verkäufer (m/w/d) - Oberhausen</td><td>Dusseldorf</td><td>2026-10-10</td></tr>
 <tr><td>MANGO</td><td>Verkäufer (m/w/d) In Teilzeit 30 Std./w. / Neueröffnung</td><td>Berlin</td><td>2026-10-10</td></tr>
 <tr><td>Sonae Arauco</td><td>Assistenz Produktionsleitung Pb/osb (m/w/d)</td><td>Nettgau</td><td>2026-10-10</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant - People Advisory Services / Global Mobility Tax (w/m/d)</td><td>Stuttgart +1</td><td>2026-10-11</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Master Student / Internship In Information Technology Or Physics (f/m/d) - Adaptive Optics Software</td><td>Oberpfaffenhofen</td><td>2026-10-11</td></tr>
+<tr><td>ZF Friedrichshafen AG</td><td>Praktikum Strategy & Transformation</td><td>Constance</td><td>2026-10-11</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Business Operations Connected Parking</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>DACHSER SE</td><td>Praktikant (m/w/d) Fos - Jahrespraktikum</td><td>Saarbruecken</td><td>2026-10-11</td></tr>
+<tr><td>DACHSER SE</td><td>Praktikant (m/w/d)</td><td>Ulm</td><td>2026-10-11</td></tr>
+<tr><td>DACHSER SE</td><td>Initiativbewerbung (m/w/d) Praktikum</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Yunex Traffic</td><td>Werkstudent (w/m/d) Im It Application Management</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>Nordex SE</td><td>Praktikant (m/w/d) Financial Analysis & Structuring Europe Für 6 Monate</td><td>Hamburg +1</td><td>2026-10-11</td></tr>
+<tr><td>Zdf</td><td>Praktikant*innen Gb Außenstudios (01/2027 - 12/2027)</td><td>Darmstadt</td><td>2026-10-11</td></tr>
+<tr><td>Vodafone</td><td>Praktikum Programme Und Kommunikation Der Vodafone Stiftung (m/w/d) In Berlin</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Vodafone</td><td>Praktikant Inn. & Strat. Mit Schwerp. Esports, Gaming, & Bvb-dortmund-spons. (m/w/d) Düsseldorf</td><td>Dusseldorf</td><td>2026-10-11</td></tr>
+<tr><td>Infineon</td><td>Internship - Synthesis & Timing/area Rtl Design Analysis (f/m/div)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>ING Wholesale Banking</td><td>Intern Metals, Mining & Fertilizers – Wholesale Banking (f/m/x)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>ISS UK</td><td>Internship - Corporate Governance Executive Compensation Analyst Emea (italian Speaker) (m/w/d)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>ISS UK</td><td>Internship - Corporate Governance Executive Compensation Analyst Emea - Nordic Markets (m/w/d)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>ISS UK</td><td>Internship - Corporate Governance Executive Compensation Analyst Emea (german Speaker) (m/w/d)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Apple</td><td>Phy Cellular Firmware Engineer Internship</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>MEGA eG</td><td>Kaufmännisches Praktikum Mega Gruppe</td><td>Deutschland</td><td>2026-10-11</td></tr>
+<tr><td>KKR</td><td>2027 Off-cycle Intern - Private Equity</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Employee Development</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Im Bereich Logistik & Kundenauftragsabwicklung / Internship Logistics & Supply Chain</td><td>Obersontheim</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Nachhaltigkeit / Internship Sustainability</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Software-testing</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Communications Corporate, Products And Channels</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Robotik & Automatisierungstechnologien</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Zentrales Qualitätsmanagement / Internship Central Quality Management</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Marketing Übersetzungsmanagement / Internship Marketing Translation Management</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Global Hr Projects & Operations</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Qualitäts- Und Prozessmanagement & Digital Transformation / Internship Quality Management</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement Water & Air</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship Productmanagement Robotics</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Praktikum (w/m/d) Corporate Actions Abwicklung</td><td>Unknown</td><td>2026-10-11</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Praktikum Im Bereich Recruiting</td><td>Wolfertschwenden</td><td>2026-10-11</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Praktikum Im Bereich Hr Controlling / Workforce Analytics</td><td>Wolfertschwenden</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Schüler-/orientierungspraktikum (gn) Ab März 2027</td><td>76879</td><td>2026-10-11</td></tr>
+<tr><td>Accenture</td><td>Praktikum Ai & Data (all Genders)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>Barilla Group</td><td>Praktikum Im Marketing Category Condiments (pesto)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Airbus Operations GmbH</td><td>Internship (d/f/m) Within Project Management In The A320 Family Program</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>ww-ag</td><td>Werkstudent Städtebau (m/w/d) / Zunächst Befristet Für 6 Monate</td><td>Dresden</td><td>2026-10-11</td></tr>
+<tr><td>ww-ag</td><td>Praktikant (m/w/d) Mit Schwerpunkt Mathematik</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>ww-ag</td><td>Praktikum/werkstudent/abschlussarbeit (m/w/d) Initiativ</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Group Internal Communications (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Brand Integration (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Strategische Marktbeobachtung Und Wettbewerbsanalyse (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum International Scouting & Trends (m/w/d)</td><td>MüNchen +1</td><td>2026-10-11</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Entertainment (m/w/d)</td><td>Nach Postleitzahl Suchen</td><td>2026-10-11</td></tr>
+<tr><td>Zeppelin Baumaschinen GmbH</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>KFC</td><td>Ausbildung Fachmann Für Systemgastronomie Bremen Stuhr (all Genders) Jetzt Bewerben »</td><td>Bremen Stuhr</td><td>2026-10-11</td></tr>
+<tr><td>Nestle SA</td><td>Trainee Marketing & Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>ZG Raiffeisen</td><td>Ausbildung Als Kaufmann Für Groß- Und Außenhandelsmanagement (m/w/d) 2027</td><td>Merdingen</td><td>2026-10-11</td></tr>
+<tr><td>Bilfinger</td><td>Ausbildung Zum Industrie-gerüstbauer (m/w/d) Am Standort Teichland-neuendorf Kw Jänschwalde 2027</td><td>Teichland-Neuendorf</td><td>2026-10-11</td></tr>
+<tr><td>ALTATEC GmbH</td><td>Ausbildung Zum Industriemechaniker</td><td>Wimsheim</td><td>2026-10-11</td></tr>
+<tr><td>Edag Engineering GmbH</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zum Zerspanungsmechaniker (m/w/d) - Start 2027</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Ausbildung Zum Industriekaufmann (m/w/d) Start 2027</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>EY</td><td>Consultant Risk Management - Fast Track Trainee Program (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>Sasol</td><td>Ausbildung Industriekauffrau/ Industriekaufmann - Start: September 2027</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>One Nexus / Trainee (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>fisgruppe</td><td>Ausbildung Zum Fachinformatiker Für Systemintegration (m/w/x) - Start 01.09.2027</td><td>Grafenrheinfeld</td><td>2026-10-11</td></tr>
+<tr><td>Andritz Oy</td><td>Ausbildung Mechatroniker (m/w/d)</td><td>Dortmund</td><td>2026-10-11</td></tr>
+<tr><td>adidas AG</td><td>Apprentice</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Consultant Risk Management - Fast Track Trainee Program (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) Start 2027</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zum Lacklaboranten (m/w/d) Start 2027</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zum Industriekaufmann (m/w/d) - Start 2027</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>Altana AG</td><td>Ausbildung Zum Mechatroniker (m/w/d) - Start 2027</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>RWE AG</td><td>Ausbildung Zum Fachinformatiker 2027 D/w/m</td><td>Wuppertal</td><td>2026-10-11</td></tr>
+<tr><td>Festo</td><td>Umschulung Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Werkstudent (w/m/d) Servicedesk Und Support Im It-betrieb</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>SumUp</td><td>Backend Engineer (golang) - Transfers Europe</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>createyourowncareer</td><td>Full Stack Software Engineer C#/.net (m/w/d)</td><td>30171</td><td>2026-10-11</td></tr>
+<tr><td>Thales</td><td>Java Softwareentwickler (m/w/d) Für Hmi</td><td>Stuttgart</td><td>2026-10-11</td></tr>
+<tr><td>Megger</td><td>Business Analyst (m/w/d)</td><td>Baunach</td><td>2026-10-11</td></tr>
+<tr><td>VELUX Group</td><td>Business Analyst & Data Engineer (m/w/d)</td><td>Gazellenkamp</td><td>2026-10-11</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Servicetechniker (m/w/d) Sicherheitstechnik</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>JCI</td><td>Initiativbewerbung – Servicetechniker (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>FRoSTA AG</td><td>Electrician Maintenance (f/m/d)</td><td>Bremerhaven</td><td>2026-10-11</td></tr>
+<tr><td>Wartsila Oyj Abp</td><td>Field Service / Commissioning Engineer - Ship Electrification Solutions (m/w/d)</td><td>Hamburg +1</td><td>2026-10-11</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker - Mechanik (w/m/d)</td><td>Giebelstadt</td><td>2026-10-11</td></tr>
+<tr><td>SSI Schaefer</td><td>Servicetechniker Elektronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-10-11</td></tr>
+<tr><td>SSI Schaefer Automation GmbH</td><td>Servicetechniker Mechatronik (w/m/d) + Firmenwagen</td><td>Giebelstadt</td><td>2026-10-11</td></tr>
+<tr><td>HARTMANN</td><td>Mechaniker (w/m/d) - Standort Brück / 12 Monate</td><td>Search By Postal Code</td><td>2026-10-11</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Industrie Servicetechniker (m/w/d) Region Fulda</td><td>MöRfelden</td><td>2026-10-11</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) Gebiet Südl. Berlin / Brandenburg</td><td>Genshagen</td><td>2026-10-11</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Frankfurt Am Main / Neu Isenburg Und Umgebung</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>WOLF</td><td>Servicetechniker (m/w/d) Heiztechnik & Wärmepumpe In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Karlsruhe Und Umgebung</td><td>Karlsruhe</td><td>2026-10-11</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Landau In Der Pfalz Und Umgebung</td><td>Karlsruhe</td><td>2026-10-11</td></tr>
+<tr><td>ELCO</td><td>Servicetechniker (m/w/d) Gebiet Bingen / Mainz / Worms</td><td>MöRfelden</td><td>2026-10-11</td></tr>
+<tr><td>Ariston Holding N.V</td><td>Servicetechniker (m/w/d) - Deutschland Mitte, Nord</td><td>Genshagen</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Mannheim</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe Warenverräumung (m/w/d) In Eitorf</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Arthur Boos oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE REWE Dugandzic GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE REWE Dugandzic GmbH & Co. oHG</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Backwaren & Warme Küche (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>REWE Astrid Gogol oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Astrid Gogol oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>TK Maxx DE Store 590 - Köln-Weiden</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>JYSK</td><td>Werkstudent/in Im Verkauf (m/w/d) - Berlin-spandau (18 Std)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-wandsbek (20/25 Std)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Wesel</td><td>Dusseldorf</td><td>2026-10-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Norderstedt (23 Std)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Mall Of Berlin (m/w/d)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - München Weinstraße (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Quarree Wandsbek Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Hohe Straße Köln (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Rathaus-galerie Leverkusen (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Bergisch Gladbach (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Deko (gn)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Versand (gn) Vollzeit Oder Teilzeit</td><td>Ahrensfelde</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren, Werkzeuge, Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Drive-in (gn)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>SKF Group</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Hamburg</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Dertour Group</td><td>Trainee Sales (m/w/d) – Einstieg Im Vertrieb Bei Dertour Group In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>Michael Brücken Kaufpark GmbH & Co oHG</td><td>Verkäufer Frischetheke (m/w/d) - Jobilla</td><td>Munster</td><td>2026-10-11</td></tr>
+<tr><td>REWE</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Marcel Simons oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke & Backwaren (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Zum Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE-Markt Esser oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Claudia Istas oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>REWE Markt Ridders oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-11</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate (d/m/w) Berlin Teilzeit 60%</td><td>Berlin</td><td>2026-10-11</td></tr>
+<tr><td>Breitling SA</td><td>Sales Associate (d/m/w) München Vollzeit</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Bereichsassistenz (m/w/d)</td><td>Germany</td><td>2026-10-11</td></tr>
+<tr><td>PIMCO</td><td>Administrative Assistant</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>IQVIA</td><td>Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>IQVIA Holdings</td><td>Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
+<tr><td>TD SYNNEX</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
 </table>
