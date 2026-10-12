@@ -9345,4 +9345,61 @@
 <tr><td>IQVIA Holdings</td><td>Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-11</td></tr>
 <tr><td>TD SYNNEX</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
 <tr><td>TD SYNNEX Accessboard</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-10-11</td></tr>
+<tr><td>EndressHauser AG</td><td>Praktikum Oder Abschlussarbeit Zur Digitalisierung Im Betriebsmittelbau</td><td>Maulburg</td><td>2026-10-12</td></tr>
+<tr><td>EndressHauser AG</td><td>Einwöchiges Schülerpraktikum 2027</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>VIE-INDIA</td><td>Schulpraktikum Airbus Hamburg 26.04. - 05.05.2027</td><td>Hamburg</td><td>2026-10-12</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Werkstudent Indirekter Einkauf (m/w/d)</td><td>Munich</td><td>2026-10-12</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikum Corporate Strategy (m/w/d)</td><td>Munich</td><td>2026-10-12</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Im Bereich Corporate M&a (m/w/d)</td><td>Munich</td><td>2026-10-12</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Restructuring & Transformation (m/w/d)</td><td>Munich</td><td>2026-10-12</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant Products & Rights (m/w/d)</td><td>Munich</td><td>2026-10-12</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Strategic Partner Management (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Regulatory Reporting (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-10-12</td></tr>
+<tr><td>KKR</td><td>2027 Off-cycle Intern - Global Client Solutions</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>Nvidia</td><td>Ai Developer Technology Intern - 2027</td><td>Munich</td><td>2026-10-12</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Internationales Projektmanagement (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>Apple</td><td>Internship - Cellular Protocol</td><td>Germany</td><td>2026-10-12</td></tr>
+<tr><td>workwide.es</td><td>Global Key Account Management Intern - (german Speaker)</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship – Software Engineering & Agentic Systems For Digital Twins (f/m/x)</td><td>Goppingen</td><td>2026-10-12</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum In Der Internationalen Logistik – Supply Chain Für Halbleiter</td><td>Reutlingen</td><td>2026-10-12</td></tr>
+<tr><td>NatWest Group</td><td>Natwest Markets - Frankfurt Corporate Coverage Internship</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>EY</td><td>Ey-parthenon Praktikant Real Estate, Transaction Advisory (w/m/d)</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Auszubildende Steuerfachangestellte (m/w/d)</td><td>Hanover</td><td>2026-10-12</td></tr>
+<tr><td>Bonback Halle GmbH</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>Halle (Saale)</td><td>2026-10-12</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt</td><td>Freistatt</td><td>2026-10-12</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Ausbildung Zur Pflegefachkraft (m/w/d) Id 33773</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Ausbildung Pflegefachkraft (m/w/d) Id 36529</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>KNDS FWH Castings GmbH</td><td>*2027* Ausbildung Zum Gießereimechaniker Schwerpunkt Handformen (m/w/d)</td><td>Unknown</td><td>2026-10-12</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Mechaniker / Anlagenbediener (m/w/d)</td><td>Emleben</td><td>2026-10-12</td></tr>
+<tr><td>Yara International ASA</td><td>Elektroniker Für Betriebstechnik/elektriker/mechatroniker/anlagentechniker (m/w/d)</td><td>Poppendorf</td><td>2026-10-12</td></tr>
+<tr><td>Carrier Transicold</td><td>Servicetechniker (m/w/d) Für Transportkälteanlagen</td><td>Wildau</td><td>2026-10-12</td></tr>
+<tr><td>KION GROUP AG</td><td>Mechatronikerin/ Mechanikerin Als Service-technikerin (m/w/d) Im Gebiet Wilhelmshaven</td><td>Bremen</td><td>2026-10-12</td></tr>
+<tr><td>GEA</td><td>Service Techniker - Elektrik (m/w/d) Einsatzgebiet Süddeutschland</td><td>South Germany</td><td>2026-10-12</td></tr>
+<tr><td>Suewag Energie AG</td><td>Servicemonteur Strom & Gas (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-12</td></tr>
+<tr><td>KAESER KOMPRESSOREN</td><td>Servicemonteur Drucklufttechnik Großraum Freiburg Im Breisgau / Lörrach (m/w/d)</td><td>Freiburg Im Breisgau</td><td>2026-10-12</td></tr>
+<tr><td>E.ON Gas Mobil GmbH</td><td>Servicemonteur Cng Anlagen (w/m/d) Region Südwest</td><td>Hessen +1</td><td>2026-10-12</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Servicetechniker (m/w/d) Feuerschutz</td><td>Leinfelden</td><td>2026-10-12</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-10-12</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-12</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-12</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-12</td></tr>
+<tr><td>DACHSER SE</td><td>Werkstudent (m/w/d) Kommissionierung</td><td>Dortmund</td><td>2026-10-12</td></tr>
+<tr><td>Levis Media</td><td>Verkäufer / Sales Stylist (m/w/d) In Vollzeit</td><td>Ingolstadt</td><td>2026-10-12</td></tr>
+<tr><td>ZG Raiffeisen eG</td><td>Fachverkäufer (m/w/d) Garten- Und Landschaftsbau</td><td>Constance</td><td>2026-10-12</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-10-12</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Essen Borbeck-mitte (28 Std)</td><td>Wuppertal</td><td>2026-10-12</td></tr>
+<tr><td>Humbaurkoegel</td><td>Aushilfe Im Wareneingang Auf Geringfügiger Basis (m/w/d)</td><td>Germany</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baufertigteile (gn)</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Mannheim</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Fliesen / Bodenbeläge (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Holzzuschnitt (gn)</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Dortmund</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Dortmund</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baufertigteile (gn)</td><td>Cologne</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Fliesen / Bodenbeläge / Laminat (gn)</td><td>Berlin</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge (gn) Vollzeit Oder Teilzeit</td><td>Mannheim</td><td>2026-10-12</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Bilderrahmen / Deko (gn)</td><td>Mannheim</td><td>2026-10-12</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Lagermitarbeiter (m/w/d) Kommissionierung - Minijob</td><td>Sch Nberg</td><td>2026-10-12</td></tr>
 </table>

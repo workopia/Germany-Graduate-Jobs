@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-11",
+ "asOf": "2026-10-12",
  "count": 676,
  "jobs": {
   "2418284": {
@@ -7,6 +7,102 @@
    "company": "FunZone.de",
    "role": "Lohn- Und Finanzbuchhalter In Großwallstadt (m/w/d)",
    "location": "GroßWallstadt"
+  },
+  "aa3869a6df3d54282448be93d72ebcd0": {
+   "id": "aa3869a6df3d54282448be93d72ebcd0",
+   "company": "Korber AG",
+   "role": "Schülerpraktikanten (m/w/d) In Hamburg-bergedorf 2027",
+   "location": "Hamburg"
+  },
+  "c5c32955e381b004a8127f3bc257167a": {
+   "id": "c5c32955e381b004a8127f3bc257167a",
+   "company": "Riverty",
+   "role": "Initiativbewerbung: Praktikum (m/w/d)",
+   "location": "Berlin"
+  },
+  "4eaedcfccb70c9398105afdcaefdc6f4": {
+   "id": "4eaedcfccb70c9398105afdcaefdc6f4",
+   "company": "RTL Deutschland",
+   "role": "Praktikant Redaktion Frankfurt (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "e5fe549b599e1f059bb19995d06cdb44": {
+   "id": "e5fe549b599e1f059bb19995d06cdb44",
+   "company": "Penguin Random House Verlagsgruppe GmbH",
+   "role": "Praktikum Youtube & Video-content (m/w/d)",
+   "location": "Munich"
+  },
+  "3c541a320815d0e81e4efd3db21f20ac": {
+   "id": "3c541a320815d0e81e4efd3db21f20ac",
+   "company": "createyourowncareer",
+   "role": "Praktikum Redaktion",
+   "location": "Cologne"
+  },
+  "f01a3af0cb479200b998ad45dcf9c0da": {
+   "id": "f01a3af0cb479200b998ad45dcf9c0da",
+   "company": "Frenzelit GmbH",
+   "role": "Praktikum (m/w/d)",
+   "location": "Bad Berneck"
+  },
+  "36212f3778ac9c267d541c691926f5ed": {
+   "id": "36212f3778ac9c267d541c691926f5ed",
+   "company": "TRATON Group",
+   "role": "Intern / Hr Projects Travel & Mobility (m/f/d)",
+   "location": "Munich"
+  },
+  "e04b367af6b60cd1325a1bf11e282553": {
+   "id": "e04b367af6b60cd1325a1bf11e282553",
+   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
+   "role": "Praktikum Audit / Wirtschaftsprüfung (m/w/d)",
+   "location": "Berlin"
+  },
+  "667de2916956a4b6e0a2cb1e0df382b9": {
+   "id": "667de2916956a4b6e0a2cb1e0df382b9",
+   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
+   "role": "Praktikum Transaction Services (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "38d30e43128031115aab7511df896f94": {
+   "id": "38d30e43128031115aab7511df896f94",
+   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
+   "role": "Praktikum / Werkstudent Digital Tax Transformation (m/w/d)",
+   "location": "Ulm"
+  },
+  "ffe62fc487b2480c39924d1d5d4dba57": {
+   "id": "ffe62fc487b2480c39924d1d5d4dba57",
+   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
+   "role": "Praktikum Business Recovery Services (m/w/d)",
+   "location": "Munich"
+  },
+  "7402ab46c4c72a0c6ec0a48277fd5dec": {
+   "id": "7402ab46c4c72a0c6ec0a48277fd5dec",
+   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
+   "role": "Praktikum Your Tax Experience (m/w/d)",
+   "location": "Berlin"
+  },
+  "c6947a5d57e82ac2930c17a069821ac2": {
+   "id": "c6947a5d57e82ac2930c17a069821ac2",
+   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
+   "role": "Praktikum M&a Advisory (m/w/d)",
+   "location": "Hamburg"
+  },
+  "6504da071c92cc5cb0069377727ec060": {
+   "id": "6504da071c92cc5cb0069377727ec060",
+   "company": "Ernst & Young",
+   "role": "Ey-parthenon Praktikant Performance Improvement - Operational Turnaround (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "b8b7b928c8b72a9ee519199dfbb6f700": {
+   "id": "b8b7b928c8b72a9ee519199dfbb6f700",
+   "company": "Ernst & Young",
+   "role": "Praktikant Steuerberatung (w/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "d3e0e63b5fcd32921dd4832ae0fe3d6f": {
+   "id": "d3e0e63b5fcd32921dd4832ae0fe3d6f",
+   "company": "Ernst & Young",
+   "role": "Ey-parthenon Praktikant Deal Management - Healthcare (w/m/d)",
+   "location": "Hamburg"
   },
   "913698f0e90a6fde017f4c781f957700": {
    "id": "913698f0e90a6fde017f4c781f957700",
@@ -86,6 +182,12 @@
    "role": "Intern (m/f/d) - Corporate Sustainability",
    "location": "Ulm"
   },
+  "2ea19f1c5c14a06e46f8610b59da61f5": {
+   "id": "2ea19f1c5c14a06e46f8610b59da61f5",
+   "company": "Henkel",
+   "role": "Internship R&d Packaging Hair & Body",
+   "location": "Dusseldorf"
+  },
   "418c15ada18571c662dfc54ea69d8a11": {
    "id": "418c15ada18571c662dfc54ea69d8a11",
    "company": "Jdch",
@@ -138,6 +240,12 @@
    "id": "44096d821620b523fed98b4225a05498",
    "company": "MAHLE Industries Inc",
    "role": "Internship In Occupational Health, Environmental Protection And Sustainability, Europe (m/f/d)",
+   "location": "Stuttgart"
+  },
+  "464fcd6844d18392333e3d2f6defa51e": {
+   "id": "464fcd6844d18392333e3d2f6defa51e",
+   "company": "Festo",
+   "role": "Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder",
    "location": "Stuttgart"
   },
   "eefe5e32887bef57b1d8ccdbbe1fb98d": {
@@ -211,6 +319,12 @@
    "company": "TE Connectivity",
    "role": "Strategic Procurement Intern (m/w/d)",
    "location": "Stuttgart"
+  },
+  "76c4ed97080862f61b05f92d3f19c1e2": {
+   "id": "76c4ed97080862f61b05f92d3f19c1e2",
+   "company": "TE Connectivity",
+   "role": "Co-op/intern",
+   "location": "Waiblingen"
   },
   "daafa2a4589771e8c564ece0836b0312": {
    "id": "daafa2a4589771e8c564ece0836b0312",
@@ -356,6 +470,12 @@
    "role": "Praktikum",
    "location": "Augsburg"
   },
+  "b5b4f852e85b5e1c8907cc161ab3a91b": {
+   "id": "b5b4f852e85b5e1c8907cc161ab3a91b",
+   "company": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
+   "role": "Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold",
+   "location": "Bielefeld"
+  },
   "b83bf479b4e90d1c55e2f9b33e778db8": {
    "id": "b83bf479b4e90d1c55e2f9b33e778db8",
    "company": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
@@ -368,125 +488,35 @@
    "role": "Praktikum / Ferienarbeit Gelsenkirchen",
    "location": "Dortmund"
   },
-  "bd7926c4f3f88a38fc2a8a570dfd5940": {
-   "id": "bd7926c4f3f88a38fc2a8a570dfd5940",
-   "company": "EndressHauser AG",
-   "role": "Praktikum Oder Abschlussarbeit Zur Digitalisierung Im Betriebsmittelbau",
-   "location": "Maulburg"
+  "fddef48759a27bb83de655d5cf251858": {
+   "id": "fddef48759a27bb83de655d5cf251858",
+   "company": "BFS health finance",
+   "role": "Ausbildung Zum/zur Fachinformatiker/in Anwendungsentwicklung (m/w/d) 2027",
+   "location": "Dortmund"
   },
-  "d5ed80677a15f442106a6f83cd312a43": {
-   "id": "d5ed80677a15f442106a6f83cd312a43",
-   "company": "EndressHauser AG",
-   "role": "Einwöchiges Schülerpraktikum 2027",
-   "location": "Berlin"
+  "cbdcd6330b77863c2d51de9638a37a85": {
+   "id": "cbdcd6330b77863c2d51de9638a37a85",
+   "company": "Frenzelit GmbH",
+   "role": "Auszubildende Zum Elektroniker 2026 (m/w/d)",
+   "location": "Bad Berneck +1"
   },
-  "a35bef950063ac0d7181348f21d22b46": {
-   "id": "a35bef950063ac0d7181348f21d22b46",
-   "company": "VIE-INDIA",
-   "role": "Schulpraktikum Airbus Hamburg 26.04. - 05.05.2027",
-   "location": "Hamburg"
+  "412d26419dc47dd49813a32ecca02e42": {
+   "id": "412d26419dc47dd49813a32ecca02e42",
+   "company": "Frenzelit GmbH",
+   "role": "Auszubildende Zum Produktionsmechaniker Textil 2026 (m/w/d)",
+   "location": "Himmelkron"
   },
-  "a51d360dfbbb3f294370825708638b9f": {
-   "id": "a51d360dfbbb3f294370825708638b9f",
-   "company": "Knorr-Bremse AG",
-   "role": "Werkstudent Indirekter Einkauf (m/w/d)",
-   "location": "Munich"
+  "83a456aa85a0f2ad0f91a642e58e7e14": {
+   "id": "83a456aa85a0f2ad0f91a642e58e7e14",
+   "company": "Frenzelit GmbH",
+   "role": "Auszubildende Industriekaufleute 2027 (m/w/d)",
+   "location": "Bad Berneck +1"
   },
-  "b36872fe83f039d7b120bec89e9e1d50": {
-   "id": "b36872fe83f039d7b120bec89e9e1d50",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikum Corporate Strategy (m/w/d)",
-   "location": "Munich"
-  },
-  "64df01a293870a9a82d7d704d4c2ef3b": {
-   "id": "64df01a293870a9a82d7d704d4c2ef3b",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikant Im Bereich Corporate M&a (m/w/d)",
-   "location": "Munich"
-  },
-  "8ffc02ca2192605a79d48652181c3a5f": {
-   "id": "8ffc02ca2192605a79d48652181c3a5f",
-   "company": "Knorr-Bremse AG",
-   "role": "Praktikant Restructuring & Transformation (m/w/d)",
-   "location": "Munich"
-  },
-  "06499b60166c585c4bc114e22ca3c75e": {
-   "id": "06499b60166c585c4bc114e22ca3c75e",
-   "company": "FC Bayern Muenchen AG",
-   "role": "Praktikant Products & Rights (m/w/d)",
-   "location": "Munich"
-  },
-  "7a601befc2d25ffcc8593d3b24cacad1": {
-   "id": "7a601befc2d25ffcc8593d3b24cacad1",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Strategic Partner Management (f/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "099717a3e42772c6f89714e1911d785a": {
-   "id": "099717a3e42772c6f89714e1911d785a",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Regulatory Reporting (f/m/d)",
-   "location": "Frankfurt Am Main +1"
-  },
-  "f3a706993e7f5750f6f7d304e3fe5690": {
-   "id": "f3a706993e7f5750f6f7d304e3fe5690",
-   "company": "KKR",
-   "role": "2027 Off-cycle Intern - Global Client Solutions",
-   "location": "Frankfurt Am Main"
-  },
-  "bc7a3c8d6a2174ebf677c5cf737c94e0": {
-   "id": "bc7a3c8d6a2174ebf677c5cf737c94e0",
-   "company": "Nvidia",
-   "role": "Ai Developer Technology Intern - 2027",
-   "location": "Munich"
-  },
-  "485a221ae05cb21cc65fd37d44304bf0": {
-   "id": "485a221ae05cb21cc65fd37d44304bf0",
-   "company": "Nestle SA",
-   "role": "Praktikum Internationales Projektmanagement (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "0a5bd6e6c34a06711852621ac2810b18": {
-   "id": "0a5bd6e6c34a06711852621ac2810b18",
-   "company": "Nestle Ltd",
-   "role": "Praktikum Brand Management (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "e1f71fd75fb4a15a9626f2c257fad385": {
-   "id": "e1f71fd75fb4a15a9626f2c257fad385",
-   "company": "Apple",
-   "role": "Internship - Cellular Protocol",
-   "location": "Germany"
-  },
-  "f5098d9432aa58583f3d52c5484de787": {
-   "id": "f5098d9432aa58583f3d52c5484de787",
-   "company": "workwide.es",
-   "role": "Global Key Account Management Intern - (german Speaker)",
-   "location": "Frankfurt Am Main"
-  },
-  "31ac8dac4dc1c77bfb23263ba5639099": {
-   "id": "31ac8dac4dc1c77bfb23263ba5639099",
-   "company": "Carl Zeiss Pty Ltd",
-   "role": "Internship – Software Engineering & Agentic Systems For Digital Twins (f/m/x)",
-   "location": "Goppingen"
-  },
-  "58b9556fbea11117c4940d55c53d5528": {
-   "id": "58b9556fbea11117c4940d55c53d5528",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Praktikum In Der Internationalen Logistik – Supply Chain Für Halbleiter",
-   "location": "Reutlingen"
-  },
-  "2d7dd706d781b69871623e617d3abaa9": {
-   "id": "2d7dd706d781b69871623e617d3abaa9",
-   "company": "NatWest Group",
-   "role": "Natwest Markets - Frankfurt Corporate Coverage Internship",
-   "location": "Frankfurt Am Main"
-  },
-  "4a0b1f8fbae5c8fa3f42c2f46384363b": {
-   "id": "4a0b1f8fbae5c8fa3f42c2f46384363b",
-   "company": "EY",
-   "role": "Ey-parthenon Praktikant Real Estate, Transaction Advisory (w/m/d)",
-   "location": "Berlin"
+  "1ba9c55cebf2868d8b93a8b3d1484fc3": {
+   "id": "1ba9c55cebf2868d8b93a8b3d1484fc3",
+   "company": "Ardagh Group",
+   "role": "Ausbildung Mechatroniker 2027 (m/w/d)",
+   "location": "Hanover"
   },
   "dc11deca8d0fef6dc7263f823ba818a0": {
    "id": "dc11deca8d0fef6dc7263f823ba818a0",
@@ -776,6 +806,12 @@
    "role": "Auszubildende Köche (m/f/d) - Berlin Marriott Hotel",
    "location": "Berlin"
   },
+  "a624af4d873fc3f965961a886af373ce": {
+   "id": "a624af4d873fc3f965961a886af373ce",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Trainee Zum Bereichsleiter Markt (gn)",
+   "location": "Frankfurt Niedereschbach"
+  },
   "d9645f83c1766ca5992ca5567011f564": {
    "id": "d9645f83c1766ca5992ca5567011f564",
    "company": "ww-ag",
@@ -931,42 +967,6 @@
    "company": "Alfred Kaercher SE Co KG",
    "role": "Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027",
    "location": "Stuttgart"
-  },
-  "604c30e9c8c24ae318ef10406f854bf4": {
-   "id": "604c30e9c8c24ae318ef10406f854bf4",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Auszubildende Steuerfachangestellte (m/w/d)",
-   "location": "Hanover"
-  },
-  "023179ca3fe470aef210f270805774c1": {
-   "id": "023179ca3fe470aef210f270805774c1",
-   "company": "Bonback Halle GmbH",
-   "role": "Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)",
-   "location": "Halle (Saale)"
-  },
-  "d6ea759e198b50a0e78b00e355250a46": {
-   "id": "d6ea759e198b50a0e78b00e355250a46",
-   "company": "Kirchliche Hochschule Bethel",
-   "role": "Ausbildung Pflegefachkraft (m/w/d) Praxisplatz Ambulante Pflege Freistatt",
-   "location": "Freistatt"
-  },
-  "807a5808639ff5aab3de6ed4e6601f60": {
-   "id": "807a5808639ff5aab3de6ed4e6601f60",
-   "company": "Kirchliche Hochschule Bethel",
-   "role": "Ausbildung Zur Pflegefachkraft (m/w/d) Id 33773",
-   "location": "Berlin"
-  },
-  "351cefb1ea17f37d3807927c93a040f4": {
-   "id": "351cefb1ea17f37d3807927c93a040f4",
-   "company": "Kirchliche Hochschule Bethel",
-   "role": "Ausbildung Pflegefachkraft (m/w/d) Id 36529",
-   "location": "Berlin"
-  },
-  "24eb6bb690e98627033f33558e6e7318": {
-   "id": "24eb6bb690e98627033f33558e6e7318",
-   "company": "KNDS FWH Castings GmbH",
-   "role": "*2027* Ausbildung Zum Gießereimechaniker Schwerpunkt Handformen (m/w/d)",
-   "location": "Unknown"
   },
   "0296b91151525c765bc09fffab287e67": {
    "id": "0296b91151525c765bc09fffab287e67",
@@ -2618,6 +2618,48 @@
    "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
    "location": "Frankfurt Am Main"
   },
+  "e9982f7eea09990120c0fbfc393821bd": {
+   "id": "e9982f7eea09990120c0fbfc393821bd",
+   "company": "Korber AG",
+   "role": "Servicetechniker (m/w/d) Maschinenbau",
+   "location": "Munich"
+  },
+  "955d8c6eb12bc56d2e43d7d518050ed1": {
+   "id": "955d8c6eb12bc56d2e43d7d518050ed1",
+   "company": "Korber AG",
+   "role": "Service Engineer (m/f/d)",
+   "location": "Munich"
+  },
+  "36c46f86cdf0d7d7224db90f0e5c9658": {
+   "id": "36c46f86cdf0d7d7224db90f0e5c9658",
+   "company": "Korber AG",
+   "role": "Servicetechniker - Elektrotechnik (m/w/d) - Internationaler Einsatz - Vollzeit",
+   "location": "Schloß Holte"
+  },
+  "d18f7bd4ca6ff97a0c4b6bc12dd59d9f": {
+   "id": "d18f7bd4ca6ff97a0c4b6bc12dd59d9f",
+   "company": "Korber AG",
+   "role": "Vision Expert Field Service (m/w/d)",
+   "location": "Munich"
+  },
+  "8bead43b0884082c9bf93f611d12e45f": {
+   "id": "8bead43b0884082c9bf93f611d12e45f",
+   "company": "Frenzelit GmbH",
+   "role": "Servicetechniker International - Schwerpunkt Europa (m/w/d)",
+   "location": "Himmelkron"
+  },
+  "bcaa0ec6ca651402cb1593d177616fbc": {
+   "id": "bcaa0ec6ca651402cb1593d177616fbc",
+   "company": "Frenzelit GmbH",
+   "role": "Servicetechniker Norddeutschland Mit Kundenakquise (m/w/d)",
+   "location": "Norddeutschland"
+  },
+  "aefda1624c526e5ff35664145fdf8f50": {
+   "id": "aefda1624c526e5ff35664145fdf8f50",
+   "company": "Vestas",
+   "role": "Service Technician (m/f/d) For Wind Turbines - Ramsdorf",
+   "location": "Ramsdorf"
+  },
   "9bcdec5bb38bd4a29bdb4b7e66b41683": {
    "id": "9bcdec5bb38bd4a29bdb4b7e66b41683",
    "company": "KNDS Group",
@@ -2665,6 +2707,12 @@
    "company": "tti-careers.eu",
    "role": "Mitarbeiter Logistik Und Reparatur",
    "location": "Stuttgart"
+  },
+  "a7f1416be9e7d34ef6c0fc25145e1b1f": {
+   "id": "a7f1416be9e7d34ef6c0fc25145e1b1f",
+   "company": "Viega Holding GmbH & Co. KG",
+   "role": "Industriemechaniker Betriebstechnik (all Genders) (17659)",
+   "location": "Germany"
   },
   "f64d6b77a98c0fc34fa5fef79de1356f": {
    "id": "f64d6b77a98c0fc34fa5fef79de1356f",
@@ -2803,6 +2851,12 @@
    "company": "Carrier Corporation",
    "role": "Servicetechniker (m/w/d) Im Außendienst",
    "location": "Morfelden"
+  },
+  "07868e30adef2ff2321efadbc8d1b60e": {
+   "id": "07868e30adef2ff2321efadbc8d1b60e",
+   "company": "Freudenberg Home and Cleaning Solutions",
+   "role": "Service Technican (f/m/d)",
+   "location": "Eurasburg"
   },
   "bc488ebe08bfbd2a4844ef0d3543d455": {
    "id": "bc488ebe08bfbd2a4844ef0d3543d455",
@@ -3044,59 +3098,137 @@
    "role": "Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Aufzüge",
    "location": "Munich"
   },
-  "0bba72ecc9f8005dfe489c7633c2456f": {
-   "id": "0bba72ecc9f8005dfe489c7633c2456f",
-   "company": "Kraftverkehr Nagel SE & Co. KG",
-   "role": "Mechaniker / Anlagenbediener (m/w/d)",
-   "location": "Emleben"
+  "38a239a6bfcf719cf14e9e46dc6897a7": {
+   "id": "38a239a6bfcf719cf14e9e46dc6897a7",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit",
+   "location": "Berlin"
   },
-  "37496df5aace702a62d4391d23bacdb5": {
-   "id": "37496df5aace702a62d4391d23bacdb5",
-   "company": "Yara International ASA",
-   "role": "Elektroniker Für Betriebstechnik/elektriker/mechatroniker/anlagentechniker (m/w/d)",
-   "location": "Poppendorf"
+  "68d611648e621cae464257a0a0fab001": {
+   "id": "68d611648e621cae464257a0a0fab001",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Garten / Hartware (gn) Vollzeit Oder Teilzeit",
+   "location": "Berlin"
   },
-  "b3cef3c0e134b2d5a04d41dd8ada1df8": {
-   "id": "b3cef3c0e134b2d5a04d41dd8ada1df8",
-   "company": "Carrier Transicold",
-   "role": "Servicetechniker (m/w/d) Für Transportkälteanlagen",
-   "location": "Wildau"
+  "45c707916a74c6d6ad5810e64648b97f": {
+   "id": "45c707916a74c6d6ad5810e64648b97f",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Eisenwaren / Werkzeuge (gn)",
+   "location": "Cologne"
   },
-  "ea37df64177ba59283c7a24679d58029": {
-   "id": "ea37df64177ba59283c7a24679d58029",
-   "company": "KION GROUP AG",
-   "role": "Mechatronikerin/ Mechanikerin Als Service-technikerin (m/w/d) Im Gebiet Wilhelmshaven",
-   "location": "Bremen"
+  "cb11c01c37c8d8a085c43330a5caa51b": {
+   "id": "cb11c01c37c8d8a085c43330a5caa51b",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Elektro (gn)",
+   "location": "Wuppertal"
   },
-  "07d1b82a8fa46f12be8f025daa8cd09e": {
-   "id": "07d1b82a8fa46f12be8f025daa8cd09e",
-   "company": "GEA",
-   "role": "Service Techniker - Elektrik (m/w/d) Einsatzgebiet Süddeutschland",
-   "location": "South Germany"
+  "84d50db0ef23954e96230ea0e5bcb6f3": {
+   "id": "84d50db0ef23954e96230ea0e5bcb6f3",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Zoo / Aquaristik (gn) Vollzeit Oder Teilzeit",
+   "location": "Hamburg"
   },
-  "81f6c9c979c0e161b6d5bb1de972437d": {
-   "id": "81f6c9c979c0e161b6d5bb1de972437d",
-   "company": "Suewag Energie AG",
-   "role": "Servicemonteur Strom & Gas (m/w/d)",
-   "location": "Frankfurt Am Main"
+  "22142acfefd5f520ce15e007a5a47327": {
+   "id": "22142acfefd5f520ce15e007a5a47327",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Baustoffe (gn)",
+   "location": "Nuremberg"
   },
-  "e5efa00ed111e44d0fa7676630b4a869": {
-   "id": "e5efa00ed111e44d0fa7676630b4a869",
-   "company": "KAESER KOMPRESSOREN",
-   "role": "Servicemonteur Drucklufttechnik Großraum Freiburg Im Breisgau / Lörrach (m/w/d)",
-   "location": "Freiburg Im Breisgau"
+  "fab7ecb2840de8f4a5f2d827c6acbed6": {
+   "id": "fab7ecb2840de8f4a5f2d827c6acbed6",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Baufertigteile (gn)",
+   "location": "Stuttgart"
   },
-  "bb81962f7da8f820b3de2f44b3b6bcda": {
-   "id": "bb81962f7da8f820b3de2f44b3b6bcda",
-   "company": "E.ON Gas Mobil GmbH",
-   "role": "Servicemonteur Cng Anlagen (w/m/d) Region Südwest",
-   "location": "Hessen +1"
+  "346a5c430883fec80ae1b22868b78c83": {
+   "id": "346a5c430883fec80ae1b22868b78c83",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Garten Technik Und Hartware (gn)",
+   "location": "Stuttgart"
   },
-  "74e4b39e7a1e6b87ab75895ea26dbe4a": {
-   "id": "74e4b39e7a1e6b87ab75895ea26dbe4a",
-   "company": "Johnson Controls International PLC",
-   "role": "Servicetechniker (m/w/d) Feuerschutz",
-   "location": "Leinfelden"
+  "30a20b5628d543a9f61b33edeedcd042": {
+   "id": "30a20b5628d543a9f61b33edeedcd042",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Alle Warenbereiche (gn)",
+   "location": "Berlin"
+  },
+  "4a91329ccb530ca71d77b7a9c08ebadd": {
+   "id": "4a91329ccb530ca71d77b7a9c08ebadd",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn) Vollzeit Oder Teilzeit",
+   "location": "Berlin"
+  },
+  "026011518a4fdfa37813324754d9e74d": {
+   "id": "026011518a4fdfa37813324754d9e74d",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Holz / Holzzuschnitt (gn)",
+   "location": "Dusseldorf"
+  },
+  "58b953eb7c12b9aff2f007b106429442": {
+   "id": "58b953eb7c12b9aff2f007b106429442",
+   "company": "aldi-sued",
+   "role": "Studentenjob Verkauf (m/w/d)",
+   "location": "Cologne"
+  },
+  "e895f0313ebe3ee1ee674b9e63c002d2": {
+   "id": "e895f0313ebe3ee1ee674b9e63c002d2",
+   "company": "Aldi Süd",
+   "role": "Studentenjob Verkauf (m/w/d)",
+   "location": "Cologne"
+  },
+  "4568f5dea4f96c316cec95d3d94a945f": {
+   "id": "4568f5dea4f96c316cec95d3d94a945f",
+   "company": "ALDI SE & Co. KG",
+   "role": "Studentenjob Verkauf (m/w/d)",
+   "location": "Cologne"
+  },
+  "903d51401a585e938d4a25e9a6764ede": {
+   "id": "903d51401a585e938d4a25e9a6764ede",
+   "company": "aldi-sued",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
+  },
+  "d7d728fcafba4f613919ddda0d446755": {
+   "id": "d7d728fcafba4f613919ddda0d446755",
+   "company": "ALDI SE & Co. KG Bous",
+   "role": "Studentenjob Verkauf (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "c2e744a6650a53ff501a82a3423477e5": {
+   "id": "c2e744a6650a53ff501a82a3423477e5",
+   "company": "ALDI SE & Co. KG Bous",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "6837ee7cb0204af37999172bbf483ee0": {
+   "id": "6837ee7cb0204af37999172bbf483ee0",
+   "company": "Aldi Süd",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
+  },
+  "73fedea2aac5b90af661f6f78a72243f": {
+   "id": "73fedea2aac5b90af661f6f78a72243f",
+   "company": "ALDI SE & Co. KG",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
+  },
+  "1a9c963f4748d89121dfe48c5ef1ae09": {
+   "id": "1a9c963f4748d89121dfe48c5ef1ae09",
+   "company": "createyourowncareer",
+   "role": "Data Center Associate (m/f/x)",
+   "location": "MöRfelden"
+  },
+  "b80d7f4abfbd7d462e5c5c791b5cae00": {
+   "id": "b80d7f4abfbd7d462e5c5c791b5cae00",
+   "company": "Sephora USA Inc",
+   "role": "Beauty Advisor (m/f/x) München Store In Part Time",
+   "location": "Munich"
+  },
+  "1da99d2a1393a1382773b1d049797ff2": {
+   "id": "1da99d2a1393a1382773b1d049797ff2",
+   "company": "Kaufland Stiftung & Co. KG",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Saarbruecken"
   },
   "13cb11e7bec30fc64e269ba6d2338b70": {
    "id": "13cb11e7bec30fc64e269ba6d2338b70",
@@ -3386,30 +3518,6 @@
    "role": "Mitarbeiter Im Verkauf ( M/w/d )",
    "location": "Hamburg"
   },
-  "a853bfde9aa92111bd72024c2f510260": {
-   "id": "a853bfde9aa92111bd72024c2f510260",
-   "company": "Aldi Süd",
-   "role": "Studentenjob Verkauf (m/w/d)",
-   "location": "Saarbruecken"
-  },
-  "3e17cc7761dbb0adf9b8625df257b796": {
-   "id": "3e17cc7761dbb0adf9b8625df257b796",
-   "company": "Aldi Süd",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "39e6ebb0afe48d80b7fed6de1e44bbf5": {
-   "id": "39e6ebb0afe48d80b7fed6de1e44bbf5",
-   "company": "ALDI SE & Co. KG",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "805f765dfe2dd7f48d98feb7628fffb8": {
-   "id": "805f765dfe2dd7f48d98feb7628fffb8",
-   "company": "ALDI SE & Co. KG",
-   "role": "Studentenjob Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
   "9e6dd4bb727e7fefccbb69be3700d9d3": {
    "id": "9e6dd4bb727e7fefccbb69be3700d9d3",
    "company": "vorwerkgroup",
@@ -3469,114 +3577,6 @@
    "company": "REWE Antonella Como oHG",
    "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
-  },
-  "8ea86ab83cf084d5b0a65093eebf738a": {
-   "id": "8ea86ab83cf084d5b0a65093eebf738a",
-   "company": "DACHSER SE",
-   "role": "Werkstudent (m/w/d) Kommissionierung",
-   "location": "Dortmund"
-  },
-  "7eb019ed1be192e94c6080ef9e13fd88": {
-   "id": "7eb019ed1be192e94c6080ef9e13fd88",
-   "company": "Levis Media",
-   "role": "Verkäufer / Sales Stylist (m/w/d) In Vollzeit",
-   "location": "Ingolstadt"
-  },
-  "7f5b5e76c0612705fbe9fc71f22f7803": {
-   "id": "7f5b5e76c0612705fbe9fc71f22f7803",
-   "company": "ZG Raiffeisen eG",
-   "role": "Fachverkäufer (m/w/d) Garten- Und Landschaftsbau",
-   "location": "Constance"
-  },
-  "8946067f022c16331cb7ab9db71b3a11": {
-   "id": "8946067f022c16331cb7ab9db71b3a11",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)",
-   "location": "Hamburg"
-  },
-  "3a0cd0f5b9c70d88f73fa92bd6788ead": {
-   "id": "3a0cd0f5b9c70d88f73fa92bd6788ead",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Essen Borbeck-mitte (28 Std)",
-   "location": "Wuppertal"
-  },
-  "cbb9563872f00c5eb7a9ea7295b7eadc": {
-   "id": "cbb9563872f00c5eb7a9ea7295b7eadc",
-   "company": "Humbaurkoegel",
-   "role": "Aushilfe Im Wareneingang Auf Geringfügiger Basis (m/w/d)",
-   "location": "Germany"
-  },
-  "a772a721a652f6b6c739aaa0630fb410": {
-   "id": "a772a721a652f6b6c739aaa0630fb410",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Baustoffe (gn)",
-   "location": "Berlin"
-  },
-  "a5e6d43f9589549d39a259395904a3fe": {
-   "id": "a5e6d43f9589549d39a259395904a3fe",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Baufertigteile (gn)",
-   "location": "Berlin"
-  },
-  "4fd5651d6b8e615be176c4b5a32d2cab": {
-   "id": "4fd5651d6b8e615be176c4b5a32d2cab",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Holz / Baustoffe / Baufertigteile (gn)",
-   "location": "Mannheim"
-  },
-  "a16a1b64c7673f6fe0b94dd26d74efbf": {
-   "id": "a16a1b64c7673f6fe0b94dd26d74efbf",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Fliesen / Bodenbeläge (gn) Vollzeit Oder Teilzeit",
-   "location": "Berlin"
-  },
-  "7964a41231e6b2801e664b839fb3127d": {
-   "id": "7964a41231e6b2801e664b839fb3127d",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Holz / Holzzuschnitt (gn)",
-   "location": "Berlin"
-  },
-  "7ee34d4c675c6d0e25b3892f9560e608": {
-   "id": "7ee34d4c675c6d0e25b3892f9560e608",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Elektro (gn)",
-   "location": "Dortmund"
-  },
-  "85a137134b770efc6c22c943130e069c": {
-   "id": "85a137134b770efc6c22c943130e069c",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Eisenwaren / Werkzeuge (gn)",
-   "location": "Dortmund"
-  },
-  "6a45ecc1d4b51cfd753ae01459c8f478": {
-   "id": "6a45ecc1d4b51cfd753ae01459c8f478",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Holz / Baufertigteile (gn)",
-   "location": "Cologne"
-  },
-  "a84807a5a97cb61da207bafb2752e546": {
-   "id": "a84807a5a97cb61da207bafb2752e546",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Fliesen / Bodenbeläge / Laminat (gn)",
-   "location": "Berlin"
-  },
-  "c2be977c88c4a35fadb007e65b0143a6": {
-   "id": "c2be977c88c4a35fadb007e65b0143a6",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Farben / Tapeten / Bodenbeläge (gn) Vollzeit Oder Teilzeit",
-   "location": "Mannheim"
-  },
-  "75726f3072bbe8e24a794f13fb1dfc9d": {
-   "id": "75726f3072bbe8e24a794f13fb1dfc9d",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Farben / Bilderrahmen / Deko (gn)",
-   "location": "Mannheim"
-  },
-  "9d650b306bb5cca46d8d83c351e27324": {
-   "id": "9d650b306bb5cca46d8d83c351e27324",
-   "company": "Kraftverkehr Nagel SE & Co. KG",
-   "role": "Lagermitarbeiter (m/w/d) Kommissionierung - Minijob",
-   "location": "Sch Nberg"
   },
   "35eea0115c78996a202b0f3323a888f8": {
    "id": "35eea0115c78996a202b0f3323a888f8",
