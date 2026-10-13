@@ -9402,4 +9402,25 @@
 <tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge (gn) Vollzeit Oder Teilzeit</td><td>Mannheim</td><td>2026-10-12</td></tr>
 <tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Bilderrahmen / Deko (gn)</td><td>Mannheim</td><td>2026-10-12</td></tr>
 <tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>Lagermitarbeiter (m/w/d) Kommissionierung - Minijob</td><td>Sch Nberg</td><td>2026-10-12</td></tr>
+<tr><td>createyourowncareer</td><td>Initiativbewerbung Praktikum Bfs</td><td>Dortmund</td><td>2026-10-13</td></tr>
+<tr><td>Roedl Equity Partner Beteiligung GmbH & Co. KG</td><td>Praktikum Organisationsberatung (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>Electronic Arts</td><td>Live Support Football Production - Opportunity For Students</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>Hannover Rueck SE</td><td>Procurement & Facility Management Intern</td><td>Germany</td><td>2026-10-13</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Musik Center (m/w/d)</td><td>Munich</td><td>2026-10-13</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Projektmanagement Marketing & Creation (m/w/d)</td><td>Munich</td><td>2026-10-13</td></tr>
+<tr><td>Piller Blowers & Compressors GmbH</td><td>Praktikum</td><td>Augsburg</td><td>2026-10-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold</td><td>Bielefeld</td><td>2026-10-13</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-13</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Ferienarbeit Gelsenkirchen</td><td>Dortmund</td><td>2026-10-13</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/-in (m/w/d) Am Standort Ahorn 2027</td><td>Ahorn</td><td>2026-10-13</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027</td><td>Stuttgart</td><td>2026-10-13</td></tr>
+<tr><td>ORAFOL Europe GmbH</td><td>Maschinen- Und Anlagenführer (m/w/d)_ausbildung</td><td>Berlin</td><td>2026-10-13</td></tr>
+<tr><td>KONE Bahrain</td><td>Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Aufzüge</td><td>Munich</td><td>2026-10-13</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer Bedientheke In Teilzeit / Vollzeit (m/w/d)</td><td>Saarbruecken</td><td>2026-10-13</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Blumen, Obst Und Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>Rewe Group</td><td>Marktmitarbeiter (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>REWE Antonella Como oHG</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
+<tr><td>thomas-group</td><td>Assistenz Der Geschäftsführung (m/w)</td><td>Unknown</td><td>2026-10-13</td></tr>
 </table>

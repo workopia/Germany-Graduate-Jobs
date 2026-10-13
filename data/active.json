@@ -1,12 +1,72 @@
 {
- "asOf": "2026-10-12",
- "count": 676,
+ "asOf": "2026-10-13",
+ "count": 675,
  "jobs": {
   "2418284": {
    "id": "2418284",
    "company": "FunZone.de",
    "role": "Lohn- Und Finanzbuchhalter In Großwallstadt (m/w/d)",
    "location": "GroßWallstadt"
+  },
+  "a7e70dc1ee26b2dd5d278bea79f3e2bc": {
+   "id": "a7e70dc1ee26b2dd5d278bea79f3e2bc",
+   "company": "zdf",
+   "role": "Praktikum Team Pur+ (04/2027 - 05/2027)",
+   "location": "Darmstadt"
+  },
+  "0b80212630842e7a57241356a56aecd3": {
+   "id": "0b80212630842e7a57241356a56aecd3",
+   "company": "Bosch Rexroth",
+   "role": "Pflichtpraktikum Im Bereich Human Resources",
+   "location": "Stuttgart"
+  },
+  "64866e38b40a425682acd32c8253c05b": {
+   "id": "64866e38b40a425682acd32c8253c05b",
+   "company": "Infineon",
+   "role": "Internship - Agentic Framework For Automotive Mcu Code Porting (f/m/div)",
+   "location": "Munich"
+  },
+  "210a5582f1bd1e26aed50c39abf6d7ce": {
+   "id": "210a5582f1bd1e26aed50c39abf6d7ce",
+   "company": "HELM AG",
+   "role": "Duales Studium International Management (hsba) (m/w/d)",
+   "location": "Hamburg"
+  },
+  "1238e4d3a29378e91cb831401e180347": {
+   "id": "1238e4d3a29378e91cb831401e180347",
+   "company": "eiffage-infra.de",
+   "role": "Vocatium Münster",
+   "location": "Dortmund"
+  },
+  "63b03ecb161b8601c9d2a8198037317c": {
+   "id": "63b03ecb161b8601c9d2a8198037317c",
+   "company": "Umicore",
+   "role": "Fos-jahrespraktikum Wirtschaft & Verwaltung 2027",
+   "location": "Hanau-Wolfgang"
+  },
+  "2407f987b67f70b97ce64f415e935f0e": {
+   "id": "2407f987b67f70b97ce64f415e935f0e",
+   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
+   "role": "Praktikum Im Bereich Versuch Tiefziehverpackungsmaschinen",
+   "location": "Wolfertschwenden"
+  },
+  "ca71d04e0ab4db5afb7c4291b50e9725": {
+   "id": "ca71d04e0ab4db5afb7c4291b50e9725",
+   "company": "Carrier",
+   "role": "Schülerpraktikum It (m/w/d)",
+   "location": "Germany"
+  },
+  "60e07109aa85a23cde16c22bbb200289": {
+   "id": "60e07109aa85a23cde16c22bbb200289",
+   "company": "Airbus SE",
+   "role": "Praktikant Talent Acquisition (d/m/w)",
+   "location": "Munich"
+  },
+  "7eda589b2dba40eb5e47ad4ba42b9f89": {
+   "id": "7eda589b2dba40eb5e47ad4ba42b9f89",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Praktikum / Internship Productmanagement Home And Garden Outdoor",
+   "location": "Stuttgart"
   },
   "aa3869a6df3d54282448be93d72ebcd0": {
    "id": "aa3869a6df3d54282448be93d72ebcd0",
@@ -246,13 +306,13 @@
    "id": "464fcd6844d18392333e3d2f6defa51e",
    "company": "Festo",
    "role": "Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder",
-   "location": "Stuttgart"
+   "location": "Nach Postleitzahl Suchen"
   },
   "eefe5e32887bef57b1d8ccdbbe1fb98d": {
    "id": "eefe5e32887bef57b1d8ccdbbe1fb98d",
    "company": "Festo",
    "role": "Praktikum Duales Studium - Bogy & Studienorientierung",
-   "location": "Stuttgart"
+   "location": "Nach Postleitzahl Suchen"
   },
   "754d70a4b37c97ef495d1fb04d382798": {
    "id": "754d70a4b37c97ef495d1fb04d382798",
@@ -428,64 +488,10 @@
    "role": "Praktikant*in (m/w/d) Im Bereich Marketing (campaign Management Belletristik)",
    "location": "Munich"
   },
-  "ef0e8713c3b7569144b1431a74e4735e": {
-   "id": "ef0e8713c3b7569144b1431a74e4735e",
-   "company": "createyourowncareer",
-   "role": "Initiativbewerbung Praktikum Bfs",
-   "location": "Dortmund"
-  },
-  "0a64257b46a161fd59059089de59a373": {
-   "id": "0a64257b46a161fd59059089de59a373",
-   "company": "Roedl Equity Partner Beteiligung GmbH & Co. KG",
-   "role": "Praktikum Organisationsberatung (m/w/d)",
-   "location": "Cologne"
-  },
-  "03957cfbbf3cde49c105b1cabfcbce01": {
-   "id": "03957cfbbf3cde49c105b1cabfcbce01",
-   "company": "Electronic Arts",
-   "role": "Live Support Football Production - Opportunity For Students",
-   "location": "Cologne"
-  },
-  "5ae095ec6e8e423920dff9998df2aeff": {
-   "id": "5ae095ec6e8e423920dff9998df2aeff",
-   "company": "Hannover Rueck SE",
-   "role": "Procurement & Facility Management Intern",
-   "location": "Germany"
-  },
-  "db954bd39648282c2e8dc11a0f4f7690": {
-   "id": "db954bd39648282c2e8dc11a0f4f7690",
-   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
-   "role": "Praktikum Musik Center (m/w/d)",
-   "location": "Munich"
-  },
-  "c7a6297de5e3afce9778e491f352b697": {
-   "id": "c7a6297de5e3afce9778e491f352b697",
-   "company": "ProSiebenSat.1 Digital & Adjacent GmbH",
-   "role": "Praktikum Projektmanagement Marketing & Creation (m/w/d)",
-   "location": "Munich"
-  },
-  "80da8a1696245321000470a8cb64d8ad": {
-   "id": "80da8a1696245321000470a8cb64d8ad",
-   "company": "Piller Blowers & Compressors GmbH",
-   "role": "Praktikum",
-   "location": "Augsburg"
-  },
-  "b5b4f852e85b5e1c8907cc161ab3a91b": {
-   "id": "b5b4f852e85b5e1c8907cc161ab3a91b",
-   "company": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
-   "role": "Initiativbewerbung Werkstudent/praktikum (all Genders) - Detmold",
-   "location": "Bielefeld"
-  },
-  "b83bf479b4e90d1c55e2f9b33e778db8": {
-   "id": "b83bf479b4e90d1c55e2f9b33e778db8",
-   "company": "Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen",
-   "role": "Schnupperpraktikum Versicherungen 2027 Am Standort Detmold",
-   "location": "Bielefeld"
-  },
-  "4157a56f768fdd5d6570db3e5a304f3b": {
-   "id": "4157a56f768fdd5d6570db3e5a304f3b",
-   "company": "prinzhorn-holding",
-   "role": "Praktikum / Ferienarbeit Gelsenkirchen",
+  "a5605b0f1084baf9b187e6f80e245425": {
+   "id": "a5605b0f1084baf9b187e6f80e245425",
+   "company": "Vonovia SE",
+   "role": "Ausbildung Fliesen-, Platten- Und Mosaikleger Gelsenkirchen 2027 (m/w/d)",
    "location": "Dortmund"
   },
   "fddef48759a27bb83de655d5cf251858": {
@@ -618,7 +624,7 @@
    "id": "4769b44a98833758b4c2eea41e633698",
    "company": "Festo",
    "role": "Ausbildung Industriekaufleute (m/w/d) 2027",
-   "location": "Stuttgart"
+   "location": "Nach Postleitzahl Suchen"
   },
   "6a0be05cf96299d95b28afd0372a34de": {
    "id": "6a0be05cf96299d95b28afd0372a34de",
@@ -763,6 +769,12 @@
    "company": "Holcim (Süddeutschland) GmbH",
    "role": "Ausbildung Zur Industriekauffrau (m/w/d)",
    "location": "Dotternhausen"
+  },
+  "06ea10483e39c487f0dc183816588afb": {
+   "id": "06ea10483e39c487f0dc183816588afb",
+   "company": "InterContinental Hotels Group (IHG)",
+   "role": "Ausbildung Zur Hotelfachfrau / Zum Hotelfachmann (m/w/d)",
+   "location": "Frankfurt Am Main"
   },
   "2318ce40596b39ec3969f379b062b87d": {
    "id": "2318ce40596b39ec3969f379b062b87d",
@@ -956,18 +968,6 @@
    "role": "Ausbildung Industriekaufmann/-frau Mit Zusatzqualifikation (m/w/d) Am Standort Obersontheim 2027",
    "location": "Obersontheim"
   },
-  "726c8a891912264322f9a3ade72d4145": {
-   "id": "726c8a891912264322f9a3ade72d4145",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Ausbildung Mechatroniker/-in (m/w/d) Am Standort Ahorn 2027",
-   "location": "Ahorn"
-  },
-  "cca028c59e6adadc81856edac96f659b": {
-   "id": "cca028c59e6adadc81856edac96f659b",
-   "company": "Alfred Kaercher SE Co KG",
-   "role": "Ausbildung Mechatroniker/in (m/w/d) Am Standort Winnenden 2027",
-   "location": "Stuttgart"
-  },
   "0296b91151525c765bc09fffab287e67": {
    "id": "0296b91151525c765bc09fffab287e67",
    "company": "Festo",
@@ -1064,12 +1064,6 @@
    "role": "Azubi Industriemechanik (m/w/d)",
    "location": "Kiel"
   },
-  "7ee1e181af94c8fa04de89df3279f556": {
-   "id": "7ee1e181af94c8fa04de89df3279f556",
-   "company": "ORAFOL Europe GmbH",
-   "role": "Maschinen- Und Anlagenführer (m/w/d)_ausbildung",
-   "location": "Berlin"
-  },
   "fe834a81b403e09298f5133839168b8f": {
    "id": "fe834a81b403e09298f5133839168b8f",
    "company": "SSI Schaefer",
@@ -1111,6 +1105,12 @@
    "company": "Apple",
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
    "location": "Germany"
+  },
+  "6716f1757be9e534d756830da9dd51b1": {
+   "id": "6716f1757be9e534d756830da9dd51b1",
+   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
+   "role": "Softwareentwickler Automatisierungstechnik (m/w/d)",
+   "location": "Wolfertschwenden"
   },
   "fca16d6452d4cb0ea8a7214d4658d220": {
    "id": "fca16d6452d4cb0ea8a7214d4658d220",
@@ -1393,12 +1393,6 @@
    "company": "Jobgether",
    "role": "Linux Kernel Engineer",
    "location": "Germany"
-  },
-  "6716f1757be9e534d756830da9dd51b1": {
-   "id": "6716f1757be9e534d756830da9dd51b1",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Softwareentwickler Automatisierungstechnik (m/w/d)",
-   "location": "Wolfertschwenden"
   },
   "3a76e2cdc1ef47cb4bc80eac29f5e19b": {
    "id": "3a76e2cdc1ef47cb4bc80eac29f5e19b",
@@ -2618,6 +2612,12 @@
    "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
    "location": "Frankfurt Am Main"
   },
+  "9f5bbacd3825413f5ebf31848abfa1df": {
+   "id": "9f5bbacd3825413f5ebf31848abfa1df",
+   "company": "Konecranes",
+   "role": "Elektriker *in / Mechatroniker *in Als Servicetechniker *in Für Krananlagen",
+   "location": "Freiburg Im Breisgau"
+  },
   "e9982f7eea09990120c0fbfc393821bd": {
    "id": "e9982f7eea09990120c0fbfc393821bd",
    "company": "Korber AG",
@@ -3092,11 +3092,41 @@
    "role": "Mechatroniker (gn) Instandhaltung",
    "location": "Barchfeld"
   },
-  "03a59681538631bf6a2aea5baacfa4f3": {
-   "id": "03a59681538631bf6a2aea5baacfa4f3",
-   "company": "KONE Bahrain",
-   "role": "Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Aufzüge",
-   "location": "Munich"
+  "0aa67fd89343d25d193e2b31a2375c62": {
+   "id": "0aa67fd89343d25d193e2b31a2375c62",
+   "company": "S.Oliver Bernd Freier GmbH",
+   "role": "Verkaufsberater (m/w/d) In Teilzeit Mall Of Berlin",
+   "location": "Berlin"
+  },
+  "56f404a54338c799d56180ab1f6415d4": {
+   "id": "56f404a54338c799d56180ab1f6415d4",
+   "company": "S. Oliver Bernd Freier GmbH",
+   "role": "Outfitberater (m/w/d) In Teilzeit Im Main Taunus Zentrum",
+   "location": "Nuremberg"
+  },
+  "8b03a077feb3001a638ecd1d425f0744": {
+   "id": "8b03a077feb3001a638ecd1d425f0744",
+   "company": "S.Oliver Bernd Freier GmbH & Co. KG",
+   "role": "Aushilfe Im Verkauf (m/w/d) Mall Of Berlin",
+   "location": "Berlin"
+  },
+  "a4859a3751792d6893b18edafff67ea0": {
+   "id": "a4859a3751792d6893b18edafff67ea0",
+   "company": "S.Oliver Bernd Freier GmbH & Co. KG",
+   "role": "Aushilfe Im Verkauf (m/w/d) Hamburg Aez",
+   "location": "Hamburg"
+  },
+  "7e292720cf4275f54d904dab8a4b01ac": {
+   "id": "7e292720cf4275f54d904dab8a4b01ac",
+   "company": "S.Oliver Bernd Freier GmbH & Co. KG",
+   "role": "Aushilfe Im Verkauf (m/w/d) Hamburg Überseequartier",
+   "location": "Hamburg"
+  },
+  "54288ad600223c38fd44e62ebd1b548f": {
+   "id": "54288ad600223c38fd44e62ebd1b548f",
+   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
+   "role": "Mitarbeiter Wareneingang (m/w/d)",
+   "location": "Wolfertschwenden"
   },
   "38a239a6bfcf719cf14e9e46dc6897a7": {
    "id": "38a239a6bfcf719cf14e9e46dc6897a7",
@@ -3542,41 +3572,11 @@
    "role": "Verkäufer Bedientheke In Teilzeit (m/w/d)",
    "location": "Cologne"
   },
-  "390051616964235d14bce23d0f31be63": {
-   "id": "390051616964235d14bce23d0f31be63",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Verkäufer In Teilzeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "0764eea1e3d62a2d47f7e8c120d1975c": {
-   "id": "0764eea1e3d62a2d47f7e8c120d1975c",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "c7e58acabe5030cd9845cceb1f29c237": {
-   "id": "c7e58acabe5030cd9845cceb1f29c237",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Verkäufer Bedientheke In Teilzeit / Vollzeit (m/w/d)",
-   "location": "Saarbruecken"
-  },
-  "364594287e64798af56dedfaa3d5099d": {
-   "id": "364594287e64798af56dedfaa3d5099d",
-   "company": "Rewe Group",
-   "role": "Verkäufer Blumen, Obst Und Gemüse (m/w/d)",
-   "location": "Cologne"
-  },
-  "5ae5f80a92bd649706c58946ba505173": {
-   "id": "5ae5f80a92bd649706c58946ba505173",
-   "company": "Rewe Group",
-   "role": "Marktmitarbeiter (m/w/d)",
-   "location": "Cologne"
-  },
-  "59506d0b64968307315a891469eff9cb": {
-   "id": "59506d0b64968307315a891469eff9cb",
-   "company": "REWE Antonella Como oHG",
-   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
+  "93f56c2654855049ea19916e67e13a33": {
+   "id": "93f56c2654855049ea19916e67e13a33",
+   "company": "ResMed Inc",
+   "role": "Customer Service Specialist (m/w/d)",
+   "location": "Bundesweit"
   },
   "35eea0115c78996a202b0f3323a888f8": {
    "id": "35eea0115c78996a202b0f3323a888f8",
@@ -4051,12 +4051,6 @@
    "company": "SOTI",
    "role": "Executive Assstant To Vp",
    "location": "Germany"
-  },
-  "6ab4827d58a5bfec6a5a72d2e9daef0c": {
-   "id": "6ab4827d58a5bfec6a5a72d2e9daef0c",
-   "company": "thomas-group",
-   "role": "Assistenz Der Geschäftsführung (m/w)",
-   "location": "Unknown"
   }
  }
 }
