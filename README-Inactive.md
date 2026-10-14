@@ -9423,4 +9423,87 @@
 <tr><td>Rewe Group</td><td>Marktmitarbeiter (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
 <tr><td>REWE Antonella Como oHG</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-13</td></tr>
 <tr><td>thomas-group</td><td>Assistenz Der Geschäftsführung (m/w)</td><td>Unknown</td><td>2026-10-13</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internship In Occupational Health, Environmental Protection And Sustainability, Europe (m/f/d)</td><td>Stuttgart</td><td>2026-10-14</td></tr>
+<tr><td>Festo</td><td>Praktikum Infotronik - Ein Praktikum, Zwei Berufsfelder</td><td>Nach Postleitzahl Suchen</td><td>2026-10-14</td></tr>
+<tr><td>Festo</td><td>Praktikum Duales Studium - Bogy & Studienorientierung</td><td>Nach Postleitzahl Suchen</td><td>2026-10-14</td></tr>
+<tr><td>Festo</td><td>Praktikum Kaufmännisch</td><td>Stuttgart</td><td>2026-10-14</td></tr>
+<tr><td>Festo</td><td>Praktikum Im Bereich Hr Employee Services Standort Saarland</td><td>St. Ingbert</td><td>2026-10-14</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Energy, Utilities & Low Carbon Solutions</td><td>Paris +1</td><td>2026-10-14</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Schülerpraktikum In Der Qualitätssicherung (labor) Ab Mai 2027</td><td>Bielefeld</td><td>2026-10-14</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Schülerpraktikum In Der Produktion 2027</td><td>Bielefeld</td><td>2026-10-14</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Schülerpraktikum In Der It Ab April 2027</td><td>Bielefeld</td><td>2026-10-14</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>Praktikant (m/w/d) Corporate Communication / Unternehmenskommunikation</td><td>Bielefeld</td><td>2026-10-14</td></tr>
+<tr><td>Raisin</td><td>Intern Digital Marketing (m/f/d)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>AbbVie</td><td>Werkstudent (w/m/d) Im Bereich Corporate Communication</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Schreiner Group GmbH und Co. KG</td><td>Werkstudent (m/w/d) - Strategisches Marketing Und Business Development</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>TE Connectivity</td><td>Strategic Procurement Intern (m/w/d)</td><td>Stuttgart</td><td>2026-10-14</td></tr>
+<tr><td>TE Connectivity</td><td>Co-op/intern</td><td>Waiblingen</td><td>2026-10-14</td></tr>
+<tr><td>Deutz AG</td><td>Praktikant / Umschüler (m/w/d) Gewerblich</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Bitzer SE</td><td>Initiativbewerbung Praktikum / Abschlussarbeit (m/w/d)</td><td>Germany</td><td>2026-10-14</td></tr>
+<tr><td>Bitzer SE</td><td>Praktikum Human Resources (m/w/d)</td><td>Stuttgart</td><td>2026-10-14</td></tr>
+<tr><td>HelloFresh</td><td>Physical Product Planning Intern (all Genders)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>AVIAREPS</td><td>Praktikum Im Bereich Destinationsmarketing & Pr</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>Vossloh AG</td><td>Werkstudent Für Internationale Hr-it- Und Digitalisierungsprojekte (m/w/d)</td><td>Dusseldorf</td><td>2026-10-14</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Internationales Projekt-management Entwicklung Electric Power Steering - Eps</td><td>Goppingen</td><td>2026-10-14</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Wirtschaftsprüfung (w/m/d)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Technology Risk (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant It-beratung/prüfung Schwerpunkt Banken Oder Versicherungen (financial Services) (w/m/d)</td><td>Dusseldorf</td><td>2026-10-14</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Ey-parthenon Praktikant Deal Management & Deal Technology (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Clariant International</td><td>Intern (m/f/d) - Specialisation Sustainability</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Freshfields</td><td>Smart Challenge – Frühjahrspraktikumsprogramm 2027</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>STADA</td><td>Internship For Pharmacist - Analytical Science & Technology (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-10-14</td></tr>
+<tr><td>Surteco SE</td><td>Ferienjob / (schul-)praktikum Standort Dunningen</td><td>Freiburg Im Breisgau</td><td>2026-10-14</td></tr>
+<tr><td>Penguin Random House Verlagsgruppe GmbH</td><td>Praktikant*in (m/w/d) Im Bereich Marketing (campaign Management Belletristik)</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Ausbildung Zum Industriemechaniker (w/m/d) Unterreit 2027</td><td>Unterreit</td><td>2026-10-14</td></tr>
+<tr><td>Festo</td><td>Ausbildung Fachlagerist (m/w/d) 2027</td><td>St. Ingbert</td><td>2026-10-14</td></tr>
+<tr><td>Vonovia SE</td><td>Trainee (m/w/d) Technischer Service - Maintal</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>ZF CV Systems Hannover GmbH</td><td>Ausbildung Elektronik Für Geräte Und Systeme (m/w/d) Ab 01.09.2027 In Hannover</td><td>Hanover</td><td>2026-10-14</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Generalist Coo Asset Management Wertpapiere</td><td>Germany</td><td>2026-10-14</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Ausbildung Industriekaufmann/-frau Mit Zusatzqualifikation (m/w/d) Am Standort Obersontheim 2027</td><td>Obersontheim</td><td>2026-10-14</td></tr>
+<tr><td>STANLEY Access Technologies</td><td>Business Analyst Im Bereich Erp & Eco Systeme (m/w/d)</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>McDermott Will & Schulte</td><td>Legal Solutions Analyst (m/w/d)</td><td>Dusseldorf</td><td>2026-10-14</td></tr>
+<tr><td>Athora</td><td>Fachreferent Aktuariat (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Buchholz In Der Nordheide</td><td>Hamburg</td><td>2026-10-14</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Buxtehude</td><td>Hamburg</td><td>2026-10-14</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Stade</td><td>Hamburg</td><td>2026-10-14</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Servicetechniker (m/w/d) – Sicherheitstechnik - Nähe Reinbek</td><td>Hamburg</td><td>2026-10-14</td></tr>
+<tr><td>Oerlikon</td><td>Mechatroniker (gn) Instandhaltung</td><td>Barchfeld</td><td>2026-10-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Nuremberg</td><td>2026-10-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (alex)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Essen</td><td>Wuppertal</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d) Aushilfe, Essen</td><td>Wuppertal</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen</td><td>Dusseldorf</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (friedrich-breuer-str.)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Leverkusen (opladen)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Homburg</td><td>Saarbruecken</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Potsdam (bahnhofspassage)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, München (riem)</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Warenverräumer (m/w/d), Aushilfe, Hürth</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (steglitz)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (hbf)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (rhein-center)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarbrücken</td><td>Saarbruecken</td><td>2026-10-14</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate Outlet Zweibrücken (m/d/f/v) Teilzeit</td><td>Saarbruecken</td><td>2026-10-14</td></tr>
+<tr><td>Kering</td><td>Bottega Veneta Client Advisor Part Time (m/f/d) Stuttgart</td><td>Stuttgart</td><td>2026-10-14</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-10-14</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Saarbrücken</td><td>Saarbruecken</td><td>2026-10-14</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH</td><td>Aushilfe Im Verkauf (m/w/d) München Oez</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>TE Connectivity</td><td>Mitarbeiter Im Lager/versand (m/w/d) Befristet Für 1 Jahr</td><td>Calw</td><td>2026-10-14</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lagertätigkeit (m/w/d) – Essen Borbeck-mitte (28 Std)</td><td>Wuppertal</td><td>2026-10-14</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Düsseldorf Lierenfeld</td><td>Dusseldorf</td><td>2026-10-14</td></tr>
+<tr><td>POP MART Global</td><td>Sales Associate - Hamburg</td><td>Hamburg</td><td>2026-10-14</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lagertätigkeit (m/w/d) – Rheinbach (32 Std)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Christmas Temp 10h/week Sales Associate (w/m), Berlin - Part Time</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>Capri Holdings Limited</td><td>Sale Associate Part Time 20h</td><td>Wurzburg</td><td>2026-10-14</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Mitarbeiter Im Verkauf ( M/w/d )</td><td>Hamburg</td><td>2026-10-14</td></tr>
+<tr><td>vorwerkgroup</td><td>Verkäufer Im Store München-city (m/w/d) (20 - 37,5 Std./wo.)</td><td>Munich</td><td>2026-10-14</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Sales Associate (m/w/d)</td><td>Berlin</td><td>2026-10-14</td></tr>
+<tr><td>H&M</td><td>Ausbildung Kaufmann Im Einzelhandel – Saarbrücken (m/w/d)</td><td>Saarbruecken</td><td>2026-10-14</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer Bedientheke In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-14</td></tr>
+<tr><td>SOTI</td><td>Executive Assstant To Vp</td><td>Germany</td><td>2026-10-14</td></tr>
 </table>
