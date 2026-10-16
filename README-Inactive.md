@@ -9611,4 +9611,102 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bochum (drehscheibe)</td><td>Dortmund</td><td>2026-10-15</td></tr>
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)</td><td>Cologne</td><td>2026-10-15</td></tr>
 <tr><td>Trane Technologies</td><td>Versanddisponent (m/w/d) Mit Exportkenntnissen</td><td>Jettingen</td><td>2026-10-15</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Customer Journey Management, Markenkommunikation Markt Deutschland (w/m/x)</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>rimac-group</td><td>Bugatti Brand Lifestyle Intern</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Mandatory Intern (f/m/d) Corporate Controlling</td><td>Mannheim</td><td>2026-10-16</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Intern (f/m/d) In The Field Corporate Strategic Planning And Business Development / Mergers & Acquisitions, January 2027 - Duration: 2-3 Months</td><td>Mannheim</td><td>2026-10-16</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Im Bereich Produktion (w/m/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>musashi-group</td><td>Praktikum/praxissemester/abschlussarbeiten</td><td>Germany</td><td>2026-10-16</td></tr>
+<tr><td>musashi-group</td><td>Kaufmännisches Praktikum</td><td>Germany</td><td>2026-10-16</td></tr>
+<tr><td>ABB Ltd</td><td>Msc Or Bsc Thesis / Internship (m/f/d) Industrial Internet Speedtest</td><td>Mannheim</td><td>2026-10-16</td></tr>
+<tr><td>John Deere</td><td>Praktikum Im Bereich Logistik (m/w/d)</td><td>Karlsruhe</td><td>2026-10-16</td></tr>
+<tr><td>Puma</td><td>Internship Product Line Management Core Footwear</td><td>Puma Way Headquarters</td><td>2026-10-16</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Content Show (m/w/d)</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>workwide.es</td><td>Tax & Customs Intern</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>Liga Travel Gmbh</td><td>Liga Travel Gmbh - Pflichtpraktikum</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>Emma – The Sleep Company</td><td>Test Lab Intern</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>Jenoptik AG</td><td>Dein Praktikum Bei Jenoptik</td><td>Jena</td><td>2026-10-16</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Kredit, Schwerpunkt Limit-/kreditbetreuung Frankfurt In 2027</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Werkstudent (m/w/d) In Operations & Services, Eigene Emissionen / Steuern Am Standort München 2026</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Employer Branding/personalmarketing, Schwerpunkt Social Media In Frankfurt 2026</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Working Student (m/f/d) - Strategy & Alliances</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Schüler:innenpraktikum</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>NXP USA INC.</td><td>Intern (f/m/d) Ai Automation For Safety Engineering</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Roche</td><td>Praktikum Im Bereich Insights & Analytics (m/w/d)</td><td>Freiburg Im Breisgau</td><td>2026-10-16</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Hallo Digitial (03/2027 - 08/2027)</td><td>Darmstadt</td><td>2026-10-16</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Saarland (03/2027 - 04/2027)</td><td>Saarbruecken</td><td>2026-10-16</td></tr>
+<tr><td>Schaeffler Technologies AG & Co. KG</td><td>Intern-advanced Innovation Portfolio And Strategy (d/f/m) - Focus Market- And Technology Analysis</td><td>Herzogenaurach +1</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Business & Ai Insights (m/w/d)</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Audit (m/w/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a - Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent / Aushilfe Public Funds Assurance (m/w/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Public Sector - Defense (m/w/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Infrastructure & Capital Projects (m/w/d)</td><td>Dusseldorf</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fsi - Managementberatung Regionalbanken (m/w/d)</td><td>Hamburg</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent It-audit - Financial Services (m/w/d)</td><td>Frankfurt (Main) +3</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Value Creation Services (m/w/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Valuation & Modeling (m/w/d)</td><td>Frankfurt (Main) +6</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Risk & Compliance / Internal Audit (m/w/d)</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Sap Consulting (m/w/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Kronospan</td><td>Managementnachwuchs / Trainee /junior Executive (m/w)</td><td>Lampertswalde</td><td>2026-10-16</td></tr>
+<tr><td>Telefonica</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Hürth 2027</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>Telefónica Deutschland</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) O2 Shop Wuppertal 2027</td><td>Wuppertal</td><td>2026-10-16</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Auszubildende Köche (m/f/d) - Berlin Marriott Hotel</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Trainee Zum Bereichsleiter Markt (gn)</td><td>Frankfurt Niedereschbach</td><td>2026-10-16</td></tr>
+<tr><td>ww-ag</td><td>Auszubildender Zum Fachinformatiker (m/w/d) - Alle Fachrichtungen 2027</td><td>Stuttgart</td><td>2026-10-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Industriekaufmann (w/m/d)</td><td>ÜBach</td><td>2026-10-16</td></tr>
+<tr><td>Schönmackers Umweltdienste GmbH</td><td>Ausbildung 2027 - Kaufmann/-frau Für Büromanagement (m/w/d)</td><td>Dusseldorf</td><td>2026-10-16</td></tr>
+<tr><td>Suewag Energie AG</td><td>Ausbildung Fachinformatiker Für Anwendungsentwicklung (m/w/d) In Frankfurt Am Main 2027</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>E.ON SE</td><td>Auszubildende Industriekaufmann/-frau (m/w/d) (2027)</td><td>Wuppertal</td><td>2026-10-16</td></tr>
+<tr><td>Westnetz GmbH</td><td>Auszubildende Fachkraft Für Lagerlogistik (2027)</td><td>Brauweiler</td><td>2026-10-16</td></tr>
+<tr><td>Bayernwerk Netz GmbH</td><td>Ausbildung Mechatroniker (m/w/d) Penzberg - Start 2027</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Hirschvogel Incorporated</td><td>Ausbildung Als Fachinformatiker (m/w/d) Ab 01.09.2027</td><td>Denklingen</td><td>2026-10-16</td></tr>
+<tr><td>Rosler Oberflachentechnik GmbH</td><td>Schülerpraktikum Technische Produktdesigner (m/w/d) 2027</td><td>Untermerzbach</td><td>2026-10-16</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Defensive Aids Simulation Sw Engineer (d/m/f)</td><td>Ingolstadt</td><td>2026-10-16</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Software Engineer - Ai-first (java, Angular)</td><td>Germany</td><td>2026-10-16</td></tr>
+<tr><td>Jobgether</td><td>Php Engineer</td><td>Germany</td><td>2026-10-16</td></tr>
+<tr><td>Jobgether</td><td>Founding Software Engineer - New Product</td><td>Germany</td><td>2026-10-16</td></tr>
+<tr><td>Zalando</td><td>Software Engineer - Logistics Engineering (all Genders)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Wolters Kluwer</td><td>Business Analyst Im Bereich Addison Lohn (m/w/d)</td><td>Stuttgart</td><td>2026-10-16</td></tr>
+<tr><td>Wolters Kluwer</td><td>Business Analyst (m/w/d) Kanzleiorganisation</td><td>Stuttgart</td><td>2026-10-16</td></tr>
+<tr><td>Wolters Kluwer Tax and Accounting</td><td>Business Analyst Im Bereich Addison Lohn (m/w/d)</td><td>Stuttgart</td><td>2026-10-16</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Burgdorf</td><td>Hanover</td><td>2026-10-16</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Hollenstedt</td><td>Hollenstedt</td><td>2026-10-16</td></tr>
+<tr><td>Vestas</td><td>Field Supervisor (m/f/d) For Wind Turbines In Lower Saxony</td><td>Halle (Saale) +1</td><td>2026-10-16</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Dachau</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker / Mechaniker - Bereich Instandhaltung (w/m/d)</td><td>ÜBach</td><td>2026-10-16</td></tr>
+<tr><td>MEG Roßbach GmbH</td><td>Instandhalter / Elektroniker / Mechatroniker / Elektriker (w/m/d)</td><td>RoßBach</td><td>2026-10-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Mechatroniker / Elektroniker Für Betriebstechnik (w/m/d)</td><td>ÜBach</td><td>2026-10-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Mechatroniker / Elektriker / Elektroniker - Bereich Instandhaltung (tagschicht) (w/m/d)</td><td>ÜBach</td><td>2026-10-16</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker Für Betriebstechnik - Instandhaltung (w/m/d)</td><td>ÜBach</td><td>2026-10-16</td></tr>
+<tr><td>COTY Inc</td><td>Technischer Anlagenbetreuer (m/w/d)</td><td>Rothenkirchen</td><td>2026-10-16</td></tr>
+<tr><td>EndressHauser AG</td><td>Servicetechniker (w/m/d) Gasanalysenmesstechnik - Region Mainz</td><td>Frankfurt Am Main</td><td>2026-10-16</td></tr>
+<tr><td>Glanbia PLC</td><td>Maintenance Technician</td><td>Orsingen</td><td>2026-10-16</td></tr>
+<tr><td>Scania CV AB</td><td>Servicetechniker (m/w/d) Für München/oberschleißheim</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Anlagenmechaniker Shk In Der Instandhaltung (m/w/d)</td><td>SchöNwalde</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dusseldorf</td><td>2026-10-16</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dortmund</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Alle Warenbereiche (gn)</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Bodenbeläge / Deko (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-16</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Holzzuschnitt (gn)</td><td>Dusseldorf</td><td>2026-10-16</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>aldi-sued</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>ALDI SE & Co. KG Bous</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-10-16</td></tr>
+<tr><td>ALDI SE & Co. KG Bous</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-10-16</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>createyourowncareer</td><td>Data Center Associate (m/f/x)</td><td>MöRfelden</td><td>2026-10-16</td></tr>
+<tr><td>Sephora USA Inc</td><td>Beauty Advisor (m/f/x) München Store In Part Time</td><td>Munich</td><td>2026-10-16</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Mitarbeiter Wareneingang In Teilzeit - Befristet (m/w/d)</td><td>Umkreissuche Mit Postleitzahl</td><td>2026-10-16</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)</td><td>Dusseldorf</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Werkstudent Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Disposition / Warenbestellung / Logistik - Auch Quereinsteiger (m/w/d)</td><td>Hamburg</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Werkstudent Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
+<tr><td>Trane Technologies</td><td>Versanddisponent (m/w/d)</td><td>Jettingen</td><td>2026-10-16</td></tr>
 </table>
