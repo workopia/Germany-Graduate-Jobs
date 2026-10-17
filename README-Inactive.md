@@ -9709,4 +9709,45 @@
 <tr><td>Rewe Group</td><td>Werkstudent Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
 <tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-16</td></tr>
 <tr><td>Trane Technologies</td><td>Versanddisponent (m/w/d)</td><td>Jettingen</td><td>2026-10-16</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Konzernkommunikation Afrika Und Osteuropa (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant It Governance Und Digitalisierung (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Internationales Qualitätsmanagement (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Internationale Consulting-programme (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Inhouse Logistik Prozessdigitalisierung Und -standardisierung (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Marketing Und Kommunikation Bmw Startup Garage (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Marketing Bmw Motorrad Deutschland (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Internationales Marketing Afrika Und Osteuropa (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Hr-management (w/m/x)</td><td>Berlin</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Fahrabsicherung Und Anlaufanalyse (w/m/x)</td><td>Berlin</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant E-antriebssysteme (w/m/x)</td><td>Parsdorf</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Direkter Einkauf Himmel, Spritzguss Interieur (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Im Bereich Motorrad Baureihe 1-, 2-zylinder / Internationale Kooperation (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Hr Services (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Full-stack Webentwicklung Mit Ki (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Experiential Marketing (w/m/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Customer Journey Management, Markenkommunikation Markt Deutschland (m/w/x)</td><td>Munich</td><td>2026-10-17</td></tr>
+<tr><td>KraussMaffei Group</td><td>Schülerpraktikanten (m/w/d) Im Bereich Metallbearbeitung</td><td>Parsdorf Bei MüNchen</td><td>2026-10-17</td></tr>
+<tr><td>Wolters Kluwer Tax & Accounting Deutschland GmbH</td><td>Business Analyst (m/w/d) Kanzleiorganisation</td><td>Stuttgart</td><td>2026-10-17</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Im Außendienst</td><td>Morfelden</td><td>2026-10-17</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Service Technican (f/m/d)</td><td>Eurasburg</td><td>2026-10-17</td></tr>
+<tr><td>KONE Automatiktüren GmbH</td><td>Mechatroniker, Elektriker, Elektroinstallateur M/w/d Als Servicetechniker Für Tür- Und Toranlagen - Hannover</td><td>Hanover</td><td>2026-10-17</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Jaderberg</td><td>Jaderberg</td><td>2026-10-17</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Hv In Großweitzschen</td><td>GroßWeitzschen</td><td>2026-10-17</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Hv For Wind Turbines In Greifswald</td><td>Greifswald</td><td>2026-10-17</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Kö Bogen 2 / Düsseldorf (m/w/d)</td><td>Dusseldorf</td><td>2026-10-17</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH</td><td>Verkaufsberater (m/w/d) In Teilzeit Mall Of Berlin</td><td>Berlin</td><td>2026-10-17</td></tr>
+<tr><td>S. Oliver Bernd Freier GmbH</td><td>Outfitberater (m/w/d) In Teilzeit Im Main Taunus Zentrum</td><td>Nuremberg</td><td>2026-10-17</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Aushilfe Im Verkauf (m/w/d) Mall Of Berlin</td><td>Berlin</td><td>2026-10-17</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Aushilfe Im Verkauf (m/w/d) Hamburg Aez</td><td>Hamburg</td><td>2026-10-17</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Aushilfe Im Verkauf (m/w/d) Hamburg Überseequartier</td><td>Hamburg</td><td>2026-10-17</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Wolfertschwenden</td><td>2026-10-17</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten / Hartware (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-17</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Cologne</td><td>2026-10-17</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Wuppertal</td><td>2026-10-17</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Zoo / Aquaristik (gn) Vollzeit Oder Teilzeit</td><td>Hamburg</td><td>2026-10-17</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten Technik Und Hartware (gn)</td><td>Stuttgart</td><td>2026-10-17</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Assistenz (m/w/d) Der Kaufmännischen Geschäftsführung In Teilzeit</td><td>Ulm</td><td>2026-10-17</td></tr>
+<tr><td>Vestas</td><td>Hse Sales Specialist (m/f/d)</td><td>Hamburg</td><td>2026-10-17</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Freight Forwarder (m/f/d)</td><td>Mlochow</td><td>2026-10-17</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Dusseldorf</td><td>2026-10-17</td></tr>
 </table>
