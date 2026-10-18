@@ -9750,4 +9750,167 @@
 <tr><td>Vestas</td><td>Hse Sales Specialist (m/f/d)</td><td>Hamburg</td><td>2026-10-17</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Freight Forwarder (m/f/d)</td><td>Mlochow</td><td>2026-10-17</td></tr>
 <tr><td>Marsh & McLennan Companies Inc</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Dusseldorf</td><td>2026-10-17</td></tr>
+<tr><td>Rewe Group</td><td>Praktikant Hr Recruiting (m/w/d)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Praktikum Hr Recruiting (m/w/d)</td><td>Henstedt-Ulzburg</td><td>2026-10-18</td></tr>
+<tr><td>Wilhelm Brandenburg Gmbh & Co. Ohg</td><td>Initiativbewerbung - Schülerpraktikum - Wilhelm Brandenburg Gmbh & Co. Ohg</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Bosch Rexroth</td><td>Internship Digitalization Material Flow Logistics</td><td>Abstatt</td><td>2026-10-18</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Bereich Marketing, Unternehmenskommunikation Und Interne Kommunikation</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Konzern-risikocontrolling, Marktrisikomanagement Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Hitachi Rail GTS Deutschland GmbH</td><td>Schulpraktikum - Bors / Bogy (m/w/d)</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Pirelli</td><td>Praktikum/ Abschlussarbeit Recruiting</td><td>Breuberg</td><td>2026-10-18</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum/ Abschlussarbeit Corporate Compliance</td><td>Breuberg</td><td>2026-10-18</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum/ Abschlussarbeit Pricing</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum Marketing Car</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Pirelli Sistemi Informativi S.r.l</td><td>Praktikum Marketing Motorradreifen</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>NRW.Bank</td><td>Schülerpraktikum Im It-bereich - Düsseldorf - 2027 (w/m/d)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>Nrw.Bank</td><td>Schülerpraktikum Im Kreditmanagement - Düsseldorf - 2027 (w/m/d)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>NRW.Bank</td><td>Schülerpraktikum In Der Wohnraumförderung - Düsseldorf Oder Münster - 2027 (w/m/d)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Praktikum In Der Logistik</td><td>St. Ingbert</td><td>2026-10-18</td></tr>
+<tr><td>Airbus Aerostructures GmbH</td><td>Praxissemester Logistik</td><td>Varel Area</td><td>2026-10-18</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Praxissemester Assembly Door Surrounding (m/w/d)</td><td>Varel Area</td><td>2026-10-18</td></tr>
+<tr><td>ATR (Airbus/Leonardo)</td><td>Jr10416290 "praktikum/abschlussarbeit Im Bereich Development-security-operations" (d/m/w)</td><td>Stuttgart Area</td><td>2026-10-18</td></tr>
+<tr><td>Airbus Helicopters Deutschland GmbH</td><td>Praktikum (d/m/w) Im Operativen Einkauf</td><td>Augsburg</td><td>2026-10-18</td></tr>
+<tr><td>Suntory Global Spirits</td><td>Working Student - Marketing</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Itg GmbH</td><td>Praktikant (w/m/d)</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Itg GmbH</td><td>Bachelor- /masterthesis (w/m/d)</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>John Deere</td><td>Praktikum Internal Communications (m/w/d)</td><td>Karlsruhe</td><td>2026-10-18</td></tr>
+<tr><td>Bayer</td><td>Praktikum In Der Herstellung & Verpackung (halbfeste Formen) Ab 2027 (alle Geschlechter)</td><td>Freiburg Im Breisgau</td><td>2026-10-18</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Betrieblichen Gesundheitsmanagement</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Praktikum Im Bereich Marketing, Unternehmenskommunikation Und Interne Kommunikation</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Octapharma</td><td>Bewerber:innenpool - Praktika</td><td>Hanover</td><td>2026-10-18</td></tr>
+<tr><td>Interbrand Corporation</td><td>Praktikum Brand Design // Intern Brand Design (m/f/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Payback</td><td>Internship Mobile Innovation & App Strategy (m/f/d)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Payback</td><td>Internship Digital Marketing & Ecommerce (m/f/d)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Payback</td><td>Internship / Working Student Marketing And Communications (m/f/d)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Vontobel</td><td>Praktikant Im Bereich Public Distribution Deutschland (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Telefonica</td><td>Werkstudent Online Marketing (m/w/d)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Praktikum - Schüler/innen</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Praktikum - Studenten/innen - Pflichtpraktikum</td><td>Norf</td><td>2026-10-18</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Praktikum - Studenten/innen - Abschlussarbeiten</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Bereich Interne Kommunikation Und Eventmanagement</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikum Im Bereich It-projektmanagement</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Änderungskoordination (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Versuchszellfertig Xssb (m/w/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Treasury &amp; Corporate Finance (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Videoproduktion Service (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Unternehmenskommunikation (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Sportmarketing Markt Deutschland (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Produktmanagement My Bmw Und Mini App (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Produktion Und Strategie Hochvolt-speicher (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Personalbetreuung Und Personalentwicklung (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Operative Instandhaltung In Der Montage (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Oberflächenprüfung Und Umweltsimulation (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Materialentwicklung Textile Oberflächenmaterialien (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Kommunikation Und Events Innolab4 (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Konzerncontrolling Bmw Und Mini Vertrieb (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>BMW Group</td><td>Praktikant It Und Projektcontrolling Bmw Financial Services (w/m/x)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Dachser SE</td><td>Management Trainee (m/w/d) Spedition</td><td>Rottenburg Am Neckar</td><td>2026-10-18</td></tr>
+<tr><td>Holcim</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d)</td><td>StraßBerg</td><td>2026-10-18</td></tr>
+<tr><td>Holcim (Süddeutschland) GmbH</td><td>Ausbildung Zur Industriekauffrau (m/w/d)</td><td>Dotternhausen</td><td>2026-10-18</td></tr>
+<tr><td>InterContinental Hotels Group (IHG)</td><td>Ausbildung Zur Hotelfachfrau / Zum Hotelfachmann (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Lilly</td><td>Corporate Affairs / Market Access Trainee (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>ZG Raiffeisen eG</td><td>Ausbildung Als Kaufmann Für Groß- Und Außenhandelsmanagement (m/w/d) 2027</td><td>MüHlhausen-Ehingen</td><td>2026-10-18</td></tr>
+<tr><td>Helm Ag</td><td>Ausbildung - Betriebswirt Im Außenhandel (m/w/d)</td><td>Hamburg</td><td>2026-10-18</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Azubi Industriemechanik (m/w/d)</td><td>Kiel</td><td>2026-10-18</td></tr>
+<tr><td>mussola.cat</td><td>Azubi Industriemechanik (m/w/d)</td><td>Kiel</td><td>2026-10-18</td></tr>
+<tr><td>Caterpillar UK</td><td>Azubi Industriemechanik (m/w/d)</td><td>Kiel</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Crypto</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Jobgether</td><td>Founding Full-stack Engineer</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Java Agentic Coding (all Genders)</td><td>Nach Standort Suchen</td><td>2026-10-18</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Java Ee (all Genders)</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Grafana Labs</td><td>Staff Backend Engineer - Databases - Analytics / Germany / Remote</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Zalando</td><td>Backend Engineer - Zeos (all Genders)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Zurich Insurance UK</td><td>It-fachberater Als Spezialist It Field Service & Agentursupport (m/w/d)</td><td>Region/Land</td><td>2026-10-18</td></tr>
+<tr><td>Google</td><td>Software Engineer Ii, Engineering Productivity, Full Stack</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Power Electronics</td><td>Field Service Technician / Germany</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Bilfinger SE</td><td>Elektriker / Elektroniker (m/w/d)</td><td>Unknown</td><td>2026-10-18</td></tr>
+<tr><td>LKQ Europe</td><td>Anwendungstechniker (m/w/d) Prüftechnik Technisches Service Center</td><td>Neu</td><td>2026-10-18</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Finowfurt</td><td>Finowfurt</td><td>2026-10-18</td></tr>
+<tr><td>tti-careers.eu</td><td>Mitarbeiter Logistik Und Reparatur</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Viega Holding GmbH & Co. KG</td><td>Industriemechaniker Betriebstechnik (all Genders) (17659)</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Kinectrics</td><td>Service Technician</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Deutz AG</td><td>Mitarbeiter (m/w/d) Im Technischen Kundendienst</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Bitzer SE</td><td>Mechatroniker Instandhaltung (m/w/d)</td><td>Rottenburg-Ergenzingen</td><td>2026-10-18</td></tr>
+<tr><td>Formlabs</td><td>Außendiensttechniker - Remote</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Formlabs</td><td>Field Service Engineer - Remote</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Reparaturmonteur (m/w/d)</td><td>Maulburg</td><td>2026-10-18</td></tr>
+<tr><td>Busch Vacuum Solutions</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-10-18</td></tr>
+<tr><td>Klöckner Pentaplast Group</td><td>Industrieelektroniker (m/w/d)</td><td>Gendorf</td><td>2026-10-18</td></tr>
+<tr><td>Klöckner Pentaplast Group</td><td>Mitarbeiter Technik (m/w/d)</td><td>Gendorf</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Global</td><td>Service Tech. Gebäudetechnik (m/w/d)</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker Im Außendienst (m/w/d) – Region Fulda/höxter</td><td>Morfelden</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker Im Außendienst (m/w/d) - Potsdam-mittelmark</td><td>Morfelden</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Bhkw-module (region Dortmund)</td><td>Noether</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Bhkw-module (region Düsseldorf/köln)</td><td>Noether</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Bhkw-module (region Landberg Am Lech)</td><td>Landberg Am Lech</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Bhkw-module (region Münster)</td><td>Noether</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Bhkw-module (region Bremen)</td><td>Noether</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Bhkw-module (region Oberhausen/duisburg/gelsenkirchen)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker Im Außendienst (m/w/d) - Region Freiburg</td><td>Morfelden</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Servicetechniker (m/w/d) Für Transportkälteanlagen</td><td>Wildau</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Service Tech. Gebäudetechnik (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Carrier Corporation</td><td>Kundenbetreuer (m/w/d) - Technik</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) In Teilzeit 30 Std./w.</td><td>Nuremberg</td><td>2026-10-18</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w.</td><td>Nuremberg</td><td>2026-10-18</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Ingolstadt</td><td>2026-10-18</td></tr>
+<tr><td>MAISONS DU MONDE FRANCE</td><td>Minijob - Verkäufer/in</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Wiesbaden, In Teilzeit</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In München (willy-brandt-platz 5), Befristet Für 1 Jahr</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Quarree Wandsbek Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-10-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Kurfürstendamm (m/w/d)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>JYSK</td><td>Schülerpraktikum Im Verkauf (m/w/d) - Strausberg</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Alsterhaus Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-10-18</td></tr>
+<tr><td>Europcar Inc</td><td>Kundenberater*in/ Verkäufer*in / Werkstudent*in (w/m/d) Autovermietung</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Sindelfingen</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Swarovski Australia</td><td>Aushilfe (m/w/d) Zur Weihnachtszeit Konstanz</td><td>Constance</td><td>2026-10-18</td></tr>
+<tr><td>Swarovski Australia</td><td>Aushilfe (m/w/d) Zur Weihnachtszeit Konstanz Lago</td><td>Constance</td><td>2026-10-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Farben / Tapeten / Wandbeläge (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baufertigteile (gn)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Baustoffe (gn)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-10-18</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist / Verkäufer (m/w/d) In Teilzeit</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Chanel</td><td>Verkäufer:in (m/w/d) Chanel Fashion Boutique Düsseldorf</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Rheine, In Teilzeit, Befristet Für 1 Jahr</td><td>Munster</td><td>2026-10-18</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Lager (minijobber/in) (m/w/d) - Weil Am Rhein</td><td>Freiburg Im Breisgau</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Schangstraße 5 Verkäufer Molkereiprodukte (m/w/d)</td><td>Wuppertal</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Schangstraße 5 Verkäufer Frischetheke (m/w/d)</td><td>Wuppertal</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Marktmitarbeiter (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Farben Und Zubehör - Auch Quereinsteiger (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>REWE Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Gartentechnik - Auch Quereinsteiger (m/w/d)</td><td>Constance</td><td>2026-10-18</td></tr>
+<tr><td>REWE Frédéric Cahon oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>REWE</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>REWE</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>REWE Rahmati</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Vollzeit (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>The LEGO Group</td><td>Verkäufer (m/w/d) In Teilzeit Im Lego Store Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Mannheim, De</td><td>Mannheim</td><td>2026-10-18</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - München, Kaufingerstrasse, De</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Stuttgart Das Gerber, De</td><td>Stuttgart</td><td>2026-10-18</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Frankfurt Am Main, De</td><td>Frankfurt Am Main</td><td>2026-10-18</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Berlin Ku&#039;damm, De</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (alex)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Köln (porz)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Brühl</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>Tchibo GmbH</td><td>Warenverräumer (m/w/d), Aushilfe, Altenessen</td><td>Altenessen</td><td>2026-10-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Dülmen (m/w/d)</td><td>Munster</td><td>2026-10-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Saarlouis (32 Std)</td><td>Saarbruecken</td><td>2026-10-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Rheinberg (18,5 Std)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Berlin Neukölln (20 Std)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Rhein-center Köln-weiden (m/w/d)</td><td>Cologne</td><td>2026-10-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Lindau (m/w/d)</td><td>Constance</td><td>2026-10-18</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Compliance Specialist, It Compliance Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-10-18</td></tr>
+<tr><td>DuPont</td><td>Administrative Assistant (m/w/d)</td><td>Greifenberg</td><td>2026-10-18</td></tr>
+<tr><td>LGI Group</td><td>Sachbearbeiter Luft-und Seefracht Import (w/m/d)</td><td>MöRfelden</td><td>2026-10-18</td></tr>
+<tr><td>Easyfairs Group</td><td>Digital Marketing Coordinator (m/w/d)</td><td>Munich</td><td>2026-10-18</td></tr>
+<tr><td>Arvato</td><td>Kaufmännischer Mitarbeiter Kundenservice & Logistik (m/w/x)</td><td>59174</td><td>2026-10-18</td></tr>
+<tr><td>Riverty</td><td>Customer Service Specialist (m/w/d)</td><td>Berlin</td><td>2026-10-18</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Export-import Koordinátor</td><td>Germany</td><td>2026-10-18</td></tr>
 </table>
