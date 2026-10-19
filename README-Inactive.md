@@ -9913,4 +9913,96 @@
 <tr><td>Arvato</td><td>Kaufmännischer Mitarbeiter Kundenservice & Logistik (m/w/x)</td><td>59174</td><td>2026-10-18</td></tr>
 <tr><td>Riverty</td><td>Customer Service Specialist (m/w/d)</td><td>Berlin</td><td>2026-10-18</td></tr>
 <tr><td>Festo AG & Co. KG</td><td>Export-import Koordinátor</td><td>Germany</td><td>2026-10-18</td></tr>
+<tr><td>Miele S.r.l</td><td>Praktikum Ki Und Innovationsmanagement (m/w/d)</td><td>Bielefeld</td><td>2026-10-19</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern Global Investment Platform (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Siemens</td><td>Pflichtpraktikum im Bereich Intra-Logistik</td><td>Karlsruhe</td><td>2026-10-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Interne Kommunikation (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Internationales Projektmanagement (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Webasto SE</td><td>Internship For Pupils (f/m/x)</td><td>Neubrandenburg</td><td>2026-10-19</td></tr>
+<tr><td>Webasto SE</td><td>Technical Pre-study Internship</td><td>Bayern</td><td>2026-10-19</td></tr>
+<tr><td>BDO AG Wirtschaftsprüfungsgesellschaft</td><td>Praktikum Deal Advisory Large Cap (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Advisory Financial Services (w/m/d)</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikant/ Werkstudent Wirtschaftsprüfung/ Audit (w/m/d)</td><td>Hamburg</td><td>2026-10-19</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Steuerberatung / Tax (w/m/d)</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Deal Advisory - Power, Energy & Utilities (w/m/d)</td><td>Hamburg</td><td>2026-10-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Praktikant Marketing International - Marktforschung / Category Management (m/w/d)</td><td>Heilbronn +1</td><td>2026-10-19</td></tr>
+<tr><td>Puma</td><td>Internship Global Go-to-market Commercial</td><td>Puma Way</td><td>2026-10-19</td></tr>
+<tr><td>Kaserei Champignon Hofmeister GmbH</td><td>Initiativ Bewerben Für Studierende</td><td>Unknown</td><td>2026-10-19</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Initiativbewerbung Fachpraktikum Bevern</td><td>Bevern</td><td>2026-10-19</td></tr>
+<tr><td>Amazon</td><td>Associate Solutions Architect Internship 2027</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Payback</td><td>Internship Digital Campaign Strategy (m/f/d)</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Hogan Lovells</td><td>Hlc Nextgen – Insight And Impact: Praktikantenprogramm Frühjahr 2027</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Internship Supply Chain Management & Logistics Innovations At Bosch Ebike Systems</td><td>Reutlingen</td><td>2026-10-19</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Hochschulpraktikum</td><td>Germany</td><td>2026-10-19</td></tr>
+<tr><td>HOERBIGER</td><td>Bewerbung Schnupperpraktikum</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Praktikum - Business Development & Ai Innovation (m/w/d)</td><td>Hamburg +1</td><td>2026-10-19</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Ausbildung Zum Industriemechaniker (m/w/d) - 2027</td><td>Markt Einersheim</td><td>2026-10-19</td></tr>
+<tr><td>wh-care</td><td>Auszubildende/r Koch/köchin (m/w/d) / Osloß</td><td>Osloß</td><td>2026-10-19</td></tr>
+<tr><td>Surteco SE</td><td>Auszubildender Kunststoff-und Kautschuktechnologe (m/w/d) Für 2027</td><td>Dortmund</td><td>2026-10-19</td></tr>
+<tr><td>Avnet</td><td>Ausbildung Fachkraft F. Lagerlogistik (m/w/d) Eschbach / Start 2027</td><td>Eschbach</td><td>2026-10-19</td></tr>
+<tr><td>Avnet</td><td>Ausbildung Industriemechaniker (m/w/d) Eschbach / Start 2027</td><td>Eschbach</td><td>2026-10-19</td></tr>
+<tr><td>Avnet</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) Eschbach / Start 2027</td><td>Eschbach</td><td>2026-10-19</td></tr>
+<tr><td>Avnet</td><td>Ausbildung Industrieelektriker Geräte Und Systeme (m/w/d) Eschbach / Start 2027</td><td>Eschbach</td><td>2026-10-19</td></tr>
+<tr><td>Avnet</td><td>Ausbildung Fachlagerist (m/w/d) Eschbach / Start 2027</td><td>Eschbach</td><td>2026-10-19</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Komposit Trainee (all Genders) - Düsseldorf, Münster</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>Schwarz Produktion</td><td>Ausbildung - Fachkraft Für Lagerlogistik (w/m/d)</td><td>Eystrup</td><td>2026-10-19</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Dissen Am Teutoburger Wald</td><td>2026-10-19</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>DACHSER SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Hamburg</td><td>2026-10-19</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Fachkraft Für Lagerlogistik</td><td>Baindt</td><td>2026-10-19</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Lagerlogistik</td><td>Stavenhagen</td><td>2026-10-19</td></tr>
+<tr><td>Zalando</td><td>Junior Software Engineer (all Genders)</td><td>Berlin</td><td>2026-10-19</td></tr>
+<tr><td>Deutsche Automobil Treuhand GmbH</td><td>Software Engineer (m/w/d)</td><td>Germany</td><td>2026-10-19</td></tr>
+<tr><td>KNDS Group</td><td>Software-entwickler C++ (m/w/d)</td><td>Germany</td><td>2026-10-19</td></tr>
+<tr><td>Wolters Kluwer Tax & Accounting Deutschland GmbH</td><td>Business analyst (m/w/d) – ki-getriebene prozessgestaltung in online lohn</td><td>Stuttgart</td><td>2026-10-19</td></tr>
+<tr><td>Wolters Kluwer</td><td>Business analyst (m/w/d) – ki-getriebene prozessgestaltung in online lohn</td><td>Stuttgart</td><td>2026-10-19</td></tr>
+<tr><td>Wolters Kluwer Tax & Accounting Deutschland GmbH</td><td>Business Analyst (m/w/d) Im Bereich Steuern</td><td>Stuttgart</td><td>2026-10-19</td></tr>
+<tr><td>Wolters Kluwer</td><td>Business Analyst (m/w/d) Im Bereich Steuern</td><td>Stuttgart</td><td>2026-10-19</td></tr>
+<tr><td>Wolters Kluwer Tax and Accounting Deutschland GmbH</td><td>Business Analyst Im Bereich Addison Lohn (m/w/d)</td><td>Stuttgart</td><td>2026-10-19</td></tr>
+<tr><td>Getinge</td><td>Servicetechniker Sw (m/w/d) Raum Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Korber AG</td><td>Servicetechniker (m/w/d) Maschinenbau</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Korber AG</td><td>Service Engineer (m/f/d)</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Korber AG</td><td>Servicetechniker - Elektrotechnik (m/w/d) - Internationaler Einsatz - Vollzeit</td><td>Schloß Holte</td><td>2026-10-19</td></tr>
+<tr><td>Korber AG</td><td>Vision Expert Field Service (m/w/d)</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Servicetechniker International - Schwerpunkt Europa (m/w/d)</td><td>Himmelkron</td><td>2026-10-19</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Servicetechniker Norddeutschland Mit Kundenakquise (m/w/d)</td><td>Norddeutschland</td><td>2026-10-19</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines - Ramsdorf</td><td>Ramsdorf</td><td>2026-10-19</td></tr>
+<tr><td>KNDS Group</td><td>Servicemonteur (m/w/d) Im Außendienst</td><td>MüNchen</td><td>2026-10-19</td></tr>
+<tr><td>ThyssenKrupp AG</td><td>Elektroniker:in Im Bereich Elektrische Instandhaltung Umschlagtechnik (m/w/d) - Befristet Für 12 Monate</td><td>Hamborn</td><td>2026-10-19</td></tr>
+<tr><td>Mt</td><td>Elektroniker:in / Mechatroniker:in Als Servicetechniker:in Produktinspektionssysteme – Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Hamburg Überseequartier Tommy Hilfiger (m/w/d)</td><td>Hamburg</td><td>2026-10-19</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber München Tommy Hilfiger Oberpollinger (m/w/d)</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Versand (gn) Vollzeit Oder Teilzeit</td><td>Freiberg In Sachsen</td><td>2026-10-19</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Berlin</td><td>2026-10-19</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>aldi-sued</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>Tapestry, Inc.</td><td>Sales Associate</td><td>Munich</td><td>2026-10-19</td></tr>
+<tr><td>Nestle Ltd</td><td>Aushilfe (m/w/d) Im Verkauf In Köln</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>Crocs</td><td>Store Sales Associate</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Erstkraft Verkauf / Kasse In Teilzeit / Vollzeit (m/w/d)</td><td>Constance</td><td>2026-10-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer In Teilzeit (m/w/d) 1</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer Bedientheke In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Vollzeit Hamburg Überseequartier Tommy Hilfiger (m/w/d)</td><td>Hamburg</td><td>2026-10-19</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Teilzeit Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-10-19</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Vollzeit Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-10-19</td></tr>
+<tr><td>VilleroyBoch</td><td>Weihnachtsaushilfe Verkauf (m/w/d) In Berlin - Wustermark</td><td>Berlin</td><td>2026-10-19</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Saarbrücken-halberg (23 Std)</td><td>Saarbruecken</td><td>2026-10-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Backshop (m/w/d)</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>REWE Daniel Weber oHG</td><td>Verkäufer (m/w/d)</td><td>Saarbruecken</td><td>2026-10-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>REWE Bosen oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>REWE Felix Brüggemann oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-19</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Elbe Einkaufszentrum Hamburg-osdorf (m/w/d)</td><td>Hamburg</td><td>2026-10-19</td></tr>
+<tr><td>Capri</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-10-19</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
+<tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hanover</td><td>2026-10-19</td></tr>
 </table>
