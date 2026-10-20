@@ -10005,4 +10005,103 @@
 <tr><td>Capri</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-10-19</td></tr>
 <tr><td>Dyson</td><td>Verkaufsberater:in/sales Associate</td><td>Dusseldorf</td><td>2026-10-19</td></tr>
 <tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hanover</td><td>2026-10-19</td></tr>
+<tr><td>Xiaomi</td><td>Weu Fin Intern 西欧财务实习生-2027届</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Pharmazeut (m/w/d) Im Praktikum</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Johnson & Johnson UK</td><td>Pharmazeut Im Praktikum 2028</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Wiley</td><td>Intern Editorial Administration</td><td>Mannheim</td><td>2026-10-20</td></tr>
+<tr><td>Hewlett Packard Enterprise</td><td>Hpe Labs - Emea Research Lab Ph.d. Intern</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Reckitt Benckiser</td><td>Praktikum Brand Marketing (all Genders)</td><td>Unknown</td><td>2026-10-20</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Praktikum Qualität Und Nachhaltigkeit - Externe Produktprüfung Food</td><td>Germany</td><td>2026-10-20</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Praktikum Im Logistikzentrum</td><td>Germany</td><td>2026-10-20</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Praktikum Einkauf - Export International</td><td>Unknown</td><td>2026-10-20</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Praktikum Linienreederei</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Praktikum Marketing International - Website Content</td><td>Unknown</td><td>2026-10-20</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Praktikum Marketing International - Non Food Hartware / Textil</td><td>Unknown</td><td>2026-10-20</td></tr>
+<tr><td>DENTSU Inc</td><td>Auszubildende*r Kaufmann/-frau Für Marketingkommunikation Mit Schwerpunkt Digital (m/w/d) (start: 01.08.2027)</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>STILL</td><td>Schülerpraktikum Im Bereich Lagerlogistik In Hamburg Für 2027 (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Initiativbewerbung Studierende Thesis (all Genders)</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Initiativbewerbung Studierende Praktikum (all Genders)</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Impfstoff-marketing Für November 2027</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Impfstoff-marketing Für Mai 2027</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Regulatory Affairs Für Mai 2028</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Fbc Ff Nlp Production Mai 2027</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Pharmaziepraktikum Im Bereich Fbc Quality Api Biosynthese Mai 2027</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikum Im Bereich Bioanalytics Germany Mai 2027</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Salonichopra</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing Ab Mai 2027</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi</td><td>Pharmaziepraktikum Im Bereich Bioanalytics Germany November 2027</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Salonichopra</td><td>Pharmaziepraktikum Im Bereich Rsv Marketing Ab November 2027</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Cartridge Platform Development Mai 2028</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Icf Quality Pharma Fill And Inspection Für November 2027</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Medical Information Für Mai 2028</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Regulatory Affairs Artwork Mai 2028</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Sanofi Consumer Healthcare</td><td>Pharmaziepraktikant*in Im Bereich Fbc Api (insulin Wirkstoffproduktion) Für Mai 2028</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Snap Inc.</td><td>Advertiser Solutions Intern</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>SAMSON Group</td><td>Pflichtpraktikum/abschlussarbeit Im Strategischen Marketing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>SumUp</td><td>Affiliate Marketing Intern</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Bosch Rexroth</td><td>Mandatory Internship In Strategic Purchasing Of Logistic Transport Services</td><td>Stuttgart</td><td>2026-10-20</td></tr>
+<tr><td>Altana AG</td><td>Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Altana AG</td><td>Marketing Praktikant (m/w/d)</td><td>Germany</td><td>2026-10-20</td></tr>
+<tr><td>RWE AG</td><td>Navigating Energy Risks - Case Study Rwest & D-fine</td><td>Wuppertal</td><td>2026-10-20</td></tr>
+<tr><td>European Patent Office</td><td>Legal Internship (rechtsreferendariat)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>J. Wagner GmbH</td><td>Schulpraktikum (m/w/d)</td><td>Constance</td><td>2026-10-20</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern, Product Gtm & Impact Analytics - Marketplace, Quick Commerce</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>FRoSTA AG</td><td>Internship Quality Assurance Finished Goods (f/m/d)</td><td>Bremerhaven</td><td>2026-10-20</td></tr>
+<tr><td>Red Bull New York</td><td>Intern Creator Marketing</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Weltweiten Angebotscontrolling</td><td>Stuttgart</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Kommunikation Bmw Welt (w/m/x)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Projektcontrolling Bmw M Gmbh (w/m/x)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Visual Ai Und Optische Prüfsysteme (w/m/x)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Internationale Markenkommunikation (w/m/x)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Sales Marketing Und Ecommerce Bmw Lifestyle (w/m/x)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Bereich Human Resources</td><td>Stuttgart</td><td>2026-10-20</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Einkauf Mit Schwerpunkt Projekteinkauf</td><td>Stuttgart</td><td>2026-10-20</td></tr>
+<tr><td>CandA</td><td>Intern Merchandising (m/f/d)</td><td>Merchandising</td><td>2026-10-20</td></tr>
+<tr><td>C&A</td><td>Intern (m/f/d) Data Governance</td><td>Database</td><td>2026-10-20</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Praktikant International Club Media & Content (m/w/d)</td><td>MüNchen +1</td><td>2026-10-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Group Risk Models (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-10-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Model Validation (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-10-20</td></tr>
+<tr><td>Festo</td><td>Ausbildung Industriekaufleute (m/w/d) 2027</td><td>Nach Postleitzahl Suchen</td><td>2026-10-20</td></tr>
+<tr><td>Helm Ag</td><td>Bachelor In It With Apprenticeship It Specialist In System Integration (bhh) (m/f/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>HiPP-Werk Georg Hipp OHG</td><td>Ausbildung Zum Elektroniker (w/m/d) 2027</td><td>Pfaffenhofen A. D. Ilm</td><td>2026-10-20</td></tr>
+<tr><td>TE Connectivity</td><td>Auszubildende Kunststoff- U. Kautschuktechnologe*in (m/w/d)</td><td>Adelberg</td><td>2026-10-20</td></tr>
+<tr><td>TE Connectivity</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Woert</td><td>2026-10-20</td></tr>
+<tr><td>SchillSeilacher GmbH</td><td>Auszubildende Chemielaborant (m/w/d) - Standort Böblingen</td><td>Stuttgart</td><td>2026-10-20</td></tr>
+<tr><td>Bitzer SE</td><td>Ausbildung // Fachkraft Für Lagerlogistik (m/w/d) // Rottenburg // Beginn: 09.2027</td><td>Reutlingen</td><td>2026-10-20</td></tr>
+<tr><td>Agilent Technologies UK</td><td>Software Test Automation Engineer (m/f/d)</td><td>Waldbronn</td><td>2026-10-20</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Java (all Genders)</td><td>Unknown</td><td>2026-10-20</td></tr>
+<tr><td>Sopra Steria UK</td><td>Software Developer Mit Open Search Expertise (m/w/d)</td><td>Bundesweit</td><td>2026-10-20</td></tr>
+<tr><td>Jobgether</td><td>Research Engineer (reinforcement Learning)</td><td>Germany</td><td>2026-10-20</td></tr>
+<tr><td>224</td><td>Customer Journey Expert Kundendaten – Business Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-20</td></tr>
+<tr><td>Mars Australia</td><td>Sales Analyst (m/w/d) Operations/administration</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Betriebsschlosser / Industriemechaniker Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-10-20</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Elektroniker Für Betriebstechnik / Instandhaltung (w/m/d)</td><td>Markt Bibart</td><td>2026-10-20</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In Hannover</td><td>Hanover</td><td>2026-10-20</td></tr>
+<tr><td>HEINZ-GLAS GmbH</td><td>Mitarbeiter Im Bereich Elektroinstandhaltung</td><td>Spechtsbrunn</td><td>2026-10-20</td></tr>
+<tr><td>Konecranes</td><td>Elektriker *in / Mechatroniker *in Als Servicetechniker *in Für Krananlagen</td><td>Freiburg Im Breisgau</td><td>2026-10-20</td></tr>
+<tr><td>Kronospan</td><td>Specjalista Ds. Mechaniki Przemysłowej Utrzymania Ruchu (k/m)– Praca W Niemczech</td><td>Strzelce Opolskie +1</td><td>2026-10-20</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Oberhausen Jeans Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber Oberhausen Tommy Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Oberhausen Calvin Klein Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Radolfzell Calvin Klein Outlet (m/w/d)</td><td>Constance</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber Oberhausen Calvin Klein Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Oberhausen Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Oberhausen Tommy Hilfiger (m/w/d)</td><td>Dusseldorf</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Jeans (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe München Calvin Klein Underwear (m/w/d)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Metzingen Calvin Klein Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Teilzeit Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Berlin B5 Calvin Klein Outlet (m/w/d)</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Ausbildung Kaufleute Im Einzelhandel Zweibrücken Calvin Klein Outlet (m/w/d)</td><td>Saarbruecken</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Berlin B5 Calvin Klein Outlet (m/w/d)</td><td>Berlin</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Radolfzell Tommy Hilfiger Outlet (m/w/d)</td><td>Constance</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Teilzeit Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe München Calvin Klein Underwear (m/w/d)</td><td>Munich</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Flexible Aushilfe Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Metzingen Tommy Hilfiger Outlet (m/w/d)</td><td>Reutlingen</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Zweibrücken Calvin Klein Outlet (m/w/d)</td><td>Saarbruecken</td><td>2026-10-20</td></tr>
+<tr><td>Calvin Klein</td><td>Studentische Aushilfe Hamburg Überseequartier Calvin Klein (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
+<tr><td>Dentsply Sirona</td><td>Customer Service Specialist (w/m/d)</td><td>Deutschland</td><td>2026-10-20</td></tr>
 </table>
