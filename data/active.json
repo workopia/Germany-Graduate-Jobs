@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-20",
- "count": 695,
+ "asOf": "2026-10-21",
+ "count": 694,
  "jobs": {
   "2418284": {
    "id": "2418284",
@@ -1153,12 +1153,6 @@
    "company": "Constellium",
    "role": "Werkstudent It Support (m/w/d)",
    "location": "Dahenfeld"
-  },
-  "d037e820a7268e225dbc0e84012843e3": {
-   "id": "d037e820a7268e225dbc0e84012843e3",
-   "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
-   "role": "Werkstudent (m/w/d) It-support",
-   "location": "Berlin"
   },
   "1d7031f24b0facbe1a03a649712b859d": {
    "id": "1d7031f24b0facbe1a03a649712b859d",

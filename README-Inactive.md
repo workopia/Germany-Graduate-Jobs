@@ -10104,4 +10104,5 @@
 <tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Zweibrücken Calvin Klein Outlet (m/w/d)</td><td>Saarbruecken</td><td>2026-10-20</td></tr>
 <tr><td>Calvin Klein</td><td>Studentische Aushilfe Hamburg Überseequartier Calvin Klein (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
 <tr><td>Dentsply Sirona</td><td>Customer Service Specialist (w/m/d)</td><td>Deutschland</td><td>2026-10-20</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Werkstudent (m/w/d) It-support</td><td>Berlin</td><td>2026-10-21</td></tr>
 </table>
