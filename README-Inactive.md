@@ -10105,4 +10105,88 @@
 <tr><td>Calvin Klein</td><td>Studentische Aushilfe Hamburg Überseequartier Calvin Klein (m/w/d)</td><td>Hamburg</td><td>2026-10-20</td></tr>
 <tr><td>Dentsply Sirona</td><td>Customer Service Specialist (w/m/d)</td><td>Deutschland</td><td>2026-10-20</td></tr>
 <tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Werkstudent (m/w/d) It-support</td><td>Berlin</td><td>2026-10-21</td></tr>
+<tr><td>SMBC Group</td><td>Support And Control: Internship Or Working Student (m/f/d)</td><td>Frankfurt +1</td><td>2026-10-21</td></tr>
+<tr><td>SMBC Group</td><td>Alm Placement / Intern Associate</td><td>Frankfurt +1</td><td>2026-10-21</td></tr>
+<tr><td>SMBC Group</td><td>Global Markets: Internship Or Working Student (m/f/d)</td><td>Frankfurt +1</td><td>2026-10-21</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Im Serviceinnendienst / Internship Customer Service</td><td>Stuttgart</td><td>2026-10-21</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Technisches Projektmanagement / Internship Technical Project Management</td><td>Stuttgart</td><td>2026-10-21</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum Fertigungsplanung / Internship Factory Planning</td><td>Stuttgart</td><td>2026-10-21</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Rewe Group</td><td>Schüler:innenpraktikum</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Interne Kommunikation (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Brand Management (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Content Reality (m/w/d)</td><td>Munich</td><td>2026-10-21</td></tr>
+<tr><td>Klingele Papierwerke GmbH & Co. KG</td><td>Praktikant (m/w/d)</td><td>Grunbach</td><td>2026-10-21</td></tr>
+<tr><td>prinzhorn-holding</td><td>Praktikum / Abschlussarbeit (m/w/d)</td><td>Spremberg</td><td>2026-10-21</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Praktikant Hensoldt Produktionssystem (w/m/d)</td><td>Ulm</td><td>2026-10-21</td></tr>
+<tr><td>Rewe Group</td><td>Praktikum (online) Marketing & Social Media (m/w/d) - Touristik</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Internship Trainee - F&b</td><td>Munich</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Sustainability Assurance (m/w/d)</td><td>Dusseldorf</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/werkstudent - Operations Consulting - The Smart Factory @düsseldorf (m/w/d)</td><td>Dusseldorf</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Analytics / Transaction Diligence (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a / Debt Advisory (m/w/d)</td><td>Frankfurt (Main) +1</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a / Post-merger Integration / Carve-out / Odd (m/w/d)</td><td>Munich</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Lean-agile Transformation (m/w/d)</td><td>Berlin</td><td>2026-10-21</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Government & Finance Support Public Services (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum/abschlussarbeit In Der Distributionslogistik</td><td>Ulm</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Pflichtpraktikant Onboarding In Der Personalentwicklung Für 6 Monate (m/w/d)</td><td>Kempten Allgau</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Data Center & Platform Operations (m/w/d)</td><td>Ulm</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Abschlussarbeit Ai-powered Transformation Office (m/w/d)</td><td>Ulm</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Forschung & Entwicklung - Fahrsystem/unterwagen Mobilbagger</td><td>Kirchdorf An Der Iller</td><td>2026-10-21</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Betrieblichen Gesundheitsmanagement</td><td>Kirchdorf An Der Iller</td><td>2026-10-21</td></tr>
+<tr><td>Elanco</td><td>Intern - Packaging Development (m/f/d)</td><td>Dusseldorf</td><td>2026-10-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Praktikum It Projektmanagement, Ai & Digitale Transformation (m/w/d)</td><td>Hamburg</td><td>2026-10-21</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Credit Risk Management (m/w/d)</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>bayernlb</td><td>Allgemeines Traineeprogramm (m/w/d)</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Trainee Filialleiter/shop Manager (m/w/d), Teilzeit, Großraum Düsseldorf</td><td>Dusseldorf</td><td>2026-10-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Hamburg</td><td>2026-10-21</td></tr>
+<tr><td>PERI GmbH</td><td>Ausbildung Maschinen- Und Anlagenführer (m/w/d) Ab Dem 01.09.2027</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>PERI GmbH</td><td>Ausbildung Fachkraft Für Lagerlogistik (m/w/d) Ab 01.09.2027</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>PERI GmbH</td><td>Ausbildung Konstruktionsmechaniker (m/w/d) Ab Dem 01.09.2027</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>Johnson Controls</td><td>Ausbildung Zum Informationselektroniker (m/w/d)</td><td>Munich</td><td>2026-10-21</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-10-21</td></tr>
+<tr><td>Nordzucker Group</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) 2027 Klein Wanzleben</td><td>Stadt Wanzleben</td><td>2026-10-21</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer - Python And K8s</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>Korber AG</td><td>Werkstudent (m/w/d) Data Analyst Im Reportingbereich</td><td>Unknown</td><td>2026-10-21</td></tr>
+<tr><td>ResMed Inc</td><td>Commercial Performance Analyst Marketing & Sales (m/w/d)</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Customer Journey Expert Kundendaten – Business Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-21</td></tr>
+<tr><td>Amprion GmbH</td><td>Servicetechniker Offshore - Schwerpunkt Elektrotechnische Systeme (m/w/d)</td><td>Unknown</td><td>2026-10-21</td></tr>
+<tr><td>Amprion GmbH</td><td>Servicetechniker Offshore - Schwerpunkt Mechanik- Und Anlagentechnik (m/w/d)</td><td>Unknown</td><td>2026-10-21</td></tr>
+<tr><td>Amprion GmbH</td><td>Meister/ Techniker Instandhaltungsplanung Primärtechnik Nord (m/w/d)</td><td>Unknown</td><td>2026-10-21</td></tr>
+<tr><td>REHAU Group</td><td>Elektriker / Elektroniker (m/w/d)</td><td>Unknown</td><td>2026-10-21</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Offshore Wind - Service Technician Ii (f/m/d)</td><td>Hamburg</td><td>2026-10-21</td></tr>
+<tr><td>STILL GmbH</td><td>Servicetechniker (m/w/d) In Vollzeit</td><td>GöRlitz</td><td>2026-10-21</td></tr>
+<tr><td>Big Dutchman International GmbH</td><td>Servicetechniker (m/w/d) International</td><td>Nach Postleitzahl Suchen</td><td>2026-10-21</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) Maintenance For Wind Turbines In Templin</td><td>Berlin</td><td>2026-10-21</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Gehrde</td><td>Jaderberg</td><td>2026-10-21</td></tr>
+<tr><td>Konecranes</td><td>Elektroniker *in / Mechatroniker *in Als Servicetechniker *in Für Krananlagen (industrie)</td><td>Freiburg Im Breisgau</td><td>2026-10-21</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Mannheim</td><td>2026-10-21</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Constance</td><td>2026-10-21</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Constance</td><td>2026-10-21</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>REWE Oliver Frank GmbH & Co. oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Munich</td><td>2026-10-21</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Dortmund</td><td>2026-10-21</td></tr>
+<tr><td>Levis</td><td>Sales Stylist In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) In Teilzeit (16-25 Stunden)</td><td>Mannheim</td><td>2026-10-21</td></tr>
+<tr><td>Levis Media</td><td>Sale Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijober)</td><td>Berlin</td><td>2026-10-21</td></tr>
+<tr><td>Levis</td><td>Sales Stylist /verkäufer In Teilzeit (m/w/d) In Teilzeit (20 Stunden)</td><td>Berlin</td><td>2026-10-21</td></tr>
+<tr><td>PVH</td><td>Verkaufsberater In Teilzeit Essen Tommy Hilfiger (m/w/d)</td><td>Wuppertal</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Ausbildung Kaufleute Im Einzelhandel Nürnberg Tommy Hilfiger (m/w/d)</td><td>Nuremberg</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Verkaufsberater In Vollzeit Essen Tommy Hilfiger (m/w/d)</td><td>Wuppertal</td><td>2026-10-21</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Studentische Aushilfe Bonn Tommy Hilfiger (m/w/d)</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>Michael Kors</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-10-21</td></tr>
+<tr><td>Michael Kors</td><td>Verkäufer/in (m/w/d) In Zweibrücken Vollzeit</td><td>Saarbruecken</td><td>2026-10-21</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer In Teilzeit (m/w/d) Salewa Outlet Aschheim</td><td>Munich</td><td>2026-10-21</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer Salewa Outlet Huma / Teilzeit</td><td>Cologne</td><td>2026-10-21</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Heidelberg</td><td>Mannheim</td><td>2026-10-21</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Teilzeit Berlin B5 Calvin Klein Outlet (m/w/d)</td><td>Berlin</td><td>2026-10-21</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Teilzeit Radolfzell Calvin Klein Outlet (m/w/d)</td><td>Constance</td><td>2026-10-21</td></tr>
+<tr><td>Calvin Klein</td><td>Mini-jobber Radolfzell Calvin Klein Outlet (m/w/d)</td><td>Constance</td><td>2026-10-21</td></tr>
+<tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Oberhausen Calvin Klein Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-10-21</td></tr>
+<tr><td>Cherokee Federal</td><td>Full-time Administrative Assistant</td><td>Germany</td><td>2026-10-21</td></tr>
 </table>
