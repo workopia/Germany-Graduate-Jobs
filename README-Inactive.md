@@ -10189,4 +10189,124 @@
 <tr><td>Calvin Klein</td><td>Mini-jobber Radolfzell Calvin Klein Outlet (m/w/d)</td><td>Constance</td><td>2026-10-21</td></tr>
 <tr><td>Calvin Klein</td><td>Verkaufsberater In Vollzeit Oberhausen Calvin Klein Jeans (m/w/d)</td><td>Dusseldorf</td><td>2026-10-21</td></tr>
 <tr><td>Cherokee Federal</td><td>Full-time Administrative Assistant</td><td>Germany</td><td>2026-10-21</td></tr>
+<tr><td>FunZone.de</td><td>Lohn- Und Finanzbuchhalter In Großwallstadt (m/w/d)</td><td>GroßWallstadt</td><td>2026-10-22</td></tr>
+<tr><td>team-con</td><td>Plattling Praktikum Werkstudent Abschlussarbeit Initiativ (mwd) By 94447</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 0803 19032027 Am Standort Duesseldorf</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 0802 19022027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 1801 29012027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 2709 08102027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 0803 19032027 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Duesseldorf</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 1110 22102027 Am Standort Duesseldorf</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 2709 08102027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 25062027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum It 2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2027 Am Standort Kiel</td><td>Kiel</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum Versicherungen Im Zeitraum 0211 13112026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Werkstudent Praktikum All Genders Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schulpraktikum It Im Zeitraum 0211 13112026 Am Standort Duesseldorf</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Initiativbewerbung Abschlussarbeit All Genders Detmold</td><td>Bielefeld</td><td>2026-10-22</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Schnupperpraktikum Versicherungen 2026 Am Standort Hamburg</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>ww-ag</td><td>Kornwestheim Praktikant (mwd) Datenanalyse Und Testmanagement Bw 70806</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>ww-ag</td><td>Kornwestheim Praktikumwerkstudentabschlussarbeit (mwd) Initiativ Bw 70806</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>ww-ag</td><td>Kornwestheim Praktikant (mwd) Mit Schwerpunkt Mathematik Bw 70806</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>TRATON Group</td><td>Intern Hr Projects Travel &amp; Mobility (mfd)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>AXA UK</td><td>Praktikum Operation - Steuerung & Transformation (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Berlin Praktikum Wirtschaftsprüfung Audit (wmd) Be 10787</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Düsseldorf Praktikant Werkstudent Internationales Steuerrecht In Der Steuerberatung Tax (wmd) Nw 40474</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Hamburg Praktikant Werkstudent Wirtschaftsprüfung Audit (wmd) Hh 20355</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Hamburg Praktikant Werkstudent Steuerberatung Tax (wmd) Hh 20355</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Düsseldorf Praktikum Steuerberatung Tax (wmd) Nw 40474</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Düsseldorf Praktikum Advisory Financial Services (wmd) Nw 40474</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Intern Working Student Financial Services Risk Management, Credit, Trading And Treasury (wmd) He 60314</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Praktikum Deal Advisory Large Cap (wmd) He 60314</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Hamburg Praktikum Deal Advisory Power, Energy & Utilities (wmd) Hh 20355</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Stuttgart Praktikum Wirtschaftsprüfung Audit (wmd) Bw 70178</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>Bosch Rexroth</td><td>Mandatory Internship Strategic Purchasing Of Logistic Transport Services</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>ZS Associates Inc</td><td>Strategy Insights & Planning Consultant Intern - Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum In Der Personalabteilung (m/w/div.)</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Bereich Human Resources</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>MiniMax</td><td>Global Gtm Intern</td><td>Beijing +7</td><td>2026-10-22</td></tr>
+<tr><td>Ferrero LADM</td><td>Praktikant Marketing (w/m/d)</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Bmw Golfsport Team (w/m/x)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Digitalisierung, Analyse Und Testing Behältermanagement (w/m/x)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Digitale Transformation Und Ki Im Personalwesen (w/m/x)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Interne Kommunikation Technische Planung (w/m/x)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Clariant International</td><td>Intern - Operations Strategy & Solutions (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Salzgitter AG</td><td>Ausbildung Zum Fachlageristen (m/w/d)</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>ING</td><td>Trainee International Talent Programme - Operations & Change (w/m/d) In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>ING</td><td>Trainee International Talent Programme - Retail Banking (w/m/d) In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Melia</td><td>Ausbildung Hotelfachmann / Hotelfachfrau (m/w/d) - Meliá Frankfurt City</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Ausbildung Zur Bankkauffrau (m/w/d), Start 2027 (stuttgart)</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Trainee (m/w/d) Zum/zur Selbstständigen Rewe-kaufmann/-frau</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprentice Technical Product Designer (m / F / D) 2027 In Eurasburg / Bavaria</td><td>Eurasburg</td><td>2026-10-22</td></tr>
+<tr><td>itinfinance.nl</td><td>Ausbildung Zum Fachinformatiker - Anwendungsentwicklung (w/m/d) Am Standort Frankfurt</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Marl (m/w/d)</td><td>Dortmund</td><td>2026-10-22</td></tr>
+<tr><td>Vonovia SE</td><td>Ausbildung Fliesen-, Platten- Und Mosaikleger Gelsenkirchen 2027 (m/w/d)</td><td>Dortmund</td><td>2026-10-22</td></tr>
+<tr><td>BFS health finance</td><td>Ausbildung Zum/zur Fachinformatiker/in Anwendungsentwicklung (m/w/d) 2027</td><td>Dortmund</td><td>2026-10-22</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Auszubildende Zum Elektroniker 2026 (m/w/d)</td><td>Bad Berneck +1</td><td>2026-10-22</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Auszubildende Zum Produktionsmechaniker Textil 2026 (m/w/d)</td><td>Himmelkron</td><td>2026-10-22</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Auszubildende Industriekaufleute 2027 (m/w/d)</td><td>Bad Berneck +1</td><td>2026-10-22</td></tr>
+<tr><td>Ardagh Group</td><td>Ausbildung Mechatroniker 2027 (m/w/d)</td><td>Hanover</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Trainee Zum/zur Selbstständigen Rewe-kaufmann/-frau (m/w/d)</td><td>Tinnum/Sylt</td><td>2026-10-22</td></tr>
+<tr><td>KNDS FWH Castings GmbH</td><td>*2027* Ausbildung Zum Industriekaufmann (m/w/d)</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>LBBW</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Albstadt (2027)</td><td>Reutlingen</td><td>2026-10-22</td></tr>
+<tr><td>LBBW</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Bernhausen/echterdingen (2027)</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>LBBW Webspace</td><td>Ausbildung Im Berufsbild Bankkaufleute (m/w/d) Ausbildungsort Gerlingen/leonberg (2027)</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>bayernlb</td><td>Traineeprogramm Finanzen - Controlling, Accounting, Regulatory Reporting & Steuern (m/w/d)</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>Nordex SE</td><td>Engineer Software Tool Development (m/f/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Synthetic Data Engineer, Xr</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Microservices Engineer</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer: Backend</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>BCG Platinion</td><td>Associate Enterprise Solutions – Focus Sap (all Genders) - Bcg Platinion</td><td>SEARCH</td><td>2026-10-22</td></tr>
+<tr><td>Medtronic</td><td>Medizintechniker Im Außendienst (m/w/d)</td><td>Mollsfeld</td><td>2026-10-22</td></tr>
+<tr><td>Webasto SE</td><td>Maintenance Technician Electrical (f/m/x)</td><td>Bayern</td><td>2026-10-22</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker / Elektroniker Großraum Stuttgart (m/w/d)</td><td>Gruensfeld</td><td>2026-10-22</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Techniker Für Schraubenkompressoren (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Servicetechniker Turbokompressoren (m/w/d)</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Aalberts Surface Technologies GmbH</td><td>Mitarbeiter Schlosser (m/w/d)</td><td>GöPpingen</td><td>2026-10-22</td></tr>
+<tr><td>PerkinElmer Inc</td><td>Servicetechniker / Mechatroniker (m/w/d)</td><td>Regensberg</td><td>2026-10-22</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Mechatroniker / Mechatronikerin (m/w/d) Instandhaltung Schienenfahrzeuge</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Elektroniker / Elektronikerin (m/w/d) Instandhaltung Schienenfahrzeuge</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Professional Field Operations Drohnenabwehr (m/w/d)</td><td>Hamburg +1</td><td>2026-10-22</td></tr>
+<tr><td>Rosler Oberflachentechnik GmbH</td><td>Anlagentechniker (m/w/d) Im Außendienst</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Mechatroniker / Elektriker / Elektroniker In Der Instandhaltung (m/w/d)</td><td>GäUfelden</td><td>2026-10-22</td></tr>
+<tr><td>Rosler Oberflachentechnik GmbH</td><td>Servicemonteur (m/w/d)</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>Metsagroup</td><td>Auszubildende Zum Industriemechaniker/in Instandhaltung</td><td>Raubach</td><td>2026-10-22</td></tr>
+<tr><td>Hitachi Vantara</td><td>Field Service Messtechniker*in (m/w/d)</td><td>Halle (Saale)</td><td>2026-10-22</td></tr>
+<tr><td>Johnson Controls</td><td>Monteur Service Feuerschutz (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Field Service Solution Engineer (d/m/w)</td><td>MüNchen Area</td><td>2026-10-22</td></tr>
+<tr><td>Ecolab</td><td>Equipment And Software Specialist (w/m/d) Textile Care</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Service-techniker (m/w/d) Im Außendienst, Großraum Bayern/münchen</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Bruker</td><td>Service Product Expert Raman Spectroscopy (m/f/d)</td><td>Karlsruhe</td><td>2026-10-22</td></tr>
+<tr><td>AptarGroup</td><td>Werkzeugmechaniker (m/w/d) Im Bereich Werkzeugwartung / Formenlager</td><td>All</td><td>2026-10-22</td></tr>
+<tr><td>KONE Bahrain</td><td>Servicetechniker M/w/d Für Rolltreppen Mit Einsatzgebiet In Hamburg / Schleswig-holstein</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Leipzig</td><td>Leipzig</td><td>2026-10-22</td></tr>
+<tr><td>Zeppelin</td><td>Servicetechniker Außendienst Für Baumaschinen Und Baugeräte (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>EUROMASTER GmbH</td><td>Reifenmonteur</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>Harbour Energy Germany GmbH</td><td>Facharbeiter Instandhaltung (m/w/d)</td><td>Dieksand</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Azubi Zum Mechatroniker (w/m/x) Im Werk</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Werkzeuge Und Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>REWE</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Lagerassistent Warenausgang (m/w/d)</td><td>Eitting</td><td>2026-10-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Köln (sülz)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (sülz)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Schwaebisch Media</td><td>Aushilfe Versand/ Paketierung (m/w/d)</td><td>Neubrandenburg</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 30 Std./w.</td><td>Dortmund</td><td>2026-10-22</td></tr>
+<tr><td>Levis</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Levis</td><td>Sales Stylist / Verkäufer (m/w/d) In Teilzeit (30std)</td><td>Reutlingen</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist (m/w/d) In Teilzeit 20 Std./woche</td><td>Constance</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Teilzeit (m/w/d) (30 Stunden)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Verkäufer / Sales Stylist (m/w/d) In Teilzeit (20-30 Stunden)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist - Aushilfe (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist/verkäufer (m/w/d) In Teilzeit (xx Stunden)</td><td>Munster</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist /verkäufer In Teilzeit (m/w/d) In Teilzeit (20 Stunden)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Teilzeit M/w/d</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist In Vollzeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist, Werksstudent (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>LGC</td><td>Customer Service Specialist (m/w/d)</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
 </table>
