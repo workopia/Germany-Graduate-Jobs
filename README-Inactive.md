@@ -10309,4 +10309,110 @@
 <tr><td>Levis Media</td><td>Sales Stylist In Vollzeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
 <tr><td>Levis Media</td><td>Sales Stylist, Werksstudent (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
 <tr><td>LGC</td><td>Customer Service Specialist (m/w/d)</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Knorr-Bremse Systeme für Nutzfahrzeuge GmbH</td><td>Aldersbach Praktikanten (mwd) Business Intelligence & Analytics 94501</td><td>Aldersbach</td><td>2026-10-22</td></tr>
+<tr><td>Knorr-Bremse Systeme für Nutzfahrzeuge GmbH</td><td>Aldersbach Praktikanten (mwd) Im Bereich Entwicklungkonstruktion Wheelend 94501</td><td>Aldersbach</td><td>2026-10-22</td></tr>
+<tr><td>Knorr-Bremse Systeme für Nutzfahrzeuge GmbH</td><td>Aldersbach Praktikanten (mwd) Für Den Bereich Prototypenbau 94501</td><td>Aldersbach</td><td>2026-10-22</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>München Praktikum Corporate Strategy (mwd) 80809</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>München Praktikant Im Bereich Corporate M&a (mwd) 80809</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>München Freiwilliger Praktikant Strategischer Indirekter Einkauf (mwd) 80809</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Apple</td><td>Internship - Software Engineering - On-demand Agent Provisioning In Cellular Test</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>KPMG LLP</td><td>Praktikum Digital Products &amp;amp; Services (wmd)</td><td>Germany</td><td>2026-10-22</td></tr>
+<tr><td>Bonduelle</td><td>Stagiair Marketing Retail 1</td><td>Eindhoven +1</td><td>2026-10-22</td></tr>
+<tr><td>Surteco SE</td><td>Dunningen Ferienjob (schul )praktikum Standort Dunningen Bw 78655</td><td>Freiburg Im Breisgau</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Trainee - Nachwuchsführungskraft Für Die Zielposition Gartencenterleiter (m/w/d)</td><td>Region NüRnberg</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Apprentice As Mechatronics Expert (f/m/x) In Our Plant 1 1 1 1 1 1</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Apprentice As Foundry Mechanic (f/m/x) In Our Plant 1 1 1 1</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Apprentice As Mechatronics Expert (f/m/x) In Our Plant 1 1 1 1 1</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Apprentice As Vehicle Mechatronics Expert - Bodywork (f/m/x) In Our Dealership 1 1 1 1 1 1</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>BMW Group</td><td>Apprentice As Car Sprayer (f/m/x) In Our Dealership 1 1</td><td>Hanover</td><td>2026-10-22</td></tr>
+<tr><td>Salzgitter AG</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (w/m/d)</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Softwareingenieur Für Missionsplanung Und Geoit-systeme (w/m/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Mars</td><td>Sales Analyst (m/w/d) Operations/administration</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Fielmann Group AG</td><td>Financial Analyst (w/m/d) / Controlling</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>SAMSON Group</td><td>Mechatroniker Als Servicetechniker (w/m/d) Im Außendienst</td><td>Alle</td><td>2026-10-22</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Mechaniker Energietechnik (m/w/d) 1</td><td>Norf</td><td>2026-10-22</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Equipment And Software Specialist (w/m/d) Textile Care</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Gebhardt Fordertechnik GmbH</td><td>Elektriker / Mechatroniker (m/w/d) Innendienst</td><td>Unknown</td><td>2026-10-22</td></tr>
+<tr><td>1KOMMA5°</td><td>Technischer Außendienst (m/w/d) für Wärmepumpen & Energiesysteme - 1KOMMA5° Berlin</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Düsseldorf (ferdinand-braun-platz 1), In Tz, Befr.</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In Erlangen, Befristet Für 1 Jahr</td><td>Nuremberg</td><td>2026-10-22</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Mitarbeiter Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w.</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Mango</td><td>Lagerist (m/w/d) In Teilzeit 20 Std./w.</td><td>Nordrhein</td><td>2026-10-22</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>aldi-sued</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-10-22</td></tr>
+<tr><td>HARTMANN</td><td>Metzingen Sales Specialist In Teilzeit 15 H Woche Im Kneipp Shop Metzingen 72555</td><td>Reutlingen</td><td>2026-10-22</td></tr>
+<tr><td>Balenciaga Germany GmbH</td><td>Balenciaga - Sales Associate - Dusseldorf</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Mitarbeiter Wareneingang (m/w/d)</td><td>Jettingen</td><td>2026-10-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen (bero C.)</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Frankfurt Am Main Ausbildung Zum Verkäufer (mwd) Schwerpunkt Fashion (start 2027) He</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Frankfurt Am Main Ausbildung Zum Verkäufer (mwd) Schwerpunkt Genussmittel (start 2027) He</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Frankfurt Am Main Ausbildung Zum Verkäufer (mwd) Schwerpunkt Beauty (start 2027) He</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Frankfurt Am Main Verkäufer (mwd) Fashion & Accessoires (100 Std_monat) He</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>REWE Gritzner oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Sb-frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Backshop (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>REWE Arthur Boos GmbH & Co. oHG</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Saarbruecken</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Lagerist / Kommissionierer (m/w/d)</td><td>GäUfelden</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Werkzeuge, Eisenwaren Und Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Stuttgart</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>REWE Oliver Frank GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>REWE Oliver Frank GmbH & Co. oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Avisbudgetgroup</td><td>Kundenberater:in / Verkaufsberater:in (m/w/d) In Der Autovermietung (teilzeit)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Lindt & Sprungli</td><td>Verkäufer (m/w/d) Lindt Flagship Store München</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Jimmy Choo</td><td>Sales Associate</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Berlin Verkaufsberater (mwd) In Teilzeit Mall Of Berlin</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH</td><td>Berlin Aushilfe Im Verkauf (mwd) Mall Of Berlin</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Sulzbachtaunus Outfitberater (mwd) In Teilzeit Im Main Taunus Zentrum</td><td>Nuremberg</td><td>2026-10-22</td></tr>
+<tr><td>John Henric</td><td>Copy Of Sales Advisor, Hamburg</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) In Teilzeit - Pasing Arcaden</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Hamburg-langenhorn (20 Std)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Marktplatz Galerie Hamburg-bramfeld (m/w/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Skechers U.S.A.</td><td>Verkäufer (m/w/d) In Teilzeit - Pasing Arcaden</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>ALDI SE & Co. KG</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Auszubildende/r (m/w/d) Salewa Store München</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Oberalp S.p.a</td><td>Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken</td><td>Saarbruecken</td><td>2026-10-22</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist On Vollzeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Constance</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf Teilzeit (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>(studentische) Aushilfe Im Verkauf (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Im Verkauf - Schwerpunkt Smartphone & Vertragsgeschäft (m/w/d)</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ausbildung Zum Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Crocs</td><td>Store Sales Associate (part Time), Oberhausen</td><td>Dusseldorf</td><td>2026-10-22</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Verkäufer (m/w/d)</td><td>Wurzburg</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d) - 9475</td><td>Wuppertal</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Warenverräumer Liefer-/ Abholservice (m/w/d)</td><td>Dortmund</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Baumarkt - Auch Quereinsteiger (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke Metzgerei (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Saarbruecken</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Baustoffe - Auch Quereinsteiger (m/w/d)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Garten - Auch Quereinsteiger (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Wareneingang Obst Und Gemüse (m/w/d)</td><td>Buttenheim</td><td>2026-10-22</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Schangstraße 5 Verkäufer Frischetheke (m/w/d)</td><td>Wuppertal</td><td>2026-10-22</td></tr>
+<tr><td>PENNY</td><td>Ausbildung Verkäufer (m/w/d)</td><td>Munich</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Minijob / Aushilfe Schrauben Und Beschläge (m/w/d)</td><td>Berlin</td><td>2026-10-22</td></tr>
+<tr><td>Rewe Group</td><td>Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
+<tr><td>Marsh</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
 </table>

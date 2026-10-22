@@ -1,7 +1,55 @@
 {
  "asOf": "2026-10-22",
- "count": 696,
+ "count": 699,
  "jobs": {
+  "f0335bea34377db8101a23349882c8a9": {
+   "id": "f0335bea34377db8101a23349882c8a9",
+   "company": "ADTRAN",
+   "role": "Legal Operations Intern",
+   "location": "Munich"
+  },
+  "36bfb21e5b281dc361d2404816ad1668": {
+   "id": "36bfb21e5b281dc361d2404816ad1668",
+   "company": "Zalando",
+   "role": "Intern Category Management - Private Label (all Genders)",
+   "location": "Berlin"
+  },
+  "87feaa10b6f1d04cab16586faa81ed9c": {
+   "id": "87feaa10b6f1d04cab16586faa81ed9c",
+   "company": "Zalando",
+   "role": "Intern Category Management - Accessories & Specialties (all Genders)",
+   "location": "Berlin"
+  },
+  "f7b05da77999f68c035b0e8aafff60a4": {
+   "id": "f7b05da77999f68c035b0e8aafff60a4",
+   "company": "Analog Devices",
+   "role": "Applications Engineering - Field Applications Intern",
+   "location": "Munich"
+  },
+  "2d5c61861467a23552dbbf67479774ec": {
+   "id": "2d5c61861467a23552dbbf67479774ec",
+   "company": "LBBW Webspace",
+   "role": "Praktikant (m/w/d) Im Bereich Hr.services, Systeme & International",
+   "location": "Stuttgart"
+  },
+  "e89d03de04ba3c9289c20184c9650c3c": {
+   "id": "e89d03de04ba3c9289c20184c9650c3c",
+   "company": "Aptar Menden GmbH",
+   "role": "Praktikant (m/w/d) Aptar Menden Gmbh",
+   "location": "Dortmund"
+  },
+  "1f7058349805e3f14411c3843c3283f6": {
+   "id": "1f7058349805e3f14411c3843c3283f6",
+   "company": "muzikosgalerija.lt",
+   "role": "Praktikant Music Licensing & Rights Management (m/w/d)",
+   "location": "Berlin"
+  },
+  "2ede5efeec8b03ca57e7b462395cea30": {
+   "id": "2ede5efeec8b03ca57e7b462395cea30",
+   "company": "MAHLE Industries Inc",
+   "role": "Internhip Lead-buying Mechatronics (m/f/d)",
+   "location": "Stuttgart"
+  },
   "a30d37e6d4278ff1402a83c45972f88f": {
    "id": "a30d37e6d4278ff1402a83c45972f88f",
    "company": "Bosch Rexroth",
@@ -49,6 +97,12 @@
    "company": "createyourowncareer",
    "role": "Praktikum - International Communication And Marketing",
    "location": "Hamburg"
+  },
+  "c0b730c83dfaddf56e962ee5f94812fd": {
+   "id": "c0b730c83dfaddf56e962ee5f94812fd",
+   "company": "Allianz Technology SE",
+   "role": "Intern (m/f/d) - Allianz Consulting - Right Shoring, Business Transition And Support",
+   "location": "Munich"
   },
   "9099ff090a62b13f2a0464d4708f8845": {
    "id": "9099ff090a62b13f2a0464d4708f8845",
@@ -181,6 +235,12 @@
    "company": "Mercedes-AMG GmbH",
    "role": "Amg Praktikanten Im Team Tev (top End Vehicles) Sales Operations & Steering (mwd)",
    "location": "Affalterbach"
+  },
+  "62dbe6e3fc4904f625eb5e93bc712406": {
+   "id": "62dbe6e3fc4904f625eb5e93bc712406",
+   "company": "3mschweiz.ch",
+   "role": "Schülerpraktikum Am Standort In Kempten (m/w/*)",
+   "location": "Kempten Allgau"
   },
   "0a2ce3f75da934bde21983b81fc02f16": {
    "id": "0a2ce3f75da934bde21983b81fc02f16",
@@ -422,65 +482,47 @@
    "role": "Aldersbach Praktikanten (mwd) Im Bereich Logistik 94501",
    "location": "Aldersbach"
   },
-  "6d19add3142bf457dcd4bdc246bfa2dd": {
-   "id": "6d19add3142bf457dcd4bdc246bfa2dd",
-   "company": "Knorr-Bremse Systeme für Nutzfahrzeuge GmbH",
-   "role": "Aldersbach Praktikanten (mwd) Business Intelligence & Analytics 94501",
-   "location": "Aldersbach"
+  "3fb5a83ac98956f822d83c8bdbf6d6b9": {
+   "id": "3fb5a83ac98956f822d83c8bdbf6d6b9",
+   "company": "Rewe Group",
+   "role": "Trainee - Nachwuchsführungskraft Für Die Zielposition Gartencenterleiter (m/w/d)",
+   "location": "Region Braunschweig"
   },
-  "7519c7ebaa271a84260825907ff9daab": {
-   "id": "7519c7ebaa271a84260825907ff9daab",
-   "company": "Knorr-Bremse Systeme für Nutzfahrzeuge GmbH",
-   "role": "Aldersbach Praktikanten (mwd) Im Bereich Entwicklungkonstruktion Wheelend 94501",
-   "location": "Aldersbach"
+  "10bdb692f5c8ae051695a45f5c0d0388": {
+   "id": "10bdb692f5c8ae051695a45f5c0d0388",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hürth Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 50354",
+   "location": "Cologne"
   },
-  "36bad7b51db8b97ed81f6b1110cfb96c": {
-   "id": "36bad7b51db8b97ed81f6b1110cfb96c",
-   "company": "Knorr-Bremse Systeme für Nutzfahrzeuge GmbH",
-   "role": "Aldersbach Praktikanten (mwd) Für Den Bereich Prototypenbau 94501",
-   "location": "Aldersbach"
+  "394d2abad85b75d90dea20c77dc37f7a": {
+   "id": "394d2abad85b75d90dea20c77dc37f7a",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Berlin Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 12351",
+   "location": "Berlin"
   },
-  "3d16d90f933570a54f9d738947cbda7f": {
-   "id": "3d16d90f933570a54f9d738947cbda7f",
-   "company": "Knorr-Bremse AG",
-   "role": "München Praktikum Corporate Strategy (mwd) 80809",
-   "location": "Munich"
+  "c95026cffd0affe95c7392e5055278ad": {
+   "id": "c95026cffd0affe95c7392e5055278ad",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Leipzig Paunsdorf Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 1 4329",
+   "location": "Leipzig-Paunsdorf"
   },
-  "a73b7122c315df4f68f05c30ba8cd849": {
-   "id": "a73b7122c315df4f68f05c30ba8cd849",
-   "company": "Knorr-Bremse AG",
-   "role": "München Praktikant Im Bereich Corporate M&a (mwd) 80809",
-   "location": "Munich"
+  "ced69200b207dc7387b5dcdbc077f358": {
+   "id": "ced69200b207dc7387b5dcdbc077f358",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Berlin Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 10409",
+   "location": "Berlin"
   },
-  "64be2eeade34cbbfa2d9a4b03a8ee13e": {
-   "id": "64be2eeade34cbbfa2d9a4b03a8ee13e",
-   "company": "Knorr-Bremse AG",
-   "role": "München Freiwilliger Praktikant Strategischer Indirekter Einkauf (mwd) 80809",
-   "location": "Munich"
+  "72db47cf3d2324acd97e17bc903d2be9": {
+   "id": "72db47cf3d2324acd97e17bc903d2be9",
+   "company": "Vonovia SE",
+   "role": "Essen Ausbildung Gärtnerin Im Landschaftsbau 2027 Essen Esse 45127",
+   "location": "Wuppertal"
   },
-  "a78ce705292d2ccd71f5bcfa0fcaf86d": {
-   "id": "a78ce705292d2ccd71f5bcfa0fcaf86d",
-   "company": "Apple",
-   "role": "Internship - Software Engineering - On-demand Agent Provisioning In Cellular Test",
-   "location": "Germany"
-  },
-  "32bc2b8377514a3d554337f35c95fffb": {
-   "id": "32bc2b8377514a3d554337f35c95fffb",
-   "company": "KPMG LLP",
-   "role": "Praktikum Digital Products &amp;amp; Services (wmd)",
-   "location": "Germany"
-  },
-  "f82900a57f5051acfb8750b60f1caf94": {
-   "id": "f82900a57f5051acfb8750b60f1caf94",
-   "company": "Bonduelle",
-   "role": "Stagiair Marketing Retail 1",
-   "location": "Eindhoven +1"
-  },
-  "185fbca42dc330543cd4413bf00c7dfd": {
-   "id": "185fbca42dc330543cd4413bf00c7dfd",
-   "company": "Surteco SE",
-   "role": "Dunningen Ferienjob (schul )praktikum Standort Dunningen Bw 78655",
-   "location": "Freiburg Im Breisgau"
+  "87a648f163b9640c0e5d5ef5b62c1012": {
+   "id": "87a648f163b9640c0e5d5ef5b62c1012",
+   "company": "Samsung SDS",
+   "role": "Trainee (m/w/d) Tv - Streaming Media Consulting, Sales & Marketing",
+   "location": "Dusseldorf"
   },
   "639d6f689afbb541ca2d87d6ad689f91": {
    "id": "639d6f689afbb541ca2d87d6ad689f91",
@@ -716,12 +758,6 @@
    "role": "Trainee - Nachwuchsführungskraft Für Die Zielposition Marktleiter (m/w/d)",
    "location": "Mecklenburg"
   },
-  "90c6f4edd966d1df6bed63cd124916aa": {
-   "id": "90c6f4edd966d1df6bed63cd124916aa",
-   "company": "Rewe Group",
-   "role": "Trainee - Nachwuchsführungskraft Für Die Zielposition Gartencenterleiter (m/w/d)",
-   "location": "Region NüRnberg"
-  },
   "c5f9c127feda819cca111622da0c2677": {
    "id": "c5f9c127feda819cca111622da0c2677",
    "company": "SKF Sverige AB",
@@ -926,42 +962,6 @@
    "role": "Apprentice As Industrial Mechanic (f/m/x) In Our Plant 1 1 1 1",
    "location": "Berlin"
   },
-  "aa73610646d3eca49bc401dcd7df88d9": {
-   "id": "aa73610646d3eca49bc401dcd7df88d9",
-   "company": "BMW Group",
-   "role": "Apprentice As Mechatronics Expert (f/m/x) In Our Plant 1 1 1 1 1 1",
-   "location": "Unknown"
-  },
-  "2bd74fe293dcc54a6c7d04616b81023c": {
-   "id": "2bd74fe293dcc54a6c7d04616b81023c",
-   "company": "BMW Group",
-   "role": "Apprentice As Foundry Mechanic (f/m/x) In Our Plant 1 1 1 1",
-   "location": "Unknown"
-  },
-  "5706fe141fd96ccbec1baeb445ca82b6": {
-   "id": "5706fe141fd96ccbec1baeb445ca82b6",
-   "company": "BMW Group",
-   "role": "Apprentice As Mechatronics Expert (f/m/x) In Our Plant 1 1 1 1 1",
-   "location": "Unknown"
-  },
-  "d7e6f1e68b23fb3947fffaf063d9d62c": {
-   "id": "d7e6f1e68b23fb3947fffaf063d9d62c",
-   "company": "BMW Group",
-   "role": "Apprentice As Vehicle Mechatronics Expert - Bodywork (f/m/x) In Our Dealership 1 1 1 1 1 1",
-   "location": "Unknown"
-  },
-  "5f9672cff0c1852c22029e622695106d": {
-   "id": "5f9672cff0c1852c22029e622695106d",
-   "company": "BMW Group",
-   "role": "Apprentice As Car Sprayer (f/m/x) In Our Dealership 1 1",
-   "location": "Hanover"
-  },
-  "58a4d6030d90f2fe15aae8c7c2aeb25d": {
-   "id": "58a4d6030d90f2fe15aae8c7c2aeb25d",
-   "company": "Salzgitter AG",
-   "role": "Ausbildung Zur Fachkraft Für Lagerlogistik (w/m/d)",
-   "location": "Unknown"
-  },
   "de19a2de89a1569c39a3974f5f300cf1": {
    "id": "de19a2de89a1569c39a3974f5f300cf1",
    "company": "Surteco SE",
@@ -1100,6 +1100,12 @@
    "role": "Ausbildungsstelle Werkstoffprüfer (m/w/d)",
    "location": "Cologne"
   },
+  "7944faede26a5b11b568bbc63a0250be": {
+   "id": "7944faede26a5b11b568bbc63a0250be",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Werkstudent Im Bereich System Entwicklung (w/m/div.)",
+   "location": "Abstatt"
+  },
   "139aa5837defe84edcbb3232e0c916e3": {
    "id": "139aa5837defe84edcbb3232e0c916e3",
    "company": "DekaBank Deutsche Girozentrale",
@@ -1164,6 +1170,12 @@
    "id": "22e5caaca1e4aaab650cf629f92a8b23",
    "company": "Apple",
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
+   "location": "Germany"
+  },
+  "40ab4c3176a23136520f75102f389c62": {
+   "id": "40ab4c3176a23136520f75102f389c62",
+   "company": "Jobgether",
+   "role": "Backend Engineer, Solving",
    "location": "Germany"
   },
   "9fe5a62efccfbbe70f715e567fdae88c": {
@@ -1640,12 +1652,6 @@
    "role": "Linux Kernel Engineer",
    "location": "Germany"
   },
-  "104381b8adfebfd8eda855e0270fdfb2": {
-   "id": "104381b8adfebfd8eda855e0270fdfb2",
-   "company": "HENSOLDT Sensors GmbH",
-   "role": "Softwareingenieur Für Missionsplanung Und Geoit-systeme (w/m/d)",
-   "location": "Munich"
-  },
   "9af39ee59586f142cd9522f1e9780d99": {
    "id": "9af39ee59586f142cd9522f1e9780d99",
    "company": "Allianz Technology SE",
@@ -1699,6 +1705,12 @@
    "company": "Resonance",
    "role": "Graduate Applied AI Engineer",
    "location": "London +1"
+  },
+  "f1c4a22b4b110a695aa330f4a476d383": {
+   "id": "f1c4a22b4b110a695aa330f4a476d383",
+   "company": "Jobgether",
+   "role": "Staff Data Analyst",
+   "location": "Germany"
   },
   "c8e57c1c1945ad86d1394eb77a210a39": {
    "id": "c8e57c1c1945ad86d1394eb77a210a39",
@@ -1934,6 +1946,12 @@
    "role": "Web- / Digital-analyst (m/w/d)",
    "location": "Unknown"
   },
+  "72d581c046af9f73819cf6f125e7b574": {
+   "id": "72d581c046af9f73819cf6f125e7b574",
+   "company": "Celonis",
+   "role": "Ai & Management Consulting Intern (value Engineering - Dach Market)",
+   "location": "Munich"
+  },
   "a922a0d9df6401eace059017c1ed278c": {
    "id": "a922a0d9df6401eace059017c1ed278c",
    "company": "EY",
@@ -2072,11 +2090,23 @@
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Berlin"
   },
+  "696bf26c014fc471240e08299d1fc87c": {
+   "id": "696bf26c014fc471240e08299d1fc87c",
+   "company": "SIGNAL IDUNA",
+   "role": "Business Analyst (m/w/d) Vertrieb & Digitalisierung",
+   "location": "Germany"
+  },
   "c672af610f117167f05908f17761c2da": {
    "id": "c672af610f117167f05908f17761c2da",
    "company": "Bosch Rexroth",
    "role": "Pflichtpraktikum Hyperautomation Und Business Process Management",
    "location": "Stuttgart"
+  },
+  "47c2981fa4e0375194500994da976569": {
+   "id": "47c2981fa4e0375194500994da976569",
+   "company": "Allianz Technology SE",
+   "role": "Working Student - Ai-enabled Business Analysis &amp; Automation (f/m/d)",
+   "location": "Frankfurt Am Main"
   },
   "d4f278fe68b5555c577f9ccdafda7436": {
    "id": "d4f278fe68b5555c577f9ccdafda7436",
@@ -2540,18 +2570,6 @@
    "role": "Specialist Pensionfunds Management Implementation / Spezialist Einrichtung Pensionsfonds Management (geschäftsstelle Prozesse)",
    "location": "Dusseldorf"
   },
-  "ee0c10e25e8228d79e8a2774a5e37de0": {
-   "id": "ee0c10e25e8228d79e8a2774a5e37de0",
-   "company": "Mars",
-   "role": "Sales Analyst (m/w/d) Operations/administration",
-   "location": "Munich"
-  },
-  "ae8e66f8984799bc6e40649ac9abf93c": {
-   "id": "ae8e66f8984799bc6e40649ac9abf93c",
-   "company": "Fielmann Group AG",
-   "role": "Financial Analyst (w/m/d) / Controlling",
-   "location": "Hamburg"
-  },
   "4e8950be706451268af15a60e36f3cbc": {
    "id": "4e8950be706451268af15a60e36f3cbc",
    "company": "Parexel",
@@ -2738,6 +2756,18 @@
    "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
    "location": "Frankfurt Am Main"
   },
+  "e4c098e0929e9632259552713079275a": {
+   "id": "e4c098e0929e9632259552713079275a",
+   "company": "äº¬ä¸å¨çç",
+   "role": "Maintenance Engineer",
+   "location": "North Rhine"
+  },
+  "b7f4198d928eb8443a19446ac3791e61": {
+   "id": "b7f4198d928eb8443a19446ac3791e61",
+   "company": "Melitta Business Service Center",
+   "role": "Servicetechniker / Mitarbeiter Im Technischen Kundendienst (m/w/d) Für Den Raum Offenburg/freiburg- Auch Quereinsteiger Willkommen!",
+   "location": "Freiburg Im Breisgau"
+  },
   "41338bbbf65d4579a873f2c510f94f09": {
    "id": "41338bbbf65d4579a873f2c510f94f09",
    "company": "ABB Inc",
@@ -2786,6 +2816,12 @@
    "role": "Kfz Mechatroniker (mwd) Am Standort Karlsruhe",
    "location": "Karlsruhe"
   },
+  "9d40e7de7ee47cc49688db40f43212cc": {
+   "id": "9d40e7de7ee47cc49688db40f43212cc",
+   "company": "Viessmann Climate Solutions",
+   "role": "Servicetechniker (m/w/d) Bhkw-module (region Oberhausen/duisburg/gelsenkirchen)",
+   "location": "Dusseldorf"
+  },
   "187ae25a014ade03f5a8bc68000f146f": {
    "id": "187ae25a014ade03f5a8bc68000f146f",
    "company": "LBBW Webspace",
@@ -2810,6 +2846,12 @@
    "role": "Field Specialist Iv",
    "location": "Strasse 1"
   },
+  "810b8c9f382878429d57fd2b55c32970": {
+   "id": "810b8c9f382878429d57fd2b55c32970",
+   "company": "Continental AG",
+   "role": "Reifenmonteur - Testcenter Nürburgring (m/w/d) - Ref98237x",
+   "location": "Meuspath"
+  },
   "bb19b33520d80ae96ab2b8a7f271b274": {
    "id": "bb19b33520d80ae96ab2b8a7f271b274",
    "company": "Kronospan",
@@ -2821,6 +2863,12 @@
    "company": "BWB",
    "role": "Schönefeld Automatisiererin Pls Technik (wmd) Bb 12529",
    "location": "Berlin"
+  },
+  "94391e35a13b6da112dd61084a8392c9": {
+   "id": "94391e35a13b6da112dd61084a8392c9",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicetechniker Sicherheitstechnik (m/w/d)",
+   "location": "Kesselsdorf"
   },
   "ba0378e6476e05df327cbac8bd844b07": {
    "id": "ba0378e6476e05df327cbac8bd844b07",
@@ -3188,515 +3236,491 @@
    "role": "Servicetechniker Kran / Cws (w/m/d)",
    "location": "Dusseldorf"
   },
-  "e1435019a92afbb95c0afdcbe4080e28": {
-   "id": "e1435019a92afbb95c0afdcbe4080e28",
-   "company": "SAMSON Group",
-   "role": "Mechatroniker Als Servicetechniker (w/m/d) Im Außendienst",
-   "location": "Alle"
-  },
-  "0d4a7fa0e5f432845118c9e1cfa024e1": {
-   "id": "0d4a7fa0e5f432845118c9e1cfa024e1",
-   "company": "Aluminium Norf GmbH",
-   "role": "Mechaniker Energietechnik (m/w/d) 1",
-   "location": "Norf"
-  },
-  "1b0840cb593bd2b4b8c8d55d2a09d0ee": {
-   "id": "1b0840cb593bd2b4b8c8d55d2a09d0ee",
-   "company": "Ecolab Pty Ltd",
-   "role": "Equipment And Software Specialist (w/m/d) Textile Care",
-   "location": "Berlin"
-  },
-  "43cdd95fec47f6b46a4f0427c16e7e78": {
-   "id": "43cdd95fec47f6b46a4f0427c16e7e78",
-   "company": "Gebhardt Fordertechnik GmbH",
-   "role": "Elektriker / Mechatroniker (m/w/d) Innendienst",
-   "location": "Unknown"
-  },
-  "ec1dbbaf4ed714e9981014cb9a9ea28d": {
-   "id": "ec1dbbaf4ed714e9981014cb9a9ea28d",
-   "company": "1KOMMA5°",
-   "role": "Technischer Außendienst (m/w/d) für Wärmepumpen & Energiesysteme - 1KOMMA5° Berlin",
-   "location": "Berlin"
-  },
-  "e12b3bfd9e051b9ac5eaef293b987e52": {
-   "id": "e12b3bfd9e051b9ac5eaef293b987e52",
-   "company": "Vodafone",
-   "role": "Sales Agent (m/w/d) Für Die Vodafone Filiale In Düsseldorf (ferdinand-braun-platz 1), In Tz, Befr.",
+  "49a3c60b962ac27ae075a569d76fc976": {
+   "id": "49a3c60b962ac27ae075a569d76fc976",
+   "company": "POP MART Global",
+   "role": "Sales Associate - Düsseldorf",
    "location": "Dusseldorf"
   },
-  "7bc201ca6e723e60d4265f675ba78e69": {
-   "id": "7bc201ca6e723e60d4265f675ba78e69",
-   "company": "Vodafone",
-   "role": "Sales Agent (m/w/d) Für Die Vodafone Filiale In Erlangen, Befristet Für 1 Jahr",
-   "location": "Nuremberg"
-  },
-  "6f0b9b5168212416c73a1197ef7ce7c4": {
-   "id": "6f0b9b5168212416c73a1197ef7ce7c4",
-   "company": "TJX Australia (TK Maxx)",
-   "role": "Mitarbeiter Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "bc4da72475d65081ff133017eb91b17c": {
-   "id": "bc4da72475d65081ff133017eb91b17c",
-   "company": "Mango",
-   "role": "Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.",
-   "location": "Berlin"
-  },
-  "c04dda2526f0099e54773c9947fe33f3": {
-   "id": "c04dda2526f0099e54773c9947fe33f3",
-   "company": "Mango",
-   "role": "Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w.",
-   "location": "Cologne"
-  },
-  "affda4dd51a75c8e5933fb7048871305": {
-   "id": "affda4dd51a75c8e5933fb7048871305",
-   "company": "Mango",
-   "role": "Lagerist (m/w/d) In Teilzeit 20 Std./w.",
-   "location": "Nordrhein"
-  },
-  "4ddf9ba1069abdee28fb90f2ed72ce63": {
-   "id": "4ddf9ba1069abdee28fb90f2ed72ce63",
-   "company": "aldi-sued",
-   "role": "Studentenjob Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "dc256d1bb95c063c3c0075ed9370cc92": {
-   "id": "dc256d1bb95c063c3c0075ed9370cc92",
-   "company": "aldi-sued",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "f0d71f6162f7018bdd955bbcb6c2e4c0": {
-   "id": "f0d71f6162f7018bdd955bbcb6c2e4c0",
-   "company": "ALDI SE & Co. KG",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "db37191c1b7dd6641392593d6296c1eb": {
-   "id": "db37191c1b7dd6641392593d6296c1eb",
-   "company": "Aldi Süd",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "98d2d98e8a36665fd2f0b5a468b13c4c": {
-   "id": "98d2d98e8a36665fd2f0b5a468b13c4c",
-   "company": "Aldi Süd",
-   "role": "Studentenjob Verkauf (m/w/d)",
-   "location": "Saarbruecken"
-  },
-  "d4fd0dd8bcce0dab771fbc3e1d233821": {
-   "id": "d4fd0dd8bcce0dab771fbc3e1d233821",
-   "company": "HARTMANN",
-   "role": "Metzingen Sales Specialist In Teilzeit 15 H Woche Im Kneipp Shop Metzingen 72555",
-   "location": "Reutlingen"
-  },
-  "9a2d24155c05af1fb40f277df3ef9753": {
-   "id": "9a2d24155c05af1fb40f277df3ef9753",
-   "company": "Balenciaga Germany GmbH",
-   "role": "Balenciaga - Sales Associate - Dusseldorf",
-   "location": "Dusseldorf"
-  },
-  "12d9fdf5988664cbbd400fcf82fe153d": {
-   "id": "12d9fdf5988664cbbd400fcf82fe153d",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf (m/w/d)",
-   "location": "Munich"
-  },
-  "39f9ff742c10a4e123072366d96f03ee": {
-   "id": "39f9ff742c10a4e123072366d96f03ee",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)",
-   "location": "Berlin"
-  },
-  "b58a977c6024a14e74e4b54870be97e7": {
-   "id": "b58a977c6024a14e74e4b54870be97e7",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)",
-   "location": "Cologne"
-  },
-  "04cb14183d4c2c3e4218c6b9175e92d1": {
-   "id": "04cb14183d4c2c3e4218c6b9175e92d1",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Mitarbeiter Wareneingang (m/w/d)",
-   "location": "Jettingen"
-  },
-  "6235a863b20d3d074883db8e814295dc": {
-   "id": "6235a863b20d3d074883db8e814295dc",
-   "company": "Tchibo GmbH",
-   "role": "Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen (bero C.)",
-   "location": "Dusseldorf"
-  },
-  "d24fa27d027b14d63b45e7a273e088df": {
-   "id": "d24fa27d027b14d63b45e7a273e088df",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Frankfurt Am Main Ausbildung Zum Verkäufer (mwd) Schwerpunkt Fashion (start 2027) He",
-   "location": "Frankfurt Am Main"
-  },
-  "9e132d8e7381e3a4813ecc78686244b2": {
-   "id": "9e132d8e7381e3a4813ecc78686244b2",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Frankfurt Am Main Ausbildung Zum Verkäufer (mwd) Schwerpunkt Genussmittel (start 2027) He",
-   "location": "Frankfurt Am Main"
-  },
-  "00641b915d956fef44cf9f490f7c0c80": {
-   "id": "00641b915d956fef44cf9f490f7c0c80",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Frankfurt Am Main Ausbildung Zum Verkäufer (mwd) Schwerpunkt Beauty (start 2027) He",
-   "location": "Frankfurt Am Main"
-  },
-  "fbace290b9c8ae94019176d909bfa1c5": {
-   "id": "fbace290b9c8ae94019176d909bfa1c5",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Frankfurt Am Main Verkäufer (mwd) Fashion & Accessoires (100 Std_monat) He",
-   "location": "Frankfurt Am Main"
-  },
-  "c10e24017ec361620471c942adce149a": {
-   "id": "c10e24017ec361620471c942adce149a",
-   "company": "PENNY",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Cologne"
-  },
-  "13ae18f859998e98fcfd7f65d5f202c6": {
-   "id": "13ae18f859998e98fcfd7f65d5f202c6",
-   "company": "REWE Gritzner oHG",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Sb-frischetheke (m/w/d)",
-   "location": "Cologne"
-  },
-  "028859e79315bc1dcc3c90237bd2cfe8": {
-   "id": "028859e79315bc1dcc3c90237bd2cfe8",
-   "company": "Rewe Group",
-   "role": "Verkäufer Backshop (m/w/d)",
-   "location": "Munich"
-  },
-  "92552c7d5bd922e096acfaf8537d4624": {
-   "id": "92552c7d5bd922e096acfaf8537d4624",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
-   "role": "Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "1fd37901c8cbc7bf103c1318398c84c3": {
-   "id": "1fd37901c8cbc7bf103c1318398c84c3",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
+  "015c424e97cec6c42019045b93efbdb1": {
+   "id": "015c424e97cec6c42019045b93efbdb1",
+   "company": "REWE Group",
    "role": "Verkäufer Getränke (m/w/d)",
    "location": "Cologne"
   },
-  "3490a7f08fe5b6c0e46137cdd5048dbc": {
-   "id": "3490a7f08fe5b6c0e46137cdd5048dbc",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+  "f88da227d5253d06f84e22ef75f2f567": {
+   "id": "f88da227d5253d06f84e22ef75f2f567",
+   "company": "Rewe Group",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d) 6678475257",
    "location": "Cologne"
   },
-  "517173ff94f90be3236018ecd5896ba0": {
-   "id": "517173ff94f90be3236018ecd5896ba0",
-   "company": "REWE Arthur Boos GmbH & Co. oHG",
-   "role": "Verkäufer Obst & Gemüse (m/w/d)",
+  "016f9c158b4eff1eb4abbd633c6e15e5": {
+   "id": "016f9c158b4eff1eb4abbd633c6e15e5",
+   "company": "Rewe Group",
+   "role": "Verkäufer Schließfunktion (m/w/d)",
    "location": "Cologne"
   },
-  "c82d673b4e59b4e648ae5ed2aaa1e2a3": {
-   "id": "c82d673b4e59b4e648ae5ed2aaa1e2a3",
+  "9492369be5748c8740cff1f93be335b5": {
+   "id": "9492369be5748c8740cff1f93be335b5",
    "company": "Rewe Group",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
-   "location": "Saarbruecken"
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Berlin"
   },
-  "feb7458bdd6393b9b85def68e58ee5e5": {
-   "id": "feb7458bdd6393b9b85def68e58ee5e5",
-   "company": "Rewe Group",
-   "role": "Lagerist / Kommissionierer (m/w/d)",
-   "location": "GäUfelden"
-  },
-  "dfda0a240d3cdbf7b36000a73f47d1f4": {
-   "id": "dfda0a240d3cdbf7b36000a73f47d1f4",
-   "company": "Rewe Group",
-   "role": "Verkäufer Werkzeuge, Eisenwaren Und Baustoffe - Auch Quereinsteiger (m/w/d)",
-   "location": "Stuttgart"
-  },
-  "4445117e5b659a67d8fb42d724531c90": {
-   "id": "4445117e5b659a67d8fb42d724531c90",
+  "8f01a007cf2486dceb31f68f3d1d803e": {
+   "id": "8f01a007cf2486dceb31f68f3d1d803e",
    "company": "Rewe Group",
    "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
   },
-  "566e635776252cfd8329e02897882465": {
-   "id": "566e635776252cfd8329e02897882465",
-   "company": "REWE Oliver Frank GmbH & Co. oHG",
+  "0b539ce283ecd0b61472a30d26703fac": {
+   "id": "0b539ce283ecd0b61472a30d26703fac",
+   "company": "Rewe Group",
+   "role": "Verkäufer Gartentechnik - Auch Quereinsteiger (m/w/d)",
+   "location": "Constance"
+  },
+  "9a6d44248f02e1d8358beaf3e9497fc8": {
+   "id": "9a6d44248f02e1d8358beaf3e9497fc8",
+   "company": "PENNY",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "8ecaaea12577de6189afc9957dedf940": {
+   "id": "8ecaaea12577de6189afc9957dedf940",
+   "company": "Rewe Group",
+   "role": "Werkstudent Verkaufshilfe (m/w/d)",
+   "location": "Berlin"
+  },
+  "6fee988dadfac86b8b4ff8e1a7883e8c": {
+   "id": "6fee988dadfac86b8b4ff8e1a7883e8c",
+   "company": "REWE Jörg Randebrock oHG",
+   "role": "Werkstudent Verkauf (m/w/d)",
+   "location": "Cologne"
+  },
+  "1676bb1a532d9ce0d7713abef96ed620": {
+   "id": "1676bb1a532d9ce0d7713abef96ed620",
+   "company": "REWE Ahmad-Shah Hessami oHG",
    "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
   },
-  "665f5e24cce65fb3559ff61c9df59e88": {
-   "id": "665f5e24cce65fb3559ff61c9df59e88",
-   "company": "REWE Oliver Frank GmbH & Co. oHG",
-   "role": "Verkäufer Schließfunktion (m/w/d)",
+  "711b223f0e8e89313174a266eb8a3cba": {
+   "id": "711b223f0e8e89313174a266eb8a3cba",
+   "company": "REWE Jörg Randebrock oHG",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
   },
-  "3f6460dee995518d72b19df327266d6e": {
-   "id": "3f6460dee995518d72b19df327266d6e",
-   "company": "Rewe Group",
-   "role": "Verkäufer Obst & Gemüse (m/w/d)",
+  "3e2dcc46c5dbdfc7bc99d9efeaba7b4a": {
+   "id": "3e2dcc46c5dbdfc7bc99d9efeaba7b4a",
+   "company": "REWE Jörg Randebrock oHG",
+   "role": "Mitarbeiter Verkauf (m/w/d)",
    "location": "Cologne"
   },
-  "9af9c147b47a7b83d0da46e171bb3fbd": {
-   "id": "9af9c147b47a7b83d0da46e171bb3fbd",
-   "company": "Avisbudgetgroup",
-   "role": "Kundenberater:in / Verkaufsberater:in (m/w/d) In Der Autovermietung (teilzeit)",
-   "location": "Hamburg"
-  },
-  "e55da30cde494c89695485ec9f178da5": {
-   "id": "e55da30cde494c89695485ec9f178da5",
-   "company": "Lindt & Sprungli",
-   "role": "Verkäufer (m/w/d) Lindt Flagship Store München",
-   "location": "Munich"
-  },
-  "5f14bf84b20346244900506aba752c70": {
-   "id": "5f14bf84b20346244900506aba752c70",
-   "company": "Jimmy Choo",
-   "role": "Sales Associate",
-   "location": "Berlin"
-  },
-  "522359a10792906809896eafd51a0ef7": {
-   "id": "522359a10792906809896eafd51a0ef7",
-   "company": "S.Oliver Bernd Freier GmbH & Co. KG",
-   "role": "Berlin Verkaufsberater (mwd) In Teilzeit Mall Of Berlin",
-   "location": "Berlin"
-  },
-  "00a37ba00855dd0fd29238ff9e479cfa": {
-   "id": "00a37ba00855dd0fd29238ff9e479cfa",
-   "company": "S.Oliver Bernd Freier GmbH",
-   "role": "Berlin Aushilfe Im Verkauf (mwd) Mall Of Berlin",
-   "location": "Berlin"
-  },
-  "176f334ca5e0ee05b3980fbadb1155db": {
-   "id": "176f334ca5e0ee05b3980fbadb1155db",
-   "company": "S.Oliver Bernd Freier GmbH & Co. KG",
-   "role": "Sulzbachtaunus Outfitberater (mwd) In Teilzeit Im Main Taunus Zentrum",
-   "location": "Nuremberg"
-  },
-  "0b2995579385e3391c50e9092d08a2ed": {
-   "id": "0b2995579385e3391c50e9092d08a2ed",
-   "company": "John Henric",
-   "role": "Copy Of Sales Advisor, Hamburg",
-   "location": "Hamburg"
-  },
-  "04fae363f07919b1bcb7c1d33721fbd5": {
-   "id": "04fae363f07919b1bcb7c1d33721fbd5",
-   "company": "Skechers",
-   "role": "Verkäufer (m/w/d) In Teilzeit - Pasing Arcaden",
-   "location": "Munich"
-  },
-  "e93cb5b907b4b27111294ff6ddcad511": {
-   "id": "e93cb5b907b4b27111294ff6ddcad511",
-   "company": "JYSK",
-   "role": "Verkäufer/in Teilzeit (m/w/d) – Hamburg-langenhorn (20 Std)",
-   "location": "Hamburg"
-  },
-  "a490c2670c698f75160d5934bcd884e7": {
-   "id": "a490c2670c698f75160d5934bcd884e7",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Marktplatz Galerie Hamburg-bramfeld (m/w/d)",
-   "location": "Hamburg"
-  },
-  "2e223e9e0c700366ca126516d611d567": {
-   "id": "2e223e9e0c700366ca126516d611d567",
-   "company": "Skechers U.S.A.",
-   "role": "Verkäufer (m/w/d) In Teilzeit - Pasing Arcaden",
-   "location": "Munich"
-  },
-  "3857d9a9ab00c4533c236f603ec37005": {
-   "id": "3857d9a9ab00c4533c236f603ec37005",
-   "company": "ALDI SE & Co. KG",
-   "role": "Studentenjob Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "7590180b0835d9c70e6131ad5e52ab38": {
-   "id": "7590180b0835d9c70e6131ad5e52ab38",
-   "company": "Oberalp S.p.a",
-   "role": "Auszubildende/r (m/w/d) Salewa Store München",
-   "location": "Munich"
-  },
-  "f80c81f0956d605e647d214e389808a2": {
-   "id": "f80c81f0956d605e647d214e389808a2",
-   "company": "Oberalp S.p.a",
-   "role": "Fachverkäufer (m/w/d) Vollzeit/teilzeit/minijob Salewa Outlet Zweibrücken",
-   "location": "Saarbruecken"
-  },
-  "072c5add3c507058d8e1044696081b98": {
-   "id": "072c5add3c507058d8e1044696081b98",
-   "company": "Levis Media",
-   "role": "Sales Stylist On Vollzeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "227af7b65990cf8f406c2780363e0436": {
-   "id": "227af7b65990cf8f406c2780363e0436",
-   "company": "MediamarktSaturn",
-   "role": "Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)",
-   "location": "Cologne"
-  },
-  "65d29320553e1166cfe0077c97ddb3ee": {
-   "id": "65d29320553e1166cfe0077c97ddb3ee",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)",
-   "location": "Constance"
-  },
-  "957bd8da0c98c6904d26c53b1533c351": {
-   "id": "957bd8da0c98c6904d26c53b1533c351",
-   "company": "MediamarktSaturn",
-   "role": "Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)",
-   "location": "Hamburg"
-  },
-  "ef19c2f7e00d3aae791484f86d2ef95c": {
-   "id": "ef19c2f7e00d3aae791484f86d2ef95c",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf Teilzeit (m/w/d)",
-   "location": "Munich"
-  },
-  "c7da603483f256da6eb837a9b65222f0": {
-   "id": "c7da603483f256da6eb837a9b65222f0",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "(studentische) Aushilfe Im Verkauf (m/w/d)",
-   "location": "Munich"
-  },
-  "88e62ce4c394dd61c47d5f5a32c8b98d": {
-   "id": "88e62ce4c394dd61c47d5f5a32c8b98d",
-   "company": "MediamarktSaturn",
-   "role": "Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)",
-   "location": "Hamburg"
-  },
-  "9abf06d359a66e84130304ebba5f2fdb": {
-   "id": "9abf06d359a66e84130304ebba5f2fdb",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Aushilfe/minijob Im Verkauf - Schwerpunkt Smartphone & Vertragsgeschäft (m/w/d)",
-   "location": "Dusseldorf"
-  },
-  "a3c15186925994970d8ee654c731a2c6": {
-   "id": "a3c15186925994970d8ee654c731a2c6",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Ausbildung Zum Verkäufer (m/w/d)",
-   "location": "Cologne"
-  },
-  "994b9f0384fe03b1de1ac1fa199c325e": {
-   "id": "994b9f0384fe03b1de1ac1fa199c325e",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Aushilfe/minijob Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "0bc6713f04d69290f4ffc1c1d689a78b": {
-   "id": "0bc6713f04d69290f4ffc1c1d689a78b",
-   "company": "Crocs",
-   "role": "Store Sales Associate (part Time), Oberhausen",
-   "location": "Dusseldorf"
-  },
-  "ee20b130976ddc8d3a377d1b0e1bedf4": {
-   "id": "ee20b130976ddc8d3a377d1b0e1bedf4",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Aushilfe / Studentenjob Im Verkauf In Teilzeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "e6a2c5a3410084d622348d8ad3e8209d": {
-   "id": "e6a2c5a3410084d622348d8ad3e8209d",
-   "company": "Rewe Group",
+  "fdcb00f3919a696777b6ffa25488b998": {
+   "id": "fdcb00f3919a696777b6ffa25488b998",
+   "company": "REWE Fickeis oHG",
    "role": "Verkäufer (m/w/d)",
    "location": "Cologne"
   },
-  "993700dcd77302c01bf3f99e60b8984f": {
-   "id": "993700dcd77302c01bf3f99e60b8984f",
+  "117287a19a1bf4f63b3bc7813bf7b143": {
+   "id": "117287a19a1bf4f63b3bc7813bf7b143",
    "company": "Rewe Group",
-   "role": "Ausbildung Verkäufer (m/w/d)",
-   "location": "Wurzburg"
-  },
-  "8e314b986472cbff638c798384427ab8": {
-   "id": "8e314b986472cbff638c798384427ab8",
-   "company": "Rewe Group",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Hamburg"
-  },
-  "8f19611619a73f35693eec5205bcd066": {
-   "id": "8f19611619a73f35693eec5205bcd066",
-   "company": "Rewe Group",
-   "role": "Verkäufer (m/w/d) - 9475",
-   "location": "Wuppertal"
-  },
-  "e73c515ab5ae333e4c0345d68bd46a20": {
-   "id": "e73c515ab5ae333e4c0345d68bd46a20",
-   "company": "Rewe Group",
-   "role": "Warenverräumer Liefer-/ Abholservice (m/w/d)",
-   "location": "Dortmund"
-  },
-  "b38ece029e79f275547ce45335b584e8": {
-   "id": "b38ece029e79f275547ce45335b584e8",
-   "company": "Rewe Group",
-   "role": "Verkäufer Baumarkt - Auch Quereinsteiger (m/w/d)",
-   "location": "Cologne"
-  },
-  "ab61333c371f3e66210c81aa24ba6f6e": {
-   "id": "ab61333c371f3e66210c81aa24ba6f6e",
-   "company": "Rewe Group",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke Metzgerei (m/w/d)",
-   "location": "Cologne"
-  },
-  "02d214f7eec269b88058fb8d64f11b15": {
-   "id": "02d214f7eec269b88058fb8d64f11b15",
-   "company": "Rewe Group",
-   "role": "Verkäufer Schließfunktion (m/w/d)",
-   "location": "Cologne"
-  },
-  "36393a8471b879db824e9cc3fe4dddc3": {
-   "id": "36393a8471b879db824e9cc3fe4dddc3",
-   "company": "Rewe Group",
-   "role": "Verkäufer Getränke (m/w/d)",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
    "location": "Saarbruecken"
   },
-  "a2f83a1b21cf181c6d8d0afb1a22a111": {
-   "id": "a2f83a1b21cf181c6d8d0afb1a22a111",
+  "c01e490d7635a83304b45a10c1548aa8": {
+   "id": "c01e490d7635a83304b45a10c1548aa8",
    "company": "Rewe Group",
-   "role": "Verkäufer Baustoffe - Auch Quereinsteiger (m/w/d)",
-   "location": "Berlin"
-  },
-  "2d24a9931441dfe45cd9308501e450e4": {
-   "id": "2d24a9931441dfe45cd9308501e450e4",
-   "company": "Rewe Group",
-   "role": "Verkäufer Garten - Auch Quereinsteiger (m/w/d)",
-   "location": "Cologne"
-  },
-  "14b580853aff369c587ef8e462053b8c": {
-   "id": "14b580853aff369c587ef8e462053b8c",
-   "company": "Rewe Group",
-   "role": "Mitarbeiter Wareneingang Obst Und Gemüse (m/w/d)",
-   "location": "Buttenheim"
-  },
-  "675d6ba373563a8e4f08fde0f4ff3307": {
-   "id": "675d6ba373563a8e4f08fde0f4ff3307",
-   "company": "LOVISA",
-   "role": "Aushilfe Gesucht (m/w/d)",
-   "location": "Berlin"
-  },
-  "cfb2c8fba57371aa1634f255d22b9228": {
-   "id": "cfb2c8fba57371aa1634f255d22b9228",
-   "company": "Rewe Group",
-   "role": "Aushilfe / Minijob Warenverräumung (m/w/d)",
-   "location": "Cologne"
-  },
-  "2e353b82bc99169e1f149e2aa06511aa": {
-   "id": "2e353b82bc99169e1f149e2aa06511aa",
-   "company": "Rewe Group",
-   "role": "Schangstraße 5 Verkäufer Frischetheke (m/w/d)",
-   "location": "Wuppertal"
-  },
-  "dde1ccb45ce1bf260ee4461f0931f547": {
-   "id": "dde1ccb45ce1bf260ee4461f0931f547",
-   "company": "PENNY",
-   "role": "Ausbildung Verkäufer (m/w/d)",
+   "role": "Mitarbeiter Disposition / Warenannahme / Logistik - Auch Quereinsteiger (m/w/d)",
    "location": "Munich"
   },
-  "3e43cdab119cec6bd4aae2a5dfc5c3bf": {
-   "id": "3e43cdab119cec6bd4aae2a5dfc5c3bf",
-   "company": "Rewe Group",
-   "role": "Minijob / Aushilfe Schrauben Und Beschläge (m/w/d)",
-   "location": "Berlin"
-  },
-  "81972fefe71de4ae432aeea7313892c6": {
-   "id": "81972fefe71de4ae432aeea7313892c6",
+  "745499e18db5292852530839c7779bd5": {
+   "id": "745499e18db5292852530839c7779bd5",
    "company": "Rewe Group",
    "role": "Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)",
    "location": "Hamburg"
+  },
+  "1aa3758e3aff72348415027793c2f470": {
+   "id": "1aa3758e3aff72348415027793c2f470",
+   "company": "REWE Fickeis oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "4cc5d76b67541d08cccebd6c60663faf": {
+   "id": "4cc5d76b67541d08cccebd6c60663faf",
+   "company": "REWE Moers Uerdinger Straße GmbH & Co. Einzelhandels KG",
+   "role": "Verkäufer Im Getränkemarkt (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "3dc514ab46964d3a121fe7820709cde6": {
+   "id": "3dc514ab46964d3a121fe7820709cde6",
+   "company": "REWE Holger Rohe oHG",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
+  },
+  "b5b9638bcf0b04b7a9e2f6b98b711263": {
+   "id": "b5b9638bcf0b04b7a9e2f6b98b711263",
+   "company": "Telefonica",
+   "role": "Verkäufer / Kundenberater (m/w/d) O2 Live Store Frankfurt Am Main",
+   "location": "Frankfurt Am Main"
+  },
+  "64de677d4c9d0a12c55d6d251cfa8ff6": {
+   "id": "64de677d4c9d0a12c55d6d251cfa8ff6",
+   "company": "Uniqlo",
+   "role": "Verkäufer:in In Voll- Und Teilzeit (m/w/d) Uniqlo Königstraße, Stuttgart",
+   "location": "Stuttgart"
+  },
+  "4c4f49302e277100ddac5d8b73d05fe2": {
+   "id": "4c4f49302e277100ddac5d8b73d05fe2",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "München Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 80993",
+   "location": "Munich"
+  },
+  "59810a48cf030e381c99bc50ea983408": {
+   "id": "59810a48cf030e381c99bc50ea983408",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "München Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 80993",
+   "location": "Munich"
+  },
+  "d06a45f105f5d5f63dff7316c80a59ef": {
+   "id": "d06a45f105f5d5f63dff7316c80a59ef",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Nürnberg Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 90403",
+   "location": "Nuremberg"
+  },
+  "c2fedcf86ef8f281e5c4644cbeeb7ec7": {
+   "id": "c2fedcf86ef8f281e5c4644cbeeb7ec7",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Nürnberg Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 90403",
+   "location": "Nuremberg"
+  },
+  "b3a4ac15fd1a906e3b9f7fcf2df605d4": {
+   "id": "b3a4ac15fd1a906e3b9f7fcf2df605d4",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Nürnberg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 90403",
+   "location": "Nuremberg"
+  },
+  "e01a30e380c4fb652e8e41889cd67e98": {
+   "id": "e01a30e380c4fb652e8e41889cd67e98",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Nürtingen Kundenberater Verkauf (mwd) 72622",
+   "location": "Reutlingen"
+  },
+  "ed26666ea84c8899467e407b0ee51f5c": {
+   "id": "ed26666ea84c8899467e407b0ee51f5c",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Heide Aushilfeminijob Logistik Schwerpunkt Warenverräumung (mwd) 25746",
+   "location": "Kiel"
+  },
+  "0ad609eda18fd9bb3c4d47ce26276945": {
+   "id": "0ad609eda18fd9bb3c4d47ce26276945",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Konstanz Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 78467",
+   "location": "Constance"
+  },
+  "e8fb5067e0399412d3b16ecc1e2304f9": {
+   "id": "e8fb5067e0399412d3b16ecc1e2304f9",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Worms Ausbildung Zum Verkäufer (mwd) 67547",
+   "location": "Mannheim"
+  },
+  "f684a059a900efe34ac3310b02c00708": {
+   "id": "f684a059a900efe34ac3310b02c00708",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Worms Kundenberater Verkauf (mwd) 67547",
+   "location": "Mannheim"
+  },
+  "79bd94e4c3f00b492ad1c82a55b9cb87": {
+   "id": "79bd94e4c3f00b492ad1c82a55b9cb87",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Münster Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 48143",
+   "location": "Munster"
+  },
+  "8cc48908f34438934e8c08a482449c7a": {
+   "id": "8cc48908f34438934e8c08a482449c7a",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Sulzbach Kundenberater Verkauf (mwd) 65843",
+   "location": "Nuremberg"
+  },
+  "020730ba290b93cd6a22df2844d5ea05": {
+   "id": "020730ba290b93cd6a22df2844d5ea05",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Friedrichshafen Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 88045",
+   "location": "Constance"
+  },
+  "20a9c6736d81119cbc82e3ab5fd325b3": {
+   "id": "20a9c6736d81119cbc82e3ab5fd325b3",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Neuss Aushilfeminijob Im Verkauf (mwd) 41464",
+   "location": "Dusseldorf"
+  },
+  "3d8569654a531454dc12b35d56134650": {
+   "id": "3d8569654a531454dc12b35d56134650",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Elmshorn Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 25337",
+   "location": "Hamburg"
+  },
+  "9a5080145ceedb6cda0148d9b8d46ea3": {
+   "id": "9a5080145ceedb6cda0148d9b8d46ea3",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Elmshorn Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 25337",
+   "location": "Hamburg"
+  },
+  "5f5b22eca537026f7593ea1c19dfc771": {
+   "id": "5f5b22eca537026f7593ea1c19dfc771",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hamburg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 20095",
+   "location": "Hamburg"
+  },
+  "93d69339880f9afba570bce128cd544a": {
+   "id": "93d69339880f9afba570bce128cd544a",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Münster Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 48153",
+   "location": "Munster"
+  },
+  "2e036bb07457635c9e28bcbe6de4e399": {
+   "id": "2e036bb07457635c9e28bcbe6de4e399",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Erlangen Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 91052",
+   "location": "Nuremberg"
+  },
+  "bf33dc63eb5b004ba541368b8a2c2639": {
+   "id": "bf33dc63eb5b004ba541368b8a2c2639",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Sindelfingen Kundenberater Verkauf (mwd) 71065",
+   "location": "Stuttgart"
+  },
+  "8b9f00942b3a8b7fea236d5d24d2e56f": {
+   "id": "8b9f00942b3a8b7fea236d5d24d2e56f",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Böblingen Kundenberater Verkauf (mwd) 71034",
+   "location": "Stuttgart"
+  },
+  "5176ce3fc86ccaea6c7068de9c62234f": {
+   "id": "5176ce3fc86ccaea6c7068de9c62234f",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Neuss Aushilfeminijob Im Verkauf (mwd) 41460",
+   "location": "Dusseldorf"
+  },
+  "4ccb82083a43aac5d508075db7f57c95": {
+   "id": "4ccb82083a43aac5d508075db7f57c95",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Berlin Wedding Kundenberater Verkauf (mwd) 13357",
+   "location": "Berlin"
+  },
+  "888e42c3d6701bc09a899c89492dc08f": {
+   "id": "888e42c3d6701bc09a899c89492dc08f",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Wiesbaden Kundenberater Verkauf (mwd) 65189",
+   "location": "Frankfurt Am Main"
+  },
+  "e1009d4ce6492de4c6b5d8f2cda4fcb4": {
+   "id": "e1009d4ce6492de4c6b5d8f2cda4fcb4",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Schwabach Kundenberater Verkauf (mwd) 91126",
+   "location": "Nuremberg"
+  },
+  "5c3b928b2a343871d3fa481081d4d533": {
+   "id": "5c3b928b2a343871d3fa481081d4d533",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Fellbach Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 70736",
+   "location": "Stuttgart"
+  },
+  "c0cda8790e2698914251a679899b7fc4": {
+   "id": "c0cda8790e2698914251a679899b7fc4",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Fellbach Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 70736",
+   "location": "Stuttgart"
+  },
+  "d6da5cb07935be01ca4bdf30085af777": {
+   "id": "d6da5cb07935be01ca4bdf30085af777",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Unterföhring Kundenberater Verkauf Teilzeit (mwd) 85774",
+   "location": "Munich"
+  },
+  "24edea367e8c346cd250c3f8c4829a33": {
+   "id": "24edea367e8c346cd250c3f8c4829a33",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Erlangen Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 91052",
+   "location": "Nuremberg"
+  },
+  "b0d2c09f97056d103fa906899081dede": {
+   "id": "b0d2c09f97056d103fa906899081dede",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Potsdam Kundenberater Verkauf (mwd) 14473",
+   "location": "Berlin"
+  },
+  "fae013f2ac76a58dbfa0b487d9f21f59": {
+   "id": "fae013f2ac76a58dbfa0b487d9f21f59",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hilden Kundenberater Verkauf (mwd) 40721",
+   "location": "Dusseldorf"
+  },
+  "fc73645963f8edaa7849a2519b5bd0ac": {
+   "id": "fc73645963f8edaa7849a2519b5bd0ac",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Leverkusen Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 51373",
+   "location": "Cologne"
+  },
+  "64bdfc81d2f49d5810961f1e7198d6f0": {
+   "id": "64bdfc81d2f49d5810961f1e7198d6f0",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Leverkusen Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 51373",
+   "location": "Cologne"
+  },
+  "7e70de96fc0eed9b15ece1f9f06bf14d": {
+   "id": "7e70de96fc0eed9b15ece1f9f06bf14d",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Konstanz Kundenberater Verkauf (mwd) 78467",
+   "location": "Constance"
+  },
+  "28beea433a9180a025ec867872e09565": {
+   "id": "28beea433a9180a025ec867872e09565",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Recklinghausen Kundenberater Verkauf (mwd) 45657",
+   "location": "Dortmund"
+  },
+  "a9960e27cf6d5c0be09f75d2b662cc82": {
+   "id": "a9960e27cf6d5c0be09f75d2b662cc82",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Itzehoe Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 25524",
+   "location": "Hamburg"
+  },
+  "f86ccae689cc9359d8cd868d4ab2e1cd": {
+   "id": "f86ccae689cc9359d8cd868d4ab2e1cd",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Itzehoe Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 25524",
+   "location": "Hamburg"
+  },
+  "619fcbc7220f6b73f32b44a291c61cf3": {
+   "id": "619fcbc7220f6b73f32b44a291c61cf3",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Nürnberg Ausbildung Zum Verkäufer (mwd) 90403",
+   "location": "Nuremberg"
+  },
+  "dde2d081646c6615fc51e98888002c0e": {
+   "id": "dde2d081646c6615fc51e98888002c0e",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Ansbach (studentische) Aushilfeminijob Im Verkauf (mwd) 91522",
+   "location": "Nuremberg"
+  },
+  "992d9451d03f27101b1acea1d2ee4016": {
+   "id": "992d9451d03f27101b1acea1d2ee4016",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Nürnberg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 90431",
+   "location": "Nuremberg"
+  },
+  "93cce614957ba545ac168f7120cc9498": {
+   "id": "93cce614957ba545ac168f7120cc9498",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Buxtehude Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 21614",
+   "location": "Hamburg"
+  },
+  "0e807fdfc5e705178529ff4af55f0b63": {
+   "id": "0e807fdfc5e705178529ff4af55f0b63",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hamburg Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 22609",
+   "location": "Hamburg"
+  },
+  "d0831832c7fde77b03df551c56a9c917": {
+   "id": "d0831832c7fde77b03df551c56a9c917",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hamburg Kundenberater Verkauf (mwd) 22609",
+   "location": "Hamburg"
+  },
+  "11997ab63a98144e8af307c8023e3f69": {
+   "id": "11997ab63a98144e8af307c8023e3f69",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Halstenbek Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 25469",
+   "location": "Hamburg"
+  },
+  "76a1d94b8b9d07ab4377204bd85e9804": {
+   "id": "76a1d94b8b9d07ab4377204bd85e9804",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Halstenbek Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 25469",
+   "location": "Hamburg"
+  },
+  "462fc460c3b616d44b36258d77e43fc8": {
+   "id": "462fc460c3b616d44b36258d77e43fc8",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Moers Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 47441",
+   "location": "Dusseldorf"
+  },
+  "40303cc48fbb5085b5b1e3aab1004e7c": {
+   "id": "40303cc48fbb5085b5b1e3aab1004e7c",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hamburg Kundenberater Verkauf (mwd) 22047",
+   "location": "Hamburg"
+  },
+  "8a08a4cdbc73cac2236a3221c890f858": {
+   "id": "8a08a4cdbc73cac2236a3221c890f858",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Viernheim Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 68519",
+   "location": "Mannheim"
+  },
+  "76299b3e7dde964e38d290cd3feea212": {
+   "id": "76299b3e7dde964e38d290cd3feea212",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Weinheim Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 69469",
+   "location": "Mannheim"
+  },
+  "00a53b2118c9ec6c4685d1c11f3af79e": {
+   "id": "00a53b2118c9ec6c4685d1c11f3af79e",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Esslingen Aushilfeminijob Im Verkauf (mwd) 73733",
+   "location": "Stuttgart"
+  },
+  "85b46d4f3b5f3b22d2b6cb304d60a2ef": {
+   "id": "85b46d4f3b5f3b22d2b6cb304d60a2ef",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Esslingen Kundenberater Verkauf (mwd) 73733",
+   "location": "Stuttgart"
+  },
+  "53031376c204570866b376aa9b051168": {
+   "id": "53031376c204570866b376aa9b051168",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Halstenbek Kundenberater Verkauf (mwd) 25469",
+   "location": "Hamburg"
+  },
+  "03df6eda0c2ea5932ac46fac7b483d4b": {
+   "id": "03df6eda0c2ea5932ac46fac7b483d4b",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hamburg Kundenberater Verkauf (mwd) 22765",
+   "location": "Hamburg"
+  },
+  "cb507772f183356780fcc4392294ca7e": {
+   "id": "cb507772f183356780fcc4392294ca7e",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "München Kundenberater Verkauf (mwd) 81477",
+   "location": "Munich"
+  },
+  "dbb63a195756ad1a4d98ebbd93023f90": {
+   "id": "dbb63a195756ad1a4d98ebbd93023f90",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Halstenbek Aushilfeminijob Logistik Schwerpunkt Warenverräumung (mwd) 25469",
+   "location": "Hamburg"
+  },
+  "b0dcb75837fb9b8db71dbb0d99c639f9": {
+   "id": "b0dcb75837fb9b8db71dbb0d99c639f9",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Ravensburg Kundenberater Verkauf (mwd) 88212",
+   "location": "Constance"
+  },
+  "b23c9a585a547d6778b527b903c28ba4": {
+   "id": "b23c9a585a547d6778b527b903c28ba4",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hagen Kundenberater Verkauf (mwd) 58095",
+   "location": "Dortmund"
+  },
+  "244c78f47dc520767d527495e8509162": {
+   "id": "244c78f47dc520767d527495e8509162",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Hamburg Kundenberater Verkauf (mwd) 21079",
+   "location": "Hamburg"
+  },
+  "1d2a78dbd4715d22bf709d2d3ce3a3ef": {
+   "id": "1d2a78dbd4715d22bf709d2d3ce3a3ef",
+   "company": "Marsh",
+   "role": "Kaufmännische Mitarbeitende* - / Office Support",
+   "location": "Frankfurt Am Main"
   },
   "bbf807c17387f1ecd34330045ca293ec": {
    "id": "bbf807c17387f1ecd34330045ca293ec",
@@ -4153,12 +4177,6 @@
    "company": "Deloitte GmbH",
    "role": "(junior) Assistant Sekretariat Steuerberatung - Tax (m/w/d)",
    "location": "Munich"
-  },
-  "c9cab7a3e50b01216972d9e07745ac90": {
-   "id": "c9cab7a3e50b01216972d9e07745ac90",
-   "company": "Marsh",
-   "role": "Kaufmännische Mitarbeitende* - / Office Support",
-   "location": "Frankfurt Am Main"
   },
   "dc41261d096d85638d9f913bca776715": {
    "id": "dc41261d096d85638d9f913bca776715",
