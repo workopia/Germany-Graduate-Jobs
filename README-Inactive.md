@@ -10415,4 +10415,75 @@
 <tr><td>Rewe Group</td><td>Minijob / Aushilfe Schrauben Und Beschläge (m/w/d)</td><td>Berlin</td><td>2026-10-22</td></tr>
 <tr><td>Rewe Group</td><td>Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)</td><td>Hamburg</td><td>2026-10-22</td></tr>
 <tr><td>Marsh</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Frankfurt Am Main</td><td>2026-10-22</td></tr>
+<tr><td>ADTRAN</td><td>Legal Operations Intern</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>Zalando</td><td>Intern Category Management - Private Label (all Genders)</td><td>Berlin</td><td>2026-10-24</td></tr>
+<tr><td>Zalando</td><td>Intern Category Management - Accessories & Specialties (all Genders)</td><td>Berlin</td><td>2026-10-24</td></tr>
+<tr><td>ORAFOL Europe GmbH</td><td>Oranienburg Pflichtpraktikum Im Marketing</td><td>Berlin</td><td>2026-10-24</td></tr>
+<tr><td>DER Deutsches Reisebüro GmbH & Co. OHG</td><td>Praktikum (m/w/d) Im Bereich Marketing (vertrieb)</td><td>Frankfurt Am Main</td><td>2026-10-24</td></tr>
+<tr><td>TikTok</td><td>Content Operations Project Intern (tiktok Operations) - 2026 Start (bs/ms)</td><td>Berlin</td><td>2026-10-24</td></tr>
+<tr><td>TikTok</td><td>Business Development Intern (tiktok Shop Operations) - 2027 Summer</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>TikTok</td><td>Eu Marketing Project Intern (tiktok Shop) - 2026 Start (bs/ms)</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>TikTok</td><td>Creator Management Intern (tiktok Live) - 2027 Start</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Pharmaziepraktikum In Der 3pqm</td><td>All</td><td>2026-10-24</td></tr>
+<tr><td>Boehringer Ingelheim</td><td>Internship - Statistical Methodology, Applied Statistics, And Programming In Clinical Development</td><td>All</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Hartenstein Studierendenpraktikum Oder Abschlussarbeit Bei Eckart (hartenstein, Wackersdorf) Sn 91235</td><td>Wackersdorf</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Wesel Schülerpraktikum Bei Byk Chemie (wesel) Nw 46483</td><td>Dusseldorf</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Hamburg Schülerpraktikum Bei Elantas Europe (hamburg) Hh 20539</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Hamburg Studierendenpraktikum Oder Abschlussarbeit Bei Elantas Europe (hamburg) Hh 20539</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Geretsried Studierendenpraktikum Oder Abschlussarbeit Bei Byk Gardner (geretsried) By 82538</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Geretsried Schülerpraktikum Bei Byk Gardner Gmbh (geretsried) By 82538</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>ALTANA AG</td><td>Lehrte Marketing Praktikant (mwd) Ni 31275</td><td>Ni</td><td>2026-10-24</td></tr>
+<tr><td>1KOMMA5°</td><td>Internship Process & Operations - Energy (m/f/d)</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>1KOMMA5°</td><td>Internship AI & Automation - Energy (m/f/d)</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>White & Case</td><td>Praktikantin / Praktikant (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-24</td></tr>
+<tr><td>Monolithic Power Systems</td><td>Functional Safety Intern</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>Deutz AG</td><td>Köln Praktikant Umschüler (mwd) Kaufmännisch Nw 51149</td><td>Cologne</td><td>2026-10-24</td></tr>
+<tr><td>Knorr-Bremse Systeme für Nutzfahrzeuge GmbH</td><td>Aldersbach Praktikanten (mwd) Im Bereich Logistik 94501</td><td>Aldersbach</td><td>2026-10-24</td></tr>
+<tr><td>NKT A/S</td><td>Apprenticeship As An Industrial Mechanic (m/f/d)</td><td>Cologne</td><td>2026-10-24</td></tr>
+<tr><td>NKT A/S</td><td>Apprentice Electrical (m/f/d)</td><td>Cologne</td><td>2026-10-24</td></tr>
+<tr><td>BMW Group</td><td>Apprentice As Industrial Mechanic (f/m/x) In Our Plant 1 1 1 1</td><td>Berlin</td><td>2026-10-24</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Smalltalk (all Genders)</td><td>Germany</td><td>2026-10-24</td></tr>
+<tr><td>Jobgether</td><td>Linux Kernel Engineer</td><td>Germany</td><td>2026-10-24</td></tr>
+<tr><td>Ayvens Group</td><td>Referent (w/m/d) - Schadenmanagement</td><td>Dusseldorf</td><td>2026-10-24</td></tr>
+<tr><td>Mercer Deutschland</td><td>Specialist Pensionfunds Management Implementation / Spezialist Einrichtung Pensionsfonds Management (geschäftsstelle Prozesse)</td><td>Dusseldorf</td><td>2026-10-24</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Mechatronikerin/ Mechanikerin Als Service-technikerin (m/w/d) Im Gebiet Emsland-nord</td><td>Emsland-Nord</td><td>2026-10-24</td></tr>
+<tr><td>STILL</td><td>Servicetechniker (m/w/d) In Vollzeit</td><td>Wedemark</td><td>2026-10-24</td></tr>
+<tr><td>Getinge AB</td><td>Servicetechniker Sw (m/w/d) Raum Frankfurt</td><td>Karlsruhe</td><td>2026-10-24</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Lörrach</td><td>Freiburg Im Breisgau</td><td>2026-10-24</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Ludwigsburg</td><td>Stuttgart</td><td>2026-10-24</td></tr>
+<tr><td>Haushahn GmbH & Co. KG</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Stuttgart-nord</td><td>Stuttgart</td><td>2026-10-24</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Aufbau/fahrzeugbau (w/m/d)</td><td>Dusseldorf</td><td>2026-10-24</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker (m/w/d) Railway - Deutschlandweit</td><td>Germany</td><td>2026-10-24</td></tr>
+<tr><td>PALFINGER AG</td><td>Service Technician (m/f/d) Marine</td><td>DäGeling</td><td>2026-10-24</td></tr>
+<tr><td>PALFINGER AG</td><td>Servicetechniker Kran / Cws (w/m/d)</td><td>Dusseldorf</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Recklinghausen Kundenberater Verkauf (mwd) 45657</td><td>Dortmund</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Itzehoe Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 25524</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Itzehoe Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 25524</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürnberg Ausbildung Zum Verkäufer (mwd) 90403</td><td>Nuremberg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ansbach (studentische) Aushilfeminijob Im Verkauf (mwd) 91522</td><td>Nuremberg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürnberg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 90431</td><td>Nuremberg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Buxtehude Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 21614</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hamburg Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 22609</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hamburg Kundenberater Verkauf (mwd) 22609</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Halstenbek Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 25469</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Halstenbek Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 25469</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Moers Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 47441</td><td>Dusseldorf</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hamburg Kundenberater Verkauf (mwd) 22047</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Viernheim Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 68519</td><td>Mannheim</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Weinheim Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 69469</td><td>Mannheim</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Esslingen Aushilfeminijob Im Verkauf (mwd) 73733</td><td>Stuttgart</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Esslingen Kundenberater Verkauf (mwd) 73733</td><td>Stuttgart</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Halstenbek Kundenberater Verkauf (mwd) 25469</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hamburg Kundenberater Verkauf (mwd) 22765</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>München Kundenberater Verkauf (mwd) 81477</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Halstenbek Aushilfeminijob Logistik Schwerpunkt Warenverräumung (mwd) 25469</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ravensburg Kundenberater Verkauf (mwd) 88212</td><td>Constance</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hagen Kundenberater Verkauf (mwd) 58095</td><td>Dortmund</td><td>2026-10-24</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hamburg Kundenberater Verkauf (mwd) 21079</td><td>Hamburg</td><td>2026-10-24</td></tr>
+<tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hanover</td><td>2026-10-24</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Quality Specialist (m/w/d)</td><td>Wolfertschwenden</td><td>2026-10-24</td></tr>
+<tr><td>Deloitte GmbH</td><td>(junior) Assistant Sekretariat Steuerberatung - Tax (m/w/d)</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>MBDA Deutschland GmbH</td><td>Specialist Production (m/w/d) Grains</td><td>Aschau Am Inn</td><td>2026-10-24</td></tr>
+<tr><td>JYSK</td><td>Mitarbeiter:in Leitstand Logistik (m/w/d)</td><td>Kammlach</td><td>2026-10-24</td></tr>
+<tr><td>Hilton Worldwide</td><td>Marketing Coordinator (m/w/d) / Part Time</td><td>Munich</td><td>2026-10-24</td></tr>
 </table>
