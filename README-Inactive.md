@@ -10486,4 +10486,62 @@
 <tr><td>MBDA Deutschland GmbH</td><td>Specialist Production (m/w/d) Grains</td><td>Aschau Am Inn</td><td>2026-10-24</td></tr>
 <tr><td>JYSK</td><td>Mitarbeiter:in Leitstand Logistik (m/w/d)</td><td>Kammlach</td><td>2026-10-24</td></tr>
 <tr><td>Hilton Worldwide</td><td>Marketing Coordinator (m/w/d) / Part Time</td><td>Munich</td><td>2026-10-24</td></tr>
+<tr><td>EndressHauser AG</td><td>Maulburg Praktikum Oder Abschlussarbeit Globale Duale Bildung 79689</td><td>Maulburg</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Nesselwang Schülerpraktikum (2 3 Tage) Als Industriekaufmann (wmd) 87484</td><td>Nesselwang</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Nesselwang Schülerpraktikum (3 5 Tage) Im Bereich Fachinformatik 87484</td><td>Nesselwang</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Maulburg Schülerpraktikum Als Fachinformatiker Für Anwendungsentwicklung (wmd) 79689</td><td>Maulburg</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Jena Abschlussarbeit Praktikum Im Kaufmännischen Bereich 07745</td><td>Jena</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Jena Abschlussarbeit Praktikum Im Technischen Bereich 07745</td><td>Jena</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Ratingen Werkstudent Praktikant (mwd) Vertriebsinnendienst 40882</td><td>Dusseldorf</td><td>2026-10-25</td></tr>
+<tr><td>EndressHauser AG</td><td>Maulburg Praktikum Oder Werkstudententätigkeit Nachhaltigkeitsanalyse, Marketing & Vertrieb 79689</td><td>Maulburg</td><td>2026-10-25</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Information Security & Access Governance (digital Authorization Concept) (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-10-25</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Securities & Collateral Clearing Design (f/m/d)</td><td>Frankfurt Am Main +1</td><td>2026-10-25</td></tr>
+<tr><td>HARTMANN</td><td>Wolfstein Initiativbewerbung Studenten (mwd) Für Praktika Und Abschlussarbeiten Rp 67752</td><td>Germany</td><td>2026-10-25</td></tr>
+<tr><td>HARTMANN</td><td>Wolfstein Initiativbewerbung Schulpraktikant (mwd) Rp 67752</td><td>Nach Postleitzahl Suchen</td><td>2026-10-25</td></tr>
+<tr><td>ams-osram</td><td>Praktikant In D_m_w Strategy Business Development Pflichtpraktikum Garching</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Recht In Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-10-25</td></tr>
+<tr><td>Canon Production Printing Netherlands B.V</td><td>Mandatory Internship &amp;amp; Theses (mfd)</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>Alixpartners</td><td>Werkstudent:in Marketing & Communcations In Internationaler Managementberatung (m/w/d)</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Im Team Tev (top End Vehicles) Sales Operations & Steering (mwd)</td><td>Affalterbach</td><td>2026-10-25</td></tr>
+<tr><td>3mschweiz.ch</td><td>Schülerpraktikum Am Standort In Kempten (m/w/*)</td><td>Kempten Allgau</td><td>2026-10-25</td></tr>
+<tr><td>Apple</td><td>Cellular Baseband Design Verification Intern</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>Charles River Associates</td><td>Praktikant/in, Life Sciences Strategieberatung/life Sciences Intern (2027 Start) - M/f/d</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Corporate Learning Für Ai & Learning Innovation</td><td>Stuttgart</td><td>2026-10-25</td></tr>
+<tr><td>AVL List GmbH</td><td>München Initiativbewerbung (mwd) Young Professionals Avl In Deutschland</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>Apple</td><td>Internship - Software Engineering</td><td>Germany</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Berlin (pflicht )praktikantin Oder Praktikant (wdm) Promotion & Hospitality Services 10829</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Berlin (pflicht )praktikantin Oder Praktikant (wmd) Im Bereich Sportsponsoring & Eventmanagement 10829</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Dortmund (pflicht )praktikantinpraktikant (wmd) Brand Consultingsponsoring Concepts Borussia Dortmund 44139</td><td>Dortmund</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Hamburg (pflicht )praktikantin Oder Praktikant (wmd) E Commerce & Business Operations 22087</td><td>Hamburg</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Hamburg (pflicht )praktikantin Oder Praktikant (wdm) Esports & Gaming 22087</td><td>Hamburg</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>Hamburg (pflicht )praktikantin Oder Praktikant (wmd) Brand Consulting & Sponsoring Concepts Team Hsv 22525</td><td>Hamburg</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>München (pflicht )praktikantin Oder Praktikant (wmd) Projekt Und Eventmanagement Us Sport 80335</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>München (pflicht )praktikantin Oder Praktikant (wmd) Premium Partnershipsstrategic Brand Partnerships 80335</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>Doctolib GmbH</td><td>Praktikum Product Marketing (x/f/m)</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>Zdf</td><td>Praktikum Landesstudio Bremen (01/2027 - 04/2027)</td><td>Bremen</td><td>2026-10-25</td></tr>
+<tr><td>Continental AG</td><td>Mandatory Internship - Marketing Communication International / Two-wheel Tires (bicycle And Motorcycle) - Ref99023k</td><td>Hanover</td><td>2026-10-25</td></tr>
+<tr><td>jacob-group</td><td>Praktikum Logistik (mwd)</td><td>Bielefeld</td><td>2026-10-25</td></tr>
+<tr><td>jacob-group</td><td>Praktikum Fertigung (mwd)</td><td>Bielefeld</td><td>2026-10-25</td></tr>
+<tr><td>ORAFOL Europe GmbH</td><td>Oranienburg Praktika Und Abschlussarbeiten</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Java Cloud Computing (all Genders)</td><td>Nach Standort Suchen</td><td>2026-10-25</td></tr>
+<tr><td>EY</td><td>Berater Public Sector - Informationsmanagement (w/m/d)</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>REWE Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-25</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-25</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Stuttgart</td><td>2026-10-25</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Neuss Aushilfeminijob Im Verkauf (mwd) 41460</td><td>Dusseldorf</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Berlin Wedding Kundenberater Verkauf (mwd) 13357</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Wiesbaden Kundenberater Verkauf (mwd) 65189</td><td>Frankfurt Am Main</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Schwabach Kundenberater Verkauf (mwd) 91126</td><td>Nuremberg</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Fellbach Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 70736</td><td>Stuttgart</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Fellbach Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 70736</td><td>Stuttgart</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Unterföhring Kundenberater Verkauf Teilzeit (mwd) 85774</td><td>Munich</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Erlangen Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 91052</td><td>Nuremberg</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Potsdam Kundenberater Verkauf (mwd) 14473</td><td>Berlin</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hilden Kundenberater Verkauf (mwd) 40721</td><td>Dusseldorf</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Leverkusen Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 51373</td><td>Cologne</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Leverkusen Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 51373</td><td>Cologne</td><td>2026-10-25</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Konstanz Kundenberater Verkauf (mwd) 78467</td><td>Constance</td><td>2026-10-25</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Compliance Specialist, Compliance Service Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-10-25</td></tr>
 </table>

@@ -1,7 +1,175 @@
 {
- "asOf": "2026-10-24",
- "count": 703,
+ "asOf": "2026-10-25",
+ "count": 705,
  "jobs": {
+  "c48855232691b9f061d5225101a22bfa": {
+   "id": "c48855232691b9f061d5225101a22bfa",
+   "company": "Nordex SE",
+   "role": "Intern (m/f/d) Global Sourcing Digitization",
+   "location": "Hamburg +1"
+  },
+  "9bcc3e320c2f36351b21a0dfae74b09a": {
+   "id": "9bcc3e320c2f36351b21a0dfae74b09a",
+   "company": "STMicroelectronics",
+   "role": "Internship Business Management Gka",
+   "location": "Munich"
+  },
+  "b45030b15025c761c8df08482eb01cb2": {
+   "id": "b45030b15025c761c8df08482eb01cb2",
+   "company": "ITL Eisenbahngesellschaft mbH",
+   "role": "Praktikum Bei Der Itl Eisenbahngesellschaft Mbh",
+   "location": "Dresden"
+  },
+  "574f909b38255af5e267f373f0ca0087": {
+   "id": "574f909b38255af5e267f373f0ca0087",
+   "company": "John Deere",
+   "role": "Praktikum Logistik (m/w/d)",
+   "location": "Karlsruhe"
+  },
+  "6bb82f073b9e4737ef34470d6c918c4d": {
+   "id": "6bb82f073b9e4737ef34470d6c918c4d",
+   "company": "BMW Group",
+   "role": "Praktikant International Supplier Qualification (w/m/x)",
+   "location": "Munich"
+  },
+  "61f55389cff4633543c6982886035d09": {
+   "id": "61f55389cff4633543c6982886035d09",
+   "company": "BMW Group",
+   "role": "Intern Integration Of Ai Agents In Vehicle Systems (f/m/x)",
+   "location": "Munich"
+  },
+  "ed8b2c0dd941b9ae9f1807bbac6508bf": {
+   "id": "ed8b2c0dd941b9ae9f1807bbac6508bf",
+   "company": "BMW Group",
+   "role": "Intern Ai-based Context Engineering (f/m/x)",
+   "location": "Munich"
+  },
+  "ae543a8ac0a2d280793753fa4b7a5aed": {
+   "id": "ae543a8ac0a2d280793753fa4b7a5aed",
+   "company": "BMW Group",
+   "role": "Praktikant Handels- Und Eventmarketing Mini (w/m/x)",
+   "location": "Germany"
+  },
+  "0b040a5dc5771c8fa66e19ee0b2baacb": {
+   "id": "0b040a5dc5771c8fa66e19ee0b2baacb",
+   "company": "BMW Group",
+   "role": "Praktikant Marketingkommunikation Und Digital Marketing Für Mini Deutschland (w/m/x)",
+   "location": "Munich"
+  },
+  "88eaacf29e943de9256bae0fe3fdb6ab": {
+   "id": "88eaacf29e943de9256bae0fe3fdb6ab",
+   "company": "BMW Group",
+   "role": "Praktikant Marketing Und Kommunikation (w/m/x)",
+   "location": "Munich"
+  },
+  "fedf0c9b4806a13c06da5cc7d3cb9a85": {
+   "id": "fedf0c9b4806a13c06da5cc7d3cb9a85",
+   "company": "Emerson",
+   "role": "Internship: Ai-based Test & Measurement Workflows",
+   "location": "Dresden"
+  },
+  "98d33d0a8db14eb7f13ceab89e436685": {
+   "id": "98d33d0a8db14eb7f13ceab89e436685",
+   "company": "Emerson",
+   "role": "Internship: Rf Measurements And Simulations For Sdr",
+   "location": "Dresden"
+  },
+  "f782486def118907007aa54be5a4f137": {
+   "id": "f782486def118907007aa54be5a4f137",
+   "company": "Analog Devices",
+   "role": "Product Applications - Systems Pipeline Intern",
+   "location": "Hamburg"
+  },
+  "926e1ab1cf7cb324a421353924305fb3": {
+   "id": "926e1ab1cf7cb324a421353924305fb3",
+   "company": "Infineon",
+   "role": "Internship - Data And Workflows For Ai Usage In Unit Process Development (f/m/div)",
+   "location": "Dresden"
+  },
+  "05a9c53a74c0f251ce8ea8d69e2026f4": {
+   "id": "05a9c53a74c0f251ce8ea8d69e2026f4",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant Risk & Compliance - Manufacturing / Automotive (m/w/d)",
+   "location": "Stuttgart"
+  },
+  "606bfcfec8d4f42ed5b394f5129b98c0": {
+   "id": "606bfcfec8d4f42ed5b394f5129b98c0",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Controls Assurance (m/w/d)",
+   "location": "Berlin"
+  },
+  "0b08e05238e69b17e6f055872cf4eb7b": {
+   "id": "0b08e05238e69b17e6f055872cf4eb7b",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Mint - Tax (m/w/d)",
+   "location": "Berlin"
+  },
+  "adad859d73d640a6ec35de6ac4b19834": {
+   "id": "adad859d73d640a6ec35de6ac4b19834",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "cd5f74297d398f887719bc798f8c9039": {
+   "id": "cd5f74297d398f887719bc798f8c9039",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant/ Werkstudent Internationale Mitarbeiterentsendung - Tax (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "5e723f388e7a86172c1cd8b8969b1b64": {
+   "id": "5e723f388e7a86172c1cd8b8969b1b64",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)",
+   "location": "Berlin"
+  },
+  "ce60f2bb7f2bb87b56e3f48db9dceb35": {
+   "id": "ce60f2bb7f2bb87b56e3f48db9dceb35",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Transfer Pricing (m/w/d)",
+   "location": "Berlin"
+  },
+  "976c92d1a4d4025c5f0b0b754614ca3b": {
+   "id": "976c92d1a4d4025c5f0b0b754614ca3b",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant Technology Strategy & Transformation - Agile Transformation (m/w/d)",
+   "location": "Berlin"
+  },
+  "1601b1ff088982e71314a99787a3a2dc": {
+   "id": "1601b1ff088982e71314a99787a3a2dc",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "2665bb7d302f9f9b95db723ed15a227b": {
+   "id": "2665bb7d302f9f9b95db723ed15a227b",
+   "company": "Nestle Ltd",
+   "role": "Werkstudent International Sales (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "59540cce05e31f04cc89f87c8fc75711": {
+   "id": "59540cce05e31f04cc89f87c8fc75711",
+   "company": "Nestle Ltd",
+   "role": "Praktikum Logistik (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "32f69d2afe382fda827be75dcb2c8543": {
+   "id": "32f69d2afe382fda827be75dcb2c8543",
+   "company": "Nestle SA",
+   "role": "Werkstudent International Sales (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "8d15264dc84aba6948a4713061626fc9": {
+   "id": "8d15264dc84aba6948a4713061626fc9",
+   "company": "Nestle SA",
+   "role": "Praktikum Logistik (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "5ba0dcbd69869e5598a4808545a5d09b": {
+   "id": "5ba0dcbd69869e5598a4808545a5d09b",
+   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
+   "role": "Bonn Praktikant Wirtschaftsprüfung Audit (wmd) Bonn, Köln Nw 53175",
+   "location": "Cologne"
+  },
   "99a8a5e4b296b2868465a84faf9c50e5": {
    "id": "99a8a5e4b296b2868465a84faf9c50e5",
    "company": "BRAINEFFECT",
@@ -62,6 +230,30 @@
    "role": "Intern, Ecommerce (m/f/d) - Hamburg (compulsory Internship)",
    "location": "Hamburg"
   },
+  "1b038362e87cbb2be4e0de18c94120dd": {
+   "id": "1b038362e87cbb2be4e0de18c94120dd",
+   "company": "Tiffany & Co",
+   "role": "Intern Marketing Project Management (m/f/d)",
+   "location": "Munich"
+  },
+  "cba79514d7c92139e9a541ce5120cc6a": {
+   "id": "cba79514d7c92139e9a541ce5120cc6a",
+   "company": "Mercedes-Benz",
+   "role": "Internship: Digital Product Management Mb.os (mandatory Internship)",
+   "location": "Stuttgart"
+  },
+  "7292db3a860fcb978501c6da34b4491a": {
+   "id": "7292db3a860fcb978501c6da34b4491a",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in Inhouse Consulting Mit Dem Schwerpunkt Lean Management",
+   "location": "Stuttgart"
+  },
+  "264f05bb4e899cbf0de3b7af9aed6e18": {
+   "id": "264f05bb4e899cbf0de3b7af9aed6e18",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in Office Des Vice President Mb.os User Experience",
+   "location": "Stuttgart"
+  },
   "9bcdc5127343f6ecdc2c9e3553e9e300": {
    "id": "9bcdc5127343f6ecdc2c9e3553e9e300",
    "company": "BMW Group",
@@ -97,6 +289,12 @@
    "company": "MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG",
    "role": "Praxissemester (m/w/d)",
    "location": "Goppingen"
+  },
+  "4b946b30c5d4a600848718dc7bbd4533": {
+   "id": "4b946b30c5d4a600848718dc7bbd4533",
+   "company": "Amazon",
+   "role": "Operations Intern",
+   "location": "Berlin"
   },
   "618a0b00e6fa12a7a22fe96d6f38e51b": {
    "id": "618a0b00e6fa12a7a22fe96d6f38e51b",
@@ -150,6 +348,24 @@
    "id": "2d5c61861467a23552dbbf67479774ec",
    "company": "LBBW Webspace",
    "role": "Praktikant (m/w/d) Im Bereich Hr.services, Systeme & International",
+   "location": "Stuttgart"
+  },
+  "97342b36b4ee54d448cfd456d6358777": {
+   "id": "97342b36b4ee54d448cfd456d6358777",
+   "company": "Kerry",
+   "role": "Kerry Internship Programme 2027 - Research, Development & Application (RDA)",
+   "location": "Frankfurt Am Main"
+  },
+  "73e0c2b10bf4ebd1261038c31a86ca58": {
+   "id": "73e0c2b10bf4ebd1261038c31a86ca58",
+   "company": "Mercedes-Benz",
+   "role": "Werkstudent*in It Internationale Logistik",
+   "location": "Stuttgart"
+  },
+  "91c3ff6854cdb008480f542d07e5221b": {
+   "id": "91c3ff6854cdb008480f542d07e5221b",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in It Internationale Logistik",
    "location": "Stuttgart"
   },
   "0840672bc6d09399cb2ffb1603b436fa": {
@@ -230,6 +446,12 @@
    "role": "Intern (m/f/d) - Allianz Consulting - Right Shoring, Business Transition And Support",
    "location": "Munich"
   },
+  "bd8087b49b0b08af2392dabf22a1d63e": {
+   "id": "bd8087b49b0b08af2392dabf22a1d63e",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in Business Excellence Acceleration Team (pflicht-praktikum)",
+   "location": "Stuttgart"
+  },
   "9099ff090a62b13f2a0464d4708f8845": {
    "id": "9099ff090a62b13f2a0464d4708f8845",
    "company": "BDO AG Wirtschaftspruefungsgesellschaft",
@@ -259,228 +481,6 @@
    "company": "EndressHauser AG",
    "role": "Maulburg Praktikum Oder Abschlussarbeit Zur Digitalisierung Im Betriebsmittelbau 79689",
    "location": "Maulburg"
-  },
-  "ce39f46f78d6c18eead76474f503cd75": {
-   "id": "ce39f46f78d6c18eead76474f503cd75",
-   "company": "EndressHauser AG",
-   "role": "Maulburg Praktikum Oder Abschlussarbeit Globale Duale Bildung 79689",
-   "location": "Maulburg"
-  },
-  "69f283df5f806b2cbba4c343bc48b407": {
-   "id": "69f283df5f806b2cbba4c343bc48b407",
-   "company": "EndressHauser AG",
-   "role": "Nesselwang Schülerpraktikum (2 3 Tage) Als Industriekaufmann (wmd) 87484",
-   "location": "Nesselwang"
-  },
-  "51aa41733855e49982e985b191061f74": {
-   "id": "51aa41733855e49982e985b191061f74",
-   "company": "EndressHauser AG",
-   "role": "Nesselwang Schülerpraktikum (3 5 Tage) Im Bereich Fachinformatik 87484",
-   "location": "Nesselwang"
-  },
-  "961b43c0ff91297172cdeb09e291139e": {
-   "id": "961b43c0ff91297172cdeb09e291139e",
-   "company": "EndressHauser AG",
-   "role": "Maulburg Schülerpraktikum Als Fachinformatiker Für Anwendungsentwicklung (wmd) 79689",
-   "location": "Maulburg"
-  },
-  "a64b5f05d6e388eed2a056c3820cd7d6": {
-   "id": "a64b5f05d6e388eed2a056c3820cd7d6",
-   "company": "EndressHauser AG",
-   "role": "Jena Abschlussarbeit Praktikum Im Kaufmännischen Bereich 07745",
-   "location": "Jena"
-  },
-  "78b70bac9c24281d805c9035cfb34671": {
-   "id": "78b70bac9c24281d805c9035cfb34671",
-   "company": "EndressHauser AG",
-   "role": "Jena Abschlussarbeit Praktikum Im Technischen Bereich 07745",
-   "location": "Jena"
-  },
-  "c1aecb63d5747485aee919e8266a6448": {
-   "id": "c1aecb63d5747485aee919e8266a6448",
-   "company": "EndressHauser AG",
-   "role": "Ratingen Werkstudent Praktikant (mwd) Vertriebsinnendienst 40882",
-   "location": "Dusseldorf"
-  },
-  "ae6a9cca61bf7741b61f7a60d5319b7d": {
-   "id": "ae6a9cca61bf7741b61f7a60d5319b7d",
-   "company": "EndressHauser AG",
-   "role": "Maulburg Praktikum Oder Werkstudententätigkeit Nachhaltigkeitsanalyse, Marketing & Vertrieb 79689",
-   "location": "Maulburg"
-  },
-  "e8f99b55dd24d476a2682f6882e8bc62": {
-   "id": "e8f99b55dd24d476a2682f6882e8bc62",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Information Security & Access Governance (digital Authorization Concept) (f/m/d)",
-   "location": "Frankfurt Am Main +1"
-  },
-  "fd387b34619f85399a1251933c90b838": {
-   "id": "fd387b34619f85399a1251933c90b838",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern - Securities & Collateral Clearing Design (f/m/d)",
-   "location": "Frankfurt Am Main +1"
-  },
-  "e6e32ecff16209bca7eaef337bfc572c": {
-   "id": "e6e32ecff16209bca7eaef337bfc572c",
-   "company": "HARTMANN",
-   "role": "Wolfstein Initiativbewerbung Studenten (mwd) Für Praktika Und Abschlussarbeiten Rp 67752",
-   "location": "Germany"
-  },
-  "09f85fe9b863ca961377af08308e73fa": {
-   "id": "09f85fe9b863ca961377af08308e73fa",
-   "company": "HARTMANN",
-   "role": "Wolfstein Initiativbewerbung Schulpraktikant (mwd) Rp 67752",
-   "location": "Nach Postleitzahl Suchen"
-  },
-  "63221ec3037442e1f0e9b9d5f02dfc14": {
-   "id": "63221ec3037442e1f0e9b9d5f02dfc14",
-   "company": "ams-osram",
-   "role": "Praktikant In D_m_w Strategy Business Development Pflichtpraktikum Garching",
-   "location": "Munich"
-  },
-  "50d759a837eb23fed5bb90f4dab54729": {
-   "id": "50d759a837eb23fed5bb90f4dab54729",
-   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
-   "role": "Praktikum (m/w/d) Im Bereich Recht In Frankfurt 2027",
-   "location": "Frankfurt Am Main"
-  },
-  "2d5be7df128451c252a1071286ef0481": {
-   "id": "2d5be7df128451c252a1071286ef0481",
-   "company": "Canon Production Printing Netherlands B.V",
-   "role": "Mandatory Internship &amp;amp; Theses (mfd)",
-   "location": "Munich"
-  },
-  "0fa3c999c522e9b42260c24d61509549": {
-   "id": "0fa3c999c522e9b42260c24d61509549",
-   "company": "Alixpartners",
-   "role": "Werkstudent:in Marketing & Communcations In Internationaler Managementberatung (m/w/d)",
-   "location": "Munich"
-  },
-  "42c6a93c63b867c75b54d5ac7a5352a0": {
-   "id": "42c6a93c63b867c75b54d5ac7a5352a0",
-   "company": "Mercedes-AMG GmbH",
-   "role": "Amg Praktikanten Im Team Tev (top End Vehicles) Sales Operations & Steering (mwd)",
-   "location": "Affalterbach"
-  },
-  "62dbe6e3fc4904f625eb5e93bc712406": {
-   "id": "62dbe6e3fc4904f625eb5e93bc712406",
-   "company": "3mschweiz.ch",
-   "role": "Schülerpraktikum Am Standort In Kempten (m/w/*)",
-   "location": "Kempten Allgau"
-  },
-  "0a2ce3f75da934bde21983b81fc02f16": {
-   "id": "0a2ce3f75da934bde21983b81fc02f16",
-   "company": "Apple",
-   "role": "Cellular Baseband Design Verification Intern",
-   "location": "Munich"
-  },
-  "d90623b7b7fdcb8c80862da82a1ce87b": {
-   "id": "d90623b7b7fdcb8c80862da82a1ce87b",
-   "company": "Charles River Associates",
-   "role": "Praktikant/in, Life Sciences Strategieberatung/life Sciences Intern (2027 Start) - M/f/d",
-   "location": "Munich"
-  },
-  "cbb5b7bcc245b82a2da3613e8715825c": {
-   "id": "cbb5b7bcc245b82a2da3613e8715825c",
-   "company": "Bosch Rexroth",
-   "role": "Pflichtpraktikum Corporate Learning Für Ai & Learning Innovation",
-   "location": "Stuttgart"
-  },
-  "a01b7d7b04bdab55447780d1334251fe": {
-   "id": "a01b7d7b04bdab55447780d1334251fe",
-   "company": "AVL List GmbH",
-   "role": "München Initiativbewerbung (mwd) Young Professionals Avl In Deutschland",
-   "location": "Munich"
-  },
-  "73199b33f12836fabe5531f1349b09f7": {
-   "id": "73199b33f12836fabe5531f1349b09f7",
-   "company": "Apple",
-   "role": "Internship - Software Engineering",
-   "location": "Germany"
-  },
-  "81bd1115de0dfafb99daa7f243b11373": {
-   "id": "81bd1115de0dfafb99daa7f243b11373",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Berlin (pflicht )praktikantin Oder Praktikant (wdm) Promotion & Hospitality Services 10829",
-   "location": "Berlin"
-  },
-  "8a84b44f79dd6e6819967068b15a2d46": {
-   "id": "8a84b44f79dd6e6819967068b15a2d46",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Berlin (pflicht )praktikantin Oder Praktikant (wmd) Im Bereich Sportsponsoring & Eventmanagement 10829",
-   "location": "Berlin"
-  },
-  "70a477707f91e08c0e89178f6348a029": {
-   "id": "70a477707f91e08c0e89178f6348a029",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Dortmund (pflicht )praktikantinpraktikant (wmd) Brand Consultingsponsoring Concepts Borussia Dortmund 44139",
-   "location": "Dortmund"
-  },
-  "0f13144817f06853526c7d974fc8f689": {
-   "id": "0f13144817f06853526c7d974fc8f689",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Hamburg (pflicht )praktikantin Oder Praktikant (wmd) E Commerce & Business Operations 22087",
-   "location": "Hamburg"
-  },
-  "5b80ae975fad6add052d70dc44518055": {
-   "id": "5b80ae975fad6add052d70dc44518055",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Hamburg (pflicht )praktikantin Oder Praktikant (wdm) Esports & Gaming 22087",
-   "location": "Hamburg"
-  },
-  "941994623b4e7b952b5b38834cb6e9f6": {
-   "id": "941994623b4e7b952b5b38834cb6e9f6",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "Hamburg (pflicht )praktikantin Oder Praktikant (wmd) Brand Consulting & Sponsoring Concepts Team Hsv 22525",
-   "location": "Hamburg"
-  },
-  "3d551ed969ea54d33956089d460d1236": {
-   "id": "3d551ed969ea54d33956089d460d1236",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "München (pflicht )praktikantin Oder Praktikant (wmd) Projekt Und Eventmanagement Us Sport 80335",
-   "location": "Munich"
-  },
-  "b98d5cb99fa458b2b9b528e5b01eea46": {
-   "id": "b98d5cb99fa458b2b9b528e5b01eea46",
-   "company": "SPORTFIVE Global Holding GmbH",
-   "role": "München (pflicht )praktikantin Oder Praktikant (wmd) Premium Partnershipsstrategic Brand Partnerships 80335",
-   "location": "Munich"
-  },
-  "d5af39fa157b867d3ed7061080a7995d": {
-   "id": "d5af39fa157b867d3ed7061080a7995d",
-   "company": "Doctolib GmbH",
-   "role": "Praktikum Product Marketing (x/f/m)",
-   "location": "Berlin"
-  },
-  "f3fcb56b888923a6ef94a5b9341a2a17": {
-   "id": "f3fcb56b888923a6ef94a5b9341a2a17",
-   "company": "Zdf",
-   "role": "Praktikum Landesstudio Bremen (01/2027 - 04/2027)",
-   "location": "Bremen"
-  },
-  "0654f23bc5f64ba01e7aa32ed5018378": {
-   "id": "0654f23bc5f64ba01e7aa32ed5018378",
-   "company": "Continental AG",
-   "role": "Mandatory Internship - Marketing Communication International / Two-wheel Tires (bicycle And Motorcycle) - Ref99023k",
-   "location": "Hanover"
-  },
-  "8ecc119d50faee3c0972ca5e6f03559c": {
-   "id": "8ecc119d50faee3c0972ca5e6f03559c",
-   "company": "jacob-group",
-   "role": "Praktikum Logistik (mwd)",
-   "location": "Bielefeld"
-  },
-  "58390f0570ae58b1a94bf984f85e9a52": {
-   "id": "58390f0570ae58b1a94bf984f85e9a52",
-   "company": "jacob-group",
-   "role": "Praktikum Fertigung (mwd)",
-   "location": "Bielefeld"
-  },
-  "2a308a584bd42ac4dae99662e9e3f76f": {
-   "id": "2a308a584bd42ac4dae99662e9e3f76f",
-   "company": "ORAFOL Europe GmbH",
-   "role": "Oranienburg Praktika Und Abschlussarbeiten",
-   "location": "Berlin"
   },
   "16925514312adab4eb711be8d5caaf4d": {
    "id": "16925514312adab4eb711be8d5caaf4d",
@@ -1142,11 +1142,23 @@
    "role": "Backend Engineer - Internship (6 Months)",
    "location": "Berlin"
   },
+  "b58a53dab8cd89184fa3b9b01735781e": {
+   "id": "b58a53dab8cd89184fa3b9b01735781e",
+   "company": "Mercedes-Benz",
+   "role": "Werkstudent*in It – Softwareentwicklung, Cloud & Ai",
+   "location": "Berlin"
+  },
   "99024db4dab22f472e89445fa042ac20": {
    "id": "99024db4dab22f472e89445fa042ac20",
    "company": "HENSOLDT Sensors GmbH",
    "role": "Werkstudent Software Engineering (w/m/d)",
    "location": "Ulm"
+  },
+  "b6bed7bfb829c16984ad724db26eae1b": {
+   "id": "b6bed7bfb829c16984ad724db26eae1b",
+   "company": "Mercedes-Benz",
+   "role": "Werkstudent*in (sw-developer Data Campaigns For Automated Driving & Adas)",
+   "location": "Stuttgart"
   },
   "fe834a81b403e09298f5133839168b8f": {
    "id": "fe834a81b403e09298f5133839168b8f",
@@ -1189,6 +1201,12 @@
    "company": "tensordyne.ai",
    "role": "Software Engineer – Cloud Services – Rust",
    "location": "Munich"
+  },
+  "5041735b7562fe6b027ed72167f0d31f": {
+   "id": "5041735b7562fe6b027ed72167f0d31f",
+   "company": "RED Global",
+   "role": "Software-Entwickler - Elixir & Phoenix - Remote - 24 Monate",
+   "location": "Berlin"
   },
   "c513cc38d7b5a437c88dc90765c123d1": {
    "id": "c513cc38d7b5a437c88dc90765c123d1",
@@ -1658,12 +1676,6 @@
    "role": "Full Stack Engineer (all Genders)",
    "location": "Nach Standort Suchen"
   },
-  "44ebbd1a18166223bb9823272dab28d2": {
-   "id": "44ebbd1a18166223bb9823272dab28d2",
-   "company": "adesso-group",
-   "role": "Software Engineer Java Cloud Computing (all Genders)",
-   "location": "Nach Standort Suchen"
-  },
   "9af39ee59586f142cd9522f1e9780d99": {
    "id": "9af39ee59586f142cd9522f1e9780d99",
    "company": "Allianz Technology SE",
@@ -2113,6 +2125,12 @@
    "company": "Amazon Commercial Services Pty Ltd - F47",
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Berlin"
+  },
+  "96d9ff015ff3ae2460801e83b8f7229e": {
+   "id": "96d9ff015ff3ae2460801e83b8f7229e",
+   "company": "thomas-group",
+   "role": "Accountant (m/w)",
+   "location": "Unknown"
   },
   "7aabab0c0b6bb5cdd9b83ac83e82f21a": {
    "id": "7aabab0c0b6bb5cdd9b83ac83e82f21a",
@@ -2587,12 +2605,6 @@
    "company": "createyourowncareer",
    "role": "Kreditorenbuchhalter (w/m/d)",
    "location": "19053"
-  },
-  "65a4420da49d2c1f68f42c13f63c8739": {
-   "id": "65a4420da49d2c1f68f42c13f63c8739",
-   "company": "EY",
-   "role": "Berater Public Sector - Informationsmanagement (w/m/d)",
-   "location": "Munich"
   },
   "4e8950be706451268af15a60e36f3cbc": {
    "id": "4e8950be706451268af15a60e36f3cbc",
@@ -3260,6 +3272,102 @@
    "role": "Industriemechaniker Instandhaltung Gießereitechnik (m/w/d) In Vollzeit",
    "location": "Weilbach"
   },
+  "6ce555de0adadaa12a59cac60c53f23e": {
+   "id": "6ce555de0adadaa12a59cac60c53f23e",
+   "company": "TJX Australia (TK Maxx)",
+   "role": "Verkäufer (w/m/d)",
+   "location": "Berlin"
+  },
+  "136cda232141a586c9f6038e86bb5989": {
+   "id": "136cda232141a586c9f6038e86bb5989",
+   "company": "Kaufland Stiftung & Co. KG",
+   "role": "Ausbildung Zum Verkäufer Frische (m/w/d) 2027",
+   "location": "Cologne"
+  },
+  "bf991ebd2b8f1e955e5fff336ff51f92": {
+   "id": "bf991ebd2b8f1e955e5fff336ff51f92",
+   "company": "Kaufland Stiftung & Co. KG",
+   "role": "Verkäufer Bedientheke In Teilzeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "e24c484030d5c9e48ff86b5e737ef481": {
+   "id": "e24c484030d5c9e48ff86b5e737ef481",
+   "company": "Rewe Group",
+   "role": "Verkäufer Getränke (m/w/d)",
+   "location": "Cologne"
+  },
+  "399a7d5a211acba582f7719ee206d803": {
+   "id": "399a7d5a211acba582f7719ee206d803",
+   "company": "Rewe Group",
+   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "2ac46920f94b929aec0788562584ab84": {
+   "id": "2ac46920f94b929aec0788562584ab84",
+   "company": "Rewe Group",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Berlin"
+  },
+  "a2f3e5081d6766880518b9cd24226c2d": {
+   "id": "a2f3e5081d6766880518b9cd24226c2d",
+   "company": "Rewe Group",
+   "role": "Aushilfe / Minijob Warenverräumung (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "5d1cd52d6c8dee547c070a44637d0a4f": {
+   "id": "5d1cd52d6c8dee547c070a44637d0a4f",
+   "company": "PENNY",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Mannheim"
+  },
+  "d61461358c69a1f2a02265d929b8536e": {
+   "id": "d61461358c69a1f2a02265d929b8536e",
+   "company": "REWE Christian Werner oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "5aa85104a289f909b687a57a2823617b": {
+   "id": "5aa85104a289f909b687a57a2823617b",
+   "company": "REWE Rahmati",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "4f619f6ea0d31f10f9356456ac78cfb4": {
+   "id": "4f619f6ea0d31f10f9356456ac78cfb4",
+   "company": "REWE Fickeis oHG",
+   "role": "Verkäufer Getränke (m/w/d)",
+   "location": "Cologne"
+  },
+  "b3935d725cf6c2e1cef1518637521f1b": {
+   "id": "b3935d725cf6c2e1cef1518637521f1b",
+   "company": "REWE Group",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "d9ae6a7a57acfcfd6e623aeb79a52a88": {
+   "id": "d9ae6a7a57acfcfd6e623aeb79a52a88",
+   "company": "REWE Mahmut Mersinlioglu oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "004bc642063e0f2be78a515b831ccde3": {
+   "id": "004bc642063e0f2be78a515b831ccde3",
+   "company": "REWE Peter Ziegler oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "2d86ef08c28b474800add7a1e6fb67ab": {
+   "id": "2d86ef08c28b474800add7a1e6fb67ab",
+   "company": "Capri",
+   "role": "Michael Kors Verkaufsberater / In (m/w/d) In Teilzeit Für 30h/woche In Cologne – Köln, Deutschland",
+   "location": "Cologne"
+  },
+  "834dd47795cf631c0574817cf228ddac": {
+   "id": "834dd47795cf631c0574817cf228ddac",
+   "company": "Capri",
+   "role": "Michael Kors Verkaufsberater (m/w/d) In Vollzeit Für 40h/woche In Cologne – Köln, Deutschland",
+   "location": "Cologne"
+  },
   "777f3cefec42fdb275e3ebbafaa20fc1": {
    "id": "777f3cefec42fdb275e3ebbafaa20fc1",
    "company": "Tempur Sealy International",
@@ -3325,6 +3433,18 @@
    "company": "Chnetwork",
    "role": "Verkäufer:in (m/w/d) Boutique Chanel Parfums & Beauté Hamburg",
    "location": "Hamburg"
+  },
+  "8cae3b613c01fe61a14092094938a958": {
+   "id": "8cae3b613c01fe61a14092094938a958",
+   "company": "JYSK",
+   "role": "Verkäufer/in Teilzeit (m/w/d) – Holzkirchen (30 Std)",
+   "location": "Munich"
+  },
+  "833675712ca5cf230757fdcf73ec7213": {
+   "id": "833675712ca5cf230757fdcf73ec7213",
+   "company": "JYSK",
+   "role": "Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Brühl",
+   "location": "Cologne"
   },
   "34d6aaaa32078f12416ae87dc4b69771": {
    "id": "34d6aaaa32078f12416ae87dc4b69771",
@@ -3410,12 +3530,6 @@
    "role": "Sales Associate - Düsseldorf",
    "location": "Dusseldorf"
   },
-  "015c424e97cec6c42019045b93efbdb1": {
-   "id": "015c424e97cec6c42019045b93efbdb1",
-   "company": "REWE Group",
-   "role": "Verkäufer Getränke (m/w/d)",
-   "location": "Cologne"
-  },
   "f88da227d5253d06f84e22ef75f2f567": {
    "id": "f88da227d5253d06f84e22ef75f2f567",
    "company": "Rewe Group",
@@ -3428,29 +3542,11 @@
    "role": "Verkäufer Schließfunktion (m/w/d)",
    "location": "Cologne"
   },
-  "9492369be5748c8740cff1f93be335b5": {
-   "id": "9492369be5748c8740cff1f93be335b5",
-   "company": "Rewe Group",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Berlin"
-  },
-  "8f01a007cf2486dceb31f68f3d1d803e": {
-   "id": "8f01a007cf2486dceb31f68f3d1d803e",
-   "company": "Rewe Group",
-   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
   "0b539ce283ecd0b61472a30d26703fac": {
    "id": "0b539ce283ecd0b61472a30d26703fac",
    "company": "Rewe Group",
    "role": "Verkäufer Gartentechnik - Auch Quereinsteiger (m/w/d)",
    "location": "Constance"
-  },
-  "9a6d44248f02e1d8358beaf3e9497fc8": {
-   "id": "9a6d44248f02e1d8358beaf3e9497fc8",
-   "company": "PENNY",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Stuttgart"
   },
   "8ecaaea12577de6189afc9957dedf940": {
    "id": "8ecaaea12577de6189afc9957dedf940",
@@ -3487,12 +3583,6 @@
    "company": "REWE Fickeis oHG",
    "role": "Verkäufer (m/w/d)",
    "location": "Cologne"
-  },
-  "117287a19a1bf4f63b3bc7813bf7b143": {
-   "id": "117287a19a1bf4f63b3bc7813bf7b143",
-   "company": "Rewe Group",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
-   "location": "Saarbruecken"
   },
   "c01e490d7635a83304b45a10c1548aa8": {
    "id": "c01e490d7635a83304b45a10c1548aa8",
@@ -3662,83 +3752,11 @@
    "role": "Böblingen Kundenberater Verkauf (mwd) 71034",
    "location": "Stuttgart"
   },
-  "5176ce3fc86ccaea6c7068de9c62234f": {
-   "id": "5176ce3fc86ccaea6c7068de9c62234f",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Neuss Aushilfeminijob Im Verkauf (mwd) 41460",
-   "location": "Dusseldorf"
-  },
-  "4ccb82083a43aac5d508075db7f57c95": {
-   "id": "4ccb82083a43aac5d508075db7f57c95",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Berlin Wedding Kundenberater Verkauf (mwd) 13357",
-   "location": "Berlin"
-  },
-  "888e42c3d6701bc09a899c89492dc08f": {
-   "id": "888e42c3d6701bc09a899c89492dc08f",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Wiesbaden Kundenberater Verkauf (mwd) 65189",
-   "location": "Frankfurt Am Main"
-  },
-  "e1009d4ce6492de4c6b5d8f2cda4fcb4": {
-   "id": "e1009d4ce6492de4c6b5d8f2cda4fcb4",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Schwabach Kundenberater Verkauf (mwd) 91126",
-   "location": "Nuremberg"
-  },
-  "5c3b928b2a343871d3fa481081d4d533": {
-   "id": "5c3b928b2a343871d3fa481081d4d533",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Fellbach Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 70736",
-   "location": "Stuttgart"
-  },
-  "c0cda8790e2698914251a679899b7fc4": {
-   "id": "c0cda8790e2698914251a679899b7fc4",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Fellbach Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 70736",
-   "location": "Stuttgart"
-  },
-  "d6da5cb07935be01ca4bdf30085af777": {
-   "id": "d6da5cb07935be01ca4bdf30085af777",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Unterföhring Kundenberater Verkauf Teilzeit (mwd) 85774",
+  "34753328c0529d281891f1fe63578837": {
+   "id": "34753328c0529d281891f1fe63578837",
+   "company": "Infineon",
+   "role": "Team Assistant (f/m/div)",
    "location": "Munich"
-  },
-  "24edea367e8c346cd250c3f8c4829a33": {
-   "id": "24edea367e8c346cd250c3f8c4829a33",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Erlangen Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 91052",
-   "location": "Nuremberg"
-  },
-  "b0d2c09f97056d103fa906899081dede": {
-   "id": "b0d2c09f97056d103fa906899081dede",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Potsdam Kundenberater Verkauf (mwd) 14473",
-   "location": "Berlin"
-  },
-  "fae013f2ac76a58dbfa0b487d9f21f59": {
-   "id": "fae013f2ac76a58dbfa0b487d9f21f59",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Hilden Kundenberater Verkauf (mwd) 40721",
-   "location": "Dusseldorf"
-  },
-  "fc73645963f8edaa7849a2519b5bd0ac": {
-   "id": "fc73645963f8edaa7849a2519b5bd0ac",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Leverkusen Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 51373",
-   "location": "Cologne"
-  },
-  "64bdfc81d2f49d5810961f1e7198d6f0": {
-   "id": "64bdfc81d2f49d5810961f1e7198d6f0",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Leverkusen Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 51373",
-   "location": "Cologne"
-  },
-  "7e70de96fc0eed9b15ece1f9f06bf14d": {
-   "id": "7e70de96fc0eed9b15ece1f9f06bf14d",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Konstanz Kundenberater Verkauf (mwd) 78467",
-   "location": "Constance"
   },
   "92fdac8dcb48fc39972128a8693ba759": {
    "id": "92fdac8dcb48fc39972128a8693ba759",
@@ -4213,12 +4231,6 @@
    "company": "Koninklijke Philips",
    "role": "Customer Service Specialist (all Genders)",
    "location": "Germany"
-  },
-  "8a4cae948d341d6cf21261da2f54d2cc": {
-   "id": "8a4cae948d341d6cf21261da2f54d2cc",
-   "company": "DSV Panalpina AS",
-   "role": "Compliance Specialist, Compliance Service Dach (m/w/d)",
-   "location": "Dusseldorf"
   }
  }
 }
