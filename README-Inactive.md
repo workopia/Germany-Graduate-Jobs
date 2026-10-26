@@ -10544,4 +10544,43 @@
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Leverkusen Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 51373</td><td>Cologne</td><td>2026-10-25</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Konstanz Kundenberater Verkauf (mwd) 78467</td><td>Constance</td><td>2026-10-25</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Compliance Specialist, Compliance Service Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-10-25</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Sondermaschinenbau - Bereich Konstruktion</td><td>Stuttgart</td><td>2026-10-26</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH</td><td>Berlin Praktikum Produktentwicklung (mwd)</td><td>Berlin</td><td>2026-10-26</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH</td><td>Berlin Praktikant (mwd) Brand Marketing</td><td>Berlin</td><td>2026-10-26</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Produktmanagement Connecteddrive Upgrades &amp; Updates (w/m/x)</td><td>Munich</td><td>2026-10-26</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Bereich Human Resources</td><td>Stuttgart</td><td>2026-10-26</td></tr>
+<tr><td>SCHOTT</td><td>Rechtsreferendariat (m/w/d)*</td><td>Darmstadt</td><td>2026-10-26</td></tr>
+<tr><td>John Deere</td><td>Praktikum Business Improvement (m/w/d)</td><td>Mannheim</td><td>2026-10-26</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum - International Communication And Marketing</td><td>Hamburg</td><td>2026-10-26</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern (m/f/d) - Allianz Consulting - Right Shoring, Business Transition And Support</td><td>Munich</td><td>2026-10-26</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Business Excellence Acceleration Team (pflicht-praktikum)</td><td>Stuttgart</td><td>2026-10-26</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Praktikum Wirtschaftsprüfung Audit (wmd) He 60314</td><td>Frankfurt Am Main</td><td>2026-10-26</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Praktikum Steuerberatung Tax (wmd) He 60314</td><td>Frankfurt Am Main</td><td>2026-10-26</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>München Praktikum Wirtschaftsprüfung Audit (wmd) By 81373</td><td>Munich</td><td>2026-10-26</td></tr>
+<tr><td>EndressHauser AG</td><td>Stahnsdorf Einwöchiges Schülerpraktikum 2027 14532</td><td>Berlin</td><td>2026-10-26</td></tr>
+<tr><td>EndressHauser AG</td><td>Maulburg Praktikum Oder Abschlussarbeit Zur Digitalisierung Im Betriebsmittelbau 79689</td><td>Maulburg</td><td>2026-10-26</td></tr>
+<tr><td>Metsagroup</td><td>Auszubildende Zum Elektroniker/in Betriebstechnik</td><td>Raubach</td><td>2026-10-26</td></tr>
+<tr><td>Hitachi Vantara</td><td>#trafoleben - Wir Machen Dich Zum Transformator - Deine Ausbildung Zum Mechatroniker (m/w/d)</td><td>Halle (Saale)</td><td>2026-10-26</td></tr>
+<tr><td>Pirelli Systeme Informativi S.r.l</td><td>Ausbildung - Maschinen- Und Anlagenführer</td><td>Breuberg</td><td>2026-10-26</td></tr>
+<tr><td>Pirelli Sistemi Informativi.s.r.l</td><td>Ausbildung - Industriekaufmann/-frau</td><td>Breuberg</td><td>2026-10-26</td></tr>
+<tr><td>RHI Magnesita Deutschland AG</td><td>Auszubildende(r) Prüftechnologe/in Keramik (m/w/d)</td><td>Cologne</td><td>2026-10-26</td></tr>
+<tr><td>NKT A/S</td><td>Apprenticeship As A Materials Tester (m/f/d)</td><td>Cologne</td><td>2026-10-26</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software Entwickler Für Automatisierte Testsysteme (w/m/d)</td><td>Ulm</td><td>2026-10-26</td></tr>
+<tr><td>Wabtec Corporation</td><td>Software Engineer For Rail Iot Devices (passenger Information Systems) (m/w/d)</td><td>Munich</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Python Engineer</td><td>Germany</td><td>2026-10-26</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Enterprise Search (all Genders)</td><td>Nach Standort Suchen</td><td>2026-10-26</td></tr>
+<tr><td>adesso-group</td><td>Full Stack Engineer (all Genders)</td><td>Nach Standort Suchen</td><td>2026-10-26</td></tr>
+<tr><td>SSI Schäfer</td><td>Financial Accountant (w/m/d)</td><td>Giebelstadt</td><td>2026-10-26</td></tr>
+<tr><td>createyourowncareer</td><td>Kreditorenbuchhalter (w/m/d)</td><td>19053</td><td>2026-10-26</td></tr>
+<tr><td>Techem</td><td>Kundendiensttechniker/anlagenmechaniker/monteur Voll-/teilzeit (m/w/d), Berlin / Mecklenburg-vorpommern</td><td>Berlin</td><td>2026-10-26</td></tr>
+<tr><td>Techem</td><td>Kundendiensttechniker/anlagenmechaniker/monteur Voll-/teilzeit (m/w/d), Region Leipzig</td><td>Leipzig</td><td>2026-10-26</td></tr>
+<tr><td>Techem</td><td>Kundendiensttechniker/anlagenmechaniker/monteur Voll-/teilzeit (m/w/d), Region München Süd (starnberg, Dachau, Geretsried)</td><td>Munich</td><td>2026-10-26</td></tr>
+<tr><td>Techem</td><td>Kundendiensttechniker/anlagenmechaniker/monteur Voll-/teilzeit (m/w/d), Region München</td><td>Munich</td><td>2026-10-26</td></tr>
+<tr><td>Vossloh Fastening Systems GmbH</td><td>Meister / Techniker Servicekoordinator Für Die Inbetriebnahme Im Sondermaschinenbau (m/w/d)</td><td>Hamburg</td><td>2026-10-26</td></tr>
+<tr><td>Reckitt Benckiser</td><td>Produktionshandwerker Mechanik / Industriemechaniker Produktion (all Genders)</td><td>Unknown</td><td>2026-10-26</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Elektroniker Im Logistikzentrum (m/w/d)</td><td>Germany</td><td>2026-10-26</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Servicetechniker (m/w/d) Für Sicherheitslösungen In Vollzeit – Mit Schwerpunkt Beratung & Projektierung</td><td>Hamburg</td><td>2026-10-26</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Industriemechaniker Instandhaltung Gießereitechnik (m/w/d) In Vollzeit</td><td>Weilbach</td><td>2026-10-26</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Sindelfingen Kundenberater Verkauf (mwd) 71065</td><td>Stuttgart</td><td>2026-10-26</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Böblingen Kundenberater Verkauf (mwd) 71034</td><td>Stuttgart</td><td>2026-10-26</td></tr>
 </table>
