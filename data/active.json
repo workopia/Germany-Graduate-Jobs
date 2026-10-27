@@ -1,7 +1,55 @@
 {
- "asOf": "2026-10-26",
- "count": 708,
+ "asOf": "2026-10-27",
+ "count": 710,
  "jobs": {
+  "a974e688b1831c166bc8dda1fa6cd000": {
+   "id": "a974e688b1831c166bc8dda1fa6cd000",
+   "company": "Amgen UK",
+   "role": "Praktikant (m/w/d) Marketing Kardiologie",
+   "location": "Munich"
+  },
+  "65141f3ac9442745045f4c86e14230fd": {
+   "id": "65141f3ac9442745045f4c86e14230fd",
+   "company": "Airbus SE",
+   "role": "Praktikum \"entwurf Eines Analogen Power Limiters Für Robuste Ka-band Hf-systeme In Der Raumfahrt \" (d/m/w)",
+   "location": "Stuttgart Area"
+  },
+  "f07e971fcf867ebbe7d8f95772566945": {
+   "id": "f07e971fcf867ebbe7d8f95772566945",
+   "company": "Bitmovin",
+   "role": "Ai & Beyond Internship Incubator (summer 2027)",
+   "location": "Vienna +2"
+  },
+  "c29569d7960d7513e2ccbe48c8c4df94": {
+   "id": "c29569d7960d7513e2ccbe48c8c4df94",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant Financial Services - Insurance (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "6fa0177f53986b08efcc16e0b5c2b489": {
+   "id": "6fa0177f53986b08efcc16e0b5c2b489",
+   "company": "Deloitte GmbH",
+   "role": "Praktikant M&a Transaction Services / Valuation Fsi (m/w/d)",
+   "location": "Munich"
+  },
+  "34dcabe0be3bd20514c9c55bc885edb7": {
+   "id": "34dcabe0be3bd20514c9c55bc885edb7",
+   "company": "Payback",
+   "role": "Internship Sales Operations & Backoffice (m/f/d)",
+   "location": "Munich"
+  },
+  "a954baf8693a07507f7e5eb397cbd950": {
+   "id": "a954baf8693a07507f7e5eb397cbd950",
+   "company": "JACOB Group",
+   "role": "Praktikum Logistik (m/w/d)",
+   "location": "Bielefeld"
+  },
+  "866a6f4e54498e89816758a41c66bd28": {
+   "id": "866a6f4e54498e89816758a41c66bd28",
+   "company": "Rewe Group",
+   "role": "Praktikum Hr Services National (m/w/d)",
+   "location": "Cologne"
+  },
   "3d2a12ded7d230643bff79d3e4251f92": {
    "id": "3d2a12ded7d230643bff79d3e4251f92",
    "company": "Schaeffler",
@@ -434,53 +482,23 @@
    "role": "Praktikant (m/w/d) Im Bereich Hr.services, Systeme & International",
    "location": "Stuttgart"
   },
-  "401cbd602df97c60ee69b9d92d4504cc": {
-   "id": "401cbd602df97c60ee69b9d92d4504cc",
-   "company": "Ford Europe",
-   "role": "Praktikant (d/w/m) Einsatz Von Ki Für Lagerauslastung Und Belegung - Untersuchung",
-   "location": "Cologne"
-  },
-  "97342b36b4ee54d448cfd456d6358777": {
-   "id": "97342b36b4ee54d448cfd456d6358777",
-   "company": "Kerry",
-   "role": "Kerry Internship Programme 2027 - Research, Development & Application (RDA)",
-   "location": "Frankfurt Am Main"
-  },
-  "73e0c2b10bf4ebd1261038c31a86ca58": {
-   "id": "73e0c2b10bf4ebd1261038c31a86ca58",
-   "company": "Mercedes-Benz",
-   "role": "Werkstudent*in It Internationale Logistik",
-   "location": "Stuttgart"
-  },
-  "91c3ff6854cdb008480f542d07e5221b": {
-   "id": "91c3ff6854cdb008480f542d07e5221b",
-   "company": "Mercedes-Benz",
-   "role": "Praktikant*in It Internationale Logistik",
-   "location": "Stuttgart"
-  },
-  "0840672bc6d09399cb2ffb1603b436fa": {
-   "id": "0840672bc6d09399cb2ffb1603b436fa",
-   "company": "Volkswagen",
-   "role": "Praktikant Marketing, Produktmanagement &amp; Training Vw Nutzfahrzeuge (m/w/d)",
-   "location": "Unknown"
-  },
-  "e89d03de04ba3c9289c20184c9650c3c": {
-   "id": "e89d03de04ba3c9289c20184c9650c3c",
-   "company": "AptarGroup Inc",
-   "role": "Praktikant (m/w/d) Aptar Menden Gmbh",
-   "location": "Dortmund"
-  },
-  "1f7058349805e3f14411c3843c3283f6": {
-   "id": "1f7058349805e3f14411c3843c3283f6",
-   "company": "Provident Label Group",
-   "role": "Praktikant Music Licensing & Rights Management (m/w/d)",
+  "d8b4125edf4f992ad093304c129b697f": {
+   "id": "d8b4125edf4f992ad093304c129b697f",
+   "company": "Melia",
+   "role": "Ausbildung Zum Koch (m/w/d), Meliá Berlin",
    "location": "Berlin"
   },
-  "2ede5efeec8b03ca57e7b462395cea30": {
-   "id": "2ede5efeec8b03ca57e7b462395cea30",
-   "company": "MAHLE Industries Inc",
-   "role": "Internhip Lead-buying Mechatronics (m/f/d)",
-   "location": "Stuttgart"
+  "a2f4ab91e7c2d078a4b47e62e7585082": {
+   "id": "a2f4ab91e7c2d078a4b47e62e7585082",
+   "company": "Kaufland Stiftung & Co. KG",
+   "role": "Trainee Zur Führungskraft - Filiale (m/w/d) 2027, Großraum Langenfeld",
+   "location": "Dusseldorf"
+  },
+  "7f8ec3529ea723f2c9444a41c02bf575": {
+   "id": "7f8ec3529ea723f2c9444a41c02bf575",
+   "company": "Rewe Group",
+   "role": "Trainee Zum/zur Selbstständigen Rewe-kaufmann/-frau (m/w/d)",
+   "location": "Stadt Brandenburg An Der Havel"
   },
   "c5bc29bfb02c3a5bdd524e1278f17078": {
    "id": "c5bc29bfb02c3a5bdd524e1278f17078",
@@ -944,23 +962,11 @@
    "role": "Ausbildung Am Standort Marienmünster",
    "location": "MarienmüNster"
   },
-  "410507b49c8e9632c8609dc503c4ad8c": {
-   "id": "410507b49c8e9632c8609dc503c4ad8c",
-   "company": "Fritz Egger GmbH & Co. OG",
-   "role": "Ausbildung In Markt Bibart",
-   "location": "Markt Bibart"
-  },
-  "e8306a63409834eaf09b5efcbf13ed63": {
-   "id": "e8306a63409834eaf09b5efcbf13ed63",
-   "company": "HARTMANN",
-   "role": "Auszubildender (w/m/d) Zur Fachkraft Für Lagerlogistik - Standort Brück (start 2027)",
-   "location": "Munich"
-  },
-  "83188f91437b4a716e100845c27f764d": {
-   "id": "83188f91437b4a716e100845c27f764d",
-   "company": "Metsagroup",
-   "role": "Auszubildende Zum Maschinen- Und Anlagenführer/in",
-   "location": "Raubach"
+  "4cad137232dd22bbb049a6e59696dee4": {
+   "id": "4cad137232dd22bbb049a6e59696dee4",
+   "company": "Lidl Ltd",
+   "role": "Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)",
+   "location": "Germany"
   },
   "6b1ab5f71df4f3ffb35a6f3b9bc79010": {
    "id": "6b1ab5f71df4f3ffb35a6f3b9bc79010",
@@ -1118,6 +1124,12 @@
    "role": "Ausbildungsstelle Werkstoffprüfer (m/w/d)",
    "location": "Cologne"
   },
+  "d126335d5d045a9f11786ebc92a2a371": {
+   "id": "d126335d5d045a9f11786ebc92a2a371",
+   "company": "Heineken International BV",
+   "role": "Praktikant:in (m/w/d) Digital &amp; Technology - Fokus It-support",
+   "location": "Berlin"
+  },
   "662bf665e8b00fd1bcf4b6c6c9d835a9": {
    "id": "662bf665e8b00fd1bcf4b6c6c9d835a9",
    "company": "Hitachi Digital Services",
@@ -1207,6 +1219,12 @@
    "company": "Apple",
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
    "location": "Germany"
+  },
+  "48fd96173d853e1c11fd36c9c73632bc": {
+   "id": "48fd96173d853e1c11fd36c9c73632bc",
+   "company": "Talon",
+   "role": "Frontend Engineer",
+   "location": "Berlin"
   },
   "3fafa896d64085040ea1bcc7e2ab3a2c": {
    "id": "3fafa896d64085040ea1bcc7e2ab3a2c",
@@ -1682,12 +1700,6 @@
    "role": "Mitarbeiter Im It-servicedesk / It-support (m/w/x)",
    "location": "Grafenrheinfeld"
   },
-  "8fa631fae883c7c27b5b792de9aa53a8": {
-   "id": "8fa631fae883c7c27b5b792de9aa53a8",
-   "company": "adesso Group",
-   "role": "Software Engineer Golang (all Genders)",
-   "location": "Berlin"
-  },
   "9af39ee59586f142cd9522f1e9780d99": {
    "id": "9af39ee59586f142cd9522f1e9780d99",
    "company": "Allianz Technology SE",
@@ -2143,6 +2155,12 @@
    "company": "Amazon Commercial Services Pty Ltd - F47",
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Berlin"
+  },
+  "696f08e4353fb176410a97d76f0905db": {
+   "id": "696f08e4353fb176410a97d76f0905db",
+   "company": "Techsyndicate Inc",
+   "role": "Associate Partner - Consult Partner Mainframe",
+   "location": "Frankfurt Am Main"
   },
   "96d9ff015ff3ae2460801e83b8f7229e": {
    "id": "96d9ff015ff3ae2460801e83b8f7229e",
@@ -2618,12 +2636,6 @@
    "role": "Business Analyst Bilanzierung Krankenversicherung (m/w/d)",
    "location": "Germany"
   },
-  "797d4b187e9f7c846af0b1a8a44e3a12": {
-   "id": "797d4b187e9f7c846af0b1a8a44e3a12",
-   "company": "Danfoss AS",
-   "role": "Analyst, Crm & Sales Processes",
-   "location": "Hamburg"
-  },
   "4e8950be706451268af15a60e36f3cbc": {
    "id": "4e8950be706451268af15a60e36f3cbc",
    "company": "Parexel",
@@ -2809,6 +2821,48 @@
    "company": "IQVIA UK",
    "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
    "location": "Frankfurt Am Main"
+  },
+  "9ade7f880a9443ec44a7046b84d29cff": {
+   "id": "9ade7f880a9443ec44a7046b84d29cff",
+   "company": "Johnson Controls Inc",
+   "role": "Servicetechniker (m/w/d) Feuerschutz",
+   "location": "Cologne"
+  },
+  "ea9f91a8042e7b959f657e6e25bfb60e": {
+   "id": "ea9f91a8042e7b959f657e6e25bfb60e",
+   "company": "Johnson Controls Inc",
+   "role": "Servicetechniker (m/w/d) Sicherheitstechnik",
+   "location": "Cologne"
+  },
+  "b7da4041b0512ef7da7231813051b649": {
+   "id": "b7da4041b0512ef7da7231813051b649",
+   "company": "KONE Croatia",
+   "role": "Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Tür- Und Toranlagen - Berlin",
+   "location": "Berlin"
+  },
+  "cbd3afbdb6dc8e480c25bbb3579628eb": {
+   "id": "cbd3afbdb6dc8e480c25bbb3579628eb",
+   "company": "fenwick-linde.fr",
+   "role": "Ausbildung Zum Mechatroniker Als Servicetechniker Im Servicegebiet: Hamburg (zentrum/nord) (m/w/d) Zum Start 01.09.2027",
+   "location": "Hamburg"
+  },
+  "cd4f72c39539421f898f82dff3f073cb": {
+   "id": "cd4f72c39539421f898f82dff3f073cb",
+   "company": "Vestas",
+   "role": "Service Technician (m/f/d) For Wind Turbines In Müllrose",
+   "location": "MüLlrose"
+  },
+  "5bd950d61f234401c43f5fffece9831d": {
+   "id": "5bd950d61f234401c43f5fffece9831d",
+   "company": "Vestas",
+   "role": "Service Technician (m/f/d) For Wind Turbines Near Gehrde",
+   "location": "Gehrde"
+  },
+  "8fd4ee3d099f3bec2e72adc0fc5ddfc7": {
+   "id": "8fd4ee3d099f3bec2e72adc0fc5ddfc7",
+   "company": "Azenta Life Sciences",
+   "role": "Servicetechniker (m/w/d) Für Automatisierungs- Und Kälteanlagen – München-hadern (germany)",
+   "location": "MüNchen-Hadern"
   },
   "9d21537eece9d835383fb272c27c399a": {
    "id": "9d21537eece9d835383fb272c27c399a",
@@ -3248,47 +3302,107 @@
    "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d)",
    "location": "MüNchen-Hohenlinden"
   },
-  "b083958c003b064c18661a02f2c573bf": {
-   "id": "b083958c003b064c18661a02f2c573bf",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) - Region Siegerland",
-   "location": "Siegerland"
+  "0900a920f5e0f8c471fb0ffe23a518f7": {
+   "id": "0900a920f5e0f8c471fb0ffe23a518f7",
+   "company": "Levis Media",
+   "role": "Sales Stylist / Verkäufer (m/w/d) In Teilzeit",
+   "location": "Dusseldorf"
   },
-  "9f9912ca10c801a12fbbcf1457798693": {
-   "id": "9f9912ca10c801a12fbbcf1457798693",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Für Baumaschinen In Der Werkstatt (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "3b4f84b1836b82ef72abd71c7d775cd3": {
-   "id": "3b4f84b1836b82ef72abd71c7d775cd3",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker (m/w/d) Schwerpunkt Bundeswehrkrane Im Großraum Rhein-neckar-dreieck",
-   "location": "Rhein-Neckar-Dreieck"
-  },
-  "cc9419f9356c8ccbe1e46c37127a2b35": {
-   "id": "cc9419f9356c8ccbe1e46c37127a2b35",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker (m/w/d) Schwerpunkt Bundeswehrkrane Im Großraum Hessen",
-   "location": "Hessen"
-  },
-  "c82d6cd250a7d5f9806ac87020d5a1ab": {
-   "id": "c82d6cd250a7d5f9806ac87020d5a1ab",
-   "company": "nkt Group GmbH",
-   "role": "Mobile Test Equipment Technician",
-   "location": "Germany"
-  },
-  "7a6284c81e755b690f6139553e71f96c": {
-   "id": "7a6284c81e755b690f6139553e71f96c",
-   "company": "Henry Schein",
-   "role": "Service-techniker (m/w/d) Hygiene – Hamburg (m/w/d)",
-   "location": "Hamburg"
-  },
-  "24a62e7c414c69dff3cd5d0b15b0618d": {
-   "id": "24a62e7c414c69dff3cd5d0b15b0618d",
-   "company": "Techem",
-   "role": "Kundendiensttechniker / Anlagenmechaniker / Monteur Voll- /teilzeit (m/w/d), Region Berlin",
+  "396afc1cca413d66a3be1d3c3e2a22cc": {
+   "id": "396afc1cca413d66a3be1d3c3e2a22cc",
+   "company": "TJX Deutschland Ltd. & Co. KG",
+   "role": "Ausbildung Zum*zur Verkäufer*in (m/w/d)",
    "location": "Berlin"
+  },
+  "c73fc5ab79b2e55c102e0792cd702172": {
+   "id": "c73fc5ab79b2e55c102e0792cd702172",
+   "company": "Bäcker Görtz",
+   "role": "Mitarbeiter Im Verkauf (m/w/d) - Brühl / Voll- Oder Teilzeit",
+   "location": "Cologne"
+  },
+  "83018db5f6d3f16bca5b6c1931f472c4": {
+   "id": "83018db5f6d3f16bca5b6c1931f472c4",
+   "company": "LOVISA",
+   "role": "Aushilfe Gesucht (m/w/d)",
+   "location": "Berlin"
+  },
+  "5f6d62a9a37b580345ded03958043132": {
+   "id": "5f6d62a9a37b580345ded03958043132",
+   "company": "PENNY",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Wuppertal"
+  },
+  "5ae27bcd77eeb39fc631a4e0de4e1b07": {
+   "id": "5ae27bcd77eeb39fc631a4e0de4e1b07",
+   "company": "REWE Moers Uerdinger Straße GmbH & Co. Einzelhandels KG",
+   "role": "Verkäufer Im Getränkemarkt (m/w/d)",
+   "location": "Dusseldorf"
+  },
+  "3a2e6cdefe8ac118a702b66975f08288": {
+   "id": "3a2e6cdefe8ac118a702b66975f08288",
+   "company": "REWE",
+   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "24eb884bcb20d13a3a4adf83d572e8ab": {
+   "id": "24eb884bcb20d13a3a4adf83d572e8ab",
+   "company": "Rewe Group",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Mannheim"
+  },
+  "8dea20eb1357f788085d3a317f13e143": {
+   "id": "8dea20eb1357f788085d3a317f13e143",
+   "company": "Rewe Group",
+   "role": "Verkäufer Getränke (m/w/d)",
+   "location": "Cologne"
+  },
+  "d734ae8f8ac560e73afca9e01a7cccf2": {
+   "id": "d734ae8f8ac560e73afca9e01a7cccf2",
+   "company": "REWE Christian Werner oHG",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
+  },
+  "6d68e681c1cdc500f23647fb716de4e5": {
+   "id": "6d68e681c1cdc500f23647fb716de4e5",
+   "company": "Rewe Group",
+   "role": "Verkäufer Obst & Gemüse (m/w/d)",
+   "location": "Cologne"
+  },
+  "e2486ded968ad9c17a7ca22e838e77ba": {
+   "id": "e2486ded968ad9c17a7ca22e838e77ba",
+   "company": "REWE Oliver Scherff oHG",
+   "role": "Werkstudent Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
+  },
+  "d17cc657bf7852c3105fa4bcea78d656": {
+   "id": "d17cc657bf7852c3105fa4bcea78d656",
+   "company": "REWE Salvatore Minacapilli oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "ed2ab2e5b6e244a298c0403a10ab9177": {
+   "id": "ed2ab2e5b6e244a298c0403a10ab9177",
+   "company": "REWE Jörg Randebrock oHG",
+   "role": "Verkäufer Schließfunktion (m/w/d)",
+   "location": "Cologne"
+  },
+  "fa75a8574c64dfb0b2c820665316012d": {
+   "id": "fa75a8574c64dfb0b2c820665316012d",
+   "company": "Rewe Group",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "e4d2042193bd6e0a4df08e185eb226a7": {
+   "id": "e4d2042193bd6e0a4df08e185eb226a7",
+   "company": "REWE Mathias Götz oHG",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Saarbruecken"
+  },
+  "0b4af8c017027d88bb0e04b154934a45": {
+   "id": "0b4af8c017027d88bb0e04b154934a45",
+   "company": "REWE",
+   "role": "Verkäufer (m/w/d)",
+   "location": "Cologne"
   },
   "674dea7d25c604409a43addb5b37b83d": {
    "id": "674dea7d25c604409a43addb5b37b83d",
@@ -3314,35 +3428,17 @@
    "role": "Verkäufer Bedientheke In Teilzeit (m/w/d)",
    "location": "Cologne"
   },
-  "e24c484030d5c9e48ff86b5e737ef481": {
-   "id": "e24c484030d5c9e48ff86b5e737ef481",
-   "company": "Rewe Group",
-   "role": "Verkäufer Getränke (m/w/d)",
-   "location": "Cologne"
-  },
   "399a7d5a211acba582f7719ee206d803": {
    "id": "399a7d5a211acba582f7719ee206d803",
    "company": "Rewe Group",
    "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
   },
-  "2ac46920f94b929aec0788562584ab84": {
-   "id": "2ac46920f94b929aec0788562584ab84",
-   "company": "Rewe Group",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Berlin"
-  },
   "a2f3e5081d6766880518b9cd24226c2d": {
    "id": "a2f3e5081d6766880518b9cd24226c2d",
    "company": "Rewe Group",
    "role": "Aushilfe / Minijob Warenverräumung (m/w/d)",
    "location": "Saarbruecken"
-  },
-  "5d1cd52d6c8dee547c070a44637d0a4f": {
-   "id": "5d1cd52d6c8dee547c070a44637d0a4f",
-   "company": "PENNY",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Mannheim"
   },
   "d61461358c69a1f2a02265d929b8536e": {
    "id": "d61461358c69a1f2a02265d929b8536e",
@@ -3360,12 +3456,6 @@
    "id": "4f619f6ea0d31f10f9356456ac78cfb4",
    "company": "REWE Fickeis oHG",
    "role": "Verkäufer Getränke (m/w/d)",
-   "location": "Cologne"
-  },
-  "b3935d725cf6c2e1cef1518637521f1b": {
-   "id": "b3935d725cf6c2e1cef1518637521f1b",
-   "company": "REWE Group",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
    "location": "Cologne"
   },
   "d9ae6a7a57acfcfd6e623aeb79a52a88": {
@@ -3518,12 +3608,6 @@
    "role": "Verkäufer (m/w/d) In Teilzeit 30 Std./w. / Spandau",
    "location": "Berlin"
   },
-  "6aad23b20744c6e23251add42a9ac30c": {
-   "id": "6aad23b20744c6e23251add42a9ac30c",
-   "company": "LOVISA",
-   "role": "Aushilfe Gesucht (m/w/d)",
-   "location": "Hamburg"
-  },
   "ade5c4df87919344d3e8f766d2ac9fea": {
    "id": "ade5c4df87919344d3e8f766d2ac9fea",
    "company": "OBI",
@@ -3632,12 +3716,6 @@
    "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
    "location": "Cologne"
   },
-  "4cc5d76b67541d08cccebd6c60663faf": {
-   "id": "4cc5d76b67541d08cccebd6c60663faf",
-   "company": "REWE Moers Uerdinger Straße GmbH & Co. Einzelhandels KG",
-   "role": "Verkäufer Im Getränkemarkt (m/w/d)",
-   "location": "Dusseldorf"
-  },
   "3dc514ab46964d3a121fe7820709cde6": {
    "id": "3dc514ab46964d3a121fe7820709cde6",
    "company": "REWE Holger Rohe oHG",
@@ -3704,71 +3782,17 @@
    "role": "Konstanz Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 78467",
    "location": "Constance"
   },
-  "e8fb5067e0399412d3b16ecc1e2304f9": {
-   "id": "e8fb5067e0399412d3b16ecc1e2304f9",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Worms Ausbildung Zum Verkäufer (mwd) 67547",
-   "location": "Mannheim"
-  },
-  "f684a059a900efe34ac3310b02c00708": {
-   "id": "f684a059a900efe34ac3310b02c00708",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Worms Kundenberater Verkauf (mwd) 67547",
-   "location": "Mannheim"
-  },
-  "79bd94e4c3f00b492ad1c82a55b9cb87": {
-   "id": "79bd94e4c3f00b492ad1c82a55b9cb87",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Münster Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 48143",
-   "location": "Munster"
-  },
-  "8cc48908f34438934e8c08a482449c7a": {
-   "id": "8cc48908f34438934e8c08a482449c7a",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Sulzbach Kundenberater Verkauf (mwd) 65843",
-   "location": "Nuremberg"
-  },
-  "020730ba290b93cd6a22df2844d5ea05": {
-   "id": "020730ba290b93cd6a22df2844d5ea05",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Friedrichshafen Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 88045",
-   "location": "Constance"
-  },
-  "20a9c6736d81119cbc82e3ab5fd325b3": {
-   "id": "20a9c6736d81119cbc82e3ab5fd325b3",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Neuss Aushilfeminijob Im Verkauf (mwd) 41464",
-   "location": "Dusseldorf"
-  },
-  "3d8569654a531454dc12b35d56134650": {
-   "id": "3d8569654a531454dc12b35d56134650",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Elmshorn Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 25337",
+  "1e3ec46c99a7f7bc87a97797a92c7b49": {
+   "id": "1e3ec46c99a7f7bc87a97797a92c7b49",
+   "company": "Chnetwork",
+   "role": "Pr Coordinator (m/w/d)",
    "location": "Hamburg"
   },
-  "9a5080145ceedb6cda0148d9b8d46ea3": {
-   "id": "9a5080145ceedb6cda0148d9b8d46ea3",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Elmshorn Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 25337",
-   "location": "Hamburg"
-  },
-  "5f5b22eca537026f7593ea1c19dfc771": {
-   "id": "5f5b22eca537026f7593ea1c19dfc771",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Hamburg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 20095",
-   "location": "Hamburg"
-  },
-  "93d69339880f9afba570bce128cd544a": {
-   "id": "93d69339880f9afba570bce128cd544a",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Münster Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 48153",
-   "location": "Munster"
-  },
-  "2e036bb07457635c9e28bcbe6de4e399": {
-   "id": "2e036bb07457635c9e28bcbe6de4e399",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Erlangen Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 91052",
-   "location": "Nuremberg"
+  "7941aa68a36bf2ec6bf5aee9ba4dee89": {
+   "id": "7941aa68a36bf2ec6bf5aee9ba4dee89",
+   "company": "Deloitte GmbH",
+   "role": "(junior) Assistant Sekretariat Steuerberatung - Tax (m/w/d)",
+   "location": "Munich"
   },
   "34753328c0529d281891f1fe63578837": {
    "id": "34753328c0529d281891f1fe63578837",
@@ -3972,6 +3996,12 @@
    "id": "e87599ed1fbf709e86ee9639549fe31a",
    "company": "Knorr-Bremse AG",
    "role": "Referent Des Vorstandsvorsitzenden (m/w/d)",
+   "location": "Munich"
+  },
+  "7a639d5be37849feb6e84365517ce8f3": {
+   "id": "7a639d5be37849feb6e84365517ce8f3",
+   "company": "Medpace",
+   "role": "Contract Specialist",
    "location": "Munich"
   },
   "959a98238417ba2f8c4fafa272287057": {
@@ -4231,24 +4261,6 @@
    "company": "Hasso Plattner Foundation",
    "role": "Assistenz Der Fachgebietsleitung „artificial Intelligence And Intelligent Systems (m/w/d)\"",
    "location": "Berlin"
-  },
-  "fd5dbb472574e44e5749fdd33988cc53": {
-   "id": "fd5dbb472574e44e5749fdd33988cc53",
-   "company": "KNDS Group",
-   "role": "Materialkoordinator (m/w/d)",
-   "location": "Unknown"
-  },
-  "656cdc7d148c684aabbff4be932abaf1": {
-   "id": "656cdc7d148c684aabbff4be932abaf1",
-   "company": "KNDS Group",
-   "role": "Produktionslogistiker (m/w/d)",
-   "location": "Unknown"
-  },
-  "6b5c34e3f55ea7caed44e53ed2a1ea2d": {
-   "id": "6b5c34e3f55ea7caed44e53ed2a1ea2d",
-   "company": "Koninklijke Philips",
-   "role": "Customer Service Specialist (all Genders)",
-   "location": "Germany"
   }
  }
 }

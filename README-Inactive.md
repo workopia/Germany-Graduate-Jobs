@@ -10583,4 +10583,44 @@
 <tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Industriemechaniker Instandhaltung Gießereitechnik (m/w/d) In Vollzeit</td><td>Weilbach</td><td>2026-10-26</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Sindelfingen Kundenberater Verkauf (mwd) 71065</td><td>Stuttgart</td><td>2026-10-26</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Böblingen Kundenberater Verkauf (mwd) 71034</td><td>Stuttgart</td><td>2026-10-26</td></tr>
+<tr><td>Ford Europe</td><td>Praktikant (d/w/m) Einsatz Von Ki Für Lagerauslastung Und Belegung - Untersuchung</td><td>Cologne</td><td>2026-10-27</td></tr>
+<tr><td>Kerry</td><td>Kerry Internship Programme 2027 - Research, Development & Application (RDA)</td><td>Frankfurt Am Main</td><td>2026-10-27</td></tr>
+<tr><td>Mercedes-Benz</td><td>Werkstudent*in It Internationale Logistik</td><td>Stuttgart</td><td>2026-10-27</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in It Internationale Logistik</td><td>Stuttgart</td><td>2026-10-27</td></tr>
+<tr><td>Volkswagen</td><td>Praktikant Marketing, Produktmanagement &amp; Training Vw Nutzfahrzeuge (m/w/d)</td><td>Unknown</td><td>2026-10-27</td></tr>
+<tr><td>AptarGroup Inc</td><td>Praktikant (m/w/d) Aptar Menden Gmbh</td><td>Dortmund</td><td>2026-10-27</td></tr>
+<tr><td>Provident Label Group</td><td>Praktikant Music Licensing & Rights Management (m/w/d)</td><td>Berlin</td><td>2026-10-27</td></tr>
+<tr><td>MAHLE Industries Inc</td><td>Internhip Lead-buying Mechatronics (m/f/d)</td><td>Stuttgart</td><td>2026-10-27</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung In Markt Bibart</td><td>Markt Bibart</td><td>2026-10-27</td></tr>
+<tr><td>HARTMANN</td><td>Auszubildender (w/m/d) Zur Fachkraft Für Lagerlogistik - Standort Brück (start 2027)</td><td>Munich</td><td>2026-10-27</td></tr>
+<tr><td>Metsagroup</td><td>Auszubildende Zum Maschinen- Und Anlagenführer/in</td><td>Raubach</td><td>2026-10-27</td></tr>
+<tr><td>adesso Group</td><td>Software Engineer Golang (all Genders)</td><td>Berlin</td><td>2026-10-27</td></tr>
+<tr><td>Danfoss AS</td><td>Analyst, Crm & Sales Processes</td><td>Hamburg</td><td>2026-10-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) - Region Siegerland</td><td>Siegerland</td><td>2026-10-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen In Der Werkstatt (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker (m/w/d) Schwerpunkt Bundeswehrkrane Im Großraum Rhein-neckar-dreieck</td><td>Rhein-Neckar-Dreieck</td><td>2026-10-27</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker (m/w/d) Schwerpunkt Bundeswehrkrane Im Großraum Hessen</td><td>Hessen</td><td>2026-10-27</td></tr>
+<tr><td>nkt Group GmbH</td><td>Mobile Test Equipment Technician</td><td>Germany</td><td>2026-10-27</td></tr>
+<tr><td>Henry Schein</td><td>Service-techniker (m/w/d) Hygiene – Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-10-27</td></tr>
+<tr><td>Techem</td><td>Kundendiensttechniker / Anlagenmechaniker / Monteur Voll- /teilzeit (m/w/d), Region Berlin</td><td>Berlin</td><td>2026-10-27</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-27</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Berlin</td><td>2026-10-27</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Mannheim</td><td>2026-10-27</td></tr>
+<tr><td>REWE Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-27</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Hamburg</td><td>2026-10-27</td></tr>
+<tr><td>REWE Moers Uerdinger Straße GmbH & Co. Einzelhandels KG</td><td>Verkäufer Im Getränkemarkt (m/w/d)</td><td>Dusseldorf</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Worms Ausbildung Zum Verkäufer (mwd) 67547</td><td>Mannheim</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Worms Kundenberater Verkauf (mwd) 67547</td><td>Mannheim</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Münster Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 48143</td><td>Munster</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Sulzbach Kundenberater Verkauf (mwd) 65843</td><td>Nuremberg</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Friedrichshafen Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 88045</td><td>Constance</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Neuss Aushilfeminijob Im Verkauf (mwd) 41464</td><td>Dusseldorf</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Elmshorn Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 25337</td><td>Hamburg</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Elmshorn Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 25337</td><td>Hamburg</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hamburg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 20095</td><td>Hamburg</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Münster Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 48153</td><td>Munster</td><td>2026-10-27</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Erlangen Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 91052</td><td>Nuremberg</td><td>2026-10-27</td></tr>
+<tr><td>KNDS Group</td><td>Materialkoordinator (m/w/d)</td><td>Unknown</td><td>2026-10-27</td></tr>
+<tr><td>KNDS Group</td><td>Produktionslogistiker (m/w/d)</td><td>Unknown</td><td>2026-10-27</td></tr>
+<tr><td>Koninklijke Philips</td><td>Customer Service Specialist (all Genders)</td><td>Germany</td><td>2026-10-27</td></tr>
 </table>
