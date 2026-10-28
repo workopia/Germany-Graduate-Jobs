@@ -10623,4 +10623,61 @@
 <tr><td>KNDS Group</td><td>Materialkoordinator (m/w/d)</td><td>Unknown</td><td>2026-10-27</td></tr>
 <tr><td>KNDS Group</td><td>Produktionslogistiker (m/w/d)</td><td>Unknown</td><td>2026-10-27</td></tr>
 <tr><td>Koninklijke Philips</td><td>Customer Service Specialist (all Genders)</td><td>Germany</td><td>2026-10-27</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Duales Studium In Der Wirtschaftsprüfung / Audit (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-28</td></tr>
+<tr><td>Pandora Jewellery</td><td>Intern, Ecommerce (m/f/d) - Hamburg (compulsory Internship)</td><td>Hamburg</td><td>2026-10-28</td></tr>
+<tr><td>Tiffany & Co</td><td>Intern Marketing Project Management (m/f/d)</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>Tiffany</td><td>Intern Marketing Project Management (m/f/d)</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>Mercedes-Benz</td><td>Internship: Digital Product Management Mb.os (mandatory Internship)</td><td>Stuttgart</td><td>2026-10-28</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Inhouse Consulting Mit Dem Schwerpunkt Lean Management</td><td>Stuttgart</td><td>2026-10-28</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Office Des Vice President Mb.os User Experience</td><td>Stuttgart</td><td>2026-10-28</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Cross-industry Collaboration (w/m/x)</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>SCHOTT</td><td>Jena Initiativbewerbung (schüler )praktikum Abschlussarbeit Werkstudent (mwd) Th</td><td>Jena</td><td>2026-10-28</td></tr>
+<tr><td>ZEISS Group</td><td>Praktikum Im Qualitätsmanagement (schwerpunkt Normeinführung) (m/w/x)</td><td>Goppingen</td><td>2026-10-28</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>München Praktikant Restructuring & Transformation (mwd) 80809</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>Roche UK</td><td>Internship - Data And Digital Enablement (prlabd)</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>MAPAL Fabrik fAr PrAzisionswerkzeuge Dr. Kress KG</td><td>Praxissemester (m/w/d)</td><td>Goppingen</td><td>2026-10-28</td></tr>
+<tr><td>Amazon</td><td>Operations Intern</td><td>Berlin</td><td>2026-10-28</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship Product And Workflow Management Refractive Lasers (f/m/x)</td><td>Jena</td><td>2026-10-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Berlin Praktikum Steuerberatung Tax (wmd) Be 10787</td><td>Berlin</td><td>2026-10-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Bielefeld Praktikum Wirtschaftsprüfungaudit (wmd) Nw 33602</td><td>Bielefeld</td><td>2026-10-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Intern Working Student Financial Services Quantitative Risk Management And Valuation Ffm, Düdo He 60314</td><td>Frankfurt Am Main</td><td>2026-10-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Hamburg Praktikum Wirtschaftsprüfung Audit (wmd) Hh 20355</td><td>Hamburg</td><td>2026-10-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Hamburg Praktikant Management Advisory Schwerpunkt Ai Strategy & Implementation Services (wmd) Hh 20355</td><td>Hamburg</td><td>2026-10-28</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Hannover Praktikum Wirtschaftsprüfung Audit (wmd) Ni 30175</td><td>Hanover</td><td>2026-10-28</td></tr>
+<tr><td>Analog Devices</td><td>Applications Engineering - Field Applications Intern</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>LBBW Webspace</td><td>Praktikant (m/w/d) Im Bereich Hr.services, Systeme & International</td><td>Stuttgart</td><td>2026-10-28</td></tr>
+<tr><td>Hermès</td><td>Ausbildung Kaufmann/-frau Im Einzelhandel (m/w/d) München</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Bevern</td><td>Bevern</td><td>2026-10-28</td></tr>
+<tr><td>Fritz Egger GmbH & Co. OG</td><td>Ausbildung Am Standort Marienmünster</td><td>MarienmüNster</td><td>2026-10-28</td></tr>
+<tr><td>fisgruppe</td><td>Mitarbeiter Im It-servicedesk / It-support (m/w/x)</td><td>Grafenrheinfeld</td><td>2026-10-28</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Web- / Digital-analyst (m/w/d)</td><td>Unknown</td><td>2026-10-28</td></tr>
+<tr><td>KNDS Group</td><td>Instandhaltungsmechaniker Für Cnc-/zerspanungsmaschinen (m/w/d)</td><td>GöRlitz</td><td>2026-10-28</td></tr>
+<tr><td>KNDS Group</td><td>Instandhaltungsmechaniker Für Oberflächentechnik (m/w/d)</td><td>GöRlitz</td><td>2026-10-28</td></tr>
+<tr><td>KNDS Group</td><td>Instandhaltungselektriker (m/w/d)</td><td>GöRlitz</td><td>2026-10-28</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d) - Region Mittelhessen</td><td>Mittelhessen</td><td>2026-10-28</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker / Monteur Baumaschinen (m/w/d)*</td><td>KöLn-Marsdorf</td><td>2026-10-28</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen Im Außendienst (m/w/d)</td><td>MüNchen-Hohenlinden</td><td>2026-10-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d) 6678475257</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Gartentechnik - Auch Quereinsteiger (m/w/d)</td><td>Constance</td><td>2026-10-28</td></tr>
+<tr><td>Rewe Group</td><td>Werkstudent Verkaufshilfe (m/w/d)</td><td>Berlin</td><td>2026-10-28</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Werkstudent Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>REWE Ahmad-Shah Hessami oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Mitarbeiter Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>REWE Fickeis oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>Rewe Group</td><td>Mitarbeiter Disposition / Warenannahme / Logistik - Auch Quereinsteiger (m/w/d)</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>Rewe Group</td><td>Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)</td><td>Hamburg</td><td>2026-10-28</td></tr>
+<tr><td>REWE Fickeis oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>REWE Holger Rohe oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-28</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Live Store Frankfurt Am Main</td><td>Frankfurt Am Main</td><td>2026-10-28</td></tr>
+<tr><td>Uniqlo</td><td>Verkäufer:in In Voll- Und Teilzeit (m/w/d) Uniqlo Königstraße, Stuttgart</td><td>Stuttgart</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>München Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 80993</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>München Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 80993</td><td>Munich</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürnberg Kundenberater Verkauf Schwerpunkt Tv & Sounds (mwd) 90403</td><td>Nuremberg</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürnberg Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 90403</td><td>Nuremberg</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürnberg Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 90403</td><td>Nuremberg</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürtingen Kundenberater Verkauf (mwd) 72622</td><td>Reutlingen</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Heide Aushilfeminijob Logistik Schwerpunkt Warenverräumung (mwd) 25746</td><td>Kiel</td><td>2026-10-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Konstanz Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 78467</td><td>Constance</td><td>2026-10-28</td></tr>
 </table>
