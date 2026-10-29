@@ -10680,4 +10680,60 @@
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürtingen Kundenberater Verkauf (mwd) 72622</td><td>Reutlingen</td><td>2026-10-28</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Heide Aushilfeminijob Logistik Schwerpunkt Warenverräumung (mwd) 25746</td><td>Kiel</td><td>2026-10-28</td></tr>
 <tr><td>MediamarktSaturn - Webshop Foundation</td><td>Konstanz Kundenberater Verkauf Schwerpunkt Computer & Gaming (mwd) 78467</td><td>Constance</td><td>2026-10-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant/ Werkstudent Internationale Mitarbeiterentsendung - Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Fördermittelberatung - Business Tax (m/w/d)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Transfer Pricing (m/w/d)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Technology Strategy & Transformation - Agile Transformation (m/w/d)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-29</td></tr>
+<tr><td>Nestle Ltd</td><td>Werkstudent International Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-29</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Logistik (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-29</td></tr>
+<tr><td>Nestle SA</td><td>Werkstudent International Sales (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-29</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Logistik (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-10-29</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Bonn Praktikant Wirtschaftsprüfung Audit (wmd) Bonn, Köln Nw 53175</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>BRAINEFFECT</td><td>Influencer Marketing Praktikum</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>CLAAS Selbstfahrende Erntemaschinen GmbH</td><td>Student (m/w/d) Claas Inside / Internship Project Management Global Purchasing</td><td>Bielefeld</td><td>2026-10-29</td></tr>
+<tr><td>LBBW Webspace</td><td>Praktikant (m/w/d) Im Bereich Wp-corporate Actions</td><td>Stuttgart</td><td>2026-10-29</td></tr>
+<tr><td>Zdf</td><td>Praktikum Studio Brüssel (04/2027 - 09/2027)</td><td>Brussels +1</td><td>2026-10-29</td></tr>
+<tr><td>Premium AEROTEC GmbH</td><td>Working Student - Mea (d/f/m)</td><td>Reutlingen</td><td>2026-10-29</td></tr>
+<tr><td>Celonis</td><td>Intern Technology Consultant - Data & Ai</td><td>Munich</td><td>2026-10-29</td></tr>
+<tr><td>Doctolib GmbH</td><td>Praktikum Campaign Management (x/f/m)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>bayernlb</td><td>München Praktikum It Design (mwd)</td><td>Munich</td><td>2026-10-29</td></tr>
+<tr><td>Hermès International</td><td>Ausbildung Fachlagerist/-in (m/w/d)</td><td>Munich</td><td>2026-10-29</td></tr>
+<tr><td>Hermès International</td><td>Ausbildung Kaufmann/-frau Im Einzelhandel (m/w/d) München</td><td>Munich</td><td>2026-10-29</td></tr>
+<tr><td>Hermès</td><td>Ausbildung Fachlagerist/-in (m/w/d)</td><td>Munich</td><td>2026-10-29</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Backend-/datenbank-entwickler (m/w/d) - Berlin</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>NEXUS / SCHAUF GmbH</td><td>It-support & Projektmitarbeiter (m/w/d)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>Stadtwerke Dusseldorf</td><td>Servicetechniker Für Die Stromzählermontage (m/w/d)</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Verden (aller)</td><td>Hanover</td><td>2026-10-29</td></tr>
+<tr><td>Rewe Group</td><td>Elektroniker / Elektriker In Der Instandhaltung (m/w/d)</td><td>SchöNwalde</td><td>2026-10-29</td></tr>
+<tr><td>cellcentric GmbH</td><td>Instandhaltungstechniker - Mechatronik/elektronik Für Produktionsmaschinen (m/w/d)</td><td>Esslingen-Pliensauvorstadt</td><td>2026-10-29</td></tr>
+<tr><td>AKN Eisenbahn AG</td><td>Elektroniker / Mechatroniker (m/w/d)</td><td>Unknown</td><td>2026-10-29</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Hamburg</td><td>2026-10-29</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Wuppertal</td><td>2026-10-29</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Mannheim</td><td>2026-10-29</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>REWE Christian Werner oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Verkäufer (w/m/d)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>Chnetwork</td><td>Verkäufer:in (m/w/d) Boutique Chanel Parfums & Beauté Hamburg</td><td>Hamburg</td><td>2026-10-29</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Holzkirchen (30 Std)</td><td>Munich</td><td>2026-10-29</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Brühl</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (linden-center)</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Mülheim (forum)</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Hamburg (phoenix-center)</td><td>Hamburg</td><td>2026-10-29</td></tr>
+<tr><td>aldi-sued</td><td>Studentenjob Verkauf (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>Aldi Süd</td><td>Studentenjob Verkauf (m/w/d)</td><td>Saarbruecken</td><td>2026-10-29</td></tr>
+<tr><td>Aldi Süd</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>aldi-sued</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) In Teilzeit 30 Std./w. / Spandau</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>OBI</td><td>Verkäufer Baumarkt (alle Geschlechter)</td><td>Cologne</td><td>2026-10-29</td></tr>
+<tr><td>CHANEL</td><td>Verkäufer:in (m/w/d) Boutique Chanel Parfums & Beauté Düsseldorf</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
+<tr><td>Throwbackpacks</td><td>Verkaufsberater In Vollzeit Hamburg Europapassage Calvin Klein Underwear (m/w/d)</td><td>Hamburg</td><td>2026-10-29</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent Telecommunication(m/f/d), Part-time (24 Hours/week), Wiesbaden Shop</td><td>Frankfurt Am Main</td><td>2026-10-29</td></tr>
+<tr><td>Throwbackpacks</td><td>Verkaufsberater In Teilzeit Tommy Hilfiger Sulzbach Mtz (m/w/d)</td><td>Nuremberg</td><td>2026-10-29</td></tr>
+<tr><td>POP MART Global</td><td>Sales Associate - Düsseldorf</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
+<tr><td>Hasso Plattner Foundation</td><td>Assistenz Der Fachgebietsleitung „artificial Intelligence And Intelligent Systems (m/w/d)"</td><td>Berlin</td><td>2026-10-29</td></tr>
 </table>
