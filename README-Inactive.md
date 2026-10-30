@@ -10736,4 +10736,54 @@
 <tr><td>Throwbackpacks</td><td>Verkaufsberater In Teilzeit Tommy Hilfiger Sulzbach Mtz (m/w/d)</td><td>Nuremberg</td><td>2026-10-29</td></tr>
 <tr><td>POP MART Global</td><td>Sales Associate - Düsseldorf</td><td>Dusseldorf</td><td>2026-10-29</td></tr>
 <tr><td>Hasso Plattner Foundation</td><td>Assistenz Der Fachgebietsleitung „artificial Intelligence And Intelligent Systems (m/w/d)"</td><td>Berlin</td><td>2026-10-29</td></tr>
+<tr><td>STMicroelectronics</td><td>Internship Business Management Gka</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>ITL Eisenbahngesellschaft mbH</td><td>Praktikum Bei Der Itl Eisenbahngesellschaft Mbh</td><td>Dresden</td><td>2026-10-30</td></tr>
+<tr><td>John Deere</td><td>Praktikum Logistik (m/w/d)</td><td>Karlsruhe</td><td>2026-10-30</td></tr>
+<tr><td>BMW Group</td><td>Praktikant International Supplier Qualification (w/m/x)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>BMW Group</td><td>Intern Integration Of Ai Agents In Vehicle Systems (f/m/x)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>BMW Group</td><td>Intern Ai-based Context Engineering (f/m/x)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Handels- Und Eventmarketing Mini (w/m/x)</td><td>Germany</td><td>2026-10-30</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Marketingkommunikation Und Digital Marketing Für Mini Deutschland (w/m/x)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Marketing Und Kommunikation (w/m/x)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>Moody's Corporation</td><td>Ratings And Research Support Intern - Financial Institution Group (german Speaking)</td><td>Frankfurt Am Main</td><td>2026-10-30</td></tr>
+<tr><td>Emerson</td><td>Internship: Ai-based Test & Measurement Workflows</td><td>Dresden</td><td>2026-10-30</td></tr>
+<tr><td>Emerson</td><td>Internship: Rf Measurements And Simulations For Sdr</td><td>Dresden</td><td>2026-10-30</td></tr>
+<tr><td>Analog Devices</td><td>Product Applications - Systems Pipeline Intern</td><td>Hamburg</td><td>2026-10-30</td></tr>
+<tr><td>Infineon</td><td>Internship - Data And Workflows For Ai Usage In Unit Process Development (f/m/div)</td><td>Dresden</td><td>2026-10-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Risk & Compliance - Manufacturing / Automotive (m/w/d)</td><td>Stuttgart</td><td>2026-10-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Controls Assurance (m/w/d)</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Mint - Tax (m/w/d)</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Hermès International</td><td>Ausbildung Fachlagerist/-in (m/w/d) Berlin</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Hermès</td><td>Ausbildung Fachlagerist/-in (m/w/d) Berlin</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Lidl Ltd</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Germany</td><td>2026-10-30</td></tr>
+<tr><td>OBI</td><td>Abiturientenprogramm - Handelsfachwirt (alle Geschlechter)</td><td>Hoya</td><td>2026-10-30</td></tr>
+<tr><td>ResMed Inc</td><td>It Support Specialist 2nd Level (m/w/d)</td><td>De Mfd Mobile Office</td><td>2026-10-30</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Software-entwickler Mit Schwerpunkt Cyber Security (m/w/d)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>NEXUS Deutschland GmbH</td><td>Softwareentwickler C# / .net Core (m/w/d) - Berlin</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Düsseldorf Service Technician (mfd) For Wind Turbines Ramsdorf Nw</td><td>Dusseldorf</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Berlin Service Technician (mfd) Main Components Nürnberg Region Be 10117</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Potsdam Service Technician (mfd) For Wind Turbines In Prenzlau Be</td><td>Prenzlau</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Stuttgart Service Technician Skt (mfd) For Wind Turbines In Tuttlingen Bade</td><td>Stuttgart</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Schwerin Service Technician (mfd) Hv For Wind Turbines In Greifswald Meck</td><td>Greifswald</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Potsdam Service Technician (mfd) For Wind Turbines In Müllrose Be</td><td>Berlin</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Dresden Service Technician (mfd) For Wind Turbines Hv In Großweitzschen Sn</td><td>GroßWeitzschen</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Hannover Service Technician (mfd) For Wind Turbines Near Jaderberg Ni</td><td>Hanover</td><td>2026-10-30</td></tr>
+<tr><td>Vestas</td><td>Hannover Service Technician (mfd) For Wind Turbines In Verden (aller) Ni</td><td>Hanover</td><td>2026-10-30</td></tr>
+<tr><td>Max Weishaupt GmbH</td><td>Kundendiensttechniker (mwd)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Mannheim</td><td>2026-10-30</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Ausbildung Zum Verkäufer Frische (m/w/d) 2027</td><td>Cologne</td><td>2026-10-30</td></tr>
+<tr><td>Capri</td><td>Michael Kors Verkaufsberater (m/w/d) In Vollzeit Für 40h/woche In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-10-30</td></tr>
+<tr><td>Tempur Sealy International</td><td>Verkausberater</td><td>Cologne</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Bocholt Kundenberater Verkauf (mwd) 46395</td><td>Dortmund</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ansbach Kundenberater Verkauf (mwd) 91522</td><td>Nuremberg</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Nürtingen Kundenberater Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 72622</td><td>Reutlingen</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Düsseldorf Aushilfeminijob Im Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 40212</td><td>Dusseldorf</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Duisburg Kundenberater Verkauf (mwd) 47269</td><td>Dusseldorf</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Alzey Studentische Aushilfeminijob Im Verkauf Schwerpunkt Smartphone & Vertragsgeschäft (mwd) 55232</td><td>Mannheim</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Alzey Kundenberater Verkauf (mwd) 55232</td><td>Mannheim</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Münster Kundenberater Verkauf Schwerpunkt Haushalt & Gesundheit & Wellness (mwd) 48143</td><td>Munster</td><td>2026-10-30</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Duisburg Aushilfeminijob Im Verkauf (mwd) 47269</td><td>Dusseldorf</td><td>2026-10-30</td></tr>
+<tr><td>Atos SE</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-10-30</td></tr>
+<tr><td>Arvato</td><td>Spezialist Leitstand Logistik (m/w/d)</td><td>Grosszoeberitz</td><td>2026-10-30</td></tr>
+<tr><td>Wppproduction</td><td>Assistant Producer (m/w/d)</td><td>Hamburg</td><td>2026-10-30</td></tr>
 </table>
