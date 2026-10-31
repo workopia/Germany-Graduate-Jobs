@@ -10786,4 +10786,50 @@
 <tr><td>Atos SE</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-10-30</td></tr>
 <tr><td>Arvato</td><td>Spezialist Leitstand Logistik (m/w/d)</td><td>Grosszoeberitz</td><td>2026-10-30</td></tr>
 <tr><td>Wppproduction</td><td>Assistant Producer (m/w/d)</td><td>Hamburg</td><td>2026-10-30</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern (m/f/d) Infrastructure Direct Investments</td><td>Munich</td><td>2026-10-31</td></tr>
+<tr><td>Honeywell International Inc.</td><td>Intern (m/w/d) Cx Training Specialist</td><td>Reutlingen</td><td>2026-10-31</td></tr>
+<tr><td>Honeywell</td><td>Intern (m/w/d) Cx Training Specialist</td><td>Reutlingen</td><td>2026-10-31</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Il Strategy & Acceleration (pflicht-praktikum)</td><td>Stuttgart</td><td>2026-10-31</td></tr>
+<tr><td>Amgen UK</td><td>Praktikant (m/w/d) Marketing Kardiologie</td><td>Munich</td><td>2026-10-31</td></tr>
+<tr><td>Airbus SE</td><td>Praktikum "entwurf Eines Analogen Power Limiters Für Robuste Ka-band Hf-systeme In Der Raumfahrt " (d/m/w)</td><td>Stuttgart Area</td><td>2026-10-31</td></tr>
+<tr><td>Bitmovin</td><td>Ai & Beyond Internship Incubator (summer 2027)</td><td>Vienna +2</td><td>2026-10-31</td></tr>
+<tr><td>Parloa</td><td>Finance Systems Intern</td><td>Berlin</td><td>2026-10-31</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Financial Services - Insurance (m/w/d)</td><td>Dusseldorf</td><td>2026-10-31</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant M&a Transaction Services / Valuation Fsi (m/w/d)</td><td>Munich</td><td>2026-10-31</td></tr>
+<tr><td>Payback</td><td>Internship Sales Operations & Backoffice (m/f/d)</td><td>Munich</td><td>2026-10-31</td></tr>
+<tr><td>JACOB Group</td><td>Praktikum Logistik (m/w/d)</td><td>Bielefeld</td><td>2026-10-31</td></tr>
+<tr><td>Rewe Group</td><td>Praktikum Hr Services National (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>Schaeffler</td><td>Praktikum - Operatives Personalmanagement (d/m/w)</td><td>Unknown</td><td>2026-10-31</td></tr>
+<tr><td>RWE AG</td><td>Praktikum Offshore Operations (windfarm Arkona) D/w/m</td><td>Sassnitz</td><td>2026-10-31</td></tr>
+<tr><td>RWE AG</td><td>Internship Offshore Operations (windfarm Arkona) D/f/m</td><td>Sassnitz</td><td>2026-10-31</td></tr>
+<tr><td>RWE AG</td><td>Praktikum / Werkstudent - Ai & Process Automation D/w/m</td><td>Wuppertal</td><td>2026-10-31</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Steuerberatung - Japanese Services Group (m/w/d)</td><td>Dusseldorf</td><td>2026-10-31</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Performance Improvement Schwerpunkt Operative Restrukturierung(m/w/d)</td><td>Dusseldorf</td><td>2026-10-31</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant / Werkstudent Global Trade Advisory - Indirect Tax (m/w/d)</td><td>Dusseldorf</td><td>2026-10-31</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Corporate Treasury (m/w/d)</td><td>Berlin</td><td>2026-10-31</td></tr>
+<tr><td>SAP SE</td><td>Sap Ixp Intern (f/m/d) - Adoption & Consumption Operations</td><td>Berlin</td><td>2026-10-31</td></tr>
+<tr><td>SAP SE</td><td>Working Student (f/m/d) - Policy-as-code Consultant In Hyperspace</td><td>Mannheim</td><td>2026-10-31</td></tr>
+<tr><td>SAP SE</td><td>Working Student (m/f/d) Social Responsibility Inclusion Communities - Regional Focus And Engagement</td><td>Mannheim</td><td>2026-10-31</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-10-31</td></tr>
+<tr><td>Nordex SE</td><td>Intern (m/f/d) Global Sourcing Digitization</td><td>Hamburg +1</td><td>2026-10-31</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Mta</td><td>Germany</td><td>2026-10-31</td></tr>
+<tr><td>Woodward L'Orange GmbH</td><td>It Support Analyst (m/w/d)</td><td>Glatten</td><td>2026-10-31</td></tr>
+<tr><td>Bjak</td><td>Full Stack Engineer</td><td>Germany</td><td>2026-10-31</td></tr>
+<tr><td>AlixPartners</td><td>Praktikum Im Consulting - Industry & Performance Improvement (m/w/d)</td><td>Germany</td><td>2026-10-31</td></tr>
+<tr><td>Baker Hughes</td><td>Field Specialist Iv</td><td>Strasse 1</td><td>2026-10-31</td></tr>
+<tr><td>Vestas</td><td>Düsseldorf Service Technician (mfd) For Wind Turbines Bad Wünnenberg Nw</td><td>Dusseldorf</td><td>2026-10-31</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Berlin</td><td>2026-10-31</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Hamburg</td><td>2026-10-31</td></tr>
+<tr><td>REWE Mathias Götz oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-10-31</td></tr>
+<tr><td>REWE</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Berlin</td><td>2026-10-31</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Verkäufer Bedientheke In Teilzeit (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Saarbruecken</td><td>2026-10-31</td></tr>
+<tr><td>REWE Christian Werner oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>REWE Rahmati</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>REWE Fickeis oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>REWE Mahmut Mersinlioglu oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>REWE Peter Ziegler oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>Capri</td><td>Michael Kors Verkaufsberater / In (m/w/d) In Teilzeit Für 30h/woche In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-10-31</td></tr>
+<tr><td>Hellmann Worldwide Logistics</td><td>Customer Service Specialist (m/w/d)</td><td>Hanover</td><td>2026-10-31</td></tr>
 </table>
