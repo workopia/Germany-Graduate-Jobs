@@ -10832,4 +10832,35 @@
 <tr><td>REWE Peter Ziegler oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-10-31</td></tr>
 <tr><td>Capri</td><td>Michael Kors Verkaufsberater / In (m/w/d) In Teilzeit Für 30h/woche In Cologne – Köln, Deutschland</td><td>Cologne</td><td>2026-10-31</td></tr>
 <tr><td>Hellmann Worldwide Logistics</td><td>Customer Service Specialist (m/w/d)</td><td>Hanover</td><td>2026-10-31</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Einkauf Klimatisierung Und Thermomanagement (w/m/x)</td><td>Munich</td><td>2026-11-01</td></tr>
+<tr><td>Bitmovin</td><td>Ai & Beyond Incubator (summer Internship 2027)</td><td>Vienna +2</td><td>2026-11-01</td></tr>
+<tr><td>Bonduelle</td><td>Intern Business Performance Controller 1</td><td>Eindhoven +1</td><td>2026-11-01</td></tr>
+<tr><td>Altana</td><td>Wesel Schülerpraktikum Bei Byk In Der It (markus Schumacher) Nw 46483</td><td>Dusseldorf</td><td>2026-11-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Trade Marketing (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-01</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Marketing &amp; Communications (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-01</td></tr>
+<tr><td>Enbw</td><td>Praktikant Personalentwicklung (w/m/d)</td><td>Karlsruhe</td><td>2026-11-01</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern Strategic Projects &amp; Executive Office (m/f/d)</td><td>Munich</td><td>2026-11-01</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Elmshorn (m/w/d)</td><td>Hamburg</td><td>2026-11-01</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Ausbildung Fachlagerist 08.2027 (m/w/d)</td><td>Germany</td><td>2026-11-01</td></tr>
+<tr><td>Essity</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (d/w/m) - Mainz-kostheim 2027</td><td>Kostheim</td><td>2026-11-01</td></tr>
+<tr><td>RWE AG</td><td>Ausbildung Zum Fachinformatiker 2027 D/w/m</td><td>Wuppertal</td><td>2026-11-01</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Apprentice Hotel Management (m/f/d)</td><td>Hamburg</td><td>2026-11-01</td></tr>
+<tr><td>Accor</td><td>Apprentice hotel management (m/f/d)</td><td>Hamburg</td><td>2026-11-01</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Duales Studium: General Management 2027</td><td>Dusseldorf</td><td>2026-11-01</td></tr>
+<tr><td>Airbus Defence and Space</td><td>Software Engineer (d/f/m)</td><td>Ingolstadt</td><td>2026-11-01</td></tr>
+<tr><td>Ggeedu</td><td>Software Engineer (m/f/d)</td><td>Germany</td><td>2026-11-01</td></tr>
+<tr><td>adesso-group</td><td>Ai Engineer / Software Engineer (all Genders)</td><td>Nach Standort Suchen</td><td>2026-11-01</td></tr>
+<tr><td>Jobgether</td><td>Business/process Analyst</td><td>Germany</td><td>2026-11-01</td></tr>
+<tr><td>Allianz SE</td><td>Business Analyst Bilanzierung Krankenversicherung (m/w/d)</td><td>Germany</td><td>2026-11-01</td></tr>
+<tr><td>IQVIA Inc</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Germany</td><td>2026-11-01</td></tr>
+<tr><td>IQVIA UK</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Frankfurt Am Main</td><td>2026-11-01</td></tr>
+<tr><td>Vestas</td><td>Düsseldorf Service Technician (mfd) For Wind Turbines In Velen Gescher Nw</td><td>Dusseldorf</td><td>2026-11-01</td></tr>
+<tr><td>Vestas</td><td>München Service Technician (mfd) For Wind Turbines In Dachau By</td><td>Munich</td><td>2026-11-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Wuppertal</td><td>2026-11-01</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Cologne</td><td>2026-11-01</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Obst & Gemüse (m/w/d)</td><td>Cologne</td><td>2026-11-01</td></tr>
+<tr><td>REWE Oliver Scherff oHG</td><td>Werkstudent Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-01</td></tr>
+<tr><td>REWE Salvatore Minacapilli oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-11-01</td></tr>
+<tr><td>REWE Jörg Randebrock oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-11-01</td></tr>
+<tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hannover</td><td>2026-11-01</td></tr>
 </table>

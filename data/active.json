@@ -1,7 +1,25 @@
 {
- "asOf": "2026-10-31",
- "count": 717,
+ "asOf": "2026-11-01",
+ "count": 714,
  "jobs": {
+  "f2401faa7db35e3a763bb33a7e13bbd4": {
+   "id": "f2401faa7db35e3a763bb33a7e13bbd4",
+   "company": "Knorr-Bremse AG",
+   "role": "Praktikant Hr Transformation (m/f/d)",
+   "location": "Munich"
+  },
+  "9d56f8e50ba234678864378ce7a79800": {
+   "id": "9d56f8e50ba234678864378ce7a79800",
+   "company": "DZ PRIVATBANK S.A",
+   "role": "Praktikant Eventmarketing Frankfurt (m/w/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "cc7c58ddbf5a031aa6492b74e88ea412": {
+   "id": "cc7c58ddbf5a031aa6492b74e88ea412",
+   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
+   "role": "Düsseldorf Praktikant Werkstudent Wirtschaftsprüfung Audit (wmd) Nw 40474",
+   "location": "Dusseldorf"
+  },
   "f76748314ce199e3f48c9141f7366f16": {
    "id": "f76748314ce199e3f48c9141f7366f16",
    "company": "BMW Group",
@@ -133,6 +151,36 @@
    "company": "Nestle SA",
    "role": "Praktikum Marketing & Communications (m/w/d)",
    "location": "Frankfurt Am Main"
+  },
+  "30bf2c0bde4114badec7ac0c7f2bba37": {
+   "id": "30bf2c0bde4114badec7ac0c7f2bba37",
+   "company": "Allianz Technology SE",
+   "role": "Intern (m/f/d) In Investment Management Pc Germany &amp; Commercial Lines (az Vers/ Avk Pensions)",
+   "location": "Germany"
+  },
+  "6016384f5c3dcc4d7e101c0ed3b111c3": {
+   "id": "6016384f5c3dcc4d7e101c0ed3b111c3",
+   "company": "Deutsche Boerse AG",
+   "role": "Intern - Internal Audit (f/m/d)",
+   "location": "Frankfurt Am Main"
+  },
+  "0f5be530eed12c76504d2bb7b08cecf7": {
+   "id": "0f5be530eed12c76504d2bb7b08cecf7",
+   "company": "Allianz Technology SE",
+   "role": "Intern - Allianz Consulting - Germany And Central Europe (m/f/d)",
+   "location": "Munich"
+  },
+  "4eea483ebd951b9de5fa81d9c346f90b": {
+   "id": "4eea483ebd951b9de5fa81d9c346f90b",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in It Outbound Logistik Fertigfahrzeuge",
+   "location": "Stuttgart"
+  },
+  "486fecefaf64cacb0f553718bc2c831b": {
+   "id": "486fecefaf64cacb0f553718bc2c831b",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in Entwicklung Exterieur",
+   "location": "Stuttgart"
   },
   "b87741ea0a9fa8b7b8d41ef7486e542c": {
    "id": "b87741ea0a9fa8b7b8d41ef7486e542c",
@@ -434,53 +482,47 @@
    "role": "Frankfurt Am Main Praktikant Redaktion Frankfurt (wmd)",
    "location": "Frankfurt Am Main"
   },
-  "85bfd272ffa4ac7c731a030dad231c9a": {
-   "id": "85bfd272ffa4ac7c731a030dad231c9a",
-   "company": "BMW Group",
-   "role": "Praktikant Einkauf Klimatisierung Und Thermomanagement (w/m/x)",
-   "location": "Munich"
+  "59d93766cc037c213111515535660447": {
+   "id": "59d93766cc037c213111515535660447",
+   "company": "Kaufland Stiftung & Co. KG",
+   "role": "Ausbildung Zur Fachkraft Für Lebensmitteltechnik (m/w/d) 2027",
+   "location": "Osterfeld"
   },
-  "093154841793f021650ac862d06b845a": {
-   "id": "093154841793f021650ac862d06b845a",
-   "company": "Bitmovin",
-   "role": "Ai & Beyond Incubator (summer Internship 2027)",
-   "location": "Vienna +2"
+  "aa981c66f3744c403ffe92ce3b7920cd": {
+   "id": "aa981c66f3744c403ffe92ce3b7920cd",
+   "company": "Vonovia SE",
+   "role": "Ausbildung Gärtner:in Im Landschaftsbau 2027 - Essen",
+   "location": "Wuppertal"
   },
-  "92973b6746278afa6a2f275a09354f51": {
-   "id": "92973b6746278afa6a2f275a09354f51",
-   "company": "Bonduelle",
-   "role": "Intern Business Performance Controller 1",
-   "location": "Eindhoven +1"
+  "22e9c0012a9e1afffbe274da54b27b48": {
+   "id": "22e9c0012a9e1afffbe274da54b27b48",
+   "company": "P&G",
+   "role": "Ausbildung Fachkraft Zur Lagerlogistik (m/w/*) - Ausbildungsstart 2027",
+   "location": "Seefeld Bei MüNchen"
   },
-  "bb3e412ffb426bca86e0c72073a1b41c": {
-   "id": "bb3e412ffb426bca86e0c72073a1b41c",
-   "company": "Altana",
-   "role": "Wesel Schülerpraktikum Bei Byk In Der It (markus Schumacher) Nw 46483",
-   "location": "Dusseldorf"
+  "db4cf67c86bc310637ae199d4f230f84": {
+   "id": "db4cf67c86bc310637ae199d4f230f84",
+   "company": "P&G",
+   "role": "Ausbildung Zum Chemikanten (m/w/*) - Ausbildungsstart 2027",
+   "location": "Seefeld Bei MüNchen"
   },
-  "62f709acaa695d0ca8fa911c2f9dd02f": {
-   "id": "62f709acaa695d0ca8fa911c2f9dd02f",
-   "company": "Nestle Ltd",
-   "role": "Praktikum Trade Marketing (m/w/d)",
-   "location": "Frankfurt Am Main"
+  "1f6dca7fd15903dde890e190c46e65d4": {
+   "id": "1f6dca7fd15903dde890e190c46e65d4",
+   "company": "P&G",
+   "role": "Ausbildung Zum Industriemechaniker (m/w/*) - Ausbildungsstart 2027",
+   "location": "Seefeld Bei MüNchen"
   },
-  "e59230739efa99843a67654599ef29b4": {
-   "id": "e59230739efa99843a67654599ef29b4",
-   "company": "Nestle Ltd",
-   "role": "Praktikum Marketing &amp; Communications (m/w/d)",
-   "location": "Frankfurt Am Main"
+  "0aff6940efd16d5c52c178df2d07ffe4": {
+   "id": "0aff6940efd16d5c52c178df2d07ffe4",
+   "company": "DekaBank Deutsche Girozentrale",
+   "role": "Trainee (w/m/d) Steuerung Banking Operations",
+   "location": "Unknown"
   },
-  "51adb8faef95a764cd2a8c13963fdcc6": {
-   "id": "51adb8faef95a764cd2a8c13963fdcc6",
-   "company": "Enbw",
-   "role": "Praktikant Personalentwicklung (w/m/d)",
-   "location": "Karlsruhe"
-  },
-  "a5067781b81259e7aac2d9c8162557a3": {
-   "id": "a5067781b81259e7aac2d9c8162557a3",
-   "company": "Allianz Technology SE",
-   "role": "Intern Strategic Projects &amp; Executive Office (m/f/d)",
-   "location": "Munich"
+  "2c7d7ee1197e1b3c123cea35a681e6f0": {
+   "id": "2c7d7ee1197e1b3c123cea35a681e6f0",
+   "company": "H&M",
+   "role": "Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Elmshorn (m/w/d)",
+   "location": "Hamburg"
   },
   "3dfec95d00a4346b50f5ba411ff9f491": {
    "id": "3dfec95d00a4346b50f5ba411ff9f491",
@@ -728,12 +770,6 @@
    "role": "Pirk Ausbildung Zumzur Elektronikerin Für Betriebstechnik (mwd) 2027 92712",
    "location": "Pirk"
   },
-  "7570f6f6530f07d4ea27af80e3000136": {
-   "id": "7570f6f6530f07d4ea27af80e3000136",
-   "company": "H&M",
-   "role": "Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Elmshorn (m/w/d)",
-   "location": "Hamburg"
-  },
   "37236d324a9743aa93fded1ef1b28f25": {
    "id": "37236d324a9743aa93fded1ef1b28f25",
    "company": "SGS UK",
@@ -925,42 +961,6 @@
    "company": "Liebherr Machines Bulle SA",
    "role": "Auszubildende(r) Mechatroniker(in) Ab September 2027",
    "location": "Kirchdorf An Der Iller"
-  },
-  "963027707a6b6659908fb6c23714a2df": {
-   "id": "963027707a6b6659908fb6c23714a2df",
-   "company": "Lidl & Kaufland Asia",
-   "role": "Ausbildung Fachlagerist 08.2027 (m/w/d)",
-   "location": "Germany"
-  },
-  "43a25c57c1feb23436c9d1231dfa06f8": {
-   "id": "43a25c57c1feb23436c9d1231dfa06f8",
-   "company": "Essity",
-   "role": "Ausbildung Zum Maschinen- Und Anlagenführer (d/w/m) - Mainz-kostheim 2027",
-   "location": "Kostheim"
-  },
-  "092b5ccf1d6c256c366737e6f78c84c1": {
-   "id": "092b5ccf1d6c256c366737e6f78c84c1",
-   "company": "RWE AG",
-   "role": "Ausbildung Zum Fachinformatiker 2027 D/w/m",
-   "location": "Wuppertal"
-  },
-  "b933697e0525cb885fdf96765f43855a": {
-   "id": "b933697e0525cb885fdf96765f43855a",
-   "company": "Sofitel Sydney Wentworth",
-   "role": "Apprentice Hotel Management (m/f/d)",
-   "location": "Hamburg"
-  },
-  "36364e7ad0edb589da50b75feae91539": {
-   "id": "36364e7ad0edb589da50b75feae91539",
-   "company": "Accor",
-   "role": "Apprentice hotel management (m/f/d)",
-   "location": "Hamburg"
-  },
-  "fb562e5fc8a6100091f363c2823fd1fd": {
-   "id": "fb562e5fc8a6100091f363c2823fd1fd",
-   "company": "DSV Panalpina AS",
-   "role": "Duales Studium: General Management 2027",
-   "location": "Dusseldorf"
   },
   "cf5a1fca9dc2016509c9f014a5a0333e": {
    "id": "cf5a1fca9dc2016509c9f014a5a0333e",
@@ -1237,6 +1237,18 @@
    "company": "Bechtle AG",
    "role": "Mitarbeiter It Service (w/m/d)",
    "location": "78326"
+  },
+  "b3c40ea926c362986d5030fa02f7d081": {
+   "id": "b3c40ea926c362986d5030fa02f7d081",
+   "company": "Endress+Hauser Group",
+   "role": "Software Engineer - Embedded Systems &amp; System Integration (f/m/d)",
+   "location": "Germany"
+  },
+  "14220f140943ca37f5bf88369be50c2d": {
+   "id": "14220f140943ca37f5bf88369be50c2d",
+   "company": "1KOMMA5°",
+   "role": "Software Engineer - Edge & Cloud (m/w/d)",
+   "location": "Hamburg"
   },
   "bb63608d790e901b5ae17f3240302559": {
    "id": "bb63608d790e901b5ae17f3240302559",
@@ -1694,18 +1706,6 @@
    "role": "Initiativbewerbung Softwareentwickler (m/w/d)",
    "location": "Wolfertschwenden"
   },
-  "01a5bb0971054d44e22977fb6712775b": {
-   "id": "01a5bb0971054d44e22977fb6712775b",
-   "company": "Airbus Defence and Space",
-   "role": "Software Engineer (d/f/m)",
-   "location": "Ingolstadt"
-  },
-  "3d49f9d649d432726056e867c4c091d3": {
-   "id": "3d49f9d649d432726056e867c4c091d3",
-   "company": "Ggeedu",
-   "role": "Software Engineer (m/f/d)",
-   "location": "Germany"
-  },
   "9af39ee59586f142cd9522f1e9780d99": {
    "id": "9af39ee59586f142cd9522f1e9780d99",
    "company": "Allianz Technology SE",
@@ -2030,12 +2030,6 @@
    "role": "Staff Ai Engineer, Payments Intelligence",
    "location": "Germany"
   },
-  "d15990f14ccfeeacfaefd9ee2b55795f": {
-   "id": "d15990f14ccfeeacfaefd9ee2b55795f",
-   "company": "adesso-group",
-   "role": "Ai Engineer / Software Engineer (all Genders)",
-   "location": "Nach Standort Suchen"
-  },
   "2c72323a2ffe3bf505dbb09a920a1107": {
    "id": "2c72323a2ffe3bf505dbb09a920a1107",
    "company": "Zurich Insurance Company Ltd",
@@ -2185,6 +2179,18 @@
    "company": "Accenture",
    "role": "Junior Strategy Consultant Banking (graduate, All Genders)",
    "location": "Frankfurt Am Main"
+  },
+  "ea6acc32669b4b1aae5ca854060715b7": {
+   "id": "ea6acc32669b4b1aae5ca854060715b7",
+   "company": "Deloitte GmbH",
+   "role": "Kaufmännischer Mitarbeiter Audit/wirtschaftsprüfung (m/w/d)",
+   "location": "Frankfurt (Main) +6"
+  },
+  "7739c35fcbe13cf15945d4f0773c6b87": {
+   "id": "7739c35fcbe13cf15945d4f0773c6b87",
+   "company": "Allianz Technology SE",
+   "role": "Business Analyst In-/exkasso (m/w/d)",
+   "location": "Unknown"
   },
   "5ff8cbf72fe11f0044b56edf42f73ffe": {
    "id": "5ff8cbf72fe11f0044b56edf42f73ffe",
@@ -2654,18 +2660,6 @@
    "role": "Customer & Distribution Analyst (hybrid; M/f/x/d; 80-100%)",
    "location": "Frankfurt Am Main"
   },
-  "19610b855bc9eee9ba47d0dd101b18f0": {
-   "id": "19610b855bc9eee9ba47d0dd101b18f0",
-   "company": "Jobgether",
-   "role": "Business/process Analyst",
-   "location": "Germany"
-  },
-  "9d14eeea822094c627584726f0171b9a": {
-   "id": "9d14eeea822094c627584726f0171b9a",
-   "company": "Allianz SE",
-   "role": "Business Analyst Bilanzierung Krankenversicherung (m/w/d)",
-   "location": "Germany"
-  },
   "aa9fc60c04daf0b72b1268362d5536b4": {
    "id": "aa9fc60c04daf0b72b1268362d5536b4",
    "company": "Airbus SE",
@@ -2852,17 +2846,17 @@
    "role": "Arzt (m/w/d) (voll- Oder Teilzeit)",
    "location": "Cologne"
   },
-  "8133c2aa4443bf494b659680dcf6b700": {
-   "id": "8133c2aa4443bf494b659680dcf6b700",
-   "company": "IQVIA Inc",
-   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
-   "location": "Germany"
+  "207469eeaa25f30759a645eb0973d1fb": {
+   "id": "207469eeaa25f30759a645eb0973d1fb",
+   "company": "Nordex SE",
+   "role": "Servicetechniker (m/w/d) Windenergieanlagen - Wittstock Dosse",
+   "location": "Wittstock Dosse"
   },
-  "d38acd6e9ce5ca8c7fcc137cd9361701": {
-   "id": "d38acd6e9ce5ca8c7fcc137cd9361701",
-   "company": "IQVIA UK",
-   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
-   "location": "Frankfurt Am Main"
+  "ae2b157368cb22a286659613e7c9fbc7": {
+   "id": "ae2b157368cb22a286659613e7c9fbc7",
+   "company": "Nordex SE",
+   "role": "Servicetechniker (m/w/d) Windenergieanlagen - Straussfurt",
+   "location": "StraußFurt"
   },
   "2758197d2a5f75825a44b8d6abce4143": {
    "id": "2758197d2a5f75825a44b8d6abce4143",
@@ -3332,17 +3326,17 @@
    "role": "Hannover Service Technician (mfd) For Wind Turbines Near Hollenstedt Ni",
    "location": "Hollenstedt"
   },
-  "6acf92cdec99186e24a628b60410f2e5": {
-   "id": "6acf92cdec99186e24a628b60410f2e5",
-   "company": "Vestas",
-   "role": "Düsseldorf Service Technician (mfd) For Wind Turbines In Velen Gescher Nw",
-   "location": "Dusseldorf"
-  },
-  "7a4d9065d33d4ef960baf723b48c02e7": {
-   "id": "7a4d9065d33d4ef960baf723b48c02e7",
-   "company": "Vestas",
-   "role": "München Service Technician (mfd) For Wind Turbines In Dachau By",
+  "6651c55298bd84c6581b26144b1e54be": {
+   "id": "6651c55298bd84c6581b26144b1e54be",
+   "company": "Mango",
+   "role": "Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.",
    "location": "Munich"
+  },
+  "ce3c62f24e52ae25cd4025d148def65a": {
+   "id": "ce3c62f24e52ae25cd4025d148def65a",
+   "company": "Free People (URBN)",
+   "role": "Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - 15h Teilzeit - Cologne/köln, De",
+   "location": "Cologne"
   },
   "e9eb28de5f7f0ffe2ced9c66dc24291a": {
    "id": "e9eb28de5f7f0ffe2ced9c66dc24291a",
@@ -3380,11 +3374,35 @@
    "role": "Client Advisor (m/w/d)",
    "location": "Munich"
   },
+  "fb5775b623443d937ba0d41dc077c8be": {
+   "id": "fb5775b623443d937ba0d41dc077c8be",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Aushilfe/minijob Verkauf Services, Solution & Reparaturen (m/w/d)",
+   "location": "Cologne"
+  },
+  "28d76e4a18fd0366733aa0cfce216f0e": {
+   "id": "28d76e4a18fd0366733aa0cfce216f0e",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)",
+   "location": "Dortmund"
+  },
+  "593ac8a19b5c2bca4075dcd30e65dfe0": {
+   "id": "593ac8a19b5c2bca4075dcd30e65dfe0",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Kundenberater Verkauf (m/w/d)",
+   "location": "Mannheim"
+  },
   "77273b9a1b2939490c7352a2a7018841": {
    "id": "77273b9a1b2939490c7352a2a7018841",
    "company": "Hornbach Baumarkt AG",
    "role": "Mitarbeiter (w/m/d) Warenverräumung (8-9h)",
    "location": "Unknown"
+  },
+  "b07d0598fd7f52961dd7d829f5850792": {
+   "id": "b07d0598fd7f52961dd7d829f5850792",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Kundenberater Verkauf Teilzeit (m/w/d)",
+   "location": "Munich"
   },
   "6822964a3f516ed6e16a3165c088b42d": {
    "id": "6822964a3f516ed6e16a3165c088b42d",
@@ -3620,12 +3638,6 @@
    "role": "Sales Associate (m/w/d)",
    "location": "Munich"
   },
-  "467006f19db4c4e042eb2bf68e33cb42": {
-   "id": "467006f19db4c4e042eb2bf68e33cb42",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf (m/w/d)",
-   "location": "Wuppertal"
-  },
   "c385b4306ffb79d040c9ab2babbe5538": {
    "id": "c385b4306ffb79d040c9ab2babbe5538",
    "company": "JYSK",
@@ -3648,12 +3660,6 @@
    "id": "93c131abd56b5c0ab8707978c4946daa",
    "company": "MediamarktSaturn - Webshop Foundation",
    "role": "(studentische) Aushilfe/minijob Im Verkauf (m/w/d)",
-   "location": "Cologne"
-  },
-  "d4c663b3ee7598196ec144278e4a45bf": {
-   "id": "d4c663b3ee7598196ec144278e4a45bf",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)",
    "location": "Cologne"
   },
   "319da3324cbca84e3f666ed5f7595017": {
@@ -3800,29 +3806,11 @@
    "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
   },
-  "6d68e681c1cdc500f23647fb716de4e5": {
-   "id": "6d68e681c1cdc500f23647fb716de4e5",
-   "company": "Rewe Group",
-   "role": "Verkäufer Obst & Gemüse (m/w/d)",
-   "location": "Cologne"
-  },
-  "e2486ded968ad9c17a7ca22e838e77ba": {
-   "id": "e2486ded968ad9c17a7ca22e838e77ba",
-   "company": "REWE Oliver Scherff oHG",
-   "role": "Werkstudent Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "d17cc657bf7852c3105fa4bcea78d656": {
-   "id": "d17cc657bf7852c3105fa4bcea78d656",
-   "company": "REWE Salvatore Minacapilli oHG",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
-   "location": "Saarbruecken"
-  },
-  "ed2ab2e5b6e244a298c0403a10ab9177": {
-   "id": "ed2ab2e5b6e244a298c0403a10ab9177",
-   "company": "REWE Jörg Randebrock oHG",
-   "role": "Verkäufer Schließfunktion (m/w/d)",
-   "location": "Cologne"
+  "27c69b6b39e58f194910a1b303e5d7c9": {
+   "id": "27c69b6b39e58f194910a1b303e5d7c9",
+   "company": "Adstronauts GmbH",
+   "role": "Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)",
+   "location": "Hannover"
   },
   "172f5aa8f2b7fccd7235b2a2be7f9971": {
    "id": "172f5aa8f2b7fccd7235b2a2be7f9971",
@@ -3877,12 +3865,6 @@
    "company": "Cherokee Federal",
    "role": "Part-time Administrative Assistant",
    "location": "Germany"
-  },
-  "74cae10073a02ef06bf5a88d4302e779": {
-   "id": "74cae10073a02ef06bf5a88d4302e779",
-   "company": "Adstronauts GmbH",
-   "role": "Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)",
-   "location": "Hannover"
   },
   "5d0d44954ee37b4e58ea7bb2b2a09a06": {
    "id": "5d0d44954ee37b4e58ea7bb2b2a09a06",
