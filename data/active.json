@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-01",
- "count": 714,
+ "asOf": "2026-11-02",
+ "count": 713,
  "jobs": {
+  "3a726351e8f39c958df8a4bb62aa5ef9": {
+   "id": "3a726351e8f39c958df8a4bb62aa5ef9",
+   "company": "zdf",
+   "role": "Praktikant*in Redaktion Fernsehfilm/serie I (01/2027 - 12/2027)",
+   "location": "Darmstadt"
+  },
   "f2401faa7db35e3a763bb33a7e13bbd4": {
    "id": "f2401faa7db35e3a763bb33a7e13bbd4",
    "company": "Knorr-Bremse AG",
@@ -260,6 +266,18 @@
    "role": "Intern Cx Training Specialist (m/f/d)",
    "location": "Dusseldorf"
   },
+  "ccf5f55e4aa515dd1bc7e3201168aa56": {
+   "id": "ccf5f55e4aa515dd1bc7e3201168aa56",
+   "company": "Honeywell International Inc.",
+   "role": "Intern Cx Training Specialist (m/f/d)",
+   "location": "Dusseldorf"
+  },
+  "83d6ea2da74b108379f51d48487ebdca": {
+   "id": "83d6ea2da74b108379f51d48487ebdca",
+   "company": "Honeywell",
+   "role": "Intern Cx Training Specialist (m/f/d)",
+   "location": "Dusseldorf"
+  },
   "66484a949063c54b3ba1509a7a8b51b2": {
    "id": "66484a949063c54b3ba1509a7a8b51b2",
    "company": "Mercedes-Benz",
@@ -463,24 +481,6 @@
    "company": "Elringklinger Group",
    "role": "Praktikant (m/w/d) Logistik",
    "location": "Reutlingen"
-  },
-  "a232dbfe67566490932d606693e98e75": {
-   "id": "a232dbfe67566490932d606693e98e75",
-   "company": "STADA",
-   "role": "Pharmazeut Im Praktikum - Global Business Development & Licensing (w/m/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "6ae0d75b31e91fb102d82da8cacfd1a5": {
-   "id": "6ae0d75b31e91fb102d82da8cacfd1a5",
-   "company": "createyourowncareer",
-   "role": "Köln Praktikum Content Management Vod",
-   "location": "Cologne"
-  },
-  "a84f3d4b630e0aeefd79d4a910841da0": {
-   "id": "a84f3d4b630e0aeefd79d4a910841da0",
-   "company": "createyourowncareer",
-   "role": "Frankfurt Am Main Praktikant Redaktion Frankfurt (wmd)",
-   "location": "Frankfurt Am Main"
   },
   "59d93766cc037c213111515535660447": {
    "id": "59d93766cc037c213111515535660447",
@@ -2024,12 +2024,6 @@
    "role": "Data Scientist (w/m/d)",
    "location": "Germany"
   },
-  "dd895a90d2a776af83c7094f2f56a505": {
-   "id": "dd895a90d2a776af83c7094f2f56a505",
-   "company": "Jobgether",
-   "role": "Staff Ai Engineer, Payments Intelligence",
-   "location": "Germany"
-  },
   "2c72323a2ffe3bf505dbb09a920a1107": {
    "id": "2c72323a2ffe3bf505dbb09a920a1107",
    "company": "Zurich Insurance Company Ltd",
@@ -3326,6 +3320,12 @@
    "role": "Hannover Service Technician (mfd) For Wind Turbines Near Hollenstedt Ni",
    "location": "Hollenstedt"
   },
+  "12672e251d1e4850798743eae0a11e40": {
+   "id": "12672e251d1e4850798743eae0a11e40",
+   "company": "Europcar Inc",
+   "role": "Kundenberater*in/ Verkäufer*in / Werkstudent*in (w/m/d) Autovermietung",
+   "location": "Berlin"
+  },
   "6651c55298bd84c6581b26144b1e54be": {
    "id": "6651c55298bd84c6581b26144b1e54be",
    "company": "Mango",
@@ -3799,12 +3799,6 @@
    "company": "REWE Moers Uerdinger Straße GmbH & Co. Einzelhandels KG",
    "role": "Verkäufer Im Getränkemarkt (m/w/d)",
    "location": "Dusseldorf"
-  },
-  "3a2e6cdefe8ac118a702b66975f08288": {
-   "id": "3a2e6cdefe8ac118a702b66975f08288",
-   "company": "REWE",
-   "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
   },
   "27c69b6b39e58f194910a1b303e5d7c9": {
    "id": "27c69b6b39e58f194910a1b303e5d7c9",

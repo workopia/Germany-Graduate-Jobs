@@ -10863,4 +10863,9 @@
 <tr><td>REWE Salvatore Minacapilli oHG</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-11-01</td></tr>
 <tr><td>REWE Jörg Randebrock oHG</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-11-01</td></tr>
 <tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hannover</td><td>2026-11-01</td></tr>
+<tr><td>STADA</td><td>Pharmazeut Im Praktikum - Global Business Development & Licensing (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-02</td></tr>
+<tr><td>createyourowncareer</td><td>Köln Praktikum Content Management Vod</td><td>Cologne</td><td>2026-11-02</td></tr>
+<tr><td>createyourowncareer</td><td>Frankfurt Am Main Praktikant Redaktion Frankfurt (wmd)</td><td>Frankfurt Am Main</td><td>2026-11-02</td></tr>
+<tr><td>Jobgether</td><td>Staff Ai Engineer, Payments Intelligence</td><td>Germany</td><td>2026-11-02</td></tr>
+<tr><td>REWE</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-02</td></tr>
 </table>
