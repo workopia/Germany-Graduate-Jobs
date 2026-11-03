@@ -10868,4 +10868,69 @@
 <tr><td>createyourowncareer</td><td>Frankfurt Am Main Praktikant Redaktion Frankfurt (wmd)</td><td>Frankfurt Am Main</td><td>2026-11-02</td></tr>
 <tr><td>Jobgether</td><td>Staff Ai Engineer, Payments Intelligence</td><td>Germany</td><td>2026-11-02</td></tr>
 <tr><td>REWE</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-02</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Bereich Unternehmenssicherheit</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Personalmanagement Ab Januar 2027 (mwd)</td><td>Affalterbach</td><td>2026-11-03</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Praktikum Partner Marketing (m/w/d)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Infineon</td><td>Internship - Corporate Strategy (f/m/div)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Volkswagen</td><td>Internship / Working Student - Market &amp; Technology Intelligence (w/m/d)</td><td>Unknown</td><td>2026-11-03</td></tr>
+<tr><td>Honeywell Technologies</td><td>Intern Cx Training Specialist (m/f/d)</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Honeywell International Inc.</td><td>Intern Cx Training Specialist (m/f/d)</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Honeywell</td><td>Intern Cx Training Specialist (m/f/d)</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Team Retail Professionalization Mercedes-benz Vans (pflicht-praktikum)</td><td>Stuttgart</td><td>2026-11-03</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Produktkommunikation Mercedes-benz Vans (pflicht- Oder Kombinationspraktikum)</td><td>Stuttgart</td><td>2026-11-03</td></tr>
+<tr><td>Mercedes-Benz</td><td>Intern Project Management – Customer Experience & Digital Solutions (mandatory Internship)</td><td>Stuttgart</td><td>2026-11-03</td></tr>
+<tr><td>Bechtle AG</td><td>Hr Stagiaire</td><td>83422</td><td>2026-11-03</td></tr>
+<tr><td>Bechtle AG</td><td>Praktikant Personalentwicklung (w/m/d)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Retail Marketing Im Nationalen Und Internationalen Key Account Management</td><td>Leinfelden</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Unternehmenskommunikation (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Technology Solutions Und Sharepoint Online (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant International Price Management Aftersales (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Internationale Zollstrategie Und Außenhandel (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Customer Experience Service And Parts (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Learning &amp; Development (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Nachwuchs- Und Bindungsprogramme (w/m/x)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Bosch Group</td><td>Mandatory Internship In Organizational Development And Communication In An International Team</td><td>Stuttgart</td><td>2026-11-03</td></tr>
+<tr><td>Airbus Aerostructures</td><td>Werkstudent Quality Plant Hamburg (d/m/w)</td><td>Hamburg</td><td>2026-11-03</td></tr>
+<tr><td>Airbus SE</td><td>Internship Within Commodity Management For It & Ground (d/f/m)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>BRAINEFFECT</td><td>Marketing Intern France (f/m/x)</td><td>Berlin</td><td>2026-11-03</td></tr>
+<tr><td>Rewe Group</td><td>Werkstudent Sample Purchasing Management (m/w/d) 1</td><td>Cologne</td><td>2026-11-03</td></tr>
+<tr><td>TRATON Group</td><td>Intern / Hr Operations (m/f/d)</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Visa</td><td>Portfolio Optimization Intern</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten E Drive Und Ee Systemintegration Ab März 2027 (mwd)</td><td>Affalterbach</td><td>2026-11-03</td></tr>
+<tr><td>workwide.es</td><td>Product Compliance Intern</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Praktikum Steuerberatung / Tax (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>Altana</td><td>Wesel Schülerpraktikum Bei Byk In Der Verwaltung (stephan Mäteling) Nw 46483</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Altana</td><td>Wesel Schülerpraktikum Bei Byk In Der Technik (torsten Belack) Nw 46483</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Altana</td><td>Wesel Schülerpraktikum Bei Byk Im Lacklabor Nw 46483</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Altana</td><td>Wesel Schülerpraktikum Bei Byk In Der Produktion (anika Timmer) Nw 46483</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>investmentbankinginternships.com</td><td>Praktikant Human Resources – Young Talents (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>Nordic Capital AB</td><td>Internship Frankfurt - H1 2027</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Praktikumsprogramm The Ambitious Growth 2027</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Interne Kommunikation Und Presse</td><td>Karlsruhe</td><td>2026-11-03</td></tr>
+<tr><td>NERA</td><td>Nera: Internship (berlin, Frankfurt, And Paris)</td><td>Berlin</td><td>2026-11-03</td></tr>
+<tr><td>TIAA Financial Services, Inc.</td><td>Global Institutional Working Student - M,f,d - Based In Frankfurt</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>Elringklinger Group</td><td>Praktikant (m/w/d) Logistik</td><td>Reutlingen</td><td>2026-11-03</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildende(r) Mechatroniker(in) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-11-03</td></tr>
+<tr><td>Lidl Ltd</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Unknown</td><td>2026-11-03</td></tr>
+<tr><td>1&1 AG</td><td>Data Scientist (w/m/d)</td><td>Germany</td><td>2026-11-03</td></tr>
+<tr><td>Sopra Steria</td><td>Junior It-management Process Advisory (m/w/d)</td><td>Bundesweit</td><td>2026-11-03</td></tr>
+<tr><td>SAP</td><td>Speedboat: Project Management Associate (f/m/d) - Enterprise Architecture Mee</td><td>Munich</td><td>2026-11-03</td></tr>
+<tr><td>Macromedia University</td><td>Freie Lehrbeauftragte (m/w/d) Im Bereich Management</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>Swiss Re</td><td>Customer & Distribution Analyst (hybrid; M/f/x/d; 80-100%)</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>DKMS Deutsche Knochenmarkspenderdatei gGmbH</td><td>Arzt (m/w/d) (voll- Oder Teilzeit)</td><td>Cologne</td><td>2026-11-03</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Servicetechniker (m/w/d) Sicherheitstechnik</td><td>Cologne</td><td>2026-11-03</td></tr>
+<tr><td>Komax Holding AG</td><td>Process Technician Automation (mwd)</td><td>Stuttgart</td><td>2026-11-03</td></tr>
+<tr><td>Komax Holding AG</td><td>Service Technician (mfd)</td><td>Stuttgart</td><td>2026-11-03</td></tr>
+<tr><td>Thompson's WaterSeal</td><td>Betriebselektriker / Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-11-03</td></tr>
+<tr><td>Volkswagen</td><td>Haustechniker (w/m/d)</td><td>Unknown</td><td>2026-11-03</td></tr>
+<tr><td>Valspar</td><td>Betriebselektriker / Mechatroniker (m/w/d)</td><td>Germany</td><td>2026-11-03</td></tr>
+<tr><td>Siemens</td><td>Field Service Techniker (w/m/d) für Schaltgeräte/-anlagen</td><td>Germany</td><td>2026-11-03</td></tr>
+<tr><td>MEDTRONIC</td><td>Medizintechniker Im Außendienst (m/w/d)</td><td>Mollsfeld</td><td>2026-11-03</td></tr>
+<tr><td>Vestas</td><td>Hamburg Service Technician (mfd) For Offshore Wind Energy Deutsche Bucht Hh</td><td>Hamburg</td><td>2026-11-03</td></tr>
+<tr><td>Vestas</td><td>Hannover Service Technician (mfd) For Wind Turbines Near Hollenstedt Ni</td><td>Hollenstedt</td><td>2026-11-03</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Berlin</td><td>2026-11-03</td></tr>
+<tr><td>REWE Moers Uerdinger Straße GmbH & Co. Einzelhandels KG</td><td>Verkäufer Im Getränkemarkt (m/w/d)</td><td>Dusseldorf</td><td>2026-11-03</td></tr>
+<tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-11-03</td></tr>
+<tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-11-03</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
 </table>
