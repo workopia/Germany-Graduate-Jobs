@@ -10933,4 +10933,79 @@
 <tr><td>WOLF</td><td>Spezialist Lagersteuerung (m/w/d)</td><td>Siegenburg</td><td>2026-11-03</td></tr>
 <tr><td>Nordex SE</td><td>Teamassistenz Service (m/w/d)</td><td>Hamburg</td><td>2026-11-03</td></tr>
 <tr><td>NERA Economic Consulting</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Frankfurt Am Main</td><td>2026-11-03</td></tr>
+<tr><td>HOERBIGER</td><td>Bewerbung Schnupperpraktikum</td><td>Unknown</td><td>2026-11-04</td></tr>
+<tr><td>Len Viral</td><td>Werkstudent /praktikant / Intern Supply Chain (m/w/d)</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>Westwing</td><td>Intern Strategic People & Business Partners (m/f/d)</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Entwicklung Triebstrang Ab März 2027 (mwd)</td><td>Affalterbach</td><td>2026-11-04</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Praktikum Im Bereich Werkslogistik Informationsfluss - Remote Möglich</td><td>Aschaffenburg</td><td>2026-11-04</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Marketing & Communications (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-04</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern (m/f/d) In Investment Management Pc Germany &amp; Commercial Lines (az Vers/ Avk Pensions)</td><td>Germany</td><td>2026-11-04</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern - Internal Audit (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-04</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern - Allianz Consulting - Germany And Central Europe (m/f/d)</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in It Outbound Logistik Fertigfahrzeuge</td><td>Stuttgart</td><td>2026-11-04</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Entwicklung Exterieur</td><td>Stuttgart</td><td>2026-11-04</td></tr>
+<tr><td>Pfizer</td><td>Pharmazeut (m/w/d) Im Praktikum</td><td>Freiburg Im Breisgau</td><td>2026-11-04</td></tr>
+<tr><td>SAP SE</td><td>Sap Private Cloud Erp Ixp Intern (f/m/d)- Intern In Customer Support Sports & Entertainment</td><td>Mannheim</td><td>2026-11-04</td></tr>
+<tr><td>Valantic</td><td>Praktikum Im Bereich Modellierung Und Strategische Analyse / Ceo Office (max. 3 Monate) (all Genders</td><td>Frankfurt Am Main</td><td>2026-11-04</td></tr>
+<tr><td>Apple</td><td>Internship - Machine Learning Research - Speech-to-speech Translation</td><td>Germany</td><td>2026-11-04</td></tr>
+<tr><td>Kekst CNC</td><td>Intern Strategic Communication Consulting (m/f/d) - Munich, Frankfurt, Berlin</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>Diptyque Paris</td><td>Intern Marketing</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Bereich It-management</td><td>Reutlingen</td><td>2026-11-04</td></tr>
+<tr><td>SKF Sverige AB</td><td>Auszubildende Zur Fachkraft (m/w/d) Für Lagerlogistik</td><td>Hamburg</td><td>2026-11-04</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Amt Wachsenburg</td><td>2026-11-04</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Amt Wachsenburg</td><td>2026-11-04</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Amt Wachsenburg</td><td>2026-11-04</td></tr>
+<tr><td>Deloitte GmbH</td><td>Ausbildung Steuerfachangestellter 2027 (m/w/d)</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Auszubildender Konstruktionsmechaniker (m/w/d) Ab September 2027</td><td>Kirchdorf An Der Iller</td><td>2026-11-04</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Ausbildung Zum Land- Und Baumaschinenmechatroniker (m/w/d) Ab 01.09.2027</td><td>MüNchen-Hohenlinden</td><td>2026-11-04</td></tr>
+<tr><td>Deutz AG</td><td>Ausbildungsstelle Fachlagerist (m/w/d)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>DEUTZ AG</td><td>Ausbildungsstelle Werkstoffprüfer (m/w/d)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Initiativbewerbung Softwareentwickler (m/w/d)</td><td>Wolfertschwenden</td><td>2026-11-04</td></tr>
+<tr><td>Koninklijke Philips</td><td>Werkstudent Finance & Reporting (all Genders)</td><td>Hamburg</td><td>2026-11-04</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Datenmigration Utilities (all Genders)</td><td>Nach Standort Suchen</td><td>2026-11-04</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Servicetechniker Sicherheitstechnik (m/w/d)</td><td>Kesselsdorf</td><td>2026-11-04</td></tr>
+<tr><td>Vonovia SE</td><td>Berlin Servicetechniker (mwd) Wasserschäden Trocknung Berl 10115</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Dr. Schönberger GmbH</td><td>Berlin Aufzugstechniker (mwd) Berl 10115</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Bauerfeind</td><td>Flöha Mitarbeiter Elektrotechnik Mechatroniker (mwd)</td><td>Alle</td><td>2026-11-04</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Verkauf Services, Solution & Reparaturen (m/w/d)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Mannheim</td><td>2026-11-04</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Dortmund</td><td>2026-11-04</td></tr>
+<tr><td>Timberland Com Tr</td><td>Sales Associate (m/w/d)</td><td>Reutlingen</td><td>2026-11-04</td></tr>
+<tr><td>Capri</td><td>Michael Kors Weihnachtsaushilfe (m/w/d) Im Verkauf Für 10h/woche - Minijob-basis, Cologne - Köln, Deutschland</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>eBay</td><td>Warehouse Associate (f/m/d)</td><td>Hoppegarten</td><td>2026-11-04</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Zoo (gn) Vollzeit Oder Teilzeit</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Holz / Baustoffe / Baufertigteile (gn)</td><td>Frankfurt Am Main</td><td>2026-11-04</td></tr>
+<tr><td>workwide.es</td><td>Sales Associate (m/w/d)</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Duisburg Rheinhausen (18,5 Std)</td><td>Dusseldorf</td><td>2026-11-04</td></tr>
+<tr><td>POP MART Global</td><td>Sales Associate - Alexa, Berlin</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>(studentische) Aushilfe/minijob Im Verkauf (m/w/d)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf - Schwerpunkt Computer & Gaming (m/w/d)</td><td>Hamburg</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Tv & Sounds (m/w/d)</td><td>Nuremberg</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn</td><td>Kundenberater Verkauf (m/w/d)</td><td>Nuremberg</td><td>2026-11-04</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Studentische Aushilfe/minijob Im Verkauf - Schwerpunkt Smartphone & Vertragsgeschäft (m/w/d)</td><td>Mannheim</td><td>2026-11-04</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Wustermark Aushilfe Im Verkauf (mwd)</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Alstertal Einkaufszentrum Hamburg-poppenbüttel (m/w/d)</td><td>Hamburg</td><td>2026-11-04</td></tr>
+<tr><td>Balenciaga Germany GmbH</td><td>Balenciaga Sales Associate / Kadewe (m/f/d)</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Munster, Germany</td><td>Munster</td><td>2026-11-04</td></tr>
+<tr><td>Jimmy Choo</td><td>Sales Associate</td><td>Munich</td><td>2026-11-04</td></tr>
+<tr><td>Jimmy Choo</td><td>Sales Associate Full Time 40 H/week</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn) Vollzeit Oder Teilzeit</td><td>Mannheim</td><td>2026-11-04</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter / Sachbearbeiter Service / Büro / Verkauf (gn) 1</td><td>Stuttgart</td><td>2026-11-04</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist / Verkäufer (m/w/d) In Teilzeit</td><td>Dusseldorf</td><td>2026-11-04</td></tr>
+<tr><td>TJX Deutschland Ltd. & Co. KG</td><td>Ausbildung Zum*zur Verkäufer*in (m/w/d)</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Bäcker Görtz</td><td>Mitarbeiter Im Verkauf (m/w/d) - Brühl / Voll- Oder Teilzeit</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Köln-godorf (32 Std)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Tibarg Center Hamburg-niendorf (m/w/d)</td><td>Hamburg</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Tibarg Center Hamburg-niendorf (m/w/d)</td><td>Hamburg</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Schildergasse Köln (m/w/d)</td><td>Cologne</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Centro Oberhausen (m/w/d)</td><td>Dusseldorf</td><td>2026-11-04</td></tr>
+<tr><td>H&M</td><td>Ausbildung Kaufmann Im Einzelhandel – Saarbrücken (m/w/d)</td><td>Saarbruecken</td><td>2026-11-04</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob ( M/f/d) Befristet - Fo Piding</td><td>Fo Piding</td><td>2026-11-04</td></tr>
+<tr><td>Boeing Deutschland GmbH - BDG</td><td>Front Of House / Administrative Assistant (m/f/d)</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Grasslakeanimalhospital</td><td>Specialist Internal Communications Emea (m/w/d)</td><td>Germany</td><td>2026-11-04</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d), Befristet - Adidas Originals Flaghsip Store Berlin, Müntzstr.</td><td>Berlin</td><td>2026-11-04</td></tr>
+<tr><td>Leadec HoldingBV & Co</td><td>Koordinator Lagerlogistik (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-11-04</td></tr>
 </table>
