@@ -11008,4 +11008,53 @@
 <tr><td>Grasslakeanimalhospital</td><td>Specialist Internal Communications Emea (m/w/d)</td><td>Germany</td><td>2026-11-04</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d), Befristet - Adidas Originals Flaghsip Store Berlin, Müntzstr.</td><td>Berlin</td><td>2026-11-04</td></tr>
 <tr><td>Leadec HoldingBV & Co</td><td>Koordinator Lagerlogistik (m/w/d)</td><td>Nach Standort Suchen</td><td>2026-11-04</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Praktikant Hr Transformation (m/f/d)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>DZ PRIVATBANK S.A</td><td>Praktikant Eventmarketing Frankfurt (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-05</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Düsseldorf Praktikant Werkstudent Wirtschaftsprüfung Audit (wmd) Nw 40474</td><td>Dusseldorf</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Projektmanagement Bei Bmw Motorrad (w/m/x)</td><td>Berlin</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Projektmanagement 4- Und 6-zylinder Fahrzeuge Bmw Motorrad (w/m/x)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Intern The New Retail (f/m/x)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Marketing Bmw Group Financial Services (w/m/x)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Internationaler Vertrieb Und Marketing (w/m/x)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Corporate Und Brand Identity (w/m/x)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Collaborations Und Culture Marketing (w/m/x)</td><td>Munich</td><td>2026-11-05</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Mechanical Engineering & Mechatronics – 2026 (m/f/d)</td><td>Do Not Use</td><td>2026-11-05</td></tr>
+<tr><td>Hughes</td><td>Intern – Systems & Data Analysis – 2026 (m/f/d)</td><td>Do Not Use</td><td>2026-11-05</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Geology, Geosciences Or Geophysics – 2026 (m/f/d)</td><td>Do Not Use</td><td>2026-11-05</td></tr>
+<tr><td>Apple</td><td>Formal Verification Intern</td><td>Germany</td><td>2026-11-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Marketing, Event- Und Produktmanagement (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-05</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikum Bei Ggp Media</td><td>Jena</td><td>2026-11-05</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Praktikant Qs (m/w/d)</td><td>GlashüTte</td><td>2026-11-05</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Praktikum (w/m/d) - Für Viele Spannende Themen Wie U-shift Und Anderen Fahrzeugkonzepten</td><td>Unknown</td><td>2026-11-05</td></tr>
+<tr><td>ING Wholesale Banking Germany</td><td>Praktikant Transaction Service Sales – Wholesale Banking (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-05</td></tr>
+<tr><td>Airbus SE</td><td>Praktikum Im Bereich Zoll (m/w/d)</td><td>Augsburg</td><td>2026-11-05</td></tr>
+<tr><td>Big Dutchman International GmbH</td><td>Ausbildung Zum Fachlageristen (m/w/d)</td><td>Nach Postleitzahl Suchen</td><td>2026-11-05</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Trainee Controlling International (m/w/d) 2027</td><td>Heilbronn +1</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Trainee - Nachwuchsführungskraft Für Die Zielposition Marktleiter (m/w/d)</td><td>Mecklenburg</td><td>2026-11-05</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Abiturientenprogramm Logistik Inkl. Logistikmeister 2027 (m/w/d)</td><td>Germany</td><td>2026-11-05</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer/c Developer-pgd</td><td>Germany</td><td>2026-11-05</td></tr>
+<tr><td>WTW / Willis Towers Watson</td><td>Mathematiker (m/w/d) betriebliche Altersversorgung als Coach / Ausbilder (in Teilzeit)</td><td>Frankfurt Am Main</td><td>2026-11-05</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>Hochschulabsolventen (m/w/d) Im Actuarial Consulting</td><td>Frankfurt Am Main</td><td>2026-11-05</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Kfz Mechatroniker (mwd) Am Standort Karlsruhe</td><td>Karlsruhe</td><td>2026-11-05</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker (m/w/d) Bhkw-module (region Oberhausen/duisburg/gelsenkirchen)</td><td>Dusseldorf</td><td>2026-11-05</td></tr>
+<tr><td>LBBW Webspace</td><td>Service Engineer Onsite Support (m/w/d)</td><td>Stuttgart</td><td>2026-11-05</td></tr>
+<tr><td>cflex</td><td>Pirk Elektronikerin (mwd) 92712</td><td>Pirk</td><td>2026-11-05</td></tr>
+<tr><td>cflex</td><td>Pirk Industriemechanikerin Für Den Bereich Instandhaltung (mwd) 92712</td><td>Pirk</td><td>2026-11-05</td></tr>
+<tr><td>Continental AG</td><td>Reifenmonteur - Testcenter Nürburgring (m/w/d) - Ref98237x</td><td>Meuspath</td><td>2026-11-05</td></tr>
+<tr><td>Kronospan</td><td>Specjalista Ds. Mechaniki Przemysłowej Utrzymania Ruchu (k/m)– Praca W Niemczech</td><td>Strzelce Opolskie +1</td><td>2026-11-05</td></tr>
+<tr><td>BWB</td><td>Schönefeld Automatisiererin Pls Technik (wmd) Bb 12529</td><td>Berlin</td><td>2026-11-05</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Hamburg</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dortmund</td><td>2026-11-05</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Stuttgart</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke & Backwaren (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>REWE Christian Werner oHG</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>REWE Sauerbach oHG</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Getränke (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Werkstudent Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
+<tr><td>Deckers</td><td>Part Time Sales Associate</td><td>Reutlingen</td><td>2026-11-05</td></tr>
+<tr><td>Linde Material Handling</td><td>Produktionslogistiker / Staplerfahrer (m/w/d) In Vollzeit</td><td>Weilbach</td><td>2026-11-05</td></tr>
 </table>
