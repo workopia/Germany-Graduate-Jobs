@@ -11057,4 +11057,58 @@
 <tr><td>Rewe Group</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-11-05</td></tr>
 <tr><td>Deckers</td><td>Part Time Sales Associate</td><td>Reutlingen</td><td>2026-11-05</td></tr>
 <tr><td>Linde Material Handling</td><td>Produktionslogistiker / Staplerfahrer (m/w/d) In Vollzeit</td><td>Weilbach</td><td>2026-11-05</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Praktikum In Content Management, Mediengestaltung Und Interne Kommunikation</td><td>Aschaffenburg</td><td>2026-11-06</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Vorratsbewertung</td><td>Goppingen</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Human Exploration Science Office - Human Research Project Management</td><td>Noordwijk +1</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Ground Systems Engineering & Innovation Department - Ai, Data & Digital Twins</td><td>Darmstadt +1</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Web-based Operations Tools</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Xmm-newton And Integral Mission Operations</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Estrack Stations And Infrastructure Section</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Human Exploration Science Office - In-flight Venous Thrombosis Countermeasures</td><td>Cologne</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Juice Flight Control Team</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Space Safety Programme - Space Debris Office</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Luna Analog Facility Team</td><td>Cologne</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Spaceship Eac Team</td><td>Cologne</td><td>2026-11-06</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Space Weather & Ops-sat Lab Mission Operations</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>Citi</td><td>Banking, Corporate Banking, Placement Analyst Internship, Frankfurt - Germany 2027</td><td>Frankfurt Am Main</td><td>2026-11-06</td></tr>
+<tr><td>AGCO Corporation</td><td>Praktikant (m/w/d) Für Den Zentralbereich Facility &amp; Security Fendt (eme)</td><td>Kempten Allgau</td><td>2026-11-06</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern - Private Credit / Direct Lending (f/m/d)</td><td>Munich</td><td>2026-11-06</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Ceo-/corporate Office (pflicht-praktikum)</td><td>Stuttgart</td><td>2026-11-06</td></tr>
+<tr><td>1KOMMA5°</td><td>Praktikant:in - Sales/Marketing (m/w/d)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>EF Education First</td><td>Praktikum Marketing & Events</td><td>Munich</td><td>2026-11-06</td></tr>
+<tr><td>FTI Consulting</td><td>Praktikant (m/w/d) Turnaround</td><td>Frankfurt Am Main</td><td>2026-11-06</td></tr>
+<tr><td>BRAINEFFECT</td><td>Praktikum Influencer Marketing Dach (w/m/d)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>zdf</td><td>Praktikant*in Redaktion Fernsehfilm/serie I (01/2027 - 12/2027)</td><td>Darmstadt</td><td>2026-11-06</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Bad Berneck Auszubildende Industriekaufleute 2027 (mwd) 94560</td><td>Bad Berneck +1</td><td>2026-11-06</td></tr>
+<tr><td>Frenzelit GmbH</td><td>Bad Berneck Auszubildende Zum Technischen Konfektionär 2026 (mwd) 94560</td><td>Bad Berneck +1</td><td>2026-11-06</td></tr>
+<tr><td>Ingredion</td><td>Ausbildung Zur Fachkraft Für Lagerlogistik (w/m/d) - Start August 2027</td><td>Hamburg</td><td>2026-11-06</td></tr>
+<tr><td>Zalando</td><td>Software Engineer (all Genders)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>Dachser SE</td><td>Expert (m/w/d) Service Partner Management</td><td>Germany</td><td>2026-11-06</td></tr>
+<tr><td>Jobgether</td><td>Product Analyst</td><td>Germany</td><td>2026-11-06</td></tr>
+<tr><td>Willis Towers Watson</td><td>Hochschulabsolventen (m/w/d) Im Actuarial Consulting</td><td>Frankfurt Am Main</td><td>2026-11-06</td></tr>
+<tr><td>Vestas</td><td>Düsseldorf Service Technician (mfd) For Wind Turbines In Burgdorf Nw</td><td>Hanover</td><td>2026-11-06</td></tr>
+<tr><td>Sherwin-Williams</td><td>Betriebselektriker / Mechatroniker (m/w/d)</td><td>Vaihingen</td><td>2026-11-06</td></tr>
+<tr><td>EndressHauser AG</td><td>Weil Am Rhein Technician Calibration + Service Center (wmd) Weil Am Rhein 79576</td><td>Freiburg Im Breisgau</td><td>2026-11-06</td></tr>
+<tr><td>ABB Ltd</td><td>Service Technician (m/f/d)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Verkauf Services, Solution & Reparaturen (m/w/d)</td><td>Wuppertal</td><td>2026-11-06</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Berlin (charlottenburg)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>PVH Corp., formerly known as the Phillips-Van Heusen Corporation</td><td>Verkaufsberater In Teilzeit Tommy Hilfiger Siegen (m/w/d)</td><td>Siegen</td><td>2026-11-06</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Bad Mergentheim (18,5-23 Std)</td><td>Wurzburg</td><td>2026-11-06</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 30 Std./w.</td><td>Dusseldorf</td><td>2026-11-06</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w. / Zeil</td><td>Frankfurt Am Main</td><td>2026-11-06</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Oberhausen Centroallee, De</td><td>Dusseldorf</td><td>2026-11-06</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Ausbildung Zum Verkäufer Frische (m/w/d) 2027</td><td>Saarbruecken</td><td>2026-11-06</td></tr>
+<tr><td>APM.MC Australia</td><td>Apm Monaco - Sales Advisor (m/w) - Fixed-term Contract- Full-time - Berlin</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Eisenwaren / Werkzeuge (gn)</td><td>Mannheim</td><td>2026-11-06</td></tr>
+<tr><td>The North Face</td><td>Sales Associate (vollzeit, Mwd)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>VFC Corporation</td><td>Sales Associate (vollzeit, Mwd)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>eBay Inc.</td><td>Warehouse Associate (f/m/d)</td><td>Hoppegarten</td><td>2026-11-06</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Verkäufer (w/m/d)</td><td>Berlin</td><td>2026-11-06</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-11-06</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Convenience (m/w/d)</td><td>Saarbruecken</td><td>2026-11-06</td></tr>
+<tr><td>Hellmann</td><td>Customer Service Specialist (m/w/d)</td><td>Hanover</td><td>2026-11-06</td></tr>
+<tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-11-06</td></tr>
+<tr><td>Vestas</td><td>Quality Coordinator (m/f/d)</td><td>Szczecin +2</td><td>2026-11-06</td></tr>
 </table>
