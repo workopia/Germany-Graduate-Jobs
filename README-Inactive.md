@@ -11111,4 +11111,82 @@
 <tr><td>Hellmann</td><td>Customer Service Specialist (m/w/d)</td><td>Hanover</td><td>2026-11-06</td></tr>
 <tr><td>1&1 AG</td><td>Bereichsassistenz (m/w/d)</td><td>Dusseldorf</td><td>2026-11-06</td></tr>
 <tr><td>Vestas</td><td>Quality Coordinator (m/f/d)</td><td>Szczecin +2</td><td>2026-11-06</td></tr>
+<tr><td>zdf</td><td>Schülerpraktikant*in Logo! (4. Quartal 2027)</td><td>Darmstadt</td><td>2026-11-07</td></tr>
+<tr><td>zdf</td><td>Schülerpraktikant*innen Gf Nrw</td><td>Dusseldorf</td><td>2026-11-07</td></tr>
+<tr><td>Red Bull</td><td>Intern Communication & Brand - Ehc Red Bull München</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Hamburg 24.05. - 04.06.2027</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Hamburg 31.05. - 18.06.2027</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>ThyssenKrupp AG</td><td>Praktikum/bachelor-/masterarbeit Im Bereich Instandhaltung Mechanik (m/w/d)</td><td>Hamborn</td><td>2026-11-07</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Hamburg 18.05. - 28.05.2027</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>Airbus SE</td><td>Schulpraktikum Airbus Bremen Im Monat Mai (10.05.27 - 28.05.27)</td><td>Bremen</td><td>2026-11-07</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship - Mergers & Acquisitions (m/w/x)</td><td>Goppingen</td><td>2026-11-07</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship – Brand Experience, Customer Visits & Global Training (f/m/x)</td><td>Goppingen</td><td>2026-11-07</td></tr>
+<tr><td>Deutz AG</td><td>Ulm Praxissemester Im Bereich Fertigung Austauschmotoren Xchange Bw 89079</td><td>Ulm</td><td>2026-11-07</td></tr>
+<tr><td>Unknown Tech 2</td><td>Intern (m/f/d) In The Field Of Sales Operations, Pricing Or Supply Chain – 2026</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>FactSet</td><td>Client Solutions Internship - Frankfurt, February 2027</td><td>Frankfurt Am Main</td><td>2026-11-07</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Astrophysics Missions Division - Spacecraft Operations</td><td>Darmstadt</td><td>2026-11-07</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Infrastructure Analytics And Anomaly Detection</td><td>Darmstadt</td><td>2026-11-07</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Mission Operations Department - Exomars Time Correlation Evolution Data Analysis</td><td>Darmstadt</td><td>2026-11-07</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Esa Security Office - Cyber Internal Audit Section</td><td>Darmstadt</td><td>2026-11-07</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Communication Department - Digital Content And Outreach For International Audiences</td><td>Darmstadt</td><td>2026-11-07</td></tr>
+<tr><td>European Space Agency</td><td>Intern In The Exploration Science Office - Assessment Of Societal Benefits Of Exploration Science</td><td>Noordwijk +1</td><td>2026-11-07</td></tr>
+<tr><td>ALTANA AG</td><td>Hartenstein Ausbildung Zum Chemielaboranten (mwd) Start 2027 Sn 91235</td><td>Unknown</td><td>2026-11-07</td></tr>
+<tr><td>ALTANA AG</td><td>Hartenstein Ausbildung Zum Chemikanten (mwd) Start 2027 Sn 91235</td><td>Unknown</td><td>2026-11-07</td></tr>
+<tr><td>ALTANA AG</td><td>Hartenstein Ausbildung Zum Lacklaboranten (mwd) Start 2027 Sn 91235</td><td>Unknown</td><td>2026-11-07</td></tr>
+<tr><td>Schreiner Group GmbH und Co. KG</td><td>Oberschleißheim Ausbildung Zum Medientechnologen (mwd) 2027</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Aldersbach Ausbildung Zum Zerspanungsmechaniker (mwd) 94501</td><td>Aldersbach</td><td>2026-11-07</td></tr>
+<tr><td>Surteco SE</td><td>Gladbeck Auszubildender Kunststoff Und Kautschuktechnologe (mwd) Für 2027 Nw 45964</td><td>Dortmund</td><td>2026-11-07</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Ausbildung Zum Koch All Genders 2027</td><td>Unknown</td><td>2026-11-07</td></tr>
+<tr><td>Provinzial Rheinland Versicherung AG Die Vers. der Sparkassen</td><td>Komposit Trainee All Genders Duesseldorf Muenster</td><td>Dusseldorf</td><td>2026-11-07</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Ai Edge Applied Ml Experiences</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>DELO Industrial Adhesives</td><td>Werkstudent It Mit Schwerpunkt Künstliche Intelligenz (w/m/d)</td><td>Windach</td><td>2026-11-07</td></tr>
+<tr><td>GEA</td><td>Werkstudent (m/w/d) - Data Analyst / Data Science</td><td>Wallau</td><td>2026-11-07</td></tr>
+<tr><td>gewerblicheberufe.de</td><td>Ai & Automation Engineer*</td><td>Ober</td><td>2026-11-07</td></tr>
+<tr><td>EOS</td><td>Mandatory Internship Additive Minds Business Consulting (m/f/d)</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>Accelleron</td><td>Financial Analyst – Teilzeit (m/w/d)</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>KNDS Group</td><td>Referent (m/w/d) Projektmanagement Governance</td><td>Germany</td><td>2026-11-07</td></tr>
+<tr><td>E.ON Energie Deutschland GmbH</td><td>Business Analyst - Befristet (m/w/d)</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Bilanzbuchhalter Experte Umsatzrealisierung (w/m/d)</td><td>Germany</td><td>2026-11-07</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Experte Business Data Analyst - Cloud M/w/d</td><td>Frankfurt Am Main</td><td>2026-11-07</td></tr>
+<tr><td>ICON plc</td><td>Clinical Research Associate</td><td>Frankfurt Am Main</td><td>2026-11-07</td></tr>
+<tr><td>ICON plc</td><td>Junior Clinical Research Associate</td><td>Frankfurt Am Main</td><td>2026-11-07</td></tr>
+<tr><td>ICON Strategic Solutions</td><td>Junior Clinical Research Associate</td><td>Frankfurt Am Main</td><td>2026-11-07</td></tr>
+<tr><td>CSL Plasma GmbH</td><td>Center Arzt Bremen Weserpark (m/w/d)</td><td>Bremen</td><td>2026-11-07</td></tr>
+<tr><td>CSL Plasma</td><td>Center Arzt Bremen Weserpark (m/w/d)</td><td>Bremen</td><td>2026-11-07</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhalter Anlagentechnik/systemtechnik (w/m/d) 1</td><td>ÜBach</td><td>2026-11-07</td></tr>
+<tr><td>Amazon</td><td>RME Technician, RME</td><td>Lampertswalde</td><td>2026-11-07</td></tr>
+<tr><td>KONE Romania</td><td>Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Aufzüge</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>äº¬ä¸å¨çç</td><td>Maintenance Engineer</td><td>North Rhine</td><td>2026-11-07</td></tr>
+<tr><td>Melitta Business Service Center</td><td>Servicetechniker / Mitarbeiter Im Technischen Kundendienst (m/w/d) Für Den Raum Offenburg/freiburg- Auch Quereinsteiger Willkommen!</td><td>Freiburg Im Breisgau</td><td>2026-11-07</td></tr>
+<tr><td>ABB Inc</td><td>Service-inbetriebnehmer Mittelspannungstechnik (m/w/d) Mit (inter)nationalen Baustelleneinsätzen</td><td>Germany</td><td>2026-11-07</td></tr>
+<tr><td>TELCAT MULTICOM GmbH</td><td>Servicetechniker (w/m/d) Für Lichtrufanlagen</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>Vestas</td><td>Hamburg Service Technician Hh</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen</td><td>Dusseldorf</td><td>2026-11-07</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)</td><td>Cologne</td><td>2026-11-07</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Nuremberg</td><td>2026-11-07</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-11-07</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 37,5h</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 10-20h</td><td>Cologne</td><td>2026-11-07</td></tr>
+<tr><td>Deckers</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-11-07</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter Logistik / Lager / Versand (gn) Vollzeit Oder Teilzeit</td><td>Hannover Linden</td><td>2026-11-07</td></tr>
+<tr><td>Europcar Inc</td><td>Kundenberater*in/ Verkäufer*in / Werkstudent*in (w/m/d) Autovermietung</td><td>Berlin</td><td>2026-11-07</td></tr>
+<tr><td>Free People (URBN)</td><td>Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - 15h Teilzeit - Cologne/köln, De</td><td>Cologne</td><td>2026-11-07</td></tr>
+<tr><td>Levis Media</td><td>Sales Stylist (lse)</td><td>Dortmund</td><td>2026-11-07</td></tr>
+<tr><td>createyourowncareer</td><td>Data Center Associate (m/f/x)</td><td>MöRfelden</td><td>2026-11-07</td></tr>
+<tr><td>createyourowncareer</td><td>Warehouse Associate – Data Center Logistics (m/f/x)</td><td>MöRfelden</td><td>2026-11-07</td></tr>
+<tr><td>Rewe Group</td><td>Ausbildung Verkäufer (m/w/d)</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Client Advisor (m/w/d)</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Dortmund</td><td>2026-11-07</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Mitarbeiter (w/m/d) Warenverräumung (8-9h)</td><td>Unknown</td><td>2026-11-07</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf Teilzeit (m/w/d)</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Düsseldorf Aushilfe Im Verkauf (mwd)</td><td>Dusseldorf</td><td>2026-11-07</td></tr>
+<tr><td>Capri</td><td>Aushilfe Im Verkauf (m/w/d) 5h/woche, Neuer Wall – Hamburg , Deutschland</td><td>Hamburg</td><td>2026-11-07</td></tr>
+<tr><td>SIXT</td><td>Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Frankfurt Am Main</td><td>2026-11-07</td></tr>
+<tr><td>Vodafone</td><td>Sales Agent (m/w/d) Für Die Vodafone Filiale In München (willy-brandt-platz 5), In Teilzeit, Befr.</td><td>Munich</td><td>2026-11-07</td></tr>
+<tr><td>PVH Corp., formerly known as the Phillips-Van Heusen Corporation</td><td>Verkaufsberater In Teilzeit Calvin Klein Jeans Berlin (mall Of Berlin) (m/w/d)</td><td>Berlin</td><td>2026-11-07</td></tr>
+<tr><td>PVH Corp., formerly known as the Phillips-Van Heusen Corporation</td><td>Verkaufsberater In Vollzeit Tommy Hilfiger Nuernberg (m/w/d)</td><td>Nuremberg</td><td>2026-11-07</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Factory Outlet Wustermark</td><td>Berlin</td><td>2026-11-07</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Factory Outlet Berlin Wustermark</td><td>Berlin</td><td>2026-11-07</td></tr>
 </table>
