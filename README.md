@@ -553,7 +553,7 @@ Richten Sie auf Workopia einen Job-Alert nach Rolle + Stadt ein und wir benachri
 <table>
 <thead><tr><th width="17%">Unternehmen</th><th width="26%">Stelle</th><th width="11%">Standort</th><th width="13%">Gehalt</th><th width="19%">Kernkompetenzen</th><th width="8%">Bewerbung</th><th width="6%">Online</th></tr></thead>
 <tbody>
-<tr><td><strong><a href="https://workopia.io/hi/companies/accenture?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs">Accenture</a></strong></td><td>Junior Strategy Consultant Banking (graduate, All…</td><td>Frankfurt Am Main</td><td><a href="https://workopia.io/jobs/9a39d36edd752f3b280871971411ceba?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs">Schätzung →</a></td><td>Master's degree in rel, Strategic planning exp</td><td><a href="https://workopia.io/jobs/9a39d36edd752f3b280871971411ceba?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs">Bewerben →</a></td><td>9 T</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/accenture?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs">Accenture</a></strong></td><td>Junior Strategy Consultant Banking (graduate, All…</td><td>Frankfurt Am Main</td><td><a href="https://workopia.io/jobs/9a39d36edd752f3b280871971411ceba?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs">Schätzung →</a></td><td>Master's degree in rel, Strategic planning exp</td><td><a href="https://workopia.io/jobs/9a39d36edd752f3b280871971411ceba?utm_source=github&utm_medium=repo&utm_campaign=germany-graduate-jobs">Bewerben →</a></td><td>10 T</td></tr>
 </tbody>
 </table>
 
