@@ -11189,4 +11189,49 @@
 <tr><td>PVH Corp., formerly known as the Phillips-Van Heusen Corporation</td><td>Verkaufsberater In Vollzeit Tommy Hilfiger Nuernberg (m/w/d)</td><td>Nuremberg</td><td>2026-11-07</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Factory Outlet Wustermark</td><td>Berlin</td><td>2026-11-07</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Factory Outlet Berlin Wustermark</td><td>Berlin</td><td>2026-11-07</td></tr>
+<tr><td>Honeywell Technologies</td><td>Intern Cx Training Specialist (m/f/d)</td><td>Dusseldorf</td><td>2026-11-08</td></tr>
+<tr><td>Honeywell</td><td>Intern (m/w/d) Intern Customer Marketing Specialist I</td><td>Horsham +1</td><td>2026-11-08</td></tr>
+<tr><td>Mercedes-Benz</td><td>Amg Praktikanten Aftersales Produktbetreuung Und Regulierung Ab November 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-11-08</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Marketingkommunikation Own Retail</td><td>Berlin</td><td>2026-11-08</td></tr>
+<tr><td>American Express</td><td>Campus - Frankfurt School Of Finance - Future Talent - 2027</td><td>Frankfurt Am Main</td><td>2026-11-08</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Aftersales Produktbetreuung Und Regulierung Ab November 2026 (mwd)</td><td>Affalterbach</td><td>2026-11-08</td></tr>
+<tr><td>Ivivamedical</td><td>Internship In Clinical Research (m/w/d), Home-based In Eastern Part Of Germany</td><td>Eastern Part Of Germany</td><td>2026-11-08</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum Im Bereich Entwicklung & Inservice</td><td>Kempten Allgau</td><td>2026-11-08</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Praktikum In Der Unternehmenskommunikation</td><td>Kempten Allgau</td><td>2026-11-08</td></tr>
+<tr><td>Sia Partners</td><td>Final Year Internship Consultant - Energy, Utilities & Low Carbon Solutions</td><td>Paris +1</td><td>2026-11-08</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Marketing, Event- Und Produktmanagement (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-08</td></tr>
+<tr><td>zdf</td><td>Schülerpraktikant*in Red. Tagesmagazine (4. Quartal 2027)</td><td>Berlin</td><td>2026-11-08</td></tr>
+<tr><td>zdf</td><td>Schülerpraktikant*in Team Pur+</td><td>Darmstadt</td><td>2026-11-08</td></tr>
+<tr><td>Sixt</td><td>Management Trainee Filiale (m/w/d) Region West</td><td>Dusseldorf</td><td>2026-11-08</td></tr>
+<tr><td>ALTANA AG</td><td>Schkopau Ausbildung Zum Mechatroniker (mwd) Start 2027 St 06258</td><td>Schkopau</td><td>2026-11-08</td></tr>
+<tr><td>ALTANA AG</td><td>Hartenstein Ausbildung Zur Produktionsfachkraft Chemie (mwd) Start 2027 Sn 91235</td><td>Unknown</td><td>2026-11-08</td></tr>
+<tr><td>ALTANA AG</td><td>Hartenstein Ausbildung Zur Fachkraft Für Lagerlogistik (mwd) Start 2027 Sn 91235</td><td>Unknown</td><td>2026-11-08</td></tr>
+<tr><td>KSB</td><td>Azubi Industriemechanik (m/w/d)</td><td>Dortmund</td><td>2026-11-08</td></tr>
+<tr><td>Ksbgiw</td><td>Azubi Industriemechanik (m/w/d)</td><td>Dortmund</td><td>2026-11-08</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Master Thesis (f/m/x) - Development And Analysis Of A Software-based Spacewire-to-ethernet Bridge</td><td>Oberpfaffenhofen</td><td>2026-11-08</td></tr>
+<tr><td>Deutsches Zentrum fuer Luft- und Raumfahrt e.V</td><td>Engineer (f/m/x) - Software Development Of Secure Ip-based Protocols For Satellite Communications</td><td>Oberpfaffenhofen</td><td>2026-11-08</td></tr>
+<tr><td>Vonovia SE</td><td>Sap Entwickler / It Software Engineer Sap Pm/eam (m/w/d)</td><td>Bochum +1</td><td>2026-11-08</td></tr>
+<tr><td>ResMed Inc</td><td>Financial Data Analyst (m/w/d)</td><td>Germany</td><td>2026-11-08</td></tr>
+<tr><td>KLA</td><td>Ai Engineer (m/f/d) For Semiconductor Innovation</td><td>Saxony</td><td>2026-11-08</td></tr>
+<tr><td>THALES</td><td>Werkstudent (m/w/d) Business Analytics</td><td>Berlin</td><td>2026-11-08</td></tr>
+<tr><td>TE Connectivity</td><td>Corporate Strategy Analyst (m/f/d)</td><td>BENSHEIM</td><td>2026-11-08</td></tr>
+<tr><td>Jobgether</td><td>International Accountant</td><td>Germany</td><td>2026-11-08</td></tr>
+<tr><td>IQVIA UK</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor</td><td>Germany</td><td>2026-11-08</td></tr>
+<tr><td>IQVIA UK</td><td>Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area</td><td>Frankfurt Am Main</td><td>2026-11-08</td></tr>
+<tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Maintenance Engineer - Civil Works & Building Services (f/m/d)</td><td>Germany</td><td>2026-11-08</td></tr>
+<tr><td>SteelcoBelimed GmbH</td><td>Servicetechniker (m/w/d) (initiativbewerbung)</td><td>Deutschlandweit</td><td>2026-11-08</td></tr>
+<tr><td>SICK AG</td><td>Servicetechniker - Identifikationssensorik (w/m/d)</td><td>Germany</td><td>2026-11-08</td></tr>
+<tr><td>KNAPP AG</td><td>Servicetechniker:in (m/w/d)</td><td>Unknown</td><td>2026-11-08</td></tr>
+<tr><td>KNAPP AG</td><td>Elektriker /mechatroniker/ Mechaniker (m/w/d) Als Servicetechniker - Deutschlandweit</td><td>Frankfurt Am Main</td><td>2026-11-08</td></tr>
+<tr><td>West Pharmaceutical Services</td><td>Industriemechaniker / Instandhalter (m/w/d) Produktionsanlagen &amp; Werkzeugtechnik</td><td>Unknown</td><td>2026-11-08</td></tr>
+<tr><td>Hager Group</td><td>Elektroniker/mechatroniker Für Betriebstechnik (m/w/d)</td><td>Hammersbach</td><td>2026-11-08</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Region Frankfurt</td><td>Frankfurt A. M.</td><td>2026-11-08</td></tr>
+<tr><td>ams-osram</td><td>First Level Maintenance Technician Flm</td><td>Unknown</td><td>2026-11-08</td></tr>
+<tr><td>Diversey</td><td>Servicetechniker Im Außendienst (m/w/d) Norddeutschland</td><td>Norddeutschland</td><td>2026-11-08</td></tr>
+<tr><td>Henry Schein</td><td>Service Technician</td><td>Dusseldorf</td><td>2026-11-08</td></tr>
+<tr><td>Chemion Logistik GmbH</td><td>Elektroniker Schwerpunkt Wägetechnik (m/w/d)</td><td>Cologne</td><td>2026-11-08</td></tr>
+<tr><td>Koninklijke Philips</td><td>Field Specialist (all Genders) Mrt - Region Sachsen Anhalt/brandenburg</td><td>Home Based</td><td>2026-11-08</td></tr>
+<tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hannover</td><td>2026-11-08</td></tr>
+<tr><td>Vestas</td><td>Transport Coordinator (m/f/d)</td><td>Hodenhagen</td><td>2026-11-08</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob Fo Neumünster (temp) (m/w/d)</td><td>Kiel</td><td>2026-11-08</td></tr>
 </table>
