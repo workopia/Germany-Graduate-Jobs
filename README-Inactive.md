@@ -11234,4 +11234,13 @@
 <tr><td>Adstronauts GmbH</td><td>Kauffrau/-mann Für Büromanagement / Assistenz Der Geschäftsführung - Vollzeit (m/w/d)</td><td>Hannover</td><td>2026-11-08</td></tr>
 <tr><td>Vestas</td><td>Transport Coordinator (m/f/d)</td><td>Hodenhagen</td><td>2026-11-08</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob Fo Neumünster (temp) (m/w/d)</td><td>Kiel</td><td>2026-11-08</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Organisationsentwicklung Und Strategie Im Internationalen Team</td><td>Stuttgart</td><td>2026-11-09</td></tr>
+<tr><td>KNDS Group</td><td>Softwareentwickler Schwerpunkt Anwendungsentwicklung (m/w/d)</td><td>Constance</td><td>2026-11-09</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Automation Engineer</td><td>Hesse</td><td>2026-11-09</td></tr>
+<tr><td>Philips UK</td><td>Werkstudent Finance & Reporting (all Genders)</td><td>Hamburg</td><td>2026-11-09</td></tr>
+<tr><td>Philips Respironics</td><td>Werkstudent Finance & Reporting (all Genders)</td><td>Hamburg</td><td>2026-11-09</td></tr>
+<tr><td>Syneos Health</td><td>Cra Oncology Germany</td><td>Germany</td><td>2026-11-09</td></tr>
+<tr><td>Syneos Health</td><td>Cra I - Real World Late Phase - Germany</td><td>Germany</td><td>2026-11-09</td></tr>
+<tr><td>Syneos Health</td><td>Clinical Research Associate Risk-based Monitoring</td><td>Germany</td><td>2026-11-09</td></tr>
+<tr><td>Syneos Health</td><td>Cra Augsburg Region</td><td>Augsburg Region</td><td>2026-11-09</td></tr>
 </table>

@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-08",
- "count": 712,
+ "asOf": "2026-11-09",
+ "count": 705,
  "jobs": {
+  "ec0fd5a1f5cf95ef3fa700d23a9452ab": {
+   "id": "ec0fd5a1f5cf95ef3fa700d23a9452ab",
+   "company": "Tiffany 2",
+   "role": "Intern Marketing (m/f/d)",
+   "location": "MüNchen +1"
+  },
   "58b48b0ad5b55c53c9dcdf931b43b113": {
    "id": "58b48b0ad5b55c53c9dcdf931b43b113",
    "company": "EF Education First",
@@ -79,6 +85,12 @@
    "company": "Delivery Hero (foodpanda)",
    "role": "Intern, Local Service Desk",
    "location": "Berlin"
+  },
+  "9c339a2e89dfc3fe37fa44b58074b94f": {
+   "id": "9c339a2e89dfc3fe37fa44b58074b94f",
+   "company": "Parloa",
+   "role": "Finance Systems Intern",
+   "location": "Berlin +1"
   },
   "575c989536f39610485bb647c08befc1": {
    "id": "575c989536f39610485bb647c08befc1",
@@ -163,12 +175,6 @@
    "company": "Mercedes-Benz Consulting GmbH",
    "role": "Praktikant - It Service & Workplace Support (m/w/d)",
    "location": "Leinfelden"
-  },
-  "ec0fd5a1f5cf95ef3fa700d23a9452ab": {
-   "id": "ec0fd5a1f5cf95ef3fa700d23a9452ab",
-   "company": "Tiffany & Co",
-   "role": "Intern Marketing (m/f/d)",
-   "location": "MüNchen +1"
   },
   "6467dcde3841bb5787257ac11a1175dc": {
    "id": "6467dcde3841bb5787257ac11a1175dc",
@@ -474,12 +480,6 @@
    "id": "6b6dae9f95fca821f4e34b1e52645b20",
    "company": "Bosch Rexroth",
    "role": "Mandatory Internship In Organizational Development And Strategy In An International Team",
-   "location": "Stuttgart"
-  },
-  "68208477ab5cb982fa7fb79aec6009e9": {
-   "id": "68208477ab5cb982fa7fb79aec6009e9",
-   "company": "Bosch Rexroth",
-   "role": "Pflichtpraktikum Organisationsentwicklung Und Strategie Im Internationalen Team",
    "location": "Stuttgart"
   },
   "7f67cf08395456b83a1de8351e5ec135": {
@@ -1256,6 +1256,12 @@
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
    "location": "Germany"
   },
+  "040a39b17bd9623588e3b8c07c4da1a4": {
+   "id": "040a39b17bd9623588e3b8c07c4da1a4",
+   "company": "CLO Virtual Fashion",
+   "role": "It Support/tech Support",
+   "location": "Munich +1"
+  },
   "4592eba0965dba40223f3e234e109d18": {
    "id": "4592eba0965dba40223f3e234e109d18",
    "company": "Delivery Hero (foodpanda)",
@@ -1730,12 +1736,6 @@
    "role": "Backend Developer (gn)",
    "location": "76879"
   },
-  "81ef811dcde331c53809fd063a0a7d01": {
-   "id": "81ef811dcde331c53809fd063a0a7d01",
-   "company": "KNDS Group",
-   "role": "Softwareentwickler Schwerpunkt Anwendungsentwicklung (m/w/d)",
-   "location": "Constance"
-  },
   "a30c36ff271011b898cfd58281fb8e5e": {
    "id": "a30c36ff271011b898cfd58281fb8e5e",
    "company": "BMW Group",
@@ -2054,12 +2054,6 @@
    "role": "Data Scientist (w/m/d)",
    "location": "Germany"
   },
-  "6ce45c53259aa082c3a0d151b0267ac1": {
-   "id": "6ce45c53259aa082c3a0d151b0267ac1",
-   "company": "Ecolab Pty Ltd",
-   "role": "Automation Engineer",
-   "location": "Hesse"
-  },
   "6fe24038e6ec02d54be773a8643f5a44": {
    "id": "6fe24038e6ec02d54be773a8643f5a44",
    "company": "SIXT",
@@ -2185,18 +2179,6 @@
    "company": "Thales Group",
    "role": "Werkstudent (m/w/d) Business Analytics",
    "location": "Berlin"
-  },
-  "c8b2160a81e5f699a1230227b8a23540": {
-   "id": "c8b2160a81e5f699a1230227b8a23540",
-   "company": "Philips UK",
-   "role": "Werkstudent Finance & Reporting (all Genders)",
-   "location": "Hamburg"
-  },
-  "4433b362ff16cc0a4d2b0f807c92f348": {
-   "id": "4433b362ff16cc0a4d2b0f807c92f348",
-   "company": "Philips Respironics",
-   "role": "Werkstudent Finance & Reporting (all Genders)",
-   "location": "Hamburg"
   },
   "8dc6e07c4f3ff8e3f4b8e230cb84a7c3": {
    "id": "8dc6e07c4f3ff8e3f4b8e230cb84a7c3",
@@ -2809,30 +2791,6 @@
    "company": "Thermo Fisher Scientific UK",
    "role": "Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)",
    "location": "Germany"
-  },
-  "b94469bb638d71f4468c232d454fc692": {
-   "id": "b94469bb638d71f4468c232d454fc692",
-   "company": "Syneos Health",
-   "role": "Cra Oncology Germany",
-   "location": "Germany"
-  },
-  "55d7ace46850646616b38aef371abb79": {
-   "id": "55d7ace46850646616b38aef371abb79",
-   "company": "Syneos Health",
-   "role": "Cra I - Real World Late Phase - Germany",
-   "location": "Germany"
-  },
-  "6934385b62c4217ddc8126329b414482": {
-   "id": "6934385b62c4217ddc8126329b414482",
-   "company": "Syneos Health",
-   "role": "Clinical Research Associate Risk-based Monitoring",
-   "location": "Germany"
-  },
-  "2c8abe167e52c77d7e574cfe0110cfc7": {
-   "id": "2c8abe167e52c77d7e574cfe0110cfc7",
-   "company": "Syneos Health",
-   "role": "Cra Augsburg Region",
-   "location": "Augsburg Region"
   },
   "bc42c387c8ade909fc2eba5b780b2123": {
    "id": "bc42c387c8ade909fc2eba5b780b2123",
