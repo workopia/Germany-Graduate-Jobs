@@ -11243,4 +11243,33 @@
 <tr><td>Syneos Health</td><td>Cra I - Real World Late Phase - Germany</td><td>Germany</td><td>2026-11-09</td></tr>
 <tr><td>Syneos Health</td><td>Clinical Research Associate Risk-based Monitoring</td><td>Germany</td><td>2026-11-09</td></tr>
 <tr><td>Syneos Health</td><td>Cra Augsburg Region</td><td>Augsburg Region</td><td>2026-11-09</td></tr>
+<tr><td>Hitachi Vantara</td><td>Technical Pre-sales Intern (f/m/d)</td><td>Mannheim</td><td>2026-11-10</td></tr>
+<tr><td>Roche Holding AG</td><td>Internship - Data And Digital Enablement (prlabd) (m/f/d)</td><td>Munich</td><td>2026-11-10</td></tr>
+<tr><td>VIE-INDIA</td><td>Praktikum (d/m/w) Im Cabin Conformance Management Single Aisle</td><td>Hamburg</td><td>2026-11-10</td></tr>
+<tr><td>SCHOTT AG</td><td>Mainz Werkstudentin Projektmanagement (mwd) Rp</td><td>Darmstadt</td><td>2026-11-10</td></tr>
+<tr><td>SCHOTT AG</td><td>Mainz Praktikantin Brand Design (mwd) Rp</td><td>Darmstadt</td><td>2026-11-10</td></tr>
+<tr><td>Bosch Rexroth</td><td>Mandatory Internship In Organizational Development And Strategy In An International Team</td><td>Stuttgart</td><td>2026-11-10</td></tr>
+<tr><td>Siegwerk Druckfarben AG & Co. KGaA</td><td>Ausbildung Zumzur Chemikantin (wmd)</td><td>27757</td><td>2026-11-10</td></tr>
+<tr><td>Komax Holding AG</td><td>Fremdsprachen Industriekauffraumann (mwd) Ausbildung 2027</td><td>Stuttgart</td><td>2026-11-10</td></tr>
+<tr><td>Constellium</td><td>Werkstudent It Support (m/w/d)</td><td>Dahenfeld</td><td>2026-11-10</td></tr>
+<tr><td>224</td><td>Business Analyst Data Management (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-10</td></tr>
+<tr><td>IQVIA</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor</td><td>Frankfurt Am Main</td><td>2026-11-10</td></tr>
+<tr><td>IQVIA Holdings</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor</td><td>Frankfurt Am Main</td><td>2026-11-10</td></tr>
+<tr><td>IQVIA</td><td>Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area</td><td>Frankfurt Am Main</td><td>2026-11-10</td></tr>
+<tr><td>IQVIA Holdings</td><td>Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area</td><td>Frankfurt Am Main</td><td>2026-11-10</td></tr>
+<tr><td>IQVIA</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Germany</td><td>2026-11-10</td></tr>
+<tr><td>IQVIA Holdings</td><td>Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany</td><td>Frankfurt Am Main</td><td>2026-11-10</td></tr>
+<tr><td>AstraZeneca</td><td>Clinical Research Associate (cra) (m/w/d) – Zelltherapie (außendienst)</td><td>Hessen</td><td>2026-11-10</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)</td><td>Germany</td><td>2026-11-10</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)</td><td>Germany</td><td>2026-11-10</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)</td><td>Germany</td><td>2026-11-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Müllrose</td><td>MüLlrose</td><td>2026-11-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines Near Gehrde</td><td>Gehrde</td><td>2026-11-10</td></tr>
+<tr><td>Azenta Life Sciences</td><td>Servicetechniker (m/w/d) Für Automatisierungs- Und Kälteanlagen – München-hadern (germany)</td><td>MüNchen-Hadern</td><td>2026-11-10</td></tr>
+<tr><td>SIG Information Technology GmbH</td><td>Service Techniker Außendienst / Field Service Engineer Germany (m/w/d)</td><td>Germany</td><td>2026-11-10</td></tr>
+<tr><td>GEZE GmbH</td><td>Service- Und Montagetechniker (m/w/d) Für Karlsruhe</td><td>Karlsruhe</td><td>2026-11-10</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Bargteheide</td><td>Hamburg</td><td>2026-11-10</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Ahrensburg</td><td>Hamburg</td><td>2026-11-10</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Thier Galerie Dortmund (m/w/d)</td><td>Dortmund</td><td>2026-11-10</td></tr>
+<tr><td>H&M</td><td>Verkäufer Minijob - Nürnberg (m/w/d)</td><td>Nuremberg</td><td>2026-11-10</td></tr>
 </table>

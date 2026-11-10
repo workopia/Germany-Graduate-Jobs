@@ -1,7 +1,43 @@
 {
- "asOf": "2026-11-09",
- "count": 705,
+ "asOf": "2026-11-10",
+ "count": 696,
  "jobs": {
+  "d8b3b349d4cfa9b400cb3db1d66ddf74": {
+   "id": "d8b3b349d4cfa9b400cb3db1d66ddf74",
+   "company": "Hughes",
+   "role": "Intern – Geology, Geosciences Or Geophysics – 2026 (m/f/d)",
+   "location": "Strasse 1"
+  },
+  "835bcbc30ca2fabf1cd1687efad3eae9": {
+   "id": "835bcbc30ca2fabf1cd1687efad3eae9",
+   "company": "Baker Hughes",
+   "role": "Intern – Mechanical Engineering & Mechatronics – 2026 (m/f/d)",
+   "location": "Strasse 1"
+  },
+  "29deebf480c57f32889ad492b0a5e867": {
+   "id": "29deebf480c57f32889ad492b0a5e867",
+   "company": "Hughes",
+   "role": "Intern – Systems & Data Analysis – 2026 (m/f/d)",
+   "location": "Strasse 1"
+  },
+  "86961d3283fa1a35e1213688b1051a1b": {
+   "id": "86961d3283fa1a35e1213688b1051a1b",
+   "company": "BMW Group",
+   "role": "Praktikant Personalbetreuung Und Personalentwicklung (w/m/x)",
+   "location": "Munich"
+  },
+  "2edb102e162bc13b76a309e8568d91da": {
+   "id": "2edb102e162bc13b76a309e8568d91da",
+   "company": "Westwing",
+   "role": "Intern Pricing & Retail Performance (m/f/d)",
+   "location": "Munich +1"
+  },
+  "2023799c16752478430a0cebe140910b": {
+   "id": "2023799c16752478430a0cebe140910b",
+   "company": "Volkswagen",
+   "role": "Apprenticeship, Internship &amp; Academic Programs (f/m/d)",
+   "location": "Germany"
+  },
   "ec0fd5a1f5cf95ef3fa700d23a9452ab": {
    "id": "ec0fd5a1f5cf95ef3fa700d23a9452ab",
    "company": "Tiffany 2",
@@ -446,41 +482,17 @@
    "role": "Internship - Embedded Memory Characterization (f/m/div)",
    "location": "Dresden"
   },
-  "1309b7bfc5aef595e805167533ec7a7d": {
-   "id": "1309b7bfc5aef595e805167533ec7a7d",
-   "company": "Hitachi Vantara",
-   "role": "Technical Pre-sales Intern (f/m/d)",
-   "location": "Mannheim"
+  "b9ad2512990fdf86c663d17a45f4c299": {
+   "id": "b9ad2512990fdf86c663d17a45f4c299",
+   "company": "investmentbankinginternships.com",
+   "role": "Trainee Im Junior Expert Programme – Backoffice Systems & Process Design (w/m/d)",
+   "location": "Berlin"
   },
-  "9ffc13abcd5c14b431c6e72d718cac39": {
-   "id": "9ffc13abcd5c14b431c6e72d718cac39",
-   "company": "Roche Holding AG",
-   "role": "Internship - Data And Digital Enablement (prlabd) (m/f/d)",
-   "location": "Munich"
-  },
-  "836c8512bf0a75865db30c5cc3333378": {
-   "id": "836c8512bf0a75865db30c5cc3333378",
-   "company": "VIE-INDIA",
-   "role": "Praktikum (d/m/w) Im Cabin Conformance Management Single Aisle",
-   "location": "Hamburg"
-  },
-  "263a9c26f5dfb807509b3f548c0de87b": {
-   "id": "263a9c26f5dfb807509b3f548c0de87b",
-   "company": "SCHOTT AG",
-   "role": "Mainz Werkstudentin Projektmanagement (mwd) Rp",
-   "location": "Darmstadt"
-  },
-  "efb594ae559a557b87b0316c0d841b28": {
-   "id": "efb594ae559a557b87b0316c0d841b28",
-   "company": "SCHOTT AG",
-   "role": "Mainz Praktikantin Brand Design (mwd) Rp",
-   "location": "Darmstadt"
-  },
-  "6b6dae9f95fca821f4e34b1e52645b20": {
-   "id": "6b6dae9f95fca821f4e34b1e52645b20",
-   "company": "Bosch Rexroth",
-   "role": "Mandatory Internship In Organizational Development And Strategy In An International Team",
-   "location": "Stuttgart"
+  "ccdf10d65b0c7652e57433e2dd1fe6c2": {
+   "id": "ccdf10d65b0c7652e57433e2dd1fe6c2",
+   "company": "Arvato Systems",
+   "role": "Trainee It-ams Energiewirtschaft (m/w/d)",
+   "location": "Leipzig +1"
   },
   "7f67cf08395456b83a1de8351e5ec135": {
    "id": "7f67cf08395456b83a1de8351e5ec135",
@@ -950,18 +962,6 @@
    "role": "Frankfurt Am Main Ausbildung Zum Einzelhandelskaufmann (mwd) Schwerpunkt Genussmittel (start 2027) He",
    "location": "Frankfurt Am Main"
   },
-  "5002dd9f4c78caaddb6ab6d8ddae9d26": {
-   "id": "5002dd9f4c78caaddb6ab6d8ddae9d26",
-   "company": "Siegwerk Druckfarben AG & Co. KGaA",
-   "role": "Ausbildung Zumzur Chemikantin (wmd)",
-   "location": "27757"
-  },
-  "23f0ce0d3d7f8af198095f6a97bb2d5f": {
-   "id": "23f0ce0d3d7f8af198095f6a97bb2d5f",
-   "company": "Komax Holding AG",
-   "role": "Fremdsprachen Industriekauffraumann (mwd) Ausbildung 2027",
-   "location": "Stuttgart"
-  },
   "545c3bca08e42b9325424bb800d151a3": {
    "id": "545c3bca08e42b9325424bb800d151a3",
    "company": "Arxada",
@@ -1225,12 +1225,6 @@
    "company": "Mister Spex",
    "role": "Werkstudent It Support (m/w/d)",
    "location": "Berlin"
-  },
-  "9cc182467200f43f520cb783085d2490": {
-   "id": "9cc182467200f43f520cb783085d2490",
-   "company": "Constellium",
-   "role": "Werkstudent It Support (m/w/d)",
-   "location": "Dahenfeld"
   },
   "c8ac5a5e53a0b47d4a8e5c2436b987a3": {
    "id": "c8ac5a5e53a0b47d4a8e5c2436b987a3",
@@ -1736,6 +1730,12 @@
    "role": "Backend Developer (gn)",
    "location": "76879"
   },
+  "330276be8ea3fd7871fa2751cc12fe01": {
+   "id": "330276be8ea3fd7871fa2751cc12fe01",
+   "company": "Bosch Group",
+   "role": "Internship In Genai Knowledge Assistant For Engineering",
+   "location": "Wernau +2"
+  },
   "a30c36ff271011b898cfd58281fb8e5e": {
    "id": "a30c36ff271011b898cfd58281fb8e5e",
    "company": "BMW Group",
@@ -2191,6 +2191,12 @@
    "company": "Accenture",
    "role": "Junior Strategy Consultant Banking (graduate, All Genders)",
    "location": "Frankfurt Am Main"
+  },
+  "a1610fdf7d258b22561b0fc01a9df075": {
+   "id": "a1610fdf7d258b22561b0fc01a9df075",
+   "company": "AXA UK",
+   "role": "Business Analyst Betriebliche Altersvorsorge (m/w/d) Beratungsstrecken",
+   "location": "KöLn +1"
   },
   "153d9e8798073f9e4c82d9afb7d1697c": {
    "id": "153d9e8798073f9e4c82d9afb7d1697c",
@@ -2666,10 +2672,10 @@
    "role": "Business Analyst (w/m/d) Ordermanagement Im Projektumfeld",
    "location": "Germany"
   },
-  "c7544ec77c7ea17e3b6907de6aafa673": {
-   "id": "c7544ec77c7ea17e3b6907de6aafa673",
-   "company": "224",
-   "role": "Business Analyst Data Management (w/m/d)",
+  "5762b1c867e49c9432f352fb3f4a76a8": {
+   "id": "5762b1c867e49c9432f352fb3f4a76a8",
+   "company": "ICON plc",
+   "role": "Clinical Research Associate",
    "location": "Frankfurt Am Main"
   },
   "cd83bfb43eb7e730814499c9b3017f5c": {
@@ -2732,65 +2738,35 @@
    "role": "Cra",
    "location": "North-East Germany"
   },
-  "72772eaaf1adbd55418dcc46fe58fcb9": {
-   "id": "72772eaaf1adbd55418dcc46fe58fcb9",
-   "company": "IQVIA",
-   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor",
-   "location": "Frankfurt Am Main"
+  "55aaa06e004d6654cc9fbe133a866697": {
+   "id": "55aaa06e004d6654cc9fbe133a866697",
+   "company": "ENERCON IT Service GmbH",
+   "role": "Elektriker / Elektroniker (m/w/d)",
+   "location": "Lautertal"
   },
-  "83acdb966f8b88c2704e447fe1d4063e": {
-   "id": "83acdb966f8b88c2704e447fe1d4063e",
-   "company": "IQVIA Holdings",
-   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Single Sponsor",
-   "location": "Frankfurt Am Main"
+  "8c2e639a926a1839a6112460e3cc1d20": {
+   "id": "8c2e639a926a1839a6112460e3cc1d20",
+   "company": "Veolia Environnement SA",
+   "role": "Field Service Engineer (m/f/d)",
+   "location": "Ratingen +1"
   },
-  "18f5d477123bbca4d89e2ed988d20633": {
-   "id": "18f5d477123bbca4d89e2ed988d20633",
-   "company": "IQVIA",
-   "role": "Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area",
-   "location": "Frankfurt Am Main"
+  "046f651ff7358a821a04ccdbd1905bbd": {
+   "id": "046f651ff7358a821a04ccdbd1905bbd",
+   "company": "Konecranes",
+   "role": "Industriemechaniker *in Als Servicetechniker *in Für Hafenkrananlagen International",
+   "location": "Duisburg +1"
   },
-  "03759c295d3b95c3603cfb16ab736bfb": {
-   "id": "03759c295d3b95c3603cfb16ab736bfb",
-   "company": "IQVIA Holdings",
-   "role": "Trainee Clinical Research Associate (m/w/d), Home-office In North-rhin-westphalia Or Frankfurt Area",
-   "location": "Frankfurt Am Main"
+  "bf64c5a0eb87962b48ac1788aefe53c5": {
+   "id": "bf64c5a0eb87962b48ac1788aefe53c5",
+   "company": "Zeppelin",
+   "role": "Servicetechniker Spezialisierung Hydraulik (m/d/w)",
+   "location": "Munich"
   },
-  "72d515872d54ed2ff9623a010fd3c2e4": {
-   "id": "72d515872d54ed2ff9623a010fd3c2e4",
-   "company": "IQVIA",
-   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
-   "location": "Germany"
-  },
-  "b7712b70fd5828a719f9b4865ff8b565": {
-   "id": "b7712b70fd5828a719f9b4865ff8b565",
-   "company": "IQVIA Holdings",
-   "role": "Clinical Research Associate 1 Or 2 (m/w/d), Multi-sponsor, Germany",
-   "location": "Frankfurt Am Main"
-  },
-  "656359d11ba042258192be335aa9b61d": {
-   "id": "656359d11ba042258192be335aa9b61d",
-   "company": "AstraZeneca",
-   "role": "Clinical Research Associate (cra) (m/w/d) – Zelltherapie (außendienst)",
-   "location": "Hessen"
-  },
-  "38161db210209bcb3b8401cbbda666e6": {
-   "id": "38161db210209bcb3b8401cbbda666e6",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)",
-   "location": "Germany"
-  },
-  "f6640c5929c5cb4faacabac65351bc74": {
-   "id": "f6640c5929c5cb4faacabac65351bc74",
-   "company": "Thermofisher Scientific",
-   "role": "Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)",
-   "location": "Germany"
-  },
-  "871aa7466b8c3e3ca583ff3a02200e2b": {
-   "id": "871aa7466b8c3e3ca583ff3a02200e2b",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Clinical Research Associate Ii Sponsor-dedicated Fsp - Germany (m/f/d)",
-   "location": "Germany"
+  "6cde37774a93e33f0056579c91f242ba": {
+   "id": "6cde37774a93e33f0056579c91f242ba",
+   "company": "Bdrthermeagroup",
+   "role": "Kundendiensttechniker Für Den Großraum Günzburg/augsburg (*)",
+   "location": "GüNzburg +1"
   },
   "bc42c387c8ade909fc2eba5b780b2123": {
    "id": "bc42c387c8ade909fc2eba5b780b2123",
@@ -3242,35 +3218,29 @@
    "role": "Ausbildung Zum Mechatroniker Als Servicetechniker Im Servicegebiet: Hamburg (zentrum/nord) (m/w/d) Zum Start 01.09.2027",
    "location": "Hamburg"
   },
-  "cd4f72c39539421f898f82dff3f073cb": {
-   "id": "cd4f72c39539421f898f82dff3f073cb",
-   "company": "Vestas",
-   "role": "Service Technician (m/f/d) For Wind Turbines In Müllrose",
-   "location": "MüLlrose"
+  "9794ad053238b2e887130ae9db0c6eae": {
+   "id": "9794ad053238b2e887130ae9db0c6eae",
+   "company": "Skechers",
+   "role": "Verkäufer (m/w/d) In Teilzeit - Flagshipstore München Kaufingerstraße",
+   "location": "Munich"
   },
-  "5bd950d61f234401c43f5fffece9831d": {
-   "id": "5bd950d61f234401c43f5fffece9831d",
-   "company": "Vestas",
-   "role": "Service Technician (m/f/d) For Wind Turbines Near Gehrde",
-   "location": "Gehrde"
+  "e30186b2ac8d4367619e39687942bb52": {
+   "id": "e30186b2ac8d4367619e39687942bb52",
+   "company": "Throwbackpacks",
+   "role": "Studentische Aushilfe Calvin Klein Berlin B5 Outlet (m/w/d)",
+   "location": "Berlin"
   },
-  "8fd4ee3d099f3bec2e72adc0fc5ddfc7": {
-   "id": "8fd4ee3d099f3bec2e72adc0fc5ddfc7",
-   "company": "Azenta Life Sciences",
-   "role": "Servicetechniker (m/w/d) Für Automatisierungs- Und Kälteanlagen – München-hadern (germany)",
-   "location": "MüNchen-Hadern"
-  },
-  "9d21537eece9d835383fb272c27c399a": {
-   "id": "9d21537eece9d835383fb272c27c399a",
-   "company": "SIG Information Technology GmbH",
-   "role": "Service Techniker Außendienst / Field Service Engineer Germany (m/w/d)",
+  "9e44d1ba5a5d63de9668ce3f267b6967": {
+   "id": "9e44d1ba5a5d63de9668ce3f267b6967",
+   "company": "Lidl & Kaufland Asia",
+   "role": "Mitarbeiter Warenverräumung 13:00-16:00 Uhr Teilzeit (m/w/d)",
    "location": "Germany"
   },
-  "a47e4e4196bbe47a857abdb2148fde9a": {
-   "id": "a47e4e4196bbe47a857abdb2148fde9a",
-   "company": "GEZE GmbH",
-   "role": "Service- Und Montagetechniker (m/w/d) Für Karlsruhe",
-   "location": "Karlsruhe"
+  "c7b0e41daf1ca63527f1221eb2ba7248": {
+   "id": "c7b0e41daf1ca63527f1221eb2ba7248",
+   "company": "Dyson",
+   "role": "Verkäufer/verkaufsberater (m/w/d)/teilzeit 16 Std./wiesbaden",
+   "location": "Frankfurt Am Main"
   },
   "ca661c96582265f95245fba2fb8fd10d": {
    "id": "ca661c96582265f95245fba2fb8fd10d",
@@ -3727,30 +3697,6 @@
    "company": "JYSK",
    "role": "Ausbildung Verkäufer/in (m/w/d) – Hamburg-rahlstedt",
    "location": "Hamburg"
-  },
-  "d9f0fbfdb4ab611112a2028c379e15d3": {
-   "id": "d9f0fbfdb4ab611112a2028c379e15d3",
-   "company": "JYSK",
-   "role": "Ausbildung Verkäufer/in (m/w/d) – Bargteheide",
-   "location": "Hamburg"
-  },
-  "6e9e74946101778b1246e7a013427467": {
-   "id": "6e9e74946101778b1246e7a013427467",
-   "company": "JYSK",
-   "role": "Ausbildung Verkäufer/in (m/w/d) – Ahrensburg",
-   "location": "Hamburg"
-  },
-  "c76b5f4e04da31562b36645117bb767e": {
-   "id": "c76b5f4e04da31562b36645117bb767e",
-   "company": "H&M",
-   "role": "Verkäufer Teilzeit - Thier Galerie Dortmund (m/w/d)",
-   "location": "Dortmund"
-  },
-  "17c66f515499c11d1064e1f871837345": {
-   "id": "17c66f515499c11d1064e1f871837345",
-   "company": "H&M",
-   "role": "Verkäufer Minijob - Nürnberg (m/w/d)",
-   "location": "Nuremberg"
   },
   "85f6e045843079b34ff1b454d6dd0d3b": {
    "id": "85f6e045843079b34ff1b454d6dd0d3b",
