@@ -11272,4 +11272,99 @@
 <tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Ahrensburg</td><td>Hamburg</td><td>2026-11-10</td></tr>
 <tr><td>H&M</td><td>Verkäufer Teilzeit - Thier Galerie Dortmund (m/w/d)</td><td>Dortmund</td><td>2026-11-10</td></tr>
 <tr><td>H&M</td><td>Verkäufer Minijob - Nürnberg (m/w/d)</td><td>Nuremberg</td><td>2026-11-10</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Trade Marketing</td><td>Leinfelden</td><td>2026-11-11</td></tr>
+<tr><td>ALTANA AG</td><td>Schülerpraktikum Bei Byk Im Lacklabor</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Michels Corporation</td><td>Praktikum In Den Usa (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Mizuho</td><td>Mizuho / Greenhill – Intern – Frankfurt (q3 / Q4 2027)</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Hr Strategy & Projects (inhouse) (m/w/d)</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>Accenture</td><td>Praktikum Strategy Consultant Public Sector (all Genders)</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Im Personalbereich</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>Allianz Technology SE</td><td>Praktikant (m/w/d) Im Bereich It-strategie, Compliance &amp; Kpi-management</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern - Private Credit / Direct Lending (f/m/d)</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>zdf</td><td>Praktikum Redaktion Zdf Zeitgeschehen (04/2027 - 12/2027)</td><td>Darmstadt</td><td>2026-11-11</td></tr>
+<tr><td>FTI Consulting</td><td>Praktikant/werkstudent (m/w/d) Marketing & Communications</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Infineon</td><td>Internship - Embedded Memory Characterization (f/m/div)</td><td>Dresden</td><td>2026-11-11</td></tr>
+<tr><td>Constantia Pirk GmbH & Co. KG</td><td>Pirk Ausbildung Zumzur Kunststoff Und Kautschuktechnologin (mwd) 2027 92712</td><td>Pirk</td><td>2026-11-11</td></tr>
+<tr><td>Constantia Pirk GmbH & Co. KG</td><td>Pirk Ausbildung Zumzur Elektronikerin Für Betriebstechnik (mwd) 2027 92712</td><td>Pirk</td><td>2026-11-11</td></tr>
+<tr><td>SGS UK</td><td>Ausbildung Chemielaborant*in (m/w/d) - Start 2027</td><td>Cologne</td><td>2026-11-11</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Marl (m/w/d)</td><td>Dortmund</td><td>2026-11-11</td></tr>
+<tr><td>Vonovia SE</td><td>Maintal Trainee (mwd) Technischer Service Maintal Main 63477</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Vonovia SE</td><td>Hannover Ausbildung Zum Gärtner (mwd) Im Landschaftsbau 2027 Hannover Hann 30159</td><td>Hanover</td><td>2026-11-11</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Frankfurt Am Main Ausbildung Zum Einzelhandelskaufmann (mwd) Schwerpunkt Genussmittel (start 2027) He</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>GROPYUS</td><td>Software Engineer - Robotics (f/m/d)</td><td>Richen</td><td>2026-11-11</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Fullstack Engineer I, Dmarts – Quick Commerce</td><td>Berlin</td><td>2026-11-11</td></tr>
+<tr><td>Jobgether</td><td>Founding Engineer</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer (front And Back End)</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Qt/qml Simulation Hmi Software Engineer (d/m/f)</td><td>Ingolstadt</td><td>2026-11-11</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Softwareentwickler - Sondermaschinen (m/w/d)</td><td>Wolfertschwenden</td><td>2026-11-11</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Softwareentwickler - Plc Research & Development (m/w/d)</td><td>Wolfertschwenden</td><td>2026-11-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Backend Developer (gn)</td><td>76879</td><td>2026-11-11</td></tr>
+<tr><td>1&1 Internet Inc</td><td>Data Scientist (w/m/d)</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Junior Process Analyst (m/w/d) Order-to-cash</td><td>Stuttgart</td><td>2026-11-11</td></tr>
+<tr><td>SPORTFIVE Global Holding GmbH</td><td>(junior) Data Product Developer & Analyst (w/m/d)</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Ordermanagement Im Projektumfeld</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Field Service Engineer (m/f/d)</td><td>Ratingen +1</td><td>2026-11-11</td></tr>
+<tr><td>ThyssenKrupp AG</td><td>Werkstudent:in Technische Instandhaltung (m/w/d)</td><td>Hamborn</td><td>2026-11-11</td></tr>
+<tr><td>Stadtwerke Dusseldorf</td><td>Düsseldorf Servicetechniker Stromzählermontage (vhw) (mwd) 40233</td><td>Dusseldorf</td><td>2026-11-11</td></tr>
+<tr><td>Diebold Nixdorf</td><td>Servicetechniker Im Außendienst (m/w/d) Im Bereich Elektromobilität</td><td>Rhein-Main</td><td>2026-11-11</td></tr>
+<tr><td>E.ON</td><td>Elektroniker / Mrs-techniker Für Gasmesstechnik (m/w/d)</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Servicetechniker (m/w/d) Sicherheitstechnik</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>ams-osram</td><td>Lehrstelle Mechatronik (m/w/d)</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Wittstock Dosse</td><td>Wittstock Dosse</td><td>2026-11-11</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen - Straussfurt</td><td>StraußFurt</td><td>2026-11-11</td></tr>
+<tr><td>Baker Hughes</td><td>Field Specialist Iv</td><td>Do Not Use</td><td>2026-11-11</td></tr>
+<tr><td>createyourowncareer</td><td>Betriebstechniker (m/w/x)</td><td>GroßZöBeritz</td><td>2026-11-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Instandhalter (m/w/d) Betriebstechnik Gebäudetechnik</td><td>Obersontheim</td><td>2026-11-11</td></tr>
+<tr><td>Schwarz Produktion</td><td>Elektroniker Für Betriebstechnik - Instandhaltung (w/m/d)</td><td>ÜBach</td><td>2026-11-11</td></tr>
+<tr><td>Siemens AG</td><td>Servicetechniker (w/m/d) Für Betriebs- Und Gebäudetechnik</td><td>Stuttgart</td><td>2026-11-11</td></tr>
+<tr><td>STILL</td><td>Job Posting Title Ausbildung Zum Mechatroniker (m/w/d) Als Servicetechniker Im Gebiet Freiburg</td><td>Freiburg Im Breisgau</td><td>2026-11-11</td></tr>
+<tr><td>STILL</td><td>Ausbildung Zum Mechatroniker (m/w/d) Als Servicetechniker Im Gebiet Karlsruhe</td><td>Karlsruhe</td><td>2026-11-11</td></tr>
+<tr><td>Kion Na</td><td>Ausbildung Zum Mechatroniker (m/w/d) Als Servicetechniker Im Gebiet Esslingen</td><td>Stuttgart</td><td>2026-11-11</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektroniker, Mechaniker Als Servicetechniker M/w/d Für Rolltreppen</td><td>Stuttgart</td><td>2026-11-11</td></tr>
+<tr><td>Aluminium Norf GmbH</td><td>Mechaniker/hydrauliker Stördienst (m/w/d)</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Offshore Wind Energy - Deutsche Bucht</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>Lucid Motors</td><td>Service Techniker, Frankfurt (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Lucid Motors</td><td>Service Technician, Frankfurt (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Schneider Electric</td><td>Servicetechniker Nieder- Und Mittelspannung (w/m/d)</td><td>Hessen</td><td>2026-11-11</td></tr>
+<tr><td>Schwarz Produktion</td><td>Instandhaltungsanalyst Mechanik (w/m/d)</td><td>ÜBach</td><td>2026-11-11</td></tr>
+<tr><td>prinzhorn-holding</td><td>Elektroniker Instandhaltung (m/w/d) Schichtbetrieb</td><td>Spremberg</td><td>2026-11-11</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker Außendienst (m/w/d) München</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>Wartsila</td><td>Field Service / Commissioning Engineer - Ship Electrification Solutions (m/w/d)</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>ABB Inc</td><td>Servicetechniker / Elektroniker (m/w/d) Mittelspannungstechnik – Bundesweite Einsätze</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>FunZone.de</td><td>Servicetechniker Vollzeit (m/w/d)</td><td>Dusseldorf</td><td>2026-11-11</td></tr>
+<tr><td>Wartsila Oyj Abp</td><td>Field Service / Commissioning Engineer - Ship Electrification Solutions (m/w/d)</td><td>Hamburg +1</td><td>2026-11-11</td></tr>
+<tr><td>FRoSTA AG</td><td>Elektriker Instandhaltung (w/m/d)</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Salzgitter AG</td><td>Servicetechniker (m/w/d) - Schwerpunkt Elektronik</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Bosch Sicherheitssysteme Montage und Service GmbH</td><td>Elektroniker / Sicherheitstechniker Für Saa/ela - Gebiet Frankfurt (w/m/div.)</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Servicetechniker (m/w/d) Feuerschutz</td><td>Cologne</td><td>2026-11-11</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Tür- Und Toranlagen - Berlin</td><td>Berlin</td><td>2026-11-11</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Ausbildung Zum Mechatroniker Als Servicetechniker Im Servicegebiet: Hamburg (zentrum/nord) (m/w/d) Zum Start 01.09.2027</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen</td><td>Dusseldorf</td><td>2026-11-11</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Dusseldorf</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Bad Honnef</td><td>Cologne</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Neunkirchen</td><td>Saarbruecken</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Berlin Friedrichshain</td><td>Berlin</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Alfter (20/25 Std)</td><td>Cologne</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Gröbenzell</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Unterhaching</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – München</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Hamburg-wandsbek</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Hamburg-rahlstedt</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>Kion Na</td><td>Teamassistent (m/w/d) I-3</td><td>Hamburg</td><td>2026-11-11</td></tr>
+<tr><td>Tenbrinke</td><td>Projektassistenz / Assistenz Der Projektleitung (m/w/d) / Frankfurt / Voll -und Teilzeit</td><td>Frankfurt Am Main</td><td>2026-11-11</td></tr>
+<tr><td>Sefe</td><td>Asisstant To Tax Administration Specialist (m/f/d)</td><td>Berlin</td><td>2026-11-11</td></tr>
+<tr><td>DKMS Deutsche Knochenmarkspenderdatei gGmbH</td><td>Assistenz / Teamassistenz (m/w/d) Global Business Development</td><td>KöLn +1</td><td>2026-11-11</td></tr>
+<tr><td>Borchers GmbH</td><td>Customer Service Coordinator</td><td>Dusseldorf</td><td>2026-11-11</td></tr>
+<tr><td>valeo.in</td><td>Adminstrative Assistant (m/f/d) Front Office Garching</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>Schaeffler</td><td>Executive Assistant Operations, Supply Chain Management & Purchasing (m/w/d)</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Dachser SE</td><td>Disponent (m/w/d) Nahverkehr European Logistics</td><td>Nach Postleitzahl Suchen</td><td>2026-11-11</td></tr>
+<tr><td>RWS GmbH</td><td>Disponent Transport (m/w/d) Im Bereich Logistik</td><td>Unknown</td><td>2026-11-11</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Exportkoordinator (gn) - Zoll & Außenwirtschaft</td><td>76879</td><td>2026-11-11</td></tr>
+<tr><td>KNDS Group</td><td>Partieführer (m/w/d) Technischer Versand</td><td>MüNchen</td><td>2026-11-11</td></tr>
+<tr><td>FC Bayern Muenchen AG</td><td>Sales Assistant (m/w/d) - Flagshipstore Fc Bayern World</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Werkstudent (m/w/d) Logistik & Fabrikplanung - Fertigungskonzept</td><td>Obersontheim</td><td>2026-11-11</td></tr>
+<tr><td>NextPharma Technologies</td><td>Quality Assistant (m/w/d)</td><td>Gottingen</td><td>2026-11-11</td></tr>
+<tr><td>Mercer</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Germany</td><td>2026-11-11</td></tr>
+<tr><td>FERRING Pharmaceuticals</td><td>Customer Service Specialist (m/w/d)</td><td>Kiel</td><td>2026-11-11</td></tr>
+<tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-11-11</td></tr>
 </table>
