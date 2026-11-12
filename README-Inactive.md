@@ -11367,4 +11367,57 @@
 <tr><td>Mercer</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Germany</td><td>2026-11-11</td></tr>
 <tr><td>FERRING Pharmaceuticals</td><td>Customer Service Specialist (m/w/d)</td><td>Kiel</td><td>2026-11-11</td></tr>
 <tr><td>Atos</td><td>Werkstudent Im Bereich Marketing Und Kommunikation (m/w/d)</td><td>Munich</td><td>2026-11-11</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Praktikum In Content Management, Mediengestaltung Und Interne Kommunikation</td><td>Aschaffenburg</td><td>2026-11-12</td></tr>
+<tr><td>Satair (an Airbus Services Company)</td><td>Internship / Development Of Tooling Concepts For Rapid Preforming Technologies</td><td>Hamburg</td><td>2026-11-12</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Verifikationsmanagement Hardware Und Fuhrpark (w/m/x)</td><td>Munich</td><td>2026-11-12</td></tr>
+<tr><td>Boeing</td><td>Mandatory Internship - Future Flight Operations Research M/f/d</td><td>Frankfurt Am Main</td><td>2026-11-12</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Mandatory Internship In Strategic Purchasing For Turned Parts</td><td>Elchingen</td><td>2026-11-12</td></tr>
+<tr><td>SMBC Group</td><td>Internship - Corporate And Investment Banking (m/w/d)</td><td>Frankfurt +1</td><td>2026-11-12</td></tr>
+<tr><td>TRATON Group</td><td>Intern / Talent Management (m/f/d)</td><td>Munich</td><td>2026-11-12</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship In People & Organizational Development / Segment: Medical Technology (m/f/x)</td><td>Goppingen</td><td>2026-11-12</td></tr>
+<tr><td>EndressHauser AG</td><td>Reinach Trainee Strategic Business (fmd) 50 4153</td><td>Unknown</td><td>2026-11-12</td></tr>
+<tr><td>HARTMANN</td><td>Brück Auszubildender (wmd) Zum Maschinen Und Anlagenführer Standort Brück (start 2027) Bb 14822</td><td>Munich</td><td>2026-11-12</td></tr>
+<tr><td>HARTMANN</td><td>Wolfstein Ausbildung Zum Koch (mwd) Rp 67752</td><td>Wolfstein</td><td>2026-11-12</td></tr>
+<tr><td>HARTMANN</td><td>Brück Auszubildender (wmd) Zum Maschinen Und Anlagenführer Standort Brück (start 2026) Bb 14822</td><td>Munich</td><td>2026-11-12</td></tr>
+<tr><td>NKT</td><td>Apprenticeship As An Industrial Mechanic (mfd)</td><td>Cologne</td><td>2026-11-12</td></tr>
+<tr><td>Constantia Pirk GmbH & Co. KG</td><td>Pirk Ausbildung Zumzur Industriekaufmannfrau (mwd) 2027 92712</td><td>Pirk</td><td>2026-11-12</td></tr>
+<tr><td>Constantia Pirk GmbH & Co. KG</td><td>Pirk Ausbildung Zumzur Fachinformatikerin Für Anwendungsentwicklung (mwd) 2027 92712</td><td>Pirk</td><td>2026-11-12</td></tr>
+<tr><td>MBDA Italia S.p.A</td><td>Development Engineer (w/m/d) Software Design & Development</td><td>Ingolstadt</td><td>2026-11-12</td></tr>
+<tr><td>Kraftverkehr Nagel SE & Co. KG</td><td>It-onsite (m/w/d)</td><td>Kabelsketal</td><td>2026-11-12</td></tr>
+<tr><td>KNDS Group</td><td>Software-entwickler (m/w/d) System Management & Monitoring</td><td>Unknown</td><td>2026-11-12</td></tr>
+<tr><td>Thales Group</td><td>Werkstudent (m/w/d) Business Analytics</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>adesso-group</td><td>Business Analyst Zahlungsverkehr (all Genders)</td><td>Germany</td><td>2026-11-12</td></tr>
+<tr><td>Ecolab</td><td>Technischer Außendienstmitarbeiter - Food & Beverage (m/w/d)</td><td>Munich</td><td>2026-11-12</td></tr>
+<tr><td>JACOB Group</td><td>Servicetechniker Instandhaltung (m/w/d) Aufbau Neuer Servicebereich</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>Bosch Group</td><td>Kundendiensttechniker Raum Stralsund/greifswald (w/m/div.)</td><td>Neubrandenburg</td><td>2026-11-12</td></tr>
+<tr><td>Bosch Group</td><td>Kundendiensttechniker Raum Trier (w/m/div.)</td><td>FöHren</td><td>2026-11-12</td></tr>
+<tr><td>Statkraft</td><td>Industriemechaniker (f/m/d)</td><td>Landesbergen</td><td>2026-11-12</td></tr>
+<tr><td>tabel-personal.de</td><td>Service-techniker Hydraulik (m/w/d) Bis Zu 22,00€ Stunde + Benefits + Sonderzahlungen</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>Kaserei Champignon Hofmeister GmbH</td><td>Mechatroniker Pfeffenhausen (m/w/d)</td><td>Pfeffenhausen</td><td>2026-11-12</td></tr>
+<tr><td>Melitta Business Service Center</td><td>Servicetechniker / Mitarbeiter Im Technischen Kundendienst (m/w/d) Für Den Raum Ulm- Auch Quereinsteiger Willkommen!</td><td>Ulm</td><td>2026-11-12</td></tr>
+<tr><td>NKT A/S</td><td>Technician For Mobile Test Equipment</td><td>Germany</td><td>2026-11-12</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker Innendienst (m/w/d) Fokus Photovoltaik/systemverbund</td><td>ViessmannstraßE 1</td><td>2026-11-12</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Kundendienstmonteur Löschanlagen (m/w/d)</td><td>Hanover</td><td>2026-11-12</td></tr>
+<tr><td>OBI</td><td>Verkäufer Garten - Gartenbaustoffe (alle Geschlechter)</td><td>Constance</td><td>2026-11-12</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Cologne</td><td>2026-11-12</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-11-12</td></tr>
+<tr><td>OBI</td><td>Verkäufer Holz / Holzzuschnitt (alle Geschlechter)</td><td>Nuremberg</td><td>2026-11-12</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit Mit Lagertätigkeit (m/w/d) – Essen Borbeck-mitte (28 Std)</td><td>Wuppertal</td><td>2026-11-12</td></tr>
+<tr><td>OBI</td><td>Verkäufer Bauen (alle Geschlechter)</td><td>Dortmund</td><td>2026-11-12</td></tr>
+<tr><td>OBI</td><td>Verkäufer Garten - Hartware Und Saisonware (alle Geschlechter)</td><td>Hamburg</td><td>2026-11-12</td></tr>
+<tr><td>adidas AG</td><td>Sales Assistant (m/w/d) - 30 Std./woche, Teilzeit, Befristet - Bcs Herzogenaurach</td><td>Nuremberg</td><td>2026-11-12</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Verkäufer/in (m/w/d) – Brandenburg</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Verkauf (minijobber/in) (m/w/d) - Düsseldorf Bilk</td><td>Dusseldorf</td><td>2026-11-12</td></tr>
+<tr><td>Beyond Yoga</td><td>Verkäufer / Sales Stylist (m/w/d) In Teilzeit (35h)</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Kurfürstendamm (m/w/d)</td><td>Berlin</td><td>2026-11-12</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Eitorf</td><td>Cologne</td><td>2026-11-12</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Brühl</td><td>Cologne</td><td>2026-11-12</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Reutlingen</td><td>2026-11-12</td></tr>
+<tr><td>Medpace</td><td>Contract Specialist</td><td>Munich</td><td>2026-11-12</td></tr>
+<tr><td>Medartis AG</td><td>Customer Service Specialist (m/w/d)</td><td>Germany</td><td>2026-11-12</td></tr>
+<tr><td>Dachser SE</td><td>Teamkoordinator (m/w/d) U-lager Food</td><td>Nach Postleitzahl Suchen</td><td>2026-11-12</td></tr>
+<tr><td>Dachser SE</td><td>Teamkoordinator (m/w/d) Entladung Umschlaglager Food</td><td>Nach Postleitzahl Suchen</td><td>2026-11-12</td></tr>
+<tr><td>Dachser SE</td><td>Team Coordinator (m/w/d) Umschlaglager</td><td>Frankfurt Am Main</td><td>2026-11-12</td></tr>
+<tr><td>Dachser SE</td><td>Sachbearbeiter (m/w/d) Warehouse Administration Food Logistics</td><td>Wedemark</td><td>2026-11-12</td></tr>
 </table>
