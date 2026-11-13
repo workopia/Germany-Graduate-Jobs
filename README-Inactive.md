@@ -11420,4 +11420,53 @@
 <tr><td>Dachser SE</td><td>Teamkoordinator (m/w/d) Entladung Umschlaglager Food</td><td>Nach Postleitzahl Suchen</td><td>2026-11-12</td></tr>
 <tr><td>Dachser SE</td><td>Team Coordinator (m/w/d) Umschlaglager</td><td>Frankfurt Am Main</td><td>2026-11-12</td></tr>
 <tr><td>Dachser SE</td><td>Sachbearbeiter (m/w/d) Warehouse Administration Food Logistics</td><td>Wedemark</td><td>2026-11-12</td></tr>
+<tr><td>John Deere</td><td>Praktikum Interne Kommunikation (m/w/d)</td><td>Karlsruhe</td><td>2026-11-13</td></tr>
+<tr><td>Uber Technologies</td><td>2027 Operations Intern - Berlin</td><td>Berlin</td><td>2026-11-13</td></tr>
+<tr><td>Uber</td><td>2027 Operations Intern - Berlin</td><td>Berlin</td><td>2026-11-13</td></tr>
+<tr><td>Mercedes-Benz</td><td>Amg Praktikanten Versuch Betriebsfestigkeit Ab Dezember 2026 (m/w/d)</td><td>Affalterbach</td><td>2026-11-13</td></tr>
+<tr><td>Mercedes-Benz</td><td>Praktikant*in Controlling Mitteleinsatzplanung (pflicht-praktikum)</td><td>Stuttgart</td><td>2026-11-13</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Internship Trainee / Restaurants, Bars & Experiences</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>HANWAG GmbH</td><td>Pflichtpraktikum Im Marketing (m/w/d) Wintersemester 2027</td><td>Vierkirchen</td><td>2026-11-13</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Intern (d/f/m) - Talent & Executive Management</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Praktikant*in Internal Communications & Events (m/w/d)</td><td>Hamburg</td><td>2026-11-13</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Berlin Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 10409</td><td>Berlin</td><td>2026-11-13</td></tr>
+<tr><td>Vonovia SE</td><td>Essen Ausbildung Gärtnerin Im Landschaftsbau 2027 Essen Esse 45127</td><td>Wuppertal</td><td>2026-11-13</td></tr>
+<tr><td>Samsung SDS</td><td>Trainee (m/w/d) Tv - Streaming Media Consulting, Sales & Marketing</td><td>Dusseldorf</td><td>2026-11-13</td></tr>
+<tr><td>S.Oliver Bernd Freier GmbH & Co. KG</td><td>Metzingen Ausbildung Im Einzelhandel (mwd)</td><td>Reutlingen</td><td>2026-11-13</td></tr>
+<tr><td>thermofin GmbH</td><td>Ausbildung Zum Industriekaufmann/-frau (m/w/d) Ab 01.09.2027</td><td>Heinsdorfergrund +1</td><td>2026-11-13</td></tr>
+<tr><td>thermofin GmbH</td><td>Ausbildung Zum Industrieelektriker (m/w/d) Ab 01.09.2027</td><td>Heinsdorfergrund</td><td>2026-11-13</td></tr>
+<tr><td>Siegenia-Aubi KG</td><td>Ausbildung 2027 Als Fachlagerist (mwd)</td><td>Wilnsdorf-Niederdielfen</td><td>2026-11-13</td></tr>
+<tr><td>ACPS Automotive GmbH</td><td>Auszubildender Zum Industriekaufmann (mwd)</td><td>Ingersheim</td><td>2026-11-13</td></tr>
+<tr><td>Genua GmbH</td><td>Fachinformatiker Für Anwendungsentwicklung (d/m/w)* 1</td><td>Kirchheim Bei MüNchen</td><td>2026-11-13</td></tr>
+<tr><td>Edag Engineering GmbH</td><td>Softwareentwickler Adas (m/w/d)</td><td>Unknown</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer</td><td>Germany</td><td>2026-11-13</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Software-entwickler C2-netzwerk (d/w/m) – Advanced Level</td><td>Ulm</td><td>2026-11-13</td></tr>
+<tr><td>ELIA SYSTEM OPERATOR NVSA</td><td>Business Analyst (f/m/d)</td><td>Berlin</td><td>2026-11-13</td></tr>
+<tr><td>ProSiebenSat.1 Digital & Adjacent GmbH</td><td>Business Analyst (m/w/d)</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>Genpact</td><td>Partner - Industry Advisory</td><td>Germany</td><td>2026-11-13</td></tr>
+<tr><td>Ernst & Young</td><td>Sap Ai Berater (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-13</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Hr Analyst I (m/w/d) - Munich</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>Amazon</td><td>Working Student Business Analyst (12 months) - 2027</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>ALDI SÜD Digital GmbH & Co. oHG</td><td>Business Analyst Driver App (m/w/d)</td><td>Dusseldorf</td><td>2026-11-13</td></tr>
+<tr><td>ALDI SÜD Digital GmbH & Co. oHG</td><td>Business Analyst Ecommerce (m/w/d)</td><td>Dusseldorf</td><td>2026-11-13</td></tr>
+<tr><td>Aldi Süd</td><td>Business Analyst Fulfillment App (m/w/d)</td><td>Germany</td><td>2026-11-13</td></tr>
+<tr><td>adesso Group</td><td>Teamleitung Sap Consulting & Development (all Genders)</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>adesso Group</td><td>Business Analyst Workflowmanagementsystem (all Genders)</td><td>Berlin</td><td>2026-11-13</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Projektleitung (m/w/d) – Financial And Strategy Advisory</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Risikocontroller (w/m/d) Mit Schwerpunkt Business Analyse Liquiditätsrisiko</td><td>Germany</td><td>2026-11-13</td></tr>
+<tr><td>Jobgether</td><td>Powerpoint Contributor - Consulting And Strategy</td><td>Germany</td><td>2026-11-13</td></tr>
+<tr><td>Amazon</td><td>Mechatroniker / Elektroniker / Mechaniker / Servicetechniker - Frankenthal bei Mannheim</td><td>Frankenthal Bei Mannheim</td><td>2026-11-13</td></tr>
+<tr><td>Amazon</td><td>Mechatroniker / Elektroniker / Mechaniker / Servicetechniker - Kobern-Gondorf bei Koblenz</td><td>Kobern-Gondorf</td><td>2026-11-13</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Technischer Außendienstmitarbeiter - Food & Beverage (m/w/d)</td><td>Bavaria</td><td>2026-11-13</td></tr>
+<tr><td>Abbott</td><td>Servicetechniker (m/w/d) Heart Failure - Großraum Freiburg</td><td>Freiburg Im Breisgau</td><td>2026-11-13</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Ausbildung Zum Mechatroniker Als Servicetechniker (m/w/d) In Krumbach</td><td>Ulm</td><td>2026-11-13</td></tr>
+<tr><td>fenwick-linde.fr</td><td>Ausbildung Zum Mechatroniker Als Servicetechniker (m/w/d) In Passau - Start: 01.09.2027</td><td>Passau</td><td>2026-11-13</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker / Elektroniker Landkreis Rottal Inn/landkreis Landshut (m/w/d)</td><td>Landkreis Rottal Inn +1</td><td>2026-11-13</td></tr>
+<tr><td>e.dialog Netz GmbH</td><td>Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)</td><td>Berlin</td><td>2026-11-13</td></tr>
+<tr><td>HARTMANN</td><td>Metzingen Verkäuferin (mwd) 30 Bis 37,5 Hwoche Im Kneipp Shop Metzingen 72555</td><td>Reutlingen</td><td>2026-11-13</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Administrative Assistant (m/f/d) Corporate Tax & Customs, Part-time (20 Hours/week)</td><td>Mannheim</td><td>2026-11-13</td></tr>
+<tr><td>Nordzucker Group</td><td>Assistenz Werkleitung (m/w/d)</td><td>Stadt Wanzleben</td><td>2026-11-13</td></tr>
+<tr><td>Covestro AG</td><td>Administrative Assistant (m/w/d) - Mit Gehaltsangabe</td><td>Cologne</td><td>2026-11-13</td></tr>
+<tr><td>DHL Group</td><td>Transport Coordinator (m/w/d)</td><td>Essen +1</td><td>2026-11-13</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Referent Des Vorstandsvorsitzenden (m/w/d)</td><td>Munich</td><td>2026-11-13</td></tr>
 </table>
