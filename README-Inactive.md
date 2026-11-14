@@ -11469,4 +11469,75 @@
 <tr><td>Covestro AG</td><td>Administrative Assistant (m/w/d) - Mit Gehaltsangabe</td><td>Cologne</td><td>2026-11-13</td></tr>
 <tr><td>DHL Group</td><td>Transport Coordinator (m/w/d)</td><td>Essen +1</td><td>2026-11-13</td></tr>
 <tr><td>Knorr-Bremse AG</td><td>Referent Des Vorstandsvorsitzenden (m/w/d)</td><td>Munich</td><td>2026-11-13</td></tr>
+<tr><td>Mondelez International Foundation</td><td>Taste The Future Praktikant:in Im Bereich Automatisierung Und Digitalisierung (m/w/d)</td><td>Hanover</td><td>2026-11-14</td></tr>
+<tr><td>PepsiCo Inc</td><td>Praktikum Brand Management Snacks (m/w/d)</td><td>Neu</td><td>2026-11-14</td></tr>
+<tr><td>Tesat-Spacecom GmbH & Co. KG</td><td>Praktikum Im Operativen Einkauf Für Elektronik (d/m/w)</td><td>Stuttgart</td><td>2026-11-14</td></tr>
+<tr><td>The Procter & Gamble Company</td><td>Internship Or Thesis – Research & Development (m/f/d)</td><td>Frankfurt Am Main</td><td>2026-11-14</td></tr>
+<tr><td>ING Wholesale Banking Germany</td><td>Praktikant Schuldschein Syndicate (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-14</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Vorratsbewertung</td><td>Goppingen</td><td>2026-11-14</td></tr>
+<tr><td>LBBW Webspace</td><td>Praktikant (m/w/d) Im Bereich Multinational Coporates</td><td>Stuttgart</td><td>2026-11-14</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Entwicklung Amg E Drive Ab März 2027 (mwd)</td><td>Affalterbach</td><td>2026-11-14</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Versuch Betriebsfestigkeit Ab Dezember 2026 (mwd)</td><td>Affalterbach</td><td>2026-11-14</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Software Testing Im Hv Ladesystem & Hv Leitungssatz Ab November 2026 (mwd)</td><td>Affalterbach</td><td>2026-11-14</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Retail Marketing Im Nationalen Und Internationalen Key Account Management</td><td>Leinfelden</td><td>2026-11-14</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Working Student / Intern - Powerplatforms & Process Optimization (f/m/d)</td><td>Eurasburg</td><td>2026-11-14</td></tr>
+<tr><td>ALTANA AG</td><td>Geretsried Ausbildung Zum Industriekaufmann (mwd) By 82538</td><td>Munich</td><td>2026-11-14</td></tr>
+<tr><td>Rewe Group</td><td>Trainee - Nachwuchsführungskraft Für Die Zielposition Gartencenterleiter (m/w/d)</td><td>Region Braunschweig</td><td>2026-11-14</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Hürth Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 50354</td><td>Cologne</td><td>2026-11-14</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Berlin Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 12351</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Leipzig Paunsdorf Ausbildung Zum Kaufmann Im Einzelhandel (mwd) 1 4329</td><td>Leipzig-Paunsdorf</td><td>2026-11-14</td></tr>
+<tr><td>Lidl Ltd</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Germany</td><td>2026-11-14</td></tr>
+<tr><td>Jobgether</td><td>Application Programmer</td><td>Germany</td><td>2026-11-14</td></tr>
+<tr><td>createyourowncareer</td><td>Software Engineer (f/m/d) – Cross-platform Sdk Development</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>createyourowncareer</td><td>C++ Engineer (f/m/d)</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>Genua GmbH</td><td>Fachinformatiker Für Anwendungsentwicklung (d/m/w)* Im Verbund Mit B.sc. Informatik 1 1</td><td>Kirchheim Bei MüNchen</td><td>2026-11-14</td></tr>
+<tr><td>createyourowncareer</td><td>Werkstudent Data & Analytics (m/w/d)</td><td>44369</td><td>2026-11-14</td></tr>
+<tr><td>Sopra Steria</td><td>Ai Requirements Engineer Public Sector (m/w/d)</td><td>Bundesweit</td><td>2026-11-14</td></tr>
+<tr><td>bk-berater</td><td>Finanzbuchhalter (m/w/d)</td><td>Ammerbuch</td><td>2026-11-14</td></tr>
+<tr><td>bk-berater</td><td>Lohn- Und Gehaltsbuchhalter In Ammerbuch (m/w/d)</td><td>Ammerbuch</td><td>2026-11-14</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Produkte Private Altersvorsorge Und Vermögensaufbau</td><td>Unknown</td><td>2026-11-14</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d)</td><td>Unknown</td><td>2026-11-14</td></tr>
+<tr><td>EY</td><td>Sap Mdm Berater (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-14</td></tr>
+<tr><td>Max Weishaupt GmbH</td><td>Kundendiensttechniker (m/w/d)</td><td>Broderstorf</td><td>2026-11-14</td></tr>
+<tr><td>Vestas</td><td>Hannover Service Technician (mfd) For Wind Turbines In Vastorf Ni</td><td>Vastorf</td><td>2026-11-14</td></tr>
+<tr><td>Aebi Schmidt Group</td><td>Technischer Support</td><td>St. Blasien</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Ausbildung Mechatroniker*in (m/w/d) In Nürnberg Ab 01.09.2027</td><td>NüRnberg</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Ausbildung Mechatroniker*in (m/w/d) 01.09.2027 In Berlin</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Nordöstliches Brandenburg</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In Hamburg</td><td>Hamburg</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Achern/offenburg</td><td>Karlsruhe</td><td>2026-11-14</td></tr>
+<tr><td>Schindler Group</td><td>Servicetechniker*in (w/m/d) Für Aufzugsanlagen In München Süd</td><td>Munich</td><td>2026-11-14</td></tr>
+<tr><td>Vonovia SE</td><td>Köln Anlagenmechaniker Hls Für Die Versicherungsabteilung (mwd) Köln Köln 50667</td><td>KöLn +1</td><td>2026-11-14</td></tr>
+<tr><td>Eaton</td><td>Servicetechniker Notlichtsysteme (m/w/d) Region Süd / West Nrw</td><td>Cologne</td><td>2026-11-14</td></tr>
+<tr><td>GEZE GmbH</td><td>Service- Und Montagetechniker (m/w/d) Für Berlin</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>Vestas</td><td>Service Technician (m/f/d) For Wind Turbines In Vastorf</td><td>Vastorf</td><td>2026-11-14</td></tr>
+<tr><td>Bilfinger SE</td><td>Industriemechaniker (m/w/d) Armaturen, Pumpen Und Maschinen</td><td>Germany</td><td>2026-11-14</td></tr>
+<tr><td>heidelbergmaterials.co.uk</td><td>Betriebsschlosser (m/w/d) Instandhaltung Unter Tage Obrigheim</td><td>HaßMersheim</td><td>2026-11-14</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Monteur Service Feuerschutz (m/w/d)</td><td>Cologne</td><td>2026-11-14</td></tr>
+<tr><td>Dachser SE</td><td>Hausmeister (m/w/d) - Vollzeit, Teilzeit, Minijob</td><td>Mintraching</td><td>2026-11-14</td></tr>
+<tr><td>Vertiv</td><td>Servicetechniker Thermal</td><td>Munich</td><td>2026-11-14</td></tr>
+<tr><td>Vonovia SE</td><td>Berlin Servicetechniker (mwd) Wasserschäden Trocknung Berl 10115</td><td>Nach Postleitzahl Suchen</td><td>2026-11-14</td></tr>
+<tr><td>Franke Group</td><td>Servicetechniker Für Unser Service Center In Grünsfeld (m/w/d)</td><td>GrüNsfeld</td><td>2026-11-14</td></tr>
+<tr><td>Arvato</td><td>Landsberg Servicetechniker Instandhaltung (mwx)</td><td>Landsberg Bei Halle/Saale</td><td>2026-11-14</td></tr>
+<tr><td>Amazon</td><td>Mechatroniker / Elektroniker / Mechaniker / Servicetechniker - Möchengladbach bei Düsseldorf</td><td>Moenchengladbach +1</td><td>2026-11-14</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Reutlingen</td><td>2026-11-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Reutlingen</td><td>2026-11-14</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Saarbruecken</td><td>2026-11-14</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Wuppertal</td><td>2026-11-14</td></tr>
+<tr><td>Sixt</td><td>Verkaufsberater/ Kundenberater Autovermietung (m/w/d) Teilzeit</td><td>Mannheim</td><td>2026-11-14</td></tr>
+<tr><td>Samsonite</td><td>Sales Advisor (m/w/d)</td><td>Munster</td><td>2026-11-14</td></tr>
+<tr><td>Tumi</td><td>Sales Advisor (m/w/d)</td><td>Munster</td><td>2026-11-14</td></tr>
+<tr><td>Throwbackpacks</td><td>Verkaufsberater In Teilzeit Calvin Klein Jeans Hamburg (europa Passage Mall) (m/w/d)</td><td>Hamburg</td><td>2026-11-14</td></tr>
+<tr><td>Throwbackpacks</td><td>Flexible Aushilfe Calvin Klein Jeans Hamburg (europa Passage Mall) (m/w/d)</td><td>Hamburg</td><td>2026-11-14</td></tr>
+<tr><td>DB Cargo France</td><td>Berater Service & Verkauf (d/m/w) (befristet) - Filiale Offenbach</td><td>Frankfurt Am Main</td><td>2026-11-14</td></tr>
+<tr><td>Postbank Filialvertrieb AG</td><td>Berater Service & Verkauf (d/m/w) (befristet) - Filiale Offenbach</td><td>Frankfurt Am Main</td><td>2026-11-14</td></tr>
+<tr><td>Nike</td><td>Verkäufer (athlete) (m/w/d) - Flex 25h - Zweibrücken</td><td>Saarbruecken</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w. / Leipziger Platz</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) In Teilzeit 15 Std./w. / Kudamm</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer/in (m/w/d) In Teilzeit 20 Std./w.</td><td>Dusseldorf</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w. / Neuer Wall</td><td>Hamburg</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w. / Theatiner</td><td>Munich</td><td>2026-11-14</td></tr>
+<tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w.</td><td>Stuttgart</td><td>2026-11-14</td></tr>
+<tr><td>Coach</td><td>Sales Associate</td><td>Munich</td><td>2026-11-14</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Berlin Flagship Store Berlin</td><td>Berlin</td><td>2026-11-14</td></tr>
 </table>
