@@ -11540,4 +11540,49 @@
 <tr><td>Mango</td><td>Verkäufer (m/w/d) Als Aushilfe 9,5 Std./w.</td><td>Stuttgart</td><td>2026-11-14</td></tr>
 <tr><td>Coach</td><td>Sales Associate</td><td>Munich</td><td>2026-11-14</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant (m/f/d) 28-35h/woche, Befristet - Adidas Berlin Flagship Store Berlin</td><td>Berlin</td><td>2026-11-14</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>München Praktikum Werkstudent Steuerberatung Tax (wmd) München By 81373</td><td>Munich</td><td>2026-11-15</td></tr>
+<tr><td>The Estée Lauder Companies Inc.</td><td>E-Merchandising Intern (m/w/d)</td><td>Munich +2</td><td>2026-11-15</td></tr>
+<tr><td>Infineon</td><td>Praktikum - Global Talent Marketing And Employer Branding (f/m/div)</td><td>Munich</td><td>2026-11-15</td></tr>
+<tr><td>Nestle SA</td><td>Praktikum Cross Border E-commerce (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-15</td></tr>
+<tr><td>Mercedes-Benz Consulting GmbH</td><td>Praktikant - It Service & Workplace Support (m/w/d)</td><td>Leinfelden</td><td>2026-11-15</td></tr>
+<tr><td>Sephora USA Inc</td><td>Hq Intern Retail & Operations</td><td>Dusseldorf</td><td>2026-11-15</td></tr>
+<tr><td>Siegenia-Aubi KG</td><td>Praktikum In Velbert</td><td>Wuppertal</td><td>2026-11-15</td></tr>
+<tr><td>Nestle Ltd</td><td>Praktikum Cross Border E-commerce (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Group</td><td>Praktikum Im Internationalen Vertrieb (eu) Von Lenksystemen Und Komponenten Für Lkw, Busse Und Sonderfahrzeuge</td><td>Goppingen</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Start Your Leadership Journey In Purchasing</td><td>Gerlingen +1</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Start Your Leadership Journey In Information Technology</td><td>Gerlingen +1</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Start Your Leadership Journey In Supply Chain Management</td><td>Gerlingen +1</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Start Your Leadership Journey In Hr Tech, Digitalization And Genai</td><td>Gerlingen +1</td><td>2026-11-15</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Start Your Leadership Journey In Hr, Business & Strategy</td><td>Gerlingen +1</td><td>2026-11-15</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Ausbildung: "mechatronik" (w/m/d), Start 2027</td><td>Kiel</td><td>2026-11-15</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) 1</td><td>Dortmund</td><td>2026-11-15</td></tr>
+<tr><td>Melia</td><td>Ausbildung Zum Koch (m/w/d), Meliá Berlin</td><td>Berlin</td><td>2026-11-15</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Trainee Zur Führungskraft - Filiale (m/w/d) 2027, Großraum Langenfeld</td><td>Dusseldorf</td><td>2026-11-15</td></tr>
+<tr><td>Rewe Group</td><td>Trainee Zum/zur Selbstständigen Rewe-kaufmann/-frau (m/w/d)</td><td>Stadt Brandenburg An Der Havel</td><td>2026-11-15</td></tr>
+<tr><td>Wirthwein SE</td><td>Auszubildender Kunststoff- Und Kautschuktechnologe (m/w/d) - September 2027</td><td>Berlin</td><td>2026-11-15</td></tr>
+<tr><td>Wirthwein SE</td><td>Auszubildender Kunststoff- Und Kautschuktechnologe (m/w/d) - Ab September 2027</td><td>Creglingen</td><td>2026-11-15</td></tr>
+<tr><td>Wirthwein SE</td><td>Auszubildender Industriekaufmann (m/w/d) - Ab September 2027</td><td>Creglingen</td><td>2026-11-15</td></tr>
+<tr><td>Wirthwein SE</td><td>Auszubildender Fachkraft Für Lagerlogistik (m/w/d) - Ab September 2027</td><td>Creglingen</td><td>2026-11-15</td></tr>
+<tr><td>Wirthwein SE</td><td>Auszubildender Schreiner / Tischler (m/w/d) - Ab September 2027</td><td>Creglingen</td><td>2026-11-15</td></tr>
+<tr><td>Holcim</td><td>Ausbildung Beton- Und Stahlbetonbauer (m/w/d)</td><td>Wuppertal</td><td>2026-11-15</td></tr>
+<tr><td>Schreiner Group GmbH und Co. KG</td><td>Oberschleißheim Ausbildung Zum Mediengestalter (mwd) 2027</td><td>Munich</td><td>2026-11-15</td></tr>
+<tr><td>NORDLB - technisches LAN</td><td>Traineeprogramm Human Resources (m/w/d)</td><td>Unknown</td><td>2026-11-15</td></tr>
+<tr><td>NORDLB - technisches LAN</td><td>Traineeprogramm Coo (m/w/d)</td><td>Unknown</td><td>2026-11-15</td></tr>
+<tr><td>Eiffage Infra-Nordwest</td><td>Messe Domschule</td><td>Dortmund</td><td>2026-11-15</td></tr>
+<tr><td>HENSOLDT Sensors GmbH</td><td>Werkstudent Software Engineering (w/m/d)</td><td>Ulm</td><td>2026-11-15</td></tr>
+<tr><td>Westinghouse Air Brake Technologies</td><td>Software Engineer For Rail Iot Devices (passenger Information Systems)</td><td>Munich</td><td>2026-11-15</td></tr>
+<tr><td>DHL Group</td><td>Datenerfasser</td><td>Leipzig +1</td><td>2026-11-15</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Und Bankfachlicher Designer (w/m/d) Retail-depotplattform</td><td>Germany</td><td>2026-11-15</td></tr>
+<tr><td>TOMRA Systems GmbH</td><td>Servicetechniker* Für Leergutautomaten - Unbefristet</td><td>Berlin +1</td><td>2026-11-15</td></tr>
+<tr><td>Continental AG</td><td>Elektroniker Mit Schwerpunkt Automatisierungstechnik Für Die Instandhaltung (m/w/d) - Ref93292v</td><td>Hannover +1</td><td>2026-11-15</td></tr>
+<tr><td>Konecranes</td><td>Industriemechaniker *in Als Servicetechniker *in Für Hafenkrananlagen International</td><td>Duisburg +1</td><td>2026-11-15</td></tr>
+<tr><td>Zeppelin</td><td>Servicetechniker Spezialisierung Hydraulik (m/d/w)</td><td>Munich</td><td>2026-11-15</td></tr>
+<tr><td>Bdrthermeagroup</td><td>Kundendiensttechniker Für Den Großraum Günzburg/augsburg (*)</td><td>GüNzburg +1</td><td>2026-11-15</td></tr>
+<tr><td>Diasorin</td><td>International Field Service Engineer - Luminex Products</td><td>Stuttgart +2</td><td>2026-11-15</td></tr>
+<tr><td>OBI</td><td>Verkäufer Garten - Gartenbaustoffe (alle Geschlechter)</td><td>Nuremberg</td><td>2026-11-15</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Wesel</td><td>Dusseldorf</td><td>2026-11-15</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Brühl</td><td>Cologne</td><td>2026-11-15</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarlouis</td><td>Saarbruecken</td><td>2026-11-15</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Ahrensfelde</td><td>2026-11-15</td></tr>
+<tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Fo Kids Neumünster</td><td>Kiel</td><td>2026-11-15</td></tr>
 </table>

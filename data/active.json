@@ -1,7 +1,31 @@
 {
- "asOf": "2026-11-14",
- "count": 730,
+ "asOf": "2026-11-15",
+ "count": 731,
  "jobs": {
+  "d28d1353f502f29c77222735c8be5b87": {
+   "id": "d28d1353f502f29c77222735c8be5b87",
+   "company": "Atlas Copco",
+   "role": "Digital Marketing & Content Innovation Intern",
+   "location": "Paderno Dugnano +1"
+  },
+  "a258c8e4a6409296ab92efbd5a7a8de4": {
+   "id": "a258c8e4a6409296ab92efbd5a7a8de4",
+   "company": "Infineon",
+   "role": "Gruppenpraktikum Bwl (f/m/div) - Februar 2027",
+   "location": "Munich"
+  },
+  "21c9d60fbce9d35c6afc3ce6c79ad643": {
+   "id": "21c9d60fbce9d35c6afc3ce6c79ad643",
+   "company": "Dentsu",
+   "role": "Praktikum Communications Consultant Public Sector (m/w/d) (6 Monate, Pflichtpraktikum))",
+   "location": "Berlin +1"
+  },
+  "e34a520b326d2d6f386d0f2f81b3fc8b": {
+   "id": "e34a520b326d2d6f386d0f2f81b3fc8b",
+   "company": "Dentsu",
+   "role": "Auszubildende*r Kaufmann/-frau Für Marketingkommunikation Mit Schwerpunkt Digital (m/w/d) (start: 01.08.2027)",
+   "location": "Frankfurt"
+  },
   "09d9101f939bd739ae4ab93d01c0c01f": {
    "id": "09d9101f939bd739ae4ab93d01c0c01f",
    "company": "Carl Zeiss",
@@ -20,6 +44,18 @@
    "role": "Intern (m/f/div) Sustainability & Life Cycle Management",
    "location": "Hanau +1"
   },
+  "c118bd48511fe10f5bf72a139bf781b4": {
+   "id": "c118bd48511fe10f5bf72a139bf781b4",
+   "company": "Bosch Rexroth",
+   "role": "Praktikum Im Bereich It-projektmanagement",
+   "location": "Stuttgart +1"
+  },
+  "c62780ff28e304baf9b9486e3f62583b": {
+   "id": "c62780ff28e304baf9b9486e3f62583b",
+   "company": "Bosch Rexroth",
+   "role": "Praktikum Im Supply Chain Management",
+   "location": "Reutlingen +1"
+  },
   "52af83d7233bafcfb096cd6532945bba": {
    "id": "52af83d7233bafcfb096cd6532945bba",
    "company": "BMW Group",
@@ -31,6 +67,24 @@
    "company": "DHL Group",
    "role": "Intern Global Talent Projects, Processes & Analysis",
    "location": "Cologne"
+  },
+  "62d44186445cc317c9ad8a63bead9f52": {
+   "id": "62d44186445cc317c9ad8a63bead9f52",
+   "company": "Philip Morris International",
+   "role": "Pmi Internship Program - Trade Marketing (m/w/d)",
+   "location": "Munich +1"
+  },
+  "4a05fd0c5f5bb0cde5f1ddb4142c821f": {
+   "id": "4a05fd0c5f5bb0cde5f1ddb4142c821f",
+   "company": "Delivery Hero (foodpanda)",
+   "role": "Intern, Data Labeler (spanish Speaker) - (global Discovery, Consumer)",
+   "location": "Berlin"
+  },
+  "63881a2dc73b464464b5fb423b6a011f": {
+   "id": "63881a2dc73b464464b5fb423b6a011f",
+   "company": "Delivery Hero",
+   "role": "Intern, Data Labeler (arabic Speaker) - (global Discovery, Consumer)",
+   "location": "Berlin"
   },
   "f62758c8a8e41e863fb26c59d8b91b42": {
    "id": "f62758c8a8e41e863fb26c59d8b91b42",
@@ -428,65 +482,125 @@
    "role": "Berlin Praktikum Steuerberatung Tax (wmd) Berlin Be 10787",
    "location": "Berlin"
   },
-  "eba52d21d00c0e96580028efb45d118e": {
-   "id": "eba52d21d00c0e96580028efb45d118e",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "München Praktikum Werkstudent Steuerberatung Tax (wmd) München By 81373",
-   "location": "Munich"
-  },
-  "13fcd5d512af56af3cdc32fecd4f7e3f": {
-   "id": "13fcd5d512af56af3cdc32fecd4f7e3f",
-   "company": "The Estée Lauder Companies Inc.",
-   "role": "E-Merchandising Intern (m/w/d)",
-   "location": "Munich +2"
-  },
-  "c317d610a28780bfcfed03b0cac2851d": {
-   "id": "c317d610a28780bfcfed03b0cac2851d",
-   "company": "Infineon",
-   "role": "Praktikum - Global Talent Marketing And Employer Branding (f/m/div)",
-   "location": "Munich"
-  },
-  "7b6e7fcd878a20405cd23e55b59f7e13": {
-   "id": "7b6e7fcd878a20405cd23e55b59f7e13",
-   "company": "Nestle SA",
-   "role": "Praktikum Cross Border E-commerce (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "1da21d70e05c203e38ec06cf34a2e2bf": {
-   "id": "1da21d70e05c203e38ec06cf34a2e2bf",
-   "company": "Mercedes-Benz Consulting GmbH",
-   "role": "Praktikant - It Service & Workplace Support (m/w/d)",
-   "location": "Leinfelden"
-  },
-  "6467dcde3841bb5787257ac11a1175dc": {
-   "id": "6467dcde3841bb5787257ac11a1175dc",
-   "company": "Sephora USA Inc",
-   "role": "Hq Intern Retail & Operations",
-   "location": "Dusseldorf"
-  },
-  "3c20cb6c84fc8c7958b3619f4094fbfb": {
-   "id": "3c20cb6c84fc8c7958b3619f4094fbfb",
-   "company": "Siegenia-Aubi KG",
-   "role": "Praktikum In Velbert",
-   "location": "Wuppertal"
-  },
-  "88a41e52751b0d83a45f8f9b9bba7337": {
-   "id": "88a41e52751b0d83a45f8f9b9bba7337",
-   "company": "Nestle Ltd",
-   "role": "Praktikum Cross Border E-commerce (m/w/d)",
-   "location": "Frankfurt Am Main"
-  },
-  "60b8521ea80e2d98f9eae09eb7fa2154": {
-   "id": "60b8521ea80e2d98f9eae09eb7fa2154",
-   "company": "Bosch Group",
-   "role": "Praktikum Im Internationalen Vertrieb (eu) Von Lenksystemen Und Komponenten Für Lkw, Busse Und Sonderfahrzeuge",
-   "location": "Goppingen"
-  },
   "23bc985e57110d79dd8d49cd3376cef8": {
    "id": "23bc985e57110d79dd8d49cd3376cef8",
    "company": "Knorr-Bremse AG",
    "role": "München Member Of Management Evolution Programmetrainee (mwd) 80809",
    "location": "MüNchen +1"
+  },
+  "da9eaceffb8c16f1767a912dc989dcbc": {
+   "id": "da9eaceffb8c16f1767a912dc989dcbc",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich R&d",
+   "location": "Gerlingen +1"
+  },
+  "064887379e89d2db39624ede03cacb88": {
+   "id": "064887379e89d2db39624ede03cacb88",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Unsolicited Application",
+   "location": "Gerlingen +1"
+  },
+  "f4b0f19d2490370a9fbb26677909aa78": {
+   "id": "f4b0f19d2490370a9fbb26677909aa78",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Initiativbewerbung",
+   "location": "Gerlingen +1"
+  },
+  "cc9b7da1d67e498f917534268dd5cbc8": {
+   "id": "cc9b7da1d67e498f917534268dd5cbc8",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Sales Mobility",
+   "location": "Gerlingen +1"
+  },
+  "ec136b47b3f8a7c06921be75f2646770": {
+   "id": "ec136b47b3f8a7c06921be75f2646770",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich Sales Mobility",
+   "location": "Gerlingen +1"
+  },
+  "e2cffda09af3d93f02d92ca5e12b009a": {
+   "id": "e2cffda09af3d93f02d92ca5e12b009a",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Corporate Research",
+   "location": "Gerlingen +1"
+  },
+  "6edeb88d08dd9b4b89d722902e721da1": {
+   "id": "6edeb88d08dd9b4b89d722902e721da1",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Hr Tech, Digitalization And Genai",
+   "location": "Gerlingen +1"
+  },
+  "9c331091983ee835dedd59b80a527979": {
+   "id": "9c331091983ee835dedd59b80a527979",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Purchasing",
+   "location": "Gerlingen +1"
+  },
+  "96f23ca76b4e85e63e31197786e243db": {
+   "id": "96f23ca76b4e85e63e31197786e243db",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Controlling",
+   "location": "Gerlingen +1"
+  },
+  "69149d540a2e0792d0bf6ecf248a1f51": {
+   "id": "69149d540a2e0792d0bf6ecf248a1f51",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich Controlling",
+   "location": "Gerlingen +1"
+  },
+  "d36ea83c09a6248df5ee490906c54b7e": {
+   "id": "d36ea83c09a6248df5ee490906c54b7e",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Information Technology",
+   "location": "Gerlingen +1"
+  },
+  "235875d44bca694889a3327a8dea8a9f": {
+   "id": "235875d44bca694889a3327a8dea8a9f",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Supply Chain Management",
+   "location": "Gerlingen +1"
+  },
+  "35621a8c54d05e8b4922c6293202af5e": {
+   "id": "35621a8c54d05e8b4922c6293202af5e",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich Supply Chain Management",
+   "location": "Gerlingen +1"
+  },
+  "304910ae2c4fdbe5f361ec62e47a0fea": {
+   "id": "304910ae2c4fdbe5f361ec62e47a0fea",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Manufacturing",
+   "location": "Gerlingen +1"
+  },
+  "41fa8d75fa86314948c0435db25aba68": {
+   "id": "41fa8d75fa86314948c0435db25aba68",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich Manufacturing",
+   "location": "Gerlingen +1"
+  },
+  "6ad200624ec806b28e31d22fc3dc2903": {
+   "id": "6ad200624ec806b28e31d22fc3dc2903",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Hr, Business & Strategy",
+   "location": "Gerlingen +1"
+  },
+  "9fef4f0cf7b30c5b3d714b60ce0bde4a": {
+   "id": "9fef4f0cf7b30c5b3d714b60ce0bde4a",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich Hr, Business Und Strategy",
+   "location": "Gerlingen +1"
+  },
+  "8a5efc9d54c08225524acb0da6404dc4": {
+   "id": "8a5efc9d54c08225524acb0da6404dc4",
+   "company": "Bosch Group",
+   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In R&d Semiconductors",
+   "location": "Gerlingen +1"
+  },
+  "88c320aa5a0de1132b2a3ba31c8bcfaf": {
+   "id": "88c320aa5a0de1132b2a3ba31c8bcfaf",
+   "company": "Bosch Rexroth",
+   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich R&d Semiconductors",
+   "location": "Gerlingen +1"
   },
   "a69d67dc64992433d98934dfcef06f9d": {
    "id": "a69d67dc64992433d98934dfcef06f9d",
@@ -553,36 +667,6 @@
    "company": "JPMorgan Chase",
    "role": "Asset Wealth Management Operations Legal Entity Management Associate",
    "location": "Newark"
-  },
-  "5026bf396f19788581c501e369313391": {
-   "id": "5026bf396f19788581c501e369313391",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Purchasing",
-   "location": "Gerlingen +1"
-  },
-  "463c9d95f8f02a773b88fb498a6bed13": {
-   "id": "463c9d95f8f02a773b88fb498a6bed13",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Information Technology",
-   "location": "Gerlingen +1"
-  },
-  "9c63566c0505dcc7f6ad83292b735265": {
-   "id": "9c63566c0505dcc7f6ad83292b735265",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Supply Chain Management",
-   "location": "Gerlingen +1"
-  },
-  "24cea5c58d83527c13aa6f92581808fe": {
-   "id": "24cea5c58d83527c13aa6f92581808fe",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Hr Tech, Digitalization And Genai",
-   "location": "Gerlingen +1"
-  },
-  "4a28474384d3eb3714b91cfd604bd3a1": {
-   "id": "4a28474384d3eb3714b91cfd604bd3a1",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In Hr, Business & Strategy",
-   "location": "Gerlingen +1"
   },
   "df9c9e67bc48cb826311eca2f0e64dc2": {
    "id": "df9c9e67bc48cb826311eca2f0e64dc2",
@@ -878,90 +962,6 @@
    "role": "Ausbildung Aufbereitungsmechaniker (m/w/d)",
    "location": "Kerken"
   },
-  "4631e09505210ac56f17786a69d800db": {
-   "id": "4631e09505210ac56f17786a69d800db",
-   "company": "HENSOLDT Sensors GmbH",
-   "role": "Ausbildung: \"mechatronik\" (w/m/d), Start 2027",
-   "location": "Kiel"
-  },
-  "cf0144fe30ee2b1b9cbdeeaa2688a675": {
-   "id": "cf0144fe30ee2b1b9cbdeeaa2688a675",
-   "company": "MediamarktSaturn - Webshop Foundation",
-   "role": "Ausbildung Zum Kaufmann Im Einzelhandel (m/w/d) 1",
-   "location": "Dortmund"
-  },
-  "d8b4125edf4f992ad093304c129b697f": {
-   "id": "d8b4125edf4f992ad093304c129b697f",
-   "company": "Melia",
-   "role": "Ausbildung Zum Koch (m/w/d), Meliá Berlin",
-   "location": "Berlin"
-  },
-  "a2f4ab91e7c2d078a4b47e62e7585082": {
-   "id": "a2f4ab91e7c2d078a4b47e62e7585082",
-   "company": "Kaufland Stiftung & Co. KG",
-   "role": "Trainee Zur Führungskraft - Filiale (m/w/d) 2027, Großraum Langenfeld",
-   "location": "Dusseldorf"
-  },
-  "7f8ec3529ea723f2c9444a41c02bf575": {
-   "id": "7f8ec3529ea723f2c9444a41c02bf575",
-   "company": "Rewe Group",
-   "role": "Trainee Zum/zur Selbstständigen Rewe-kaufmann/-frau (m/w/d)",
-   "location": "Stadt Brandenburg An Der Havel"
-  },
-  "c5bc29bfb02c3a5bdd524e1278f17078": {
-   "id": "c5bc29bfb02c3a5bdd524e1278f17078",
-   "company": "Wirthwein SE",
-   "role": "Auszubildender Kunststoff- Und Kautschuktechnologe (m/w/d) - September 2027",
-   "location": "Berlin"
-  },
-  "a6864a8f0fbd82160619bf847901fa3a": {
-   "id": "a6864a8f0fbd82160619bf847901fa3a",
-   "company": "Wirthwein SE",
-   "role": "Auszubildender Kunststoff- Und Kautschuktechnologe (m/w/d) - Ab September 2027",
-   "location": "Creglingen"
-  },
-  "86270c90e45c11b943132d72c1448322": {
-   "id": "86270c90e45c11b943132d72c1448322",
-   "company": "Wirthwein SE",
-   "role": "Auszubildender Industriekaufmann (m/w/d) - Ab September 2027",
-   "location": "Creglingen"
-  },
-  "5754c4b577c84f757b66ec8b48ab400e": {
-   "id": "5754c4b577c84f757b66ec8b48ab400e",
-   "company": "Wirthwein SE",
-   "role": "Auszubildender Fachkraft Für Lagerlogistik (m/w/d) - Ab September 2027",
-   "location": "Creglingen"
-  },
-  "308e650e80ae569b03e721b46692e90f": {
-   "id": "308e650e80ae569b03e721b46692e90f",
-   "company": "Wirthwein SE",
-   "role": "Auszubildender Schreiner / Tischler (m/w/d) - Ab September 2027",
-   "location": "Creglingen"
-  },
-  "1bbb476c35751a78dc709c5abd5636c6": {
-   "id": "1bbb476c35751a78dc709c5abd5636c6",
-   "company": "Holcim",
-   "role": "Ausbildung Beton- Und Stahlbetonbauer (m/w/d)",
-   "location": "Wuppertal"
-  },
-  "16925514312adab4eb711be8d5caaf4d": {
-   "id": "16925514312adab4eb711be8d5caaf4d",
-   "company": "Schreiner Group GmbH und Co. KG",
-   "role": "Oberschleißheim Ausbildung Zum Mediengestalter (mwd) 2027",
-   "location": "Munich"
-  },
-  "a956994713c7ce90b203377be9896555": {
-   "id": "a956994713c7ce90b203377be9896555",
-   "company": "NORDLB - technisches LAN",
-   "role": "Traineeprogramm Human Resources (m/w/d)",
-   "location": "Unknown"
-  },
-  "4d7bab4c89ec2ee41090d90eafd78b23": {
-   "id": "4d7bab4c89ec2ee41090d90eafd78b23",
-   "company": "NORDLB - technisches LAN",
-   "role": "Traineeprogramm Coo (m/w/d)",
-   "location": "Unknown"
-  },
   "e85c1c9c15d4c1088717fac4063ba0d0": {
    "id": "e85c1c9c15d4c1088717fac4063ba0d0",
    "company": "Lidl Ltd",
@@ -1106,11 +1106,11 @@
    "role": "Umschulung Mechatroniker (m/w/d)",
    "location": "Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen"
   },
-  "e4d9aaf0c10ac0e322cbcad7e478479d": {
-   "id": "e4d9aaf0c10ac0e322cbcad7e478479d",
-   "company": "Eiffage Infra-Nordwest",
-   "role": "Messe Domschule",
-   "location": "Dortmund"
+  "f2a7c7e34bfa847343739e7181e5902f": {
+   "id": "f2a7c7e34bfa847343739e7181e5902f",
+   "company": "HENSOLDT Sensors GmbH",
+   "role": "Werkstudent Software Engineering (w/m/d)",
+   "location": "Munich"
   },
   "49e9546a40bfe8026bb77b9308f98d2c": {
    "id": "49e9546a40bfe8026bb77b9308f98d2c",
@@ -1232,12 +1232,6 @@
    "role": "Werkstudent*in It – Softwareentwicklung, Cloud & Ai",
    "location": "Berlin"
   },
-  "99024db4dab22f472e89445fa042ac20": {
-   "id": "99024db4dab22f472e89445fa042ac20",
-   "company": "HENSOLDT Sensors GmbH",
-   "role": "Werkstudent Software Engineering (w/m/d)",
-   "location": "Ulm"
-  },
   "b6bed7bfb829c16984ad724db26eae1b": {
    "id": "b6bed7bfb829c16984ad724db26eae1b",
    "company": "Mercedes-Benz",
@@ -1291,6 +1285,12 @@
    "company": "Apple",
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
    "location": "Germany"
+  },
+  "dda294bff35c78c7afcdcc14b9d36b8e": {
+   "id": "dda294bff35c78c7afcdcc14b9d36b8e",
+   "company": "State Street Corporation",
+   "role": "Software Development Engineer, Officer",
+   "location": "Frankfurt +1"
   },
   "77b4192368eed8cd1ed339dee5bba352": {
    "id": "77b4192368eed8cd1ed339dee5bba352",
@@ -1766,11 +1766,11 @@
    "role": "Electronic Warfare Developer (d/m/f)",
    "location": "Ingolstadt"
   },
-  "be402713c08e74a59187b627b4f33047": {
-   "id": "be402713c08e74a59187b627b4f33047",
-   "company": "Westinghouse Air Brake Technologies",
-   "role": "Software Engineer For Rail Iot Devices (passenger Information Systems)",
-   "location": "Munich"
+  "86035eb06d2601289f9071d52407ac98": {
+   "id": "86035eb06d2601289f9071d52407ac98",
+   "company": "Ingredion Incorporated",
+   "role": "Werkstudent*in Automation & Ai (m/w/d)",
+   "location": "Wesenberg +1"
   },
   "85e1cee52b6b739fc0e43dcde1964c98": {
    "id": "85e1cee52b6b739fc0e43dcde1964c98",
@@ -1873,6 +1873,12 @@
    "company": "Resonance",
    "role": "Graduate Applied AI Engineer",
    "location": "London +1"
+  },
+  "6c8ca9c9a68d54ea4a14b14a345cb1ce": {
+   "id": "6c8ca9c9a68d54ea4a14b14a345cb1ce",
+   "company": "SumUp",
+   "role": "Data Analyst - Aml",
+   "location": "Berlin +1"
   },
   "8cd493b2fa31c0fe7d9ffc641369c243": {
    "id": "8cd493b2fa31c0fe7d9ffc641369c243",
@@ -2222,12 +2228,6 @@
    "role": "Ai Engineer",
    "location": "Germany"
   },
-  "c9487b6d7cad1a47b587050c3eb49e1f": {
-   "id": "c9487b6d7cad1a47b587050c3eb49e1f",
-   "company": "DHL Group",
-   "role": "Datenerfasser",
-   "location": "Leipzig +1"
-  },
   "a858f9c4489de3619153944f772da203": {
    "id": "a858f9c4489de3619153944f772da203",
    "company": "Alignerr",
@@ -2383,6 +2383,12 @@
    "company": "Allianz SE",
    "role": "Mint-absolvent Als Business Analyst (m/w/d)",
    "location": "Stuttgart +1"
+  },
+  "5ad917b2c182d4f88ff1f8e212be5870": {
+   "id": "5ad917b2c182d4f88ff1f8e212be5870",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Business Analyst Kapitalmarkt / Data Analytics M/w/d",
+   "location": "Frankfurt Am Main"
   },
   "ef46a09effbed5932b269d14f4648355": {
    "id": "ef46a09effbed5932b269d14f4648355",
@@ -2858,11 +2864,11 @@
    "role": "Business Analyst (w/m/d) Depotplattform Retail",
    "location": "Unknown"
   },
-  "7f9c99bf52889cea16ec0ee65fc1ab92": {
-   "id": "7f9c99bf52889cea16ec0ee65fc1ab92",
-   "company": "DekaBank Deutsche Girozentrale",
-   "role": "Business Analyst (w/m/d) Und Bankfachlicher Designer (w/m/d) Retail-depotplattform",
-   "location": "Germany"
+  "3290b10912bf6f096620afa5d784dec6": {
+   "id": "3290b10912bf6f096620afa5d784dec6",
+   "company": "ChristianaCare",
+   "role": "Registered Nurse (rn) / Ambulatory Infusion Center",
+   "location": "Newark +1"
   },
   "3580a7e3eea977f0b8b79c74b85ae15b": {
    "id": "3580a7e3eea977f0b8b79c74b85ae15b",
@@ -2942,6 +2948,30 @@
    "role": "Cra",
    "location": "North-East Germany"
   },
+  "85e1199e4938b7311772fc7fbcd368d0": {
+   "id": "85e1199e4938b7311772fc7fbcd368d0",
+   "company": "Ecolab",
+   "role": "Servicetechniker - Cruise Team / Kreuzfahrt",
+   "location": "Cologne +1"
+  },
+  "c50f0a798a73855849bc6ff9eb2505fb": {
+   "id": "c50f0a798a73855849bc6ff9eb2505fb",
+   "company": "EON Career site",
+   "role": "Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)",
+   "location": "Berlin"
+  },
+  "c10e71ee21e6f6007ade678f1bce374c": {
+   "id": "c10e71ee21e6f6007ade678f1bce374c",
+   "company": "E.ON",
+   "role": "Servicetechniker Für Zählermontagen, Raum Hannover (m/w/d)",
+   "location": "Hannover +1"
+  },
+  "ef53cfa1161aa28499a454c5519d921b": {
+   "id": "ef53cfa1161aa28499a454c5519d921b",
+   "company": "Getec Energyservices",
+   "role": "Servicetechniker Shk (w/m/d)",
+   "location": "Berlin"
+  },
   "156b79d258fb10df013e11ea48c18835": {
    "id": "156b79d258fb10df013e11ea48c18835",
    "company": "Viessmann Climate Solutions",
@@ -2983,6 +3013,18 @@
    "company": "Xylem Inc",
    "role": "Servicetechniker Im Außendienst (m/w/d) Gebiet Norddeutschland",
    "location": "Bremen +1"
+  },
+  "b4c9a74231865b6e20170b0984aab31c": {
+   "id": "b4c9a74231865b6e20170b0984aab31c",
+   "company": "TOMRA Systems GmbH",
+   "role": "Servicetechniker* Für Leergutautomaten - Unbefristet",
+   "location": "Heidelberg +1"
+  },
+  "3d626e3c2f1bbd9b753da6adf81e0772": {
+   "id": "3d626e3c2f1bbd9b753da6adf81e0772",
+   "company": "BottleCycler",
+   "role": "Servicetechniker* Für Leergutautomaten - Unbefristet",
+   "location": "GroßRaum WüRzburg +2"
   },
   "8cbd509282c2aa98bbc39b5e799c54f4": {
    "id": "8cbd509282c2aa98bbc39b5e799c54f4",
@@ -3109,12 +3151,6 @@
    "company": "Carrier",
    "role": "Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In München",
    "location": "Munich"
-  },
-  "c3ea53e33d30ab7c555e73eb270dcda8": {
-   "id": "c3ea53e33d30ab7c555e73eb270dcda8",
-   "company": "TOMRA Systems GmbH",
-   "role": "Servicetechniker* Für Leergutautomaten - Unbefristet",
-   "location": "Berlin +1"
   },
   "5f785ed88f02ddb6d06b7a431fb19d6d": {
    "id": "5f785ed88f02ddb6d06b7a431fb19d6d",
@@ -3392,36 +3428,6 @@
    "role": "Elektriker / Elektroniker (m/w/d)",
    "location": "Lautertal"
   },
-  "a4ba8405f2f12cfa9a4758cbcd9a9baa": {
-   "id": "a4ba8405f2f12cfa9a4758cbcd9a9baa",
-   "company": "Continental AG",
-   "role": "Elektroniker Mit Schwerpunkt Automatisierungstechnik Für Die Instandhaltung (m/w/d) - Ref93292v",
-   "location": "Hannover +1"
-  },
-  "046f651ff7358a821a04ccdbd1905bbd": {
-   "id": "046f651ff7358a821a04ccdbd1905bbd",
-   "company": "Konecranes",
-   "role": "Industriemechaniker *in Als Servicetechniker *in Für Hafenkrananlagen International",
-   "location": "Duisburg +1"
-  },
-  "bf64c5a0eb87962b48ac1788aefe53c5": {
-   "id": "bf64c5a0eb87962b48ac1788aefe53c5",
-   "company": "Zeppelin",
-   "role": "Servicetechniker Spezialisierung Hydraulik (m/d/w)",
-   "location": "Munich"
-  },
-  "6cde37774a93e33f0056579c91f242ba": {
-   "id": "6cde37774a93e33f0056579c91f242ba",
-   "company": "Bdrthermeagroup",
-   "role": "Kundendiensttechniker Für Den Großraum Günzburg/augsburg (*)",
-   "location": "GüNzburg +1"
-  },
-  "1c0b10fe47aa83f67cd2c6187907c0e7": {
-   "id": "1c0b10fe47aa83f67cd2c6187907c0e7",
-   "company": "Diasorin",
-   "role": "International Field Service Engineer - Luminex Products",
-   "location": "Stuttgart +2"
-  },
   "f019f8ca4362913e949493030600c86b": {
    "id": "f019f8ca4362913e949493030600c86b",
    "company": "Hornbach Baumarkt AG",
@@ -3506,11 +3512,35 @@
    "role": "Schangstraße 5 Verkäufer Frischetheke (m/w/d)",
    "location": "Wuppertal"
   },
+  "7f9bda17b7e5cc70d99ac1f7653620d8": {
+   "id": "7f9bda17b7e5cc70d99ac1f7653620d8",
+   "company": "OBI",
+   "role": "Verkäufer Sanitär / Dusche / Bad (alle Geschlechter)",
+   "location": "Nuremberg"
+  },
+  "905e5ba6d76e0d71ac2e6d1fc4a60f2b": {
+   "id": "905e5ba6d76e0d71ac2e6d1fc4a60f2b",
+   "company": "OBI",
+   "role": "Verkäufer Garten - Gartenbaustoffe (alle Geschlechter)",
+   "location": "Wuppertal"
+  },
   "6307bc022e3adf30101db11863fd0dc5": {
    "id": "6307bc022e3adf30101db11863fd0dc5",
    "company": "Nestle SA",
    "role": "Verkäufer (m/w/d) In Sulzbach Mtz",
    "location": "Nuremberg"
+  },
+  "bd7776df2825e9c9bec8d353295dd766": {
+   "id": "bd7776df2825e9c9bec8d353295dd766",
+   "company": "H&M",
+   "role": "Verkäufer Teilzeit - Schildergasse Köln (m/w/d)",
+   "location": "Cologne"
+  },
+  "ca433c351ad8860683c706782812b1e7": {
+   "id": "ca433c351ad8860683c706782812b1e7",
+   "company": "ALDI International Services GmbH & Co. oHG",
+   "role": "Verkaufsmitarbeiter (m/w/d) Prager Straße 77, 3580 Horn",
+   "location": "Hamburg"
   },
   "248abc299d73fdd21b656fd8559c2808": {
    "id": "248abc299d73fdd21b656fd8559c2808",
@@ -3595,12 +3625,6 @@
    "company": "JYSK",
    "role": "Verkäufer/in Teilzeit (m/w/d) – Lünen (30 Std)",
    "location": "Dortmund"
-  },
-  "2f7a2e8f17a6d11148455ac40fe2b984": {
-   "id": "2f7a2e8f17a6d11148455ac40fe2b984",
-   "company": "OBI",
-   "role": "Verkäufer Garten - Gartenbaustoffe (alle Geschlechter)",
-   "location": "Nuremberg"
   },
   "1fcd0f54befa9dc0737d6eaf7f2682f9": {
    "id": "1fcd0f54befa9dc0737d6eaf7f2682f9",
@@ -3884,29 +3908,23 @@
    "role": "Verkäufer (m/w/d), Aushilfe, Berlin (charlottenburg)",
    "location": "Berlin"
   },
-  "aa47169b38f7e1623e6aa27d6d7a6ab3": {
-   "id": "aa47169b38f7e1623e6aa27d6d7a6ab3",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Wesel",
-   "location": "Dusseldorf"
-  },
-  "b651288a2872580123a92ee02f62f70d": {
-   "id": "b651288a2872580123a92ee02f62f70d",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Brühl",
-   "location": "Cologne"
-  },
-  "6bafc906866f683b396315bb5e58a196": {
-   "id": "6bafc906866f683b396315bb5e58a196",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Saarlouis",
-   "location": "Saarbruecken"
+  "77293cf36fd1fcd646b241c3f276e547": {
+   "id": "77293cf36fd1fcd646b241c3f276e547",
+   "company": "adidas AG",
+   "role": "Sales Assistant (m/f/d)",
+   "location": "Wustermark +1"
   },
   "fa05bfcd0b140f92bed9bde8b02b82b9": {
    "id": "fa05bfcd0b140f92bed9bde8b02b82b9",
    "company": "Schindler Elevator Ltd",
    "role": "Assistenz (m/w/d) Der Geschäftsleitung - Befristet Bis 31.05.2028",
    "location": "Berlin"
+  },
+  "6c8094c6f0a2d4b9fae95d4e766a212e": {
+   "id": "6c8094c6f0a2d4b9fae95d4e766a212e",
+   "company": "MSC Cruises",
+   "role": "Praktikant (m/w/d) Customer Journey & Executive Assistant",
+   "location": "Munich +1"
   },
   "5661071748466f1230a1f5b220ac17c9": {
    "id": "5661071748466f1230a1f5b220ac17c9",
@@ -4369,18 +4387,6 @@
    "company": "adidas AG",
    "role": "Team Coordinator (m/w/d) Inbound",
    "location": "Unknown"
-  },
-  "d52023d5b5a3bfb7a093278f2663d6d3": {
-   "id": "d52023d5b5a3bfb7a093278f2663d6d3",
-   "company": "adidas AG",
-   "role": "Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde",
-   "location": "Ahrensfelde"
-  },
-  "9c40edf35c226fdcaa52a6dce491ab99": {
-   "id": "9c40edf35c226fdcaa52a6dce491ab99",
-   "company": "adidas AG",
-   "role": "Retail Assistant Minijob (m/f/d) Fo Kids Neumünster",
-   "location": "Kiel"
   }
  }
 }
