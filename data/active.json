@@ -1,7 +1,37 @@
 {
- "asOf": "2026-11-15",
- "count": 731,
+ "asOf": "2026-11-16",
+ "count": 735,
  "jobs": {
+  "034c808d4ee5d2d65db7043f887daac4": {
+   "id": "034c808d4ee5d2d65db7043f887daac4",
+   "company": "EssilorLuxottica SA",
+   "role": "Logistics Business Support Internship",
+   "location": "Sedico"
+  },
+  "cda1558fb0c26b7959f43e992c48418b": {
+   "id": "cda1558fb0c26b7959f43e992c48418b",
+   "company": "Everllence",
+   "role": "Schülerpraktikum: 30.03.2027 - 02.04.2027",
+   "location": "Augsburg"
+  },
+  "b707881c30ce81d28630c7c13d950047": {
+   "id": "b707881c30ce81d28630c7c13d950047",
+   "company": "Mercedes-AMG GmbH",
+   "role": "Amg Praktikanten Entwicklung Triebstrang Ab März 2027 (m/w/d)",
+   "location": "Affalterbach"
+  },
+  "ca460297242ae0f9566517d59ae1c32f": {
+   "id": "ca460297242ae0f9566517d59ae1c32f",
+   "company": "Pfeiffer Vacuum GmbH",
+   "role": "Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)",
+   "location": "Maulburg"
+  },
+  "1cb499ae78a362353ccc005a410379ab": {
+   "id": "1cb499ae78a362353ccc005a410379ab",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Praktikant Risk Consulting (w/m/d)",
+   "location": "Eschborn +4"
+  },
   "d28d1353f502f29c77222735c8be5b87": {
    "id": "d28d1353f502f29c77222735c8be5b87",
    "company": "Atlas Copco",
@@ -451,36 +481,6 @@
    "company": "Deloitte GmbH",
    "role": "Praktikant Marketing - Projektmanagement (m/w/d)",
    "location": "Munich"
-  },
-  "8f399bf138dd5628f587d7ecf219993b": {
-   "id": "8f399bf138dd5628f587d7ecf219993b",
-   "company": "Ardian",
-   "role": "Buyout Intern - June 2027- Frankfurt (m/f)",
-   "location": "Frankfurt Am Main"
-  },
-  "f569426a3272982d5fa99decea03e2ea": {
-   "id": "f569426a3272982d5fa99decea03e2ea",
-   "company": "Ardian",
-   "role": "Buyout Intern - February 2027- Frankfurt (m/f)",
-   "location": "Frankfurt Am Main"
-  },
-  "a700e73832bfa4fc943e037804c350c2": {
-   "id": "a700e73832bfa4fc943e037804c350c2",
-   "company": "Ardian",
-   "role": "Investor Solutions Intern - Internship June 2027- Frankfurt (m/f)",
-   "location": "Frankfurt Am Main"
-  },
-  "ed11075d71879343e9d2732555b54250": {
-   "id": "ed11075d71879343e9d2732555b54250",
-   "company": "DHL Group",
-   "role": "Praktikum Human Resources (m/w/d)",
-   "location": "Bonn +1"
-  },
-  "97b2c1db22c2161532b79c4cd5f364e6": {
-   "id": "97b2c1db22c2161532b79c4cd5f364e6",
-   "company": "BDO AG Wirtschaftspruefungsgesellschaft",
-   "role": "Berlin Praktikum Steuerberatung Tax (wmd) Berlin Be 10787",
-   "location": "Berlin"
   },
   "23bc985e57110d79dd8d49cd3376cef8": {
    "id": "23bc985e57110d79dd8d49cd3376cef8",
@@ -1256,6 +1256,12 @@
    "role": "Werkstudent It Support (m/w/d)",
    "location": "Berlin"
   },
+  "daab2bca77a3600303afb5d3db69d783": {
+   "id": "daab2bca77a3600303afb5d3db69d783",
+   "company": "cflex",
+   "role": "Ausbildung Zum/zur Fachinformatiker:in Für Anwendungsentwicklung (m/w/d) 2027",
+   "location": "Pirk"
+  },
   "7a19518d9fafa77ffb6590b81bbb27d7": {
    "id": "7a19518d9fafa77ffb6590b81bbb27d7",
    "company": "SIXT",
@@ -1766,6 +1772,18 @@
    "role": "Electronic Warfare Developer (d/m/f)",
    "location": "Ingolstadt"
   },
+  "a88f089308ba524cdcb029033a20348d": {
+   "id": "a88f089308ba524cdcb029033a20348d",
+   "company": "Everllence",
+   "role": "Werkstudent Für Datenanalyse Und Sensorik (m/w/d)",
+   "location": "Augsburg +1"
+  },
+  "fcad9d2d85fbefd00cac3c51ccd04a83": {
+   "id": "fcad9d2d85fbefd00cac3c51ccd04a83",
+   "company": "DKB AG",
+   "role": "Werkstudent Esg-strategie Und Datenanalyse",
+   "location": "Frankfurt Am Main +1"
+  },
   "86035eb06d2601289f9071d52407ac98": {
    "id": "86035eb06d2601289f9071d52407ac98",
    "company": "Ingredion Incorporated",
@@ -1873,6 +1891,24 @@
    "company": "Resonance",
    "role": "Graduate Applied AI Engineer",
    "location": "London +1"
+  },
+  "3c47eb87e1f5dff529fa7b0308a0c214": {
+   "id": "3c47eb87e1f5dff529fa7b0308a0c214",
+   "company": "DKB AG",
+   "role": "Data Analyst Mit Schwerpunkt Datenqualität",
+   "location": "Germany"
+  },
+  "87ad447eb6519ebdb17fcd1954cc87df": {
+   "id": "87ad447eb6519ebdb17fcd1954cc87df",
+   "company": "DKB AG",
+   "role": "Data Analyst Finance",
+   "location": "Germany"
+  },
+  "31ed4afcacdc3dc6cf67eab684167f03": {
+   "id": "31ed4afcacdc3dc6cf67eab684167f03",
+   "company": "DKB AG",
+   "role": "Genai Specialist - Chatgpt Enterprise",
+   "location": "Germany"
   },
   "6c8ca9c9a68d54ea4a14b14a345cb1ce": {
    "id": "6c8ca9c9a68d54ea4a14b14a345cb1ce",
@@ -2216,18 +2252,6 @@
    "role": "Mid Qa Mobile Automation Engineer",
    "location": "Germany"
   },
-  "fe1b79c8a6eaa442d76aa37740c15fbc": {
-   "id": "fe1b79c8a6eaa442d76aa37740c15fbc",
-   "company": "adesso Group",
-   "role": "Azure Ai Engineer - Agentic Systems (all Genders)",
-   "location": "Germany"
-  },
-  "b4532bcc8d923d58c77602fc888e02d5": {
-   "id": "b4532bcc8d923d58c77602fc888e02d5",
-   "company": "Jobgether",
-   "role": "Ai Engineer",
-   "location": "Germany"
-  },
   "a858f9c4489de3619153944f772da203": {
    "id": "a858f9c4489de3619153944f772da203",
    "company": "Alignerr",
@@ -2383,6 +2407,24 @@
    "company": "Allianz SE",
    "role": "Mint-absolvent Als Business Analyst (m/w/d)",
    "location": "Stuttgart +1"
+  },
+  "c57029ff9168e66b31cf87a416428f66": {
+   "id": "c57029ff9168e66b31cf87a416428f66",
+   "company": "DKB AG",
+   "role": "Business Analyst - Fokus Prozesse",
+   "location": "Germany"
+  },
+  "60ea84faddb5224cf0f4443b9016a51a": {
+   "id": "60ea84faddb5224cf0f4443b9016a51a",
+   "company": "DKB AG",
+   "role": "Business Analyst Kreditrisikomanagement",
+   "location": "Germany"
+  },
+  "fdc23c4f9214a29b4c99294bd0230513": {
+   "id": "fdc23c4f9214a29b4c99294bd0230513",
+   "company": "DKB AG",
+   "role": "Business Analyst (m/w/d) - Bereich Finanzen",
+   "location": "Germany"
   },
   "5ad917b2c182d4f88ff1f8e212be5870": {
    "id": "5ad917b2c182d4f88ff1f8e212be5870",
@@ -2846,24 +2888,6 @@
    "role": "Fund Accountant (m/w/d) Real Assets - Befristete Elternzeitvertretung",
    "location": "Nach Standort Suchen* Nach Postleitzahl Suchen* Nach Standort Suchen*"
   },
-  "bfed4f7559130118f34f4721ae617ff7": {
-   "id": "bfed4f7559130118f34f4721ae617ff7",
-   "company": "SIGNAL IDUNA",
-   "role": "Financial Accountant (m/w/d)",
-   "location": "Nach Standort Suchen* Nach Postleitzahl Suchen* Nach Standort Suchen*"
-  },
-  "ca179218bb13a77ceff0e551553cf2c6": {
-   "id": "ca179218bb13a77ceff0e551553cf2c6",
-   "company": "SSI Schäfer Automation GmbH",
-   "role": "Financial Accountant (w/m/d)",
-   "location": "Giebelstadt"
-  },
-  "50dff9e5d4e0e82a6e877439c1d15675": {
-   "id": "50dff9e5d4e0e82a6e877439c1d15675",
-   "company": "DekaBank Deutsche Girozentrale",
-   "role": "Business Analyst (w/m/d) Depotplattform Retail",
-   "location": "Unknown"
-  },
   "3290b10912bf6f096620afa5d784dec6": {
    "id": "3290b10912bf6f096620afa5d784dec6",
    "company": "ChristianaCare",
@@ -2947,6 +2971,30 @@
    "company": "Syneos Health",
    "role": "Cra",
    "location": "North-East Germany"
+  },
+  "9b44120aca8c36cae1625d166840256b": {
+   "id": "9b44120aca8c36cae1625d166840256b",
+   "company": "cflex",
+   "role": "Instandhaltungsmitarbeiter (m/w/d) In Der Mechanischen Werkstätte",
+   "location": "Unknown +1"
+  },
+  "6656d05ea66b373e7f5d609649ce8585": {
+   "id": "6656d05ea66b373e7f5d609649ce8585",
+   "company": "cflex",
+   "role": "Elektroniker:in (m/w/d)",
+   "location": "Pirk"
+  },
+  "1c3a82dc9979b5d602696147ecb91ca2": {
+   "id": "1c3a82dc9979b5d602696147ecb91ca2",
+   "company": "cflex",
+   "role": "Industriemechaniker:in Für Den Bereich Instandhaltung (m/w/d)",
+   "location": "Pirk"
+  },
+  "db3c2b737613dc921f3d447877daf190": {
+   "id": "db3c2b737613dc921f3d447877daf190",
+   "company": "Pfeiffer Vacuum GmbH",
+   "role": "Servicetechniker Raum Stuttgart (m/w/d)",
+   "location": "Maulburg"
   },
   "85e1199e4938b7311772fc7fbcd368d0": {
    "id": "85e1199e4938b7311772fc7fbcd368d0",
@@ -3404,29 +3452,11 @@
    "role": "Field Service Engineer/ Servicetechniker (m/w/d) Chromatography And Molecular Spectroscopy/ Discrete Analyzer",
    "location": "Berlin +1"
   },
-  "1f088b92da52739fc3af9890cbabef11": {
-   "id": "1f088b92da52739fc3af9890cbabef11",
-   "company": "Fraport AG Frankfurt Airport Services Worldwide",
-   "role": "Frankfurt Am Main Servicetechniker Sicherheitstechnik (mwd) Am Flughafen Frankfurt",
-   "location": "Frankfurt Am Main +1"
-  },
-  "409e5a8a780894f4ab30f71790fba06f": {
-   "id": "409e5a8a780894f4ab30f71790fba06f",
-   "company": "1KOMMA5°",
-   "role": "Servicetechniker SHK (m/w/d) Wärmepumpen & Heiztechnik - 1KOMMA5° Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "e042c668123faa06ee14a3416560a642": {
-   "id": "e042c668123faa06ee14a3416560a642",
-   "company": "Johnson Controls",
-   "role": "Kundendiensttechniker Mobiler Brandschutz (m/w/d)",
-   "location": "Holzgerlingen +1"
-  },
-  "55aaa06e004d6654cc9fbe133a866697": {
-   "id": "55aaa06e004d6654cc9fbe133a866697",
-   "company": "ENERCON IT Service GmbH",
-   "role": "Elektriker / Elektroniker (m/w/d)",
-   "location": "Lautertal"
+  "0b460cdea3f8772245fdbb8fd7457580": {
+   "id": "0b460cdea3f8772245fdbb8fd7457580",
+   "company": "MediamarktSaturn - Webshop Foundation",
+   "role": "Kundenberater Verkauf (m/w/d)",
+   "location": "Berlin"
   },
   "f019f8ca4362913e949493030600c86b": {
    "id": "f019f8ca4362913e949493030600c86b",
@@ -3902,11 +3932,11 @@
    "role": "Verkäufer (m/w/d), Aushilfe, Mülheim (forum)",
    "location": "Dusseldorf"
   },
-  "1f39b86bb99aead0ce5eba7b622ab27a": {
-   "id": "1f39b86bb99aead0ce5eba7b622ab27a",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Aushilfe, Berlin (charlottenburg)",
-   "location": "Berlin"
+  "3d4643f13a03ec1f1ea5ec7b0abf6996": {
+   "id": "3d4643f13a03ec1f1ea5ec7b0abf6996",
+   "company": "Gebrueder Weiss GmbH",
+   "role": "Seafreight Coordinator*",
+   "location": "Germany"
   },
   "77293cf36fd1fcd646b241c3f276e547": {
    "id": "77293cf36fd1fcd646b241c3f276e547",
@@ -4381,12 +4411,6 @@
    "company": "Zinßer Mühle seit 1524",
    "role": "Persönliche Assistenz Des Geschäftsführers (m/w/d) Teilzeit",
    "location": "Hochdorf"
-  },
-  "35eea0115c78996a202b0f3323a888f8": {
-   "id": "35eea0115c78996a202b0f3323a888f8",
-   "company": "adidas AG",
-   "role": "Team Coordinator (m/w/d) Inbound",
-   "location": "Unknown"
   }
  }
 }

@@ -11585,4 +11585,20 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Saarlouis</td><td>Saarbruecken</td><td>2026-11-15</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Befristet - Adidas Factory Outlet Kaufpark Eiche, Ahrensfelde</td><td>Ahrensfelde</td><td>2026-11-15</td></tr>
 <tr><td>adidas AG</td><td>Retail Assistant Minijob (m/f/d) Fo Kids Neumünster</td><td>Kiel</td><td>2026-11-15</td></tr>
+<tr><td>Ardian</td><td>Buyout Intern - June 2027- Frankfurt (m/f)</td><td>Frankfurt Am Main</td><td>2026-11-16</td></tr>
+<tr><td>Ardian</td><td>Buyout Intern - February 2027- Frankfurt (m/f)</td><td>Frankfurt Am Main</td><td>2026-11-16</td></tr>
+<tr><td>Ardian</td><td>Investor Solutions Intern - Internship June 2027- Frankfurt (m/f)</td><td>Frankfurt Am Main</td><td>2026-11-16</td></tr>
+<tr><td>DHL Group</td><td>Praktikum Human Resources (m/w/d)</td><td>Bonn +1</td><td>2026-11-16</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Berlin Praktikum Steuerberatung Tax (wmd) Berlin Be 10787</td><td>Berlin</td><td>2026-11-16</td></tr>
+<tr><td>adesso Group</td><td>Azure Ai Engineer - Agentic Systems (all Genders)</td><td>Germany</td><td>2026-11-16</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer</td><td>Germany</td><td>2026-11-16</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Financial Accountant (m/w/d)</td><td>Nach Standort Suchen* Nach Postleitzahl Suchen* Nach Standort Suchen*</td><td>2026-11-16</td></tr>
+<tr><td>SSI Schäfer Automation GmbH</td><td>Financial Accountant (w/m/d)</td><td>Giebelstadt</td><td>2026-11-16</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Business Analyst (w/m/d) Depotplattform Retail</td><td>Unknown</td><td>2026-11-16</td></tr>
+<tr><td>Fraport AG Frankfurt Airport Services Worldwide</td><td>Frankfurt Am Main Servicetechniker Sicherheitstechnik (mwd) Am Flughafen Frankfurt</td><td>Frankfurt Am Main +1</td><td>2026-11-16</td></tr>
+<tr><td>1KOMMA5°</td><td>Servicetechniker SHK (m/w/d) Wärmepumpen & Heiztechnik - 1KOMMA5° Frankfurt</td><td>Frankfurt Am Main</td><td>2026-11-16</td></tr>
+<tr><td>Johnson Controls</td><td>Kundendiensttechniker Mobiler Brandschutz (m/w/d)</td><td>Holzgerlingen +1</td><td>2026-11-16</td></tr>
+<tr><td>ENERCON IT Service GmbH</td><td>Elektriker / Elektroniker (m/w/d)</td><td>Lautertal</td><td>2026-11-16</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Berlin (charlottenburg)</td><td>Berlin</td><td>2026-11-16</td></tr>
+<tr><td>adidas AG</td><td>Team Coordinator (m/w/d) Inbound</td><td>Unknown</td><td>2026-11-16</td></tr>
 </table>
