@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-16",
+ "asOf": "2026-11-17",
  "count": 735,
  "jobs": {
+  "2f56d69c82fdb02fe92f59fe09e4e039": {
+   "id": "2f56d69c82fdb02fe92f59fe09e4e039",
+   "company": "Emma – The Sleep Company",
+   "role": "Marketing Intern - (german Speaker)",
+   "location": "Frankfurt +1"
+  },
   "034c808d4ee5d2d65db7043f887daac4": {
    "id": "034c808d4ee5d2d65db7043f887daac4",
    "company": "EssilorLuxottica SA",
@@ -476,11 +482,11 @@
    "role": "Praktikum - Computer Vision & Industrielle Ki - Ref100494u",
    "location": "Hanover"
   },
-  "9e35707a6c1f0aacc3723168d22a381c": {
-   "id": "9e35707a6c1f0aacc3723168d22a381c",
-   "company": "Deloitte GmbH",
-   "role": "Praktikant Marketing - Projektmanagement (m/w/d)",
-   "location": "Munich"
+  "8be58f122c1e0e552cd23955ed571f2d": {
+   "id": "8be58f122c1e0e552cd23955ed571f2d",
+   "company": "Oerlikon",
+   "role": "Auszubildender Maschinen & Anlagenführer (gn)",
+   "location": "Cologne"
   },
   "23bc985e57110d79dd8d49cd3376cef8": {
    "id": "23bc985e57110d79dd8d49cd3376cef8",
@@ -956,12 +962,6 @@
    "role": "Landsberg Ausbildung Zur Fachkraft Lagerlogistik (mwx)",
    "location": "Landsberg-Queis"
   },
-  "0581f05f8cf981fbdca2179bac191c0a": {
-   "id": "0581f05f8cf981fbdca2179bac191c0a",
-   "company": "Holcim",
-   "role": "Ausbildung Aufbereitungsmechaniker (m/w/d)",
-   "location": "Kerken"
-  },
   "e85c1c9c15d4c1088717fac4063ba0d0": {
    "id": "e85c1c9c15d4c1088717fac4063ba0d0",
    "company": "Lidl Ltd",
@@ -1291,6 +1291,12 @@
    "company": "Apple",
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
    "location": "Germany"
+  },
+  "3a43e13d606bdeb5acb5d407e55772da": {
+   "id": "3a43e13d606bdeb5acb5d407e55772da",
+   "company": "CGI",
+   "role": "Software-engineer Bpm / Camunda (m/w/d)",
+   "location": "Leinfelden +1"
   },
   "dda294bff35c78c7afcdcc14b9d36b8e": {
    "id": "dda294bff35c78c7afcdcc14b9d36b8e",
@@ -1766,11 +1772,11 @@
    "role": "Software Engineer (m/w/d) Vz/tz",
    "location": "Kelberg"
   },
-  "98852add0e797fb7f0f53afcdde5a678": {
-   "id": "98852add0e797fb7f0f53afcdde5a678",
-   "company": "Airbus SE",
-   "role": "Electronic Warfare Developer (d/m/f)",
-   "location": "Ingolstadt"
+  "e3766545e4e51e0a7e17f3e7c71ba09b": {
+   "id": "e3766545e4e51e0a7e17f3e7c71ba09b",
+   "company": "Enbw",
+   "role": "Praktikant Ai & Automation (w/m/d)",
+   "location": "Karlsruhe +1"
   },
   "a88f089308ba524cdcb029033a20348d": {
    "id": "a88f089308ba524cdcb029033a20348d",
@@ -2012,6 +2018,12 @@
    "role": "Digital Marketing & Data Analyst - Associate",
    "location": "Viale Stelvio"
   },
+  "15a3f0e0ec763656d9c8ad4327cd5dd5": {
+   "id": "15a3f0e0ec763656d9c8ad4327cd5dd5",
+   "company": "Publicis Sapient",
+   "role": "Digital Marketing & Data Analyst - Associate - Automotive",
+   "location": "Viale Stelvio"
+  },
   "fa0264252a01acfa2288e9ab4c205424": {
    "id": "fa0264252a01acfa2288e9ab4c205424",
    "company": "Jobgether",
@@ -2240,18 +2252,6 @@
    "role": "Marketing & Data Analyst",
    "location": "Germany"
   },
-  "a5a8fa4d84c91012d0e9371a35e0e5f6": {
-   "id": "a5a8fa4d84c91012d0e9371a35e0e5f6",
-   "company": "Skylight",
-   "role": "Sap Warehouse Data Analyst (m/w/d)",
-   "location": "Sonneborn"
-  },
-  "a6ea191ee73718bec41fb5f44a5c4c78": {
-   "id": "a6ea191ee73718bec41fb5f44a5c4c78",
-   "company": "Jobgether",
-   "role": "Mid Qa Mobile Automation Engineer",
-   "location": "Germany"
-  },
   "a858f9c4489de3619153944f772da203": {
    "id": "a858f9c4489de3619153944f772da203",
    "company": "Alignerr",
@@ -2407,6 +2407,18 @@
    "company": "Allianz SE",
    "role": "Mint-absolvent Als Business Analyst (m/w/d)",
    "location": "Stuttgart +1"
+  },
+  "f230878365ce4d1e0dd959f47eda071f": {
+   "id": "f230878365ce4d1e0dd959f47eda071f",
+   "company": "Allianz SE",
+   "role": "Business Analyst - Identity- Und Accessmanagement (m/w/d)",
+   "location": "UnterföHring (Bei MüNchen)"
+  },
+  "d43e5d286aa700161ab45bf38b5a7523": {
+   "id": "d43e5d286aa700161ab45bf38b5a7523",
+   "company": "Wipro",
+   "role": "Consulting Partner, Finance and Transformation, DACH (M/F/D)",
+   "location": "Frankfurt +2"
   },
   "c57029ff9168e66b31cf87a416428f66": {
    "id": "c57029ff9168e66b31cf87a416428f66",
@@ -2876,18 +2888,6 @@
    "role": "Berufseinstieg Consulting - Driven By Skills. Not By Job Titles (w/m/d)",
    "location": "Berlin +1"
   },
-  "5d4d59e8cc286d431e8d5dc8a77eac16": {
-   "id": "5d4d59e8cc286d431e8d5dc8a77eac16",
-   "company": "Franke Group",
-   "role": "Mitarbeiter Finanzbuchhaltung (m/w/d)",
-   "location": "GrüNsfeld"
-  },
-  "d56d3f5e67aed27ecdacfcb861b5a112": {
-   "id": "d56d3f5e67aed27ecdacfcb861b5a112",
-   "company": "SIGNAL IDUNA",
-   "role": "Fund Accountant (m/w/d) Real Assets - Befristete Elternzeitvertretung",
-   "location": "Nach Standort Suchen* Nach Postleitzahl Suchen* Nach Standort Suchen*"
-  },
   "3290b10912bf6f096620afa5d784dec6": {
    "id": "3290b10912bf6f096620afa5d784dec6",
    "company": "ChristianaCare",
@@ -2971,6 +2971,30 @@
    "company": "Syneos Health",
    "role": "Cra",
    "location": "North-East Germany"
+  },
+  "6e5a396b62438c898ec8727e0f3e08a9": {
+   "id": "6e5a396b62438c898ec8727e0f3e08a9",
+   "company": "Max Weishaupt GmbH",
+   "role": "Kundendiensttechniker (m/w/d)",
+   "location": "Leipzig"
+  },
+  "bee7c22e0ba6b9812f5ce28d25c99eec": {
+   "id": "bee7c22e0ba6b9812f5ce28d25c99eec",
+   "company": "Alfred Kaercher SE Co KG",
+   "role": "Servicetechniker (m/w/d) Nürnberg",
+   "location": "NüRnberg"
+  },
+  "a5852e9c3beaf2ef75f11a51bdf8e49d": {
+   "id": "a5852e9c3beaf2ef75f11a51bdf8e49d",
+   "company": "Konecranes",
+   "role": "Konstruktionsmechaniker*in / Industriemechaniker*in Als Servicetechniker*in",
+   "location": "DüSseldorf +1"
+  },
+  "a9a74f11ff03670eca324ec165c572fc": {
+   "id": "a9a74f11ff03670eca324ec165c572fc",
+   "company": "Continental",
+   "role": "Elektroniker mit Schwerpunkt Automatisierungstechnik für die Instandhaltung (m/w/d) - REF93292V",
+   "location": "Hanover +1"
   },
   "9b44120aca8c36cae1625d166840256b": {
    "id": "9b44120aca8c36cae1625d166840256b",
@@ -3085,12 +3109,6 @@
    "company": "Xylem Inc",
    "role": "Servicetechniker Elektrotechnik (m/w/d)- Bremen",
    "location": "Bremen"
-  },
-  "cb4c9c41778ec4eea3d71d45522b60b7": {
-   "id": "cb4c9c41778ec4eea3d71d45522b60b7",
-   "company": "Max Weishaupt GmbH",
-   "role": "Kundendiensttechniker (m/w/d)",
-   "location": "Germany"
   },
   "75ba4142d4951b55cab010a27eabf3a3": {
    "id": "75ba4142d4951b55cab010a27eabf3a3",
@@ -3433,24 +3451,6 @@
    "company": "Gradiant",
    "role": "Kundendiensttechniker (m/w/d) - Deutschlandweit",
    "location": "Stuttgart"
-  },
-  "371d370e3e6baa7457bc134ba224ddee": {
-   "id": "371d370e3e6baa7457bc134ba224ddee",
-   "company": "B. Braun Melsungen AG",
-   "role": "Servicetechniker (w/m/d) Im Außendienst",
-   "location": "Tuttlingen +2"
-  },
-  "f0b231474fa868ad2adc593bd1edb4e5": {
-   "id": "f0b231474fa868ad2adc593bd1edb4e5",
-   "company": "Grundfos",
-   "role": "Servicetechniker (m/w/d) Für Den Großraum Pforzheim",
-   "location": "Pforzheim +1"
-  },
-  "319efca62ec9fd4784808548597fc9e7": {
-   "id": "319efca62ec9fd4784808548597fc9e7",
-   "company": "Thermo Fisher Scientific",
-   "role": "Field Service Engineer/ Servicetechniker (m/w/d) Chromatography And Molecular Spectroscopy/ Discrete Analyzer",
-   "location": "Berlin +1"
   },
   "0b460cdea3f8772245fdbb8fd7457580": {
    "id": "0b460cdea3f8772245fdbb8fd7457580",
@@ -3932,6 +3932,18 @@
    "role": "Verkäufer (m/w/d), Aushilfe, Mülheim (forum)",
    "location": "Dusseldorf"
   },
+  "dfee73f85493c05c733abc4bb4a82247": {
+   "id": "dfee73f85493c05c733abc4bb4a82247",
+   "company": "SCHOTT",
+   "role": "Mitarbeiterin Logistik & Verpackung (m/w/d)*",
+   "location": "GrüNenplan"
+  },
+  "93ac10791c00f759f817cba4944bf72c": {
+   "id": "93ac10791c00f759f817cba4944bf72c",
+   "company": "SCHOTT",
+   "role": "Customer Service Specialist (m/w/d)*",
+   "location": "Eschershausen"
+  },
   "3d4643f13a03ec1f1ea5ec7b0abf6996": {
    "id": "3d4643f13a03ec1f1ea5ec7b0abf6996",
    "company": "Gebrueder Weiss GmbH",
@@ -4399,18 +4411,6 @@
    "company": "koerber",
    "role": "Assistenz Der Geschäftsführung / Vorstandsassistenz (m/w/d)",
    "location": "Unknown"
-  },
-  "93f56c2654855049ea19916e67e13a33": {
-   "id": "93f56c2654855049ea19916e67e13a33",
-   "company": "ResMed Inc",
-   "role": "Customer Service Specialist (m/w/d)",
-   "location": "Bundesweit"
-  },
-  "8aacd65ab1ac84cd1ac3e79719bf32e1": {
-   "id": "8aacd65ab1ac84cd1ac3e79719bf32e1",
-   "company": "Zinßer Mühle seit 1524",
-   "role": "Persönliche Assistenz Des Geschäftsführers (m/w/d) Teilzeit",
-   "location": "Hochdorf"
   }
  }
 }

@@ -11601,4 +11601,17 @@
 <tr><td>ENERCON IT Service GmbH</td><td>Elektriker / Elektroniker (m/w/d)</td><td>Lautertal</td><td>2026-11-16</td></tr>
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Berlin (charlottenburg)</td><td>Berlin</td><td>2026-11-16</td></tr>
 <tr><td>adidas AG</td><td>Team Coordinator (m/w/d) Inbound</td><td>Unknown</td><td>2026-11-16</td></tr>
+<tr><td>Deloitte GmbH</td><td>Praktikant Marketing - Projektmanagement (m/w/d)</td><td>Munich</td><td>2026-11-17</td></tr>
+<tr><td>Holcim</td><td>Ausbildung Aufbereitungsmechaniker (m/w/d)</td><td>Kerken</td><td>2026-11-17</td></tr>
+<tr><td>Airbus SE</td><td>Electronic Warfare Developer (d/m/f)</td><td>Ingolstadt</td><td>2026-11-17</td></tr>
+<tr><td>Skylight</td><td>Sap Warehouse Data Analyst (m/w/d)</td><td>Sonneborn</td><td>2026-11-17</td></tr>
+<tr><td>Jobgether</td><td>Mid Qa Mobile Automation Engineer</td><td>Germany</td><td>2026-11-17</td></tr>
+<tr><td>Franke Group</td><td>Mitarbeiter Finanzbuchhaltung (m/w/d)</td><td>GrüNsfeld</td><td>2026-11-17</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Fund Accountant (m/w/d) Real Assets - Befristete Elternzeitvertretung</td><td>Nach Standort Suchen* Nach Postleitzahl Suchen* Nach Standort Suchen*</td><td>2026-11-17</td></tr>
+<tr><td>Max Weishaupt GmbH</td><td>Kundendiensttechniker (m/w/d)</td><td>Germany</td><td>2026-11-17</td></tr>
+<tr><td>B. Braun Melsungen AG</td><td>Servicetechniker (w/m/d) Im Außendienst</td><td>Tuttlingen +2</td><td>2026-11-17</td></tr>
+<tr><td>Grundfos</td><td>Servicetechniker (m/w/d) Für Den Großraum Pforzheim</td><td>Pforzheim +1</td><td>2026-11-17</td></tr>
+<tr><td>Thermo Fisher Scientific</td><td>Field Service Engineer/ Servicetechniker (m/w/d) Chromatography And Molecular Spectroscopy/ Discrete Analyzer</td><td>Berlin +1</td><td>2026-11-17</td></tr>
+<tr><td>ResMed Inc</td><td>Customer Service Specialist (m/w/d)</td><td>Bundesweit</td><td>2026-11-17</td></tr>
+<tr><td>Zinßer Mühle seit 1524</td><td>Persönliche Assistenz Des Geschäftsführers (m/w/d) Teilzeit</td><td>Hochdorf</td><td>2026-11-17</td></tr>
 </table>
