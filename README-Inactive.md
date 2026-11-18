@@ -11614,4 +11614,39 @@
 <tr><td>Thermo Fisher Scientific</td><td>Field Service Engineer/ Servicetechniker (m/w/d) Chromatography And Molecular Spectroscopy/ Discrete Analyzer</td><td>Berlin +1</td><td>2026-11-17</td></tr>
 <tr><td>ResMed Inc</td><td>Customer Service Specialist (m/w/d)</td><td>Bundesweit</td><td>2026-11-17</td></tr>
 <tr><td>Zinßer Mühle seit 1524</td><td>Persönliche Assistenz Des Geschäftsführers (m/w/d) Teilzeit</td><td>Hochdorf</td><td>2026-11-17</td></tr>
+<tr><td>Prysmian Group</td><td>Intern Raw Material Purchasing Europe</td><td>Berlin</td><td>2026-11-18</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern, Local Service Desk</td><td>Berlin</td><td>2026-11-18</td></tr>
+<tr><td>Parloa</td><td>Finance Systems Intern</td><td>Berlin +1</td><td>2026-11-18</td></tr>
+<tr><td>premium-aerotec.com</td><td>Industrial Design Intern – Product Design Cabin. Hamburg (d/f/m)</td><td>Hamburg</td><td>2026-11-18</td></tr>
+<tr><td>Zdf</td><td>Praktikum Redaktion Frontal (01/2027 - 06/2027)</td><td>Darmstadt</td><td>2026-11-18</td></tr>
+<tr><td>Continental</td><td>Praktikum - Computer Vision & Industrielle KI - REF100494U</td><td>Hanover</td><td>2026-11-18</td></tr>
+<tr><td>Continental AG</td><td>Praktikum - Computer Vision & Industrielle Ki - Ref100494u</td><td>Hanover</td><td>2026-11-18</td></tr>
+<tr><td>createyourowncareer</td><td>Landsberg Ausbildung Zur Fachkraft Lagerlogistik (mwx)</td><td>Landsberg-Queis</td><td>2026-11-18</td></tr>
+<tr><td>Volkswagen</td><td>Developer (m/w/d) - Kalkulationssysteme</td><td>Unknown</td><td>2026-11-18</td></tr>
+<tr><td>gesundheits-stellenmarkt.de</td><td>Software Engineer (m/w/d) Vz/tz</td><td>Kelberg</td><td>2026-11-18</td></tr>
+<tr><td>Jobgether</td><td>Marketing & Data Analyst</td><td>Germany</td><td>2026-11-18</td></tr>
+<tr><td>Capco (Greenhouse/capco)</td><td>Business Analyst* – Capital Markets (middle & Back Office Operations)</td><td>Frankfurt Am Main</td><td>2026-11-18</td></tr>
+<tr><td>Westfalen AG</td><td>Anlagenbuchhalter (m/w/d)</td><td>MüNster +1</td><td>2026-11-18</td></tr>
+<tr><td>Schneider Electric</td><td>Business Process Analyst Crm (w/m/d)</td><td>Dusseldorf</td><td>2026-11-18</td></tr>
+<tr><td>Chiesi Farmaceutici S.p.A</td><td>Business Analyst Rare Diseases (all Genders)</td><td>Hamburg +1</td><td>2026-11-18</td></tr>
+<tr><td>Chiesi Farmaucetici S.p.A</td><td>Working Student (all Genders) Business Analytics</td><td>Hamburg +1</td><td>2026-11-18</td></tr>
+<tr><td>Gv Management GmbH</td><td>Bilanz- Oder Finanzbuchhalter In Vz (m/w/d)</td><td>Germany</td><td>2026-11-18</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Berufseinstieg Consulting - Driven By Skills. Not By Job Titles (w/m/d)</td><td>Berlin +1</td><td>2026-11-18</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektriker Als Servicetechniker M/w/d Für Tür- Und Toranlagen</td><td>Koblenz +1</td><td>2026-11-18</td></tr>
+<tr><td>Bdrthermea</td><td>Kundendiensttechniker Für Den Großraum Cloppenburg/papenburg (*)</td><td>Cloppenburg +1</td><td>2026-11-18</td></tr>
+<tr><td>Bdrthermeagroup</td><td>Kundendiensttechniker Für Die Region Hamburg/bremen (*)</td><td>Hamburg +1</td><td>2026-11-18</td></tr>
+<tr><td>Gebrueder Weiss GmbH</td><td>Betriebsschlosser/ Instandhalter (m/w/d)</td><td>Germany</td><td>2026-11-18</td></tr>
+<tr><td>Gradiant</td><td>Kundendiensttechniker (m/w/d) - Deutschlandweit</td><td>Stuttgart</td><td>2026-11-18</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Schildergasse Köln (m/w/d)</td><td>Cologne</td><td>2026-11-18</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Stuttgart</td><td>Stuttgart</td><td>2026-11-18</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Lüdenscheid</td><td>Wuppertal</td><td>2026-11-18</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Königswinter</td><td>Cologne</td><td>2026-11-18</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Aushilfe/minijob Verkauf Services, Solution & Reparaturen (m/w/d)</td><td>Berlin</td><td>2026-11-18</td></tr>
+<tr><td>H&M</td><td>Ausbildung Kaufmann Im Einzelhandel – Saarbrücken (m/w/d)</td><td>Saarbruecken</td><td>2026-11-18</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Gelsenkirchen-resse (20 Std)</td><td>Dortmund</td><td>2026-11-18</td></tr>
+<tr><td>Dyson</td><td>Verkaufsberater.in/sales Associate</td><td>Berlin</td><td>2026-11-18</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (linden-center)</td><td>Berlin</td><td>2026-11-18</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Mülheim (forum)</td><td>Dusseldorf</td><td>2026-11-18</td></tr>
+<tr><td>TD SYNNEX</td><td>Executive Assistant / Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-11-18</td></tr>
+<tr><td>koerber</td><td>Assistenz Der Geschäftsführung / Vorstandsassistenz (m/w/d)</td><td>Unknown</td><td>2026-11-18</td></tr>
 </table>
