@@ -11649,4 +11649,73 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Mülheim (forum)</td><td>Dusseldorf</td><td>2026-11-18</td></tr>
 <tr><td>TD SYNNEX</td><td>Executive Assistant / Assistenz Der Geschäftsführung (m/w/d)</td><td>Munich</td><td>2026-11-18</td></tr>
 <tr><td>koerber</td><td>Assistenz Der Geschäftsführung / Vorstandsassistenz (m/w/d)</td><td>Unknown</td><td>2026-11-18</td></tr>
+<tr><td>Triton Processing Inc</td><td>Private Equity Intern - Frankfurt January - March 2027</td><td>Frankfurt +1</td><td>2026-11-19</td></tr>
+<tr><td>Infineon</td><td>Internship - Strategy Projects (f/m/div)</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>CLAAS Saulgau GmbH</td><td>Student (m/w/d) Claas Inside / Praktikum Energiemanagement</td><td>Constance</td><td>2026-11-19</td></tr>
+<tr><td>Puma</td><td>Internship Global Go-to-market Horizontal Excellence</td><td>Puma Way Headquarters</td><td>2026-11-19</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Praktikum / Internship International Marketing & Sales</td><td>Schwaikheim +1</td><td>2026-11-19</td></tr>
+<tr><td>createyourowncareer</td><td>Praktikant:in (w/m/d) Streaming</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>LawZero</td><td>Expression Of Interest : 2027 Internships</td><td>Berlin +1</td><td>2026-11-19</td></tr>
+<tr><td>Estée Lauder</td><td>E-merchandising Intern (m/w/d)</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>Johnson & Johnson</td><td>Intern (m/w/d) Transformation & Innovation Excellence</td><td>Dusseldorf</td><td>2026-11-19</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Elmshorn (m/w/d)</td><td>Hamburg</td><td>2026-11-19</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Trainee Zur Führungskraft - Filiale (m/w/d) 2027, Großraum Ratingen</td><td>Dusseldorf</td><td>2026-11-19</td></tr>
+<tr><td>Vonovia SE</td><td>Berlin Ausbildung Elektroniker (mwd) Berlin (fortlaufend) Berl 10115</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>Sandoz</td><td>Ausbildung Zum Maschinen- Und Anlagenführer (m/w/d) Start 01.09.2027 / Standort Holzkirchen</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>Mister Spex</td><td>Werkstudent It Support (m/w/d)</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>BMW Group</td><td>Embedded Software Graphic Expert (f/m/x)</td><td>Ulm</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer - Elevenmusic</td><td>Germany</td><td>2026-11-19</td></tr>
+<tr><td>Maiaspace</td><td>Stage - Software Crafter 3.0 (devops + Ai)</td><td>Paris +1</td><td>2026-11-19</td></tr>
+<tr><td>Tibber Group</td><td>Fullstack Engineer</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>Apple</td><td>Software Developer (tools & Automation - Cellular) (m/f/d)</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Softwareentwickler Automatisierungstechnik (m/w/d)</td><td>Wolfertschwenden</td><td>2026-11-19</td></tr>
+<tr><td>ThyssenKrupp AG</td><td>Expert Rechnungswesen & Rechnungsprüfung - Großprojekt Direktreduktionsanlage (m/w/d)</td><td>Hamborn</td><td>2026-11-19</td></tr>
+<tr><td>Jobgether</td><td>Income Reconciliation Accountant</td><td>Germany</td><td>2026-11-19</td></tr>
+<tr><td>JPMorgan Chase</td><td>Cash & Card Business Analyst (all Genders)</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>RED Global</td><td>EDI Business Analyst</td><td>Western Europe</td><td>2026-11-19</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Berater Für Public Safety - Business Transformation (w/m/d)</td><td>Berlin +1</td><td>2026-11-19</td></tr>
+<tr><td>Palaceentertainment</td><td>Finanzbuchhalter:in Debitor (m/w/d)</td><td>Tropical Island</td><td>2026-11-19</td></tr>
+<tr><td>Golden Palms Rehabilitation and Retirement</td><td>Finanzbuchhalter:in Debitor (m/w/d)</td><td>Tropical Island</td><td>2026-11-19</td></tr>
+<tr><td>thermofin GmbH</td><td>Bilanzbuchhalter (m/w/d)</td><td>Heinsdorfergrund</td><td>2026-11-19</td></tr>
+<tr><td>Kirchliche Hochschule Bethel</td><td>Facharzt (m/w/d) Intensivstation</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>ManTech</td><td>Field Service Engineer</td><td>Herndon +1</td><td>2026-11-19</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Field Service Engineer (m/f/d)</td><td>Ratingen +3</td><td>2026-11-19</td></tr>
+<tr><td>Johnson Controls</td><td>Servicetechniker (m/w/d) Feuerschutz</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Mitarbeitender Werkstattmeister (m/w/d) Am Standort Weil Am Rhein</td><td>Weil Am Rhein +1</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Mitarbeitender Meister (m/w/d) Am Standort Ansbach</td><td>Ansbach +1</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Kfz-mechatroniker (m/w/d) Am Standort Münster-senden</td><td>MüNster-Senden</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Servicetechniker Bus (m/w/d) Im Außendienst Am Standort Karlsfeld</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Servicetechniker Bus (m/w/d) Am Standort Neu-ulm</td><td>Neu-Ulm +1</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Servicetechniker Bus (m/w/d) Am Standort Freiburg</td><td>Freiburg +1</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Servicetechniker Bus (m/w/d) Im Außendienst Am Standort Göttingen</td><td>GöTtingen +1</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Servicetechniker Bus (m/w/d) Im Außendienst Am Standort Braunschweig</td><td>Braunschweig +1</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Servicetechniker Bus (m/w/d) Im Außendienst Am Standort Dresden-kaditz</td><td>Dresden-Kaditz</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Werkstattmeister (m/w/d) Am Standort Berlin-wildau</td><td>Berlin-Wildau</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Werkstattmeister / Springer (m/w/d) In Der Region West</td><td>Region West +5</td><td>2026-11-19</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Werkstattmeister (m/w/d) Am Standort Berlin-lichtenberg</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Aufzüge Im Raum Laupheim, Ehingen, Biberach</td><td>Ulm</td><td>2026-11-19</td></tr>
+<tr><td>CERATIZIT Balzheim GmbH & Co. KG</td><td>Mechatroniker:in Instandhaltung</td><td>Balzheim +1</td><td>2026-11-19</td></tr>
+<tr><td>GEZE GmbH</td><td>Service- Und Montagetechniker (m/w/d) Für Kirchheim Unter Teck</td><td>Kirchheim Unter Teck +1</td><td>2026-11-19</td></tr>
+<tr><td>GEZE Deutschland GmbH</td><td>Service- Und Montagetechniker (m/w/d) München</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Aufzüge</td><td>Flensburg +2</td><td>2026-11-19</td></tr>
+<tr><td>KONE Croatia</td><td>Mechatroniker, Elektroniker Als Servicetechniker M/w/d Für Das Reparaturgeschäft</td><td>Paderborn +1</td><td>2026-11-19</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Nuremberg</td><td>2026-11-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Dortmund</td><td>2026-11-19</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop München</td><td>Munich</td><td>2026-11-19</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (bad Godesberg)</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Tchibo GmbH</td><td>Warenverräumer (m/w/d), Aushilfe, Hürth</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Köln (sülz)</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)</td><td>Dortmund</td><td>2026-11-19</td></tr>
+<tr><td>Beyond Yoga</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis (für Minijobber)</td><td>Mannheim</td><td>2026-11-19</td></tr>
+<tr><td>Beyond Yoga</td><td>Sales Stylist/verkäufer (m/w/d) In Vollzeit</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Beyond Yoga</td><td>Sales Stylist/verkäufer (m/w/d) In Teilzeit (20 Stunden)</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Beyond Yoga</td><td>Sales Stylist/verkäufer (m/w/d) Auf Geringfügiger Basis</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Berlin Marzahn</td><td>Berlin</td><td>2026-11-19</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Leverkusen</td><td>Cologne</td><td>2026-11-19</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Teamassistenz - Deal Advisory (w/m/d) - Frankfurt</td><td>Frankfurt Am Main</td><td>2026-11-19</td></tr>
+<tr><td>IQVIA UK</td><td>Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-19</td></tr>
+<tr><td>Allianz SE</td><td>Executive Assistant Program (m/w/d) Am Standort Stuttgart</td><td>Stuttgart +1</td><td>2026-11-19</td></tr>
+<tr><td>Amprion GmbH</td><td>Assistenz Der Bereichsleitung Asset Management (m/w/d)</td><td>Unknown</td><td>2026-11-19</td></tr>
 </table>
