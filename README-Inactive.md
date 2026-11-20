@@ -11718,4 +11718,45 @@
 <tr><td>IQVIA UK</td><td>Werkstudent – Administrative Assistant - Real World Solutions – Pharma & Healthcare (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-19</td></tr>
 <tr><td>Allianz SE</td><td>Executive Assistant Program (m/w/d) Am Standort Stuttgart</td><td>Stuttgart +1</td><td>2026-11-19</td></tr>
 <tr><td>Amprion GmbH</td><td>Assistenz Der Bereichsleitung Asset Management (m/w/d)</td><td>Unknown</td><td>2026-11-19</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Organisationsentwicklung Und Prozessmanagement (w/m/x)</td><td>Munich +1</td><td>2026-11-20</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Personalbetreuung Und Personalentwicklung (w/m/x)</td><td>Munich</td><td>2026-11-20</td></tr>
+<tr><td>Charles River Associates</td><td>Praktikant/in, Life Sciences Strategieberatung/life Sciences Intern (2027 Start) - M/w/d</td><td>Munich +1</td><td>2026-11-20</td></tr>
+<tr><td>trivago N.V</td><td>Internship - Media Buying</td><td>DüSseldorf</td><td>2026-11-20</td></tr>
+<tr><td>Allianz SE</td><td>Intern In Risk Monitoring At Allianz Se (m/f/d)</td><td>MüNchen +1</td><td>2026-11-20</td></tr>
+<tr><td>Westwing</td><td>Intern Pricing & Retail Performance (m/f/d)</td><td>Munich +1</td><td>2026-11-20</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern, Local Service Desk - (ets)</td><td>Berlin</td><td>2026-11-20</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Graphic Design Global Ecommerce Marketing (m/f/d)</td><td>Metzingen +1</td><td>2026-11-20</td></tr>
+<tr><td>TikTok</td><td>Business Development Intern (tiktok Shop Operations) - 2027 Start</td><td>Munich</td><td>2026-11-20</td></tr>
+<tr><td>Volkswagen</td><td>Apprenticeship, Internship &amp; Academic Programs (f/m/d)</td><td>Germany</td><td>2026-11-20</td></tr>
+<tr><td>Tiffany 2</td><td>Intern Marketing (m/f/d)</td><td>MüNchen +1</td><td>2026-11-20</td></tr>
+<tr><td>EF Education First</td><td>Praktikum Marketing & Events</td><td>Germany</td><td>2026-11-20</td></tr>
+<tr><td>EF Education First</td><td>Praktikum Online Marketing</td><td>Germany</td><td>2026-11-20</td></tr>
+<tr><td>P&G</td><td>Ausbildung Fachkraft Zur Lagerlogistik (m/w/*) - Ausbildungsstart 2027</td><td>Seefeld Bei MüNchen</td><td>2026-11-20</td></tr>
+<tr><td>P&G</td><td>Ausbildung Zum Chemikanten (m/w/*) - Ausbildungsstart 2027</td><td>Seefeld Bei MüNchen</td><td>2026-11-20</td></tr>
+<tr><td>P&G</td><td>Ausbildung Zum Industriemechaniker (m/w/*) - Ausbildungsstart 2027</td><td>Seefeld Bei MüNchen</td><td>2026-11-20</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Trainee (w/m/d) Steuerung Banking Operations</td><td>Unknown</td><td>2026-11-20</td></tr>
+<tr><td>Lidl Ltd</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Germany</td><td>2026-11-20</td></tr>
+<tr><td>Festo AG & Co. KG</td><td>Umschulung Mechatroniker (m/w/d)</td><td>Nach Standort Suchen Nach Postleitzahl Suchen Nach Standort Suchen</td><td>2026-11-20</td></tr>
+<tr><td>THALES</td><td>Java Softwareentwickler (m/w/d) Für Hmi</td><td>Stuttgart</td><td>2026-11-20</td></tr>
+<tr><td>Airbus Defence and Space GmbH</td><td>Defensive Aids Simulation Sw Engineer (d/m/f)</td><td>Ingolstadt</td><td>2026-11-20</td></tr>
+<tr><td>Gartner UK</td><td>Managing Partner, Public Sector</td><td>Munich</td><td>2026-11-20</td></tr>
+<tr><td>AXA UK</td><td>Business Analyst Betriebliche Altersvorsorge (m/w/d) Prozesse & Systeme</td><td>Standort KöLn</td><td>2026-11-20</td></tr>
+<tr><td>Accenture Australia</td><td>Supply Chain Strategy Consulting Analyst (all Genders)</td><td>Dusseldorf</td><td>2026-11-20</td></tr>
+<tr><td>TOMRA Systems GmbH</td><td>Servicetechniker* Für Leergutautomaten - Unbefristet</td><td>Heidelberg +1</td><td>2026-11-20</td></tr>
+<tr><td>BottleCycler</td><td>Servicetechniker* Für Leergutautomaten - Unbefristet</td><td>GroßRaum WüRzburg +2</td><td>2026-11-20</td></tr>
+<tr><td>Bechtle AG</td><td>It Servicetechniker (w/m/d)</td><td>Wolfsburg +1</td><td>2026-11-20</td></tr>
+<tr><td>Lucid Motors</td><td>Service Techniker, Munich (m/f/d)</td><td>Munich</td><td>2026-11-20</td></tr>
+<tr><td>Bdrthermeagroup</td><td>Kundendiensttechniker Für Den Großraum Bayrischer Wald (*)</td><td>Bayrischer Wald</td><td>2026-11-20</td></tr>
+<tr><td>Aggreko</td><td>Servicetechniker Im Bereich Kälte- Und Klimatechnik (m/w/d)</td><td>Frankfurt +1</td><td>2026-11-20</td></tr>
+<tr><td>ABB UK</td><td>Servicetechniker / Elektroniker (m/w/d) Mittelspannungstechnik – Bundesweite Einsätze</td><td>Germany</td><td>2026-11-20</td></tr>
+<tr><td>Captrain Deutschland GmbH</td><td>Eisenbahnfahrzeugschlosser / Mechaniker (d/m/w) - Instandhaltung Schienenfahrzeuge</td><td>Bitterfeld-Wolfen +1</td><td>2026-11-20</td></tr>
+<tr><td>Captrain Deutschland GmbH</td><td>Auszubildender (d/m/w) Für Den Beruf Mechatroniker Lokinstandhaltung</td><td>Bremen +1</td><td>2026-11-20</td></tr>
+<tr><td>Max Weishaupt SE</td><td>Kundendiensttechniker (m/w/d)</td><td>Neuss +3</td><td>2026-11-20</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Wuppertal</td><td>2026-11-20</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Bonn (innenstadt)</td><td>Cologne</td><td>2026-11-20</td></tr>
+<tr><td>LGC</td><td>Quality Assurance Specialist (m/f/d)</td><td>Berlin +1</td><td>2026-11-20</td></tr>
+<tr><td>GXO Logistics</td><td>Mitarbeiter Transport- Und Versandabwicklung (m/w/d)</td><td>Search By Postal Code</td><td>2026-11-20</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Freight Forwarder (m/f/d)</td><td>Mlochow</td><td>2026-11-20</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Assistenz Der Geschäftsleitung - Mitarbeiter Im Innendienst (agentur)</td><td>Germany</td><td>2026-11-20</td></tr>
+<tr><td>Schwarz Produktion</td><td>Werkstudent Logistik (w/m/d)</td><td>Neuensalz</td><td>2026-11-20</td></tr>
 </table>
