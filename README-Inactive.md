@@ -11759,4 +11759,37 @@
 <tr><td>DSV Panalpina AS</td><td>Freight Forwarder (m/f/d)</td><td>Mlochow</td><td>2026-11-20</td></tr>
 <tr><td>SIGNAL IDUNA</td><td>Assistenz Der Geschäftsleitung - Mitarbeiter Im Innendienst (agentur)</td><td>Germany</td><td>2026-11-20</td></tr>
 <tr><td>Schwarz Produktion</td><td>Werkstudent Logistik (w/m/d)</td><td>Neuensalz</td><td>2026-11-20</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Bereich Human Resources Bei Bosch Smart Home</td><td>Stuttgart +1</td><td>2026-11-21</td></tr>
+<tr><td>DZ Bank AG Deutsche Zentral-Genossenschaftsbank</td><td>Praktikum (m/w/d) Im Bereich Konzern-personal, Schwerpunkt Nachwuchskräfte In Frankfurt 2027</td><td>Frankfurt Am Main</td><td>2026-11-21</td></tr>
+<tr><td>AbbVie</td><td>Werkstudent (w/m/d) Im Bereich Corporate Communication</td><td>Wiesbaden +1</td><td>2026-11-21</td></tr>
+<tr><td>Bloomberg LP</td><td>2027 Summer News Internship</td><td>Frankfurt Am Main</td><td>2026-11-21</td></tr>
+<tr><td>Bechtle AG</td><td>Praktikant Personalentwicklung (w/m/d)</td><td>Neckarsulm +1</td><td>2026-11-21</td></tr>
+<tr><td>Copart</td><td>Praktikum Logistik (m/w/d)</td><td>De D +1</td><td>2026-11-21</td></tr>
+<tr><td>Hughes</td><td>Intern – Geology, Geosciences Or Geophysics – 2026 (m/f/d)</td><td>Strasse 1</td><td>2026-11-21</td></tr>
+<tr><td>Baker Hughes</td><td>Intern – Mechanical Engineering & Mechatronics – 2026 (m/f/d)</td><td>Strasse 1</td><td>2026-11-21</td></tr>
+<tr><td>Hughes</td><td>Intern – Systems & Data Analysis – 2026 (m/f/d)</td><td>Strasse 1</td><td>2026-11-21</td></tr>
+<tr><td>Kaufland Stiftung & Co. KG</td><td>Ausbildung Zur Fachkraft Für Lebensmitteltechnik (m/w/d) 2027</td><td>Osterfeld</td><td>2026-11-21</td></tr>
+<tr><td>Vonovia SE</td><td>Ausbildung Gärtner:in Im Landschaftsbau 2027 - Essen</td><td>Wuppertal</td><td>2026-11-21</td></tr>
+<tr><td>THALES</td><td>Embedded Software Developer (m/w/d)</td><td>Ditzingen Sra Ome</td><td>2026-11-21</td></tr>
+<tr><td>ww-ag</td><td>Kornwestheim 2 Business Analysten (mwd) Mit Schwerpunkt Dwh & Datenmodellierung Bw 70806</td><td>Stuttgart</td><td>2026-11-21</td></tr>
+<tr><td>MEDIFOX DAN Gruppe</td><td>Commercial Performance Analyst Marketing & Sales (m/w/d)</td><td>Germany</td><td>2026-11-21</td></tr>
+<tr><td>CGM</td><td>Business Analyst (m/w/d) Abrechnung</td><td>Martinsried</td><td>2026-11-21</td></tr>
+<tr><td>TOMRA Systems GmbH</td><td>Servicetechniker* Für Leergutautomaten - Unbefristet</td><td>GöPpingen +2</td><td>2026-11-21</td></tr>
+<tr><td>BottleCycler</td><td>Servicetechniker* Für Leergutautomaten - Unbefristet</td><td>Freiburg Im Breisgau</td><td>2026-11-21</td></tr>
+<tr><td>Max Weishaupt GmbH</td><td>Kundendiensttechniker (m/w/d)</td><td>Leipzig</td><td>2026-11-21</td></tr>
+<tr><td>Getinge</td><td>Servicetechniker Surgical Workflows (m/w/d) Raum Sattledt/wels</td><td>Sattledt</td><td>2026-11-21</td></tr>
+<tr><td>Carrier</td><td>Servicetechniker/mechatroniker (m/w/d) Für Kälte- Und Klimatechnik In München</td><td>Munich</td><td>2026-11-21</td></tr>
+<tr><td>Testia</td><td>Baugruppenmechaniker Hydraulik (d/m/w)</td><td>Hamburg Area</td><td>2026-11-21</td></tr>
+<tr><td>Testia</td><td>Instandhaltungsmechaniker (d/m/w)</td><td>Hamburg Area</td><td>2026-11-21</td></tr>
+<tr><td>Johnson Controls</td><td>Bauleitender Monteur (m/w/d)</td><td>Ettlingen +1</td><td>2026-11-21</td></tr>
+<tr><td>Rewe Group</td><td>Elektriker / Elektroniker Logistik (m/w/d)</td><td>Neudietendorf</td><td>2026-11-21</td></tr>
+<tr><td>Statkraft</td><td>Industriemechaniker (f/m/d)</td><td>Landesbergen</td><td>2026-11-21</td></tr>
+<tr><td>MANGO</td><td>Lagerist (m/w/d) In Teilzeit 20 Std./w.</td><td>Oberhausen +2</td><td>2026-11-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (alex)</td><td>Berlin</td><td>2026-11-21</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Düsseldorf (geresheim)</td><td>Dusseldorf</td><td>2026-11-21</td></tr>
+<tr><td>Freie Universität Berlin</td><td>Teamassistenz (w/m/d) (913)</td><td>Berlin</td><td>2026-11-21</td></tr>
+<tr><td>Vontobel</td><td>Executive Private Client Assistance</td><td>Munich</td><td>2026-11-21</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Compliance Specialist, It Compliance Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-11-21</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Logistikmitarbeiter Gefahrgutkoordinator / Sachbearbeiter Gefahrgut (m/w/d)</td><td>Mutzschen</td><td>2026-11-21</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Mitarbeiter Transport- Und Versandabwicklung (m/w/d)</td><td>Search By Postal Code</td><td>2026-11-21</td></tr>
 </table>
