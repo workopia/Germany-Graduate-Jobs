@@ -11792,4 +11792,36 @@
 <tr><td>DSV Panalpina AS</td><td>Compliance Specialist, It Compliance Dach (m/w/d)</td><td>Dusseldorf</td><td>2026-11-21</td></tr>
 <tr><td>DSV Panalpina AS</td><td>Logistikmitarbeiter Gefahrgutkoordinator / Sachbearbeiter Gefahrgut (m/w/d)</td><td>Mutzschen</td><td>2026-11-21</td></tr>
 <tr><td>GXO Logistics, Inc.</td><td>Mitarbeiter Transport- Und Versandabwicklung (m/w/d)</td><td>Search By Postal Code</td><td>2026-11-21</td></tr>
+<tr><td>Heineken International BV</td><td>Internship - Marketing &amp; Trade Marketing Eu &amp; Cis</td><td>Amsterdam +2</td><td>2026-11-22</td></tr>
+<tr><td>ZEISS Group</td><td>Praktikum Im Bereich Ki Für Qualitätsmanagement (m/w/x)</td><td>Berlin</td><td>2026-11-22</td></tr>
+<tr><td>Webasto SE</td><td>Legal Intern (f/m/x) For An Elective Internship</td><td>Bayern</td><td>2026-11-22</td></tr>
+<tr><td>Allianz SE</td><td>Intern - Ai Project Management (m/f/d)</td><td>Munich</td><td>2026-11-22</td></tr>
+<tr><td>Allianz SE</td><td>Intern - Operational Risk Management Transformation (f/m/d)</td><td>MüNchen +1</td><td>2026-11-22</td></tr>
+<tr><td>Rewe Group</td><td>Praktikum Office Design & Relocation (m/w/d)</td><td>Cologne</td><td>2026-11-22</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum It-sicherheit In Der Fertigung</td><td>Stuttgart +1</td><td>2026-11-22</td></tr>
+<tr><td>Bosch Rexroth AG</td><td>Praktikum In Content Management, Mediengestaltung Und Interne Kommunikation</td><td>Lohr Am Main +1</td><td>2026-11-22</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern - Ai Project Management (m/f/d)</td><td>Munich</td><td>2026-11-22</td></tr>
+<tr><td>Airbus Helicopters Deutschland GmbH</td><td>Praktikum Im Bereich Quality - Final Assembly Line</td><td>Augsburg</td><td>2026-11-22</td></tr>
+<tr><td>Trane</td><td>Auszubildender Fachkraft Für Lagerlogistik</td><td>Jettingen</td><td>2026-11-22</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Fullstack Engineer - Typescript & Aws (m/w/d)</td><td>Berlin +1</td><td>2026-11-22</td></tr>
+<tr><td>Jobgether</td><td>Forward Deployed Agile Software Engineer</td><td>Germany</td><td>2026-11-22</td></tr>
+<tr><td>Jobgether</td><td>Full-stack Engineer (backend Leaning) - Payments Engineering</td><td>Germany</td><td>2026-11-22</td></tr>
+<tr><td>Tesat-Spacecom GmbH & Co. KG</td><td>Ai Software Developer & Embedded Systems (m/w/d)</td><td>Stuttgart Area</td><td>2026-11-22</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Non-financial Risk Management (financial Services) (w/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-22</td></tr>
+<tr><td>Altman Solon</td><td>Business Analyst Tmt (m/f/d)</td><td>Munich</td><td>2026-11-22</td></tr>
+<tr><td>TikTok</td><td>Uk & Eu Fulfillment Business Analyst - Tiktok Shop</td><td>Dusseldorf</td><td>2026-11-22</td></tr>
+<tr><td>134</td><td>Accountant</td><td>71000</td><td>2026-11-22</td></tr>
+<tr><td>Sanofi</td><td>Area Maintenance Technician (all Genders)</td><td>Frankfurt Am Main +1</td><td>2026-11-22</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Mitarbeiter Bereich Reparatur Und Montage Customer Service Bereich Antriebstechnik (m/w/d)</td><td>Biberach +1</td><td>2026-11-22</td></tr>
+<tr><td>DHL Group</td><td>Techniker/ Mechatroniker In Frechen (m/w/d)</td><td>Cologne</td><td>2026-11-22</td></tr>
+<tr><td>Lucid Motors</td><td>Service Technician, Munich (m/f/d)</td><td>Munich</td><td>2026-11-22</td></tr>
+<tr><td>Hitachi Metals</td><td>Field Service Techniker (m/w/d)</td><td>Halle (Saale)</td><td>2026-11-22</td></tr>
+<tr><td>Eurofins Scientific</td><td>Mitarbeiter Warenannahme & Laborbedarfversorgung Bereich Biologics (m/w/d)</td><td>Munich +1</td><td>2026-11-22</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Stuttgart</td><td>2026-11-22</td></tr>
+<tr><td>ALDI International Services GmbH & Co. oHG</td><td>Verkaufsmitarbeiter (m/w/d) Prager Straße 77, 3580 Horn</td><td>Hamburg</td><td>2026-11-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Mülheim</td><td>Dusseldorf</td><td>2026-11-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Essen</td><td>Wuppertal</td><td>2026-11-22</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (hbf)</td><td>Berlin</td><td>2026-11-22</td></tr>
+<tr><td>LBBW</td><td>Assistenz Der Abteilungsleitung (m/w/d)</td><td>Stuttgart</td><td>2026-11-22</td></tr>
+<tr><td>Securitas Critical Infrastructure Services</td><td>Customer Service Specialist (m/w/d)</td><td>Mannheim</td><td>2026-11-22</td></tr>
 </table>
