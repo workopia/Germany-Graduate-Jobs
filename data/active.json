@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-22",
+ "asOf": "2026-11-23",
  "count": 777,
  "jobs": {
   "c9c08847ef62d89b5f80d10539e850e1": {
@@ -482,6 +482,12 @@
    "role": "Mandatory Internship in Training - Sensor Intelligence Academy",
    "location": "Waldkirch-Buchholz"
   },
+  "9c947d0e55cc6cce8b9ee1cb4f5a2766": {
+   "id": "9c947d0e55cc6cce8b9ee1cb4f5a2766",
+   "company": "NKT",
+   "role": "Apprenticeship As An Industrial Mechanic (m/f/d)",
+   "location": "Cologne +1"
+  },
   "7c743a00b189f1b9cf55e4c88963adb3": {
    "id": "7c743a00b189f1b9cf55e4c88963adb3",
    "company": "LKQ Europe",
@@ -955,12 +961,6 @@
    "company": "H&M",
    "role": "Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Dortmund (m/w/d)",
    "location": "Dortmund"
-  },
-  "7799f754766778e97472b74f32cfc40e": {
-   "id": "7799f754766778e97472b74f32cfc40e",
-   "company": "cloud.sap",
-   "role": "Ausbildung 2027 - Chemikant:in (m/w/d) Wesseling",
-   "location": "Cologne"
   },
   "f39e25b69993180ee655efb8bd7b35f1": {
    "id": "f39e25b69993180ee655efb8bd7b35f1",
@@ -2456,12 +2456,6 @@
    "role": "Ai Engineer Financial Services (m/w/d)",
    "location": "Germany"
   },
-  "34f396c505a4349a60cca62b056f972c": {
-   "id": "34f396c505a4349a60cca62b056f972c",
-   "company": "Jobgether",
-   "role": "Ai Science Writer, Nebius Academy (contract)",
-   "location": "Germany"
-  },
   "a858f9c4489de3619153944f772da203": {
    "id": "a858f9c4489de3619153944f772da203",
    "company": "Alignerr",
@@ -2611,12 +2605,6 @@
    "company": "Amazon",
    "role": "Business Analyst Intern (6 months) - 2027",
    "location": "Berlin"
-  },
-  "e7f897fea4115f7ad85f10d55d2106cd": {
-   "id": "e7f897fea4115f7ad85f10d55d2106cd",
-   "company": "LEW Service und Consulting GmbH",
-   "role": "Werkstudent:in Business Controlling - Daten & Reporting",
-   "location": "Germany"
   },
   "8dc6e07c4f3ff8e3f4b8e230cb84a7c3": {
    "id": "8dc6e07c4f3ff8e3f4b8e230cb84a7c3",
@@ -3170,6 +3158,12 @@
    "role": "Clinical Research Associate",
    "location": "Frankfurt Am Main"
   },
+  "b4f20cfe9023bc397efcde1ca972464d": {
+   "id": "b4f20cfe9023bc397efcde1ca972464d",
+   "company": "Thermo Fisher Scientific",
+   "role": "Assistant CRA",
+   "location": "Germany"
+  },
   "cd83bfb43eb7e730814499c9b3017f5c": {
    "id": "cd83bfb43eb7e730814499c9b3017f5c",
    "company": "Ivivamedical",
@@ -3181,6 +3175,12 @@
    "company": "Airbus SE",
    "role": "Facharzt (d/m/w) Für Arbeitsmedizin / Weiterbildung Zum Facharzt (d/m/w) Für Arbeitsmedizin",
    "location": "Hamburg"
+  },
+  "0ec705744ab52976d1fd323071323350": {
+   "id": "0ec705744ab52976d1fd323071323350",
+   "company": "Thermo Fisher Scientific",
+   "role": "Assistant CRA - FSP (m/f/d)",
+   "location": "Germany"
   },
   "4e8950be706451268af15a60e36f3cbc": {
    "id": "4e8950be706451268af15a60e36f3cbc",
@@ -3224,6 +3224,12 @@
    "role": "Cra",
    "location": "North-East Germany"
   },
+  "e3aa910abf51e1e5c40bc8f3bd7b0a4c": {
+   "id": "e3aa910abf51e1e5c40bc8f3bd7b0a4c",
+   "company": "SAMSON Group",
+   "role": "Mechatroniker Als Servicetechniker (w/m/d) Im Außendienst - Großraum Hamburg/bremen",
+   "location": "Hamburg +1"
+  },
   "a4cd0158c32cf418a65a1d4b3f70ca95": {
    "id": "a4cd0158c32cf418a65a1d4b3f70ca95",
    "company": "GEZE GmbH",
@@ -3253,6 +3259,12 @@
    "company": "ITW",
    "role": "Servicetechniker (m/w/d) Im Außendienst Vom Homeoffice - Raum Mannheim Und Umgebung",
    "location": "Mannheim +1"
+  },
+  "ba0ce60014fdf8c4dfb9604f3d717570": {
+   "id": "ba0ce60014fdf8c4dfb9604f3d717570",
+   "company": "Formlabs",
+   "role": "Serviceingenieur Im Außendienst - Remote (m/w/d)",
+   "location": "Munich"
   },
   "3cbffaff921a8b01f14165fc59fc0bde": {
    "id": "3cbffaff921a8b01f14165fc59fc0bde",
@@ -3301,6 +3313,12 @@
    "company": "Hitachi Ltd",
    "role": "Service Technician (w/m/d)",
    "location": "Karlstein Am Main"
+  },
+  "bc8af7b28c5e72ba19fd06a90e2239fe": {
+   "id": "bc8af7b28c5e72ba19fd06a90e2239fe",
+   "company": "Honeywell 3",
+   "role": "Field Service Techniker (m/w/d) Gebäudeautomation",
+   "location": "Muenchen +1"
   },
   "a5965782eea2ba2272c3c30f8c695cdc": {
    "id": "a5965782eea2ba2272c3c30f8c695cdc",
@@ -3685,24 +3703,6 @@
    "company": "Andritz Oy",
    "role": "Werkstatt- Und Servicemonteur (m/w/d)",
    "location": "MöNchengladbach +1"
-  },
-  "b484f12ded5864594560f04039de9aec": {
-   "id": "b484f12ded5864594560f04039de9aec",
-   "company": "SimonsVoss Technologies GmbH",
-   "role": "It Servicetechniker (m/w/d)",
-   "location": "Osterfeld"
-  },
-  "f08fdb6ed2a9f38549c0948169308a07": {
-   "id": "f08fdb6ed2a9f38549c0948169308a07",
-   "company": "Bertrandt Group",
-   "role": "Servicetechniker Kälte- & Klimatechnik (m/w/d)",
-   "location": "Germany"
-  },
-  "d2699923b9ce4743357be31f1d5f203b": {
-   "id": "d2699923b9ce4743357be31f1d5f203b",
-   "company": "Lineage Logistics",
-   "role": "Maintenance Tech Ii",
-   "location": "New Castle"
   },
   "edcbd9ae77ccd87d230930ce1a17ae30": {
    "id": "edcbd9ae77ccd87d230930ce1a17ae30",

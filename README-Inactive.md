@@ -11824,4 +11824,10 @@
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (hbf)</td><td>Berlin</td><td>2026-11-22</td></tr>
 <tr><td>LBBW</td><td>Assistenz Der Abteilungsleitung (m/w/d)</td><td>Stuttgart</td><td>2026-11-22</td></tr>
 <tr><td>Securitas Critical Infrastructure Services</td><td>Customer Service Specialist (m/w/d)</td><td>Mannheim</td><td>2026-11-22</td></tr>
+<tr><td>cloud.sap</td><td>Ausbildung 2027 - Chemikant:in (m/w/d) Wesseling</td><td>Cologne</td><td>2026-11-23</td></tr>
+<tr><td>Jobgether</td><td>Ai Science Writer, Nebius Academy (contract)</td><td>Germany</td><td>2026-11-23</td></tr>
+<tr><td>LEW Service und Consulting GmbH</td><td>Werkstudent:in Business Controlling - Daten & Reporting</td><td>Germany</td><td>2026-11-23</td></tr>
+<tr><td>SimonsVoss Technologies GmbH</td><td>It Servicetechniker (m/w/d)</td><td>Osterfeld</td><td>2026-11-23</td></tr>
+<tr><td>Bertrandt Group</td><td>Servicetechniker Kälte- & Klimatechnik (m/w/d)</td><td>Germany</td><td>2026-11-23</td></tr>
+<tr><td>Lineage Logistics</td><td>Maintenance Tech Ii</td><td>New Castle</td><td>2026-11-23</td></tr>
 </table>
