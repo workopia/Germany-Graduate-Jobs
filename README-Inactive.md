@@ -11830,4 +11830,25 @@
 <tr><td>SimonsVoss Technologies GmbH</td><td>It Servicetechniker (m/w/d)</td><td>Osterfeld</td><td>2026-11-23</td></tr>
 <tr><td>Bertrandt Group</td><td>Servicetechniker Kälte- & Klimatechnik (m/w/d)</td><td>Germany</td><td>2026-11-23</td></tr>
 <tr><td>Lineage Logistics</td><td>Maintenance Tech Ii</td><td>New Castle</td><td>2026-11-23</td></tr>
+<tr><td>HUGO BOSS AG</td><td>Internship Global Ecommerce Marketing (m/f/d)</td><td>Metzingen +1</td><td>2026-11-24</td></tr>
+<tr><td>Puma</td><td>Internship Sports Marketing Teamsport</td><td>Germany</td><td>2026-11-24</td></tr>
+<tr><td>SICK</td><td>Mandatory Internship in Training - Sensor Intelligence Academy</td><td>Waldkirch-Buchholz</td><td>2026-11-24</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Sankt Augustin</td><td>Cologne</td><td>2026-11-24</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Bad Neuenahr-ahrweiler</td><td>Bad Neuenahr</td><td>2026-11-24</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Bargteheide</td><td>Hamburg</td><td>2026-11-24</td></tr>
+<tr><td>H&M</td><td>Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Dortmund (m/w/d)</td><td>Dortmund</td><td>2026-11-24</td></tr>
+<tr><td>Lidl Ltd</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Germany</td><td>2026-11-24</td></tr>
+<tr><td>Sopra Steria UK</td><td>Ai Engineer Financial Services (m/w/d)</td><td>Germany</td><td>2026-11-24</td></tr>
+<tr><td>Amazon</td><td>Business Analyst Intern (6 months) - 2027</td><td>Berlin</td><td>2026-11-24</td></tr>
+<tr><td>Deutsche WertpapierService Bank AG</td><td>Business Analyst Settlement / Depotüberträge (m/w/d)</td><td>Dusseldorf</td><td>2026-11-24</td></tr>
+<tr><td>Eaton</td><td>Servicetechniker Usv (m/w/d) Region Süd Nrw</td><td>Bonn +1</td><td>2026-11-24</td></tr>
+<tr><td>Signode</td><td>Industriemechaniker Instandhaltung (m/w/d)</td><td>Dinslaken +1</td><td>2026-11-24</td></tr>
+<tr><td>Andritz Oy</td><td>Werkstatt- Und Servicemonteur (m/w/d)</td><td>MöNchengladbach +1</td><td>2026-11-24</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Munich</td><td>2026-11-24</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Mannheim</td><td>2026-11-24</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)</td><td>Cologne</td><td>2026-11-24</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-24</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-11-24</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (steglitz)</td><td>Berlin</td><td>2026-11-24</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Frankfurt Am Main</td><td>2026-11-24</td></tr>
 </table>

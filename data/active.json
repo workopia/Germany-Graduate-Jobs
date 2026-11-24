@@ -1,7 +1,25 @@
 {
- "asOf": "2026-11-23",
+ "asOf": "2026-11-24",
  "count": 777,
  "jobs": {
+  "244adb20fc3a25e9893eaf8c8c2d661a": {
+   "id": "244adb20fc3a25e9893eaf8c8c2d661a",
+   "company": "Moody’s Corporation",
+   "role": "Ratings And Research Support Intern - Sovereign And Sub-sovereign Group",
+   "location": "Frankfurt +1"
+  },
+  "ec91633309e4986bc1dbd73d54c436a6": {
+   "id": "ec91633309e4986bc1dbd73d54c436a6",
+   "company": "Moody’s Corporation",
+   "role": "Ratings And Research Support Intern - Corporate Finance Group",
+   "location": "Frankfurt Am Main"
+  },
+  "7a4e1f3567a9e6c8bf25d6336ec759b7": {
+   "id": "7a4e1f3567a9e6c8bf25d6336ec759b7",
+   "company": "Nestlé",
+   "role": "Praktikum Internationales Projektmanagement (m/w/d)",
+   "location": "Frankfurt Am Main +1"
+  },
   "c9c08847ef62d89b5f80d10539e850e1": {
    "id": "c9c08847ef62d89b5f80d10539e850e1",
    "company": "Nestle Ltd",
@@ -464,23 +482,29 @@
    "role": "Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)",
    "location": "Dusseldorf"
   },
-  "bae90d10233dc79c699f1eba8eb435c2": {
-   "id": "bae90d10233dc79c699f1eba8eb435c2",
-   "company": "HUGO BOSS AG",
-   "role": "Internship Global Ecommerce Marketing (m/f/d)",
-   "location": "Metzingen +1"
+  "395bebac3460615fb588c41b69f739a1": {
+   "id": "395bebac3460615fb588c41b69f739a1",
+   "company": "Forvia",
+   "role": "Hse (health, Safety And Environment) Trainee",
+   "location": "Sao Joao Da Madeira +1"
   },
-  "f471bb2183718104eed9ec6fd3ab20d3": {
-   "id": "f471bb2183718104eed9ec6fd3ab20d3",
-   "company": "Puma",
-   "role": "Internship Sports Marketing Teamsport",
-   "location": "Germany"
+  "26c35174f5d5683e5bef9569173563aa": {
+   "id": "26c35174f5d5683e5bef9569173563aa",
+   "company": "Sanofi",
+   "role": "Leadership Traineeprogramm Für Naturwissenschaftler (all Genders) - Befristet Für 24 Monate",
+   "location": "Frankfurt Am Main +1"
   },
-  "targetjobs:0418af27-87c3-4687-8ce6-9bb50e32ba65": {
-   "id": "targetjobs:0418af27-87c3-4687-8ce6-9bb50e32ba65",
-   "company": "SICK",
-   "role": "Mandatory Internship in Training - Sensor Intelligence Academy",
-   "location": "Waldkirch-Buchholz"
+  "408f2baedab378852a2ea132ec1a85dd": {
+   "id": "408f2baedab378852a2ea132ec1a85dd",
+   "company": "Sanofi",
+   "role": "Leadership Traineeprogramm Für Ingenieure (all Genders) - Befristet Für 24 Monate",
+   "location": "Frankfurt Am Main +1"
+  },
+  "b035e3d65d8f17104f3cb02fcb1db197": {
+   "id": "b035e3d65d8f17104f3cb02fcb1db197",
+   "company": "Bunge",
+   "role": "Industrial Operations Trainee",
+   "location": "Magdeburg +2"
   },
   "9c947d0e55cc6cce8b9ee1cb4f5a2766": {
    "id": "9c947d0e55cc6cce8b9ee1cb4f5a2766",
@@ -938,32 +962,8 @@
    "role": "Geretsried Ausbildung Zum Industriekaufmann (mwd) By 82538",
    "location": "Munich"
   },
-  "d6ba296a827b176f7ceb6c74a08c285d": {
-   "id": "d6ba296a827b176f7ceb6c74a08c285d",
-   "company": "JYSK",
-   "role": "Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Sankt Augustin",
-   "location": "Cologne"
-  },
-  "21fc02eb43ac01c7fd66e7313d191a6f": {
-   "id": "21fc02eb43ac01c7fd66e7313d191a6f",
-   "company": "JYSK",
-   "role": "Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Bad Neuenahr-ahrweiler",
-   "location": "Bad Neuenahr"
-  },
-  "8b7101c6121dec6d9510b7e454256c6c": {
-   "id": "8b7101c6121dec6d9510b7e454256c6c",
-   "company": "JYSK",
-   "role": "Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Bargteheide",
-   "location": "Hamburg"
-  },
-  "dd1f27b1221a749e1a81559cf2b84e64": {
-   "id": "dd1f27b1221a749e1a81559cf2b84e64",
-   "company": "H&M",
-   "role": "Ausbildung Fachwirt Für Vertrieb Im Einzelhandel – Dortmund (m/w/d)",
-   "location": "Dortmund"
-  },
-  "f39e25b69993180ee655efb8bd7b35f1": {
-   "id": "f39e25b69993180ee655efb8bd7b35f1",
+  "8dcfb500010e68cbe0cca6bfc5a3c693": {
+   "id": "8dcfb500010e68cbe0cca6bfc5a3c693",
    "company": "Lidl Ltd",
    "role": "Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)",
    "location": "Germany"
@@ -1802,6 +1802,12 @@
    "role": "Fullstack Engineer, Investigator Tools",
    "location": "Germany"
   },
+  "62a7d5189eec71646db684a7a7b9be73": {
+   "id": "62a7d5189eec71646db684a7a7b9be73",
+   "company": "Bosch Rexroth",
+   "role": "Werkstudent Agentic Ai & Microsoft Copilot Studio (w/m/div.)",
+   "location": "Waltenhofen +1"
+  },
   "d55c3b2bc00a500a4c5b19f53f75b95e": {
    "id": "d55c3b2bc00a500a4c5b19f53f75b95e",
    "company": "Bosch Rexroth",
@@ -2017,6 +2023,12 @@
    "company": "Resonance",
    "role": "Graduate Applied AI Engineer",
    "location": "London +1"
+  },
+  "54839164743fd1632a3a46ed59ae2db5": {
+   "id": "54839164743fd1632a3a46ed59ae2db5",
+   "company": "Jobgether",
+   "role": "Forward Deployed Engineer (ai & Digital Experience Platforms)",
+   "location": "Germany"
   },
   "77d493b73246edcffc315a58e4bd92fe": {
    "id": "77d493b73246edcffc315a58e4bd92fe",
@@ -2450,12 +2462,6 @@
    "role": "Ai Solution Engineer (w/m/d)",
    "location": "Germany"
   },
-  "ae5cbef726828a9c5432d6eef11cf6c5": {
-   "id": "ae5cbef726828a9c5432d6eef11cf6c5",
-   "company": "Sopra Steria UK",
-   "role": "Ai Engineer Financial Services (m/w/d)",
-   "location": "Germany"
-  },
   "a858f9c4489de3619153944f772da203": {
    "id": "a858f9c4489de3619153944f772da203",
    "company": "Alignerr",
@@ -2600,12 +2606,6 @@
    "role": "Oliver Wyman - Consulting Intern (m/f/d) - Germany",
    "location": "Munich"
   },
-  "a4669d1ac068acc1552e0458c6910f8d": {
-   "id": "a4669d1ac068acc1552e0458c6910f8d",
-   "company": "Amazon",
-   "role": "Business Analyst Intern (6 months) - 2027",
-   "location": "Berlin"
-  },
   "8dc6e07c4f3ff8e3f4b8e230cb84a7c3": {
    "id": "8dc6e07c4f3ff8e3f4b8e230cb84a7c3",
    "company": "Amazon Commercial Services Pty Ltd - F47",
@@ -2623,6 +2623,12 @@
    "company": "Allianz SE",
    "role": "Mint-absolvent Als Business Analyst (m/w/d)",
    "location": "Stuttgart +1"
+  },
+  "597605052d1b3006822c5a14759c979b": {
+   "id": "597605052d1b3006822c5a14759c979b",
+   "company": "educcare Impressum Datenschutz Cookie Einstellungen",
+   "role": "Bilanzbuchhalter (w/m/d)",
+   "location": "KöLn +1"
   },
   "e47a600254c8a9bc5a87e9ec80439561": {
    "id": "e47a600254c8a9bc5a87e9ec80439561",
@@ -3098,12 +3104,6 @@
    "role": "Fund Accountant Real Assets (m/w/d) - Befristete Elternzeitvertretung",
    "location": "Unknown"
   },
-  "d9f10d8e5722f05bc07d713e73cd1bad": {
-   "id": "d9f10d8e5722f05bc07d713e73cd1bad",
-   "company": "Deutsche WertpapierService Bank AG",
-   "role": "Business Analyst Settlement / Depotüberträge (m/w/d)",
-   "location": "Dusseldorf"
-  },
   "3276ad55d3dca8a59d1d247cb6bed541": {
    "id": "3276ad55d3dca8a59d1d247cb6bed541",
    "company": "Kirchliche Hochschule Bethel",
@@ -3223,6 +3223,24 @@
    "company": "Syneos Health",
    "role": "Cra",
    "location": "North-East Germany"
+  },
+  "5754aed6dcd7811f0516307077e435b2": {
+   "id": "5754aed6dcd7811f0516307077e435b2",
+   "company": "United Parcel Service",
+   "role": "Techniker (m/w/d) Für Die Betriebstechnik",
+   "location": "Koeln (Cologne) Airport Facility +2"
+  },
+  "66e921af4412d67b954fb17cce049e9f": {
+   "id": "66e921af4412d67b954fb17cce049e9f",
+   "company": "Infineon",
+   "role": "Werkstudent – Support Maintenance Innovation Group (w/m/div)",
+   "location": "Regensburg +1"
+  },
+  "5252f32c2cc622926564e7ae68b970ad": {
+   "id": "5252f32c2cc622926564e7ae68b970ad",
+   "company": "Veolia Environnement SA",
+   "role": "Servicetechniker Im Außendienst - Region Dach (hannover/bielefeld/braunschweig Bereich) (m/f/d)",
+   "location": "Hannover +2"
   },
   "e3aa910abf51e1e5c40bc8f3bd7b0a4c": {
    "id": "e3aa910abf51e1e5c40bc8f3bd7b0a4c",
@@ -3686,23 +3704,41 @@
    "role": "Servicetechniker*in (m/w/d) Für Personen- Und Lastenaufzüge Mit Schwerpunkt Industriekunden",
    "location": "Stuttgart"
   },
-  "e255c03b20cfe56d5d192e0bfe5a8883": {
-   "id": "e255c03b20cfe56d5d192e0bfe5a8883",
-   "company": "Eaton",
-   "role": "Servicetechniker Usv (m/w/d) Region Süd Nrw",
-   "location": "Bonn +1"
+  "c6535c9315cbd9ca35909da9ce00033d": {
+   "id": "c6535c9315cbd9ca35909da9ce00033d",
+   "company": "Tchibo GmbH",
+   "role": "Verkäufer (m/w/d), Teilzeit, Hamburg (wandsbek)",
+   "location": "Hamburg"
   },
-  "7fc55c06a26594dd5c198a33ffd84ef9": {
-   "id": "7fc55c06a26594dd5c198a33ffd84ef9",
-   "company": "Signode",
-   "role": "Industriemechaniker Instandhaltung (m/w/d)",
-   "location": "Dinslaken +1"
+  "e8847cb41734a93086c40616258284d7": {
+   "id": "e8847cb41734a93086c40616258284d7",
+   "company": "MediaMarktSaturn",
+   "role": "Kundenberater Verkauf - Schwerpunkt Haushalt & Gesundheit & Wellness (m/w/d)",
+   "location": "Dusseldorf"
   },
-  "03d8d2feb26784730e28ae41d353af0d": {
-   "id": "03d8d2feb26784730e28ae41d353af0d",
-   "company": "Andritz Oy",
-   "role": "Werkstatt- Und Servicemonteur (m/w/d)",
-   "location": "MöNchengladbach +1"
+  "d17b7a70cbb234d26ea31e7872302444": {
+   "id": "d17b7a70cbb234d26ea31e7872302444",
+   "company": "PENNY",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Mannheim"
+  },
+  "d041af12bd041d3c1be26f9cbfe57049": {
+   "id": "d041af12bd041d3c1be26f9cbfe57049",
+   "company": "Rewe Group",
+   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
+   "location": "Munich"
+  },
+  "85b5580afec6c511bb3fc31b93255a52": {
+   "id": "85b5580afec6c511bb3fc31b93255a52",
+   "company": "Rewe Group",
+   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
+   "location": "Cologne"
+  },
+  "1e005c36e99ea2b45357c5c7f3987ea2": {
+   "id": "1e005c36e99ea2b45357c5c7f3987ea2",
+   "company": "Rewe Group",
+   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
+   "location": "Cologne"
   },
   "edcbd9ae77ccd87d230930ce1a17ae30": {
    "id": "edcbd9ae77ccd87d230930ce1a17ae30",
@@ -3758,28 +3794,10 @@
    "role": "Versand Verpacker (m/w/d)",
    "location": "Neuhausen A.D. Fildern"
   },
-  "8340ff1d9f3b8f453f80f97626d57e6a": {
-   "id": "8340ff1d9f3b8f453f80f97626d57e6a",
-   "company": "PENNY",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Munich"
-  },
-  "56a3e408bb706765225845e931a73aaf": {
-   "id": "56a3e408bb706765225845e931a73aaf",
-   "company": "Rewe Group",
-   "role": "Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)",
-   "location": "Mannheim"
-  },
   "ff3a45585e75658f74bf47c2adf65b61": {
    "id": "ff3a45585e75658f74bf47c2adf65b61",
    "company": "Rewe Group",
    "role": "Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
-  "f1c716ee4233a43268495b97da0013d0": {
-   "id": "f1c716ee4233a43268495b97da0013d0",
-   "company": "Rewe Group",
-   "role": "Verkäufer Als Fachkraft / Quereinsteiger Frischetheke (m/w/d)",
    "location": "Cologne"
   },
   "5390a568f9c8da12341a65ccaa7d75d1": {
@@ -4034,12 +4052,6 @@
    "role": "Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)",
    "location": "Hamburg"
   },
-  "9cef1fd031005d7190f7bb2dfe089093": {
-   "id": "9cef1fd031005d7190f7bb2dfe089093",
-   "company": "Rewe Group",
-   "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
-   "location": "Cologne"
-  },
   "21c40f7d2b222feaa8b4a2fcc0102d14": {
    "id": "21c40f7d2b222feaa8b4a2fcc0102d14",
    "company": "Rewe Group",
@@ -4172,17 +4184,11 @@
    "role": "Verkäufer Mit Kassiertätigkeit (m/w/d)",
    "location": "Cologne"
   },
-  "386bd6b81bdf1dfe5bad02b1d6074922": {
-   "id": "386bd6b81bdf1dfe5bad02b1d6074922",
+  "1ad0e9f48bce18c76ae0be909a9316f4": {
+   "id": "1ad0e9f48bce18c76ae0be909a9316f4",
    "company": "Rewe Group",
-   "role": "Verkäufer Schließfunktion (m/w/d)",
+   "role": "Assistent:in Bereichsleitung (m/w/d)",
    "location": "Cologne"
-  },
-  "9632bd236593239300dd1faa9a6fd0d9": {
-   "id": "9632bd236593239300dd1faa9a6fd0d9",
-   "company": "Tchibo GmbH",
-   "role": "Verkäufer (m/w/d), Teilzeit, Berlin (steglitz)",
-   "location": "Berlin"
   },
   "11e9aa594881cea083d30fd1834edae0": {
    "id": "11e9aa594881cea083d30fd1834edae0",
@@ -4657,12 +4663,6 @@
    "company": "De Jong Verpakking",
    "role": "Customer Service Coordinator",
    "location": "Dusseldorf"
-  },
-  "1d2a78dbd4715d22bf709d2d3ce3a3ef": {
-   "id": "1d2a78dbd4715d22bf709d2d3ce3a3ef",
-   "company": "MARSH MCLENNAN",
-   "role": "Kaufmännische Mitarbeitende* - / Office Support",
-   "location": "Frankfurt Am Main"
   }
  }
 }
