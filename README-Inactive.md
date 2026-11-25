@@ -11851,4 +11851,47 @@
 <tr><td>Rewe Group</td><td>Verkäufer Schließfunktion (m/w/d)</td><td>Cologne</td><td>2026-11-24</td></tr>
 <tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Berlin (steglitz)</td><td>Berlin</td><td>2026-11-24</td></tr>
 <tr><td>MARSH MCLENNAN</td><td>Kaufmännische Mitarbeitende* - / Office Support</td><td>Frankfurt Am Main</td><td>2026-11-24</td></tr>
+<tr><td>Bosch Group</td><td>Pflichtpraktikum Im Bereich Human Resources</td><td>Stuttgart</td><td>2026-11-25</td></tr>
+<tr><td>Ernst & Young</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Berlin</td><td>2026-11-25</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Marketing</td><td>Ludwigsburg +1</td><td>2026-11-25</td></tr>
+<tr><td>DHL Group</td><td>Eu Compensation & Benefits Intern (m/f/d)</td><td>Bonn +1</td><td>2026-11-25</td></tr>
+<tr><td>Allianz SE</td><td>Intern (m/f/d) Private Debt Risk</td><td>MüNchen +1</td><td>2026-11-25</td></tr>
+<tr><td>Lidl Ltd</td><td>Praktikum It Digitaler Arbeitsplatz</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>Lidl Ltd</td><td>Praktikum Einkauf International - Produkt-compliance Qualität &amp; Nachhaltigkeit</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>Uniper Holding GmbH</td><td>Master's Thesis In Strategic Procurement - Direction For A New Business Segment (f/m/d)</td><td>Dusseldorf</td><td>2026-11-25</td></tr>
+<tr><td>Trane Technologies</td><td>Auszubildender Fachkraft Für Lagerlogistik</td><td>Jettingen</td><td>2026-11-25</td></tr>
+<tr><td>AGCO Corporation</td><td>Ausbildung Zum Konstruktionsmechaniker/schweißtechnik (m/w/d) Ab September 2027 In Asbach-bäumenheim</td><td>Asbach-BäUmenheim</td><td>2026-11-25</td></tr>
+<tr><td>Altana AG</td><td>Geretsried Ausbildung Zum Industriekaufmann (mwd) By 82538</td><td>Munich</td><td>2026-11-25</td></tr>
+<tr><td>Lidl Ltd</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>Puma</td><td>(junior) Specialist It Service Delivery</td><td>Puma Way Headquarters</td><td>2026-11-25</td></tr>
+<tr><td>Vattenfall</td><td>.NET Software Engineer (Backend)</td><td>Berlin</td><td>2026-11-25</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Engineer</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>Endress+Hauser Group</td><td>Entwickler Testautomatisierung (w/m/d)</td><td>Maulburg</td><td>2026-11-25</td></tr>
+<tr><td>Volkswagen</td><td>Softwareentwickler - Fmv / Cds (m/w/d)</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>Allianz Technology SE</td><td>Forward Deployed Engineer(m/f/d)</td><td>Munich</td><td>2026-11-25</td></tr>
+<tr><td>Jobgether</td><td>Fullstack Engineer, Investigator Tools</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Ai Solution Engineer (w/m/d)</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>Alignerr</td><td>Italian-Speaking Google Workspace AI Reviewer (Remote, Germany)</td><td>Germany</td><td>2026-11-25</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Fund Accountant Real Assets (m/w/d) - Befristete Elternzeitvertretung</td><td>Unknown</td><td>2026-11-25</td></tr>
+<tr><td>Syneos Health</td><td>Cra</td><td>North-East Germany</td><td>2026-11-25</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Servicetechniker (w/m/d) Im Nationalen Außendienst (region Bayreuth)</td><td>Stuttgart</td><td>2026-11-25</td></tr>
+<tr><td>Otis</td><td>Meister/techniker Als Servicemeister Für Aufzüge (m/w/d) berlin</td><td>Berlin</td><td>2026-11-25</td></tr>
+<tr><td>Xylem Inc</td><td>Servicetechniker Im Außendienst (m/w/d) Gebiet Norddeutschland</td><td>Bremen +1</td><td>2026-11-25</td></tr>
+<tr><td>Miele</td><td>Service Technician</td><td>Nicosia</td><td>2026-11-25</td></tr>
+<tr><td>Xylem Inc</td><td>Servicetechniker Elektrotechnik (m/w/d)- Bremen</td><td>Bremen</td><td>2026-11-25</td></tr>
+<tr><td>Keysight Technologies</td><td>Service Tech Coordinator (m/w/d) – Servicetechniker Für Kalibrierung Und Messtechnik</td><td>Stuttgart</td><td>2026-11-25</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In München-süd</td><td>Munich</td><td>2026-11-25</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Aufzugsanlagen In München & Östlichem Umland</td><td>MüNchen +1</td><td>2026-11-25</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Reparaturtechniker*in (m/w/d) Für Aufzugsanlagen Im Raum Freiburg</td><td>Freiburg Im Breisgau</td><td>2026-11-25</td></tr>
+<tr><td>Schindler Elevator Ltd</td><td>Servicetechniker*in (m/w/d) Für Personen- Und Lastenaufzüge Mit Schwerpunkt Industriekunden</td><td>Stuttgart</td><td>2026-11-25</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 10-20h</td><td>Cologne</td><td>2026-11-25</td></tr>
+<tr><td>JYSK</td><td>Aushilfe Im Lager (minijobber/in) (m/w/d) - Trostberg</td><td>Trostberg +1</td><td>2026-11-25</td></tr>
+<tr><td>LOVISA</td><td>Aushilfe Gesucht (m/w/d)</td><td>Berlin</td><td>2026-11-25</td></tr>
+<tr><td>Dyson</td><td>Verkäufer/verkaufsberater (m/w/d)/teilzeit 16 Std./wiesbaden</td><td>Frankfurt Am Main</td><td>2026-11-25</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Verkäufer (m/w/d)</td><td>Cologne</td><td>2026-11-25</td></tr>
+<tr><td>REWE Oliver Frank GmbH & Co. oHG</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-25</td></tr>
+<tr><td>Hydro</td><td>Disponent Transportlogistik (m/w/d)</td><td>Gerstungen</td><td>2026-11-25</td></tr>
+<tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Teamassistenz Deal Advisory (wmd) Frankfurt He 60314</td><td>Frankfurt Am Main</td><td>2026-11-25</td></tr>
+<tr><td>AJG United Kingdom</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Am Hof 30</td><td>2026-11-25</td></tr>
+<tr><td>De Jong Verpakking</td><td>Customer Service Coordinator</td><td>Dusseldorf</td><td>2026-11-25</td></tr>
 </table>
