@@ -11894,4 +11894,61 @@
 <tr><td>BDO AG Wirtschaftspruefungsgesellschaft</td><td>Frankfurt Teamassistenz Deal Advisory (wmd) Frankfurt He 60314</td><td>Frankfurt Am Main</td><td>2026-11-25</td></tr>
 <tr><td>AJG United Kingdom</td><td>Assistenz Der Geschäftsführung (m/w/d)</td><td>Am Hof 30</td><td>2026-11-25</td></tr>
 <tr><td>De Jong Verpakking</td><td>Customer Service Coordinator</td><td>Dusseldorf</td><td>2026-11-25</td></tr>
+<tr><td>BMW Group</td><td>Praktikant Nachwuchs- Und Bindungsprogramme (w/m/x)</td><td>Munich +1</td><td>2026-11-26</td></tr>
+<tr><td>DHL Group</td><td>Intern Global Talent Projects, Processes & Analysis</td><td>Cologne</td><td>2026-11-26</td></tr>
+<tr><td>Philip Morris International</td><td>Pmi Internship Program - Trade Marketing (m/w/d)</td><td>Munich +1</td><td>2026-11-26</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern, Data Labeler (spanish Speaker) - (global Discovery, Consumer)</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>Delivery Hero</td><td>Intern, Data Labeler (arabic Speaker) - (global Discovery, Consumer)</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Whs Sport Channel Product Internship</td><td>Milano</td><td>2026-11-26</td></tr>
+<tr><td>HSBC</td><td>Investment Banking Intern - Debt Capital Markets (m/f/d)</td><td>Frankfurt Am Main +2</td><td>2026-11-26</td></tr>
+<tr><td>Sixt</td><td>Management Trainee Filiale (m/w/d) Region Süd-west</td><td>Frankfurt Am Main</td><td>2026-11-26</td></tr>
+<tr><td>L'Oréal S.A.</td><td>Seedz Management Trainee Programm (m/w/d) - Track Supply Chain - April 2027 düsseldorf, Germany</td><td>Dusseldorf</td><td>2026-11-26</td></tr>
+<tr><td>Wirthwein SE</td><td>Auszubildender Fachkraft Für Lagerlogistik (m/w/d) - September 2027</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>Rewe Group</td><td>Trainee Zum Gartencenterleiter (m/w/d) - Bundesweit</td><td>Bundesweit</td><td>2026-11-26</td></tr>
+<tr><td>leHACK</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Munich</td><td>2026-11-26</td></tr>
+<tr><td>JYSK</td><td>Ausbildung Kaufmann/frau Im Einzelhandel (m/w/d) – Springe</td><td>Hanover</td><td>2026-11-26</td></tr>
+<tr><td>SSI Schaefer</td><td>Werkstudent (w/m/d) It Service Desk</td><td>Giebelstadt</td><td>2026-11-26</td></tr>
+<tr><td>Fritz Schaefer GmbH</td><td>Werkstudent (w/m/d) It Service Desk</td><td>Giebelstadt</td><td>2026-11-26</td></tr>
+<tr><td>Bosch Rexroth</td><td>Türkischsprachiger Mitarbeiter It-service Desk (w/m/div.)</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer (python)</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>Hannover Rueck SE</td><td>Software Engineer</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>EndressHauser AG</td><td>Entwickler Testautomatisierung (w/m/d)</td><td>Maulburg</td><td>2026-11-26</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Softwareentwickler Baumaschinen (m/w/d)</td><td>Kirchdorf An Der Iller</td><td>2026-11-26</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Software-entwickler (m/w/d)</td><td>Ulm</td><td>2026-11-26</td></tr>
+<tr><td>adesso-group</td><td>Software Engineer Conversational Ai (all Genders)</td><td>Nach Standort Suchen</td><td>2026-11-26</td></tr>
+<tr><td>Alignerr</td><td>Russian Language Evaluator – Gmail & Google Workspace AI</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>Alignerr</td><td>German Language Evaluator – Gmail & Google Workspace AI</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>Philips Healthcare</td><td>Werkstudent Finance & Reporting (all Genders)</td><td>Hamburg</td><td>2026-11-26</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Praktikant:in – People Advisory (m/w/d) – Transformation Team</td><td>Frankfurt Am Main</td><td>2026-11-26</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Intern Consultant (m/f/d) - Germany</td><td>Munich</td><td>2026-11-26</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Consulting Intern (m/f/d) - Germany</td><td>Munich</td><td>2026-11-26</td></tr>
+<tr><td>NORDLB - technisches LAN</td><td>Werkstudierende Inhouse Consulting Und Transformation Management (m/w/d)</td><td>Unknown</td><td>2026-11-26</td></tr>
+<tr><td>Sopra Steria</td><td>Experte Für Datenarchitektur Und Anforderungsanalyse (m/w/d)</td><td>Bundesweit</td><td>2026-11-26</td></tr>
+<tr><td>SIGNAL IDUNA</td><td>Business Analyst (m/w/d) Vertrieb & Digitalisierung</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Hyperautomation Und Business Process Management</td><td>Stuttgart</td><td>2026-11-26</td></tr>
+<tr><td>Allianz Technology SE</td><td>Working Student - Ai-enabled Business Analysis &amp; Automation (f/m/d)</td><td>Frankfurt Am Main</td><td>2026-11-26</td></tr>
+<tr><td>cflex</td><td>Industriemechaniker:in Für Den Bereich Instandhaltung (m/w/d)</td><td>Pirk</td><td>2026-11-26</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Servicetechniker Raum Stuttgart (m/w/d)</td><td>Maulburg</td><td>2026-11-26</td></tr>
+<tr><td>Ecolab</td><td>Servicetechniker - Cruise Team / Kreuzfahrt</td><td>Cologne +1</td><td>2026-11-26</td></tr>
+<tr><td>EON Career site</td><td>Servicetechniker Für Zählermontagen, Region Neuenhagen (m/w/d)</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>E.ON</td><td>Servicetechniker Für Zählermontagen, Raum Hannover (m/w/d)</td><td>Hannover +1</td><td>2026-11-26</td></tr>
+<tr><td>Getec Energyservices</td><td>Servicetechniker Shk (w/m/d)</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>Viessmann Climate Solutions</td><td>Servicetechniker Im Außendienst (m/w/d) - Region Freiburg</td><td>Freiburg +1</td><td>2026-11-26</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Servicetechniker (w/m/d) Im Nationalen Außendienst (region Halle (saale))</td><td>Halle (Saale)</td><td>2026-11-26</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Servicetechniker (w/m/d) Im Nationalen Außendienst (region Giesen)</td><td>Stuttgart</td><td>2026-11-26</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Servicetechniker (w/m/d) Im Nationalen Außendienst (region Bonn/gladbach)</td><td>Stuttgart</td><td>2026-11-26</td></tr>
+<tr><td>PENNY</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Mannheim</td><td>2026-11-26</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer / Kassierer Mit Vertretungsfunktion (m/w/d)</td><td>Munich</td><td>2026-11-26</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-26</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Mit Kassiertätigkeit (m/w/d)</td><td>Cologne</td><td>2026-11-26</td></tr>
+<tr><td>Skechers</td><td>Verkäufer (m/w/d) In Teilzeit - Flagshipstore München Kaufingerstraße</td><td>Munich</td><td>2026-11-26</td></tr>
+<tr><td>Throwbackpacks</td><td>Studentische Aushilfe Calvin Klein Berlin B5 Outlet (m/w/d)</td><td>Berlin</td><td>2026-11-26</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Mitarbeiter Warenverräumung 13:00-16:00 Uhr Teilzeit (m/w/d)</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Quarree Wandsbek Hamburg (m/w/d)</td><td>Hamburg</td><td>2026-11-26</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit Befristet - Nordhorn (m/w/d)</td><td>Munster</td><td>2026-11-26</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Neuer Mohnhof Hamburg-bergedorf (m/w/d)</td><td>Hamburg</td><td>2026-11-26</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Nordhorn (23 Std)</td><td>Munster</td><td>2026-11-26</td></tr>
+<tr><td>Cherokee Federal</td><td>Part-time Administrative Assistant</td><td>Germany</td><td>2026-11-26</td></tr>
+<tr><td>Allianz</td><td>Intern Strategy & Executive Support-cto Office (m/f/d)</td><td>Munich</td><td>2026-11-26</td></tr>
+<tr><td>Norsk Hydro</td><td>Disponent Transportlogistik (m/w/d)</td><td>Gerstungen</td><td>2026-11-26</td></tr>
 </table>
