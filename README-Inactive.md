@@ -11951,4 +11951,61 @@
 <tr><td>Cherokee Federal</td><td>Part-time Administrative Assistant</td><td>Germany</td><td>2026-11-26</td></tr>
 <tr><td>Allianz</td><td>Intern Strategy & Executive Support-cto Office (m/f/d)</td><td>Munich</td><td>2026-11-26</td></tr>
 <tr><td>Norsk Hydro</td><td>Disponent Transportlogistik (m/w/d)</td><td>Gerstungen</td><td>2026-11-26</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum In Der Entwicklung Und Konstruktion</td><td>Bietigheim +1</td><td>2026-11-27</td></tr>
+<tr><td>Infineon</td><td>Gruppenpraktikum Bwl (f/m/div) - Februar 2027</td><td>Munich</td><td>2026-11-27</td></tr>
+<tr><td>Dentsu</td><td>Praktikum Communications Consultant Public Sector (m/w/d) (6 Monate, Pflichtpraktikum))</td><td>Berlin +1</td><td>2026-11-27</td></tr>
+<tr><td>Dentsu</td><td>Auszubildende*r Kaufmann/-frau Für Marketingkommunikation Mit Schwerpunkt Digital (m/w/d) (start: 01.08.2027)</td><td>Frankfurt</td><td>2026-11-27</td></tr>
+<tr><td>Carl Zeiss</td><td>Internship – Innovation Management (f/m/x)</td><td>Munich</td><td>2026-11-27</td></tr>
+<tr><td>Carl Zeiss Pty Ltd</td><td>Internship Strategic Marketing Premium Cataract Workflow (f/m/x)</td><td>Berlin</td><td>2026-11-27</td></tr>
+<tr><td>Evonik Operations GmbH</td><td>Intern (m/f/div) Sustainability & Life Cycle Management</td><td>Hanau +1</td><td>2026-11-27</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Bereich It-projektmanagement</td><td>Stuttgart +1</td><td>2026-11-27</td></tr>
+<tr><td>Bosch Rexroth</td><td>Praktikum Im Supply Chain Management</td><td>Reutlingen +1</td><td>2026-11-27</td></tr>
+<tr><td>Hilton</td><td>F&b Trainee (m/w/d)</td><td>Frankfurt Am Main +1</td><td>2026-11-27</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Ausbildung Zum Zerspanungsmechaniker (m/w/d) Ab September 2027</td><td>Berlin</td><td>2026-11-27</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zur Fachkraft Für Lagerlogistik</td><td>Nach Postleitzahl Suchen</td><td>2026-11-27</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Fachlagerist</td><td>Nach Postleitzahl Suchen</td><td>2026-11-27</td></tr>
+<tr><td>Dachser SE</td><td>Auszubildender (m/w/d) Zum Berufskraftfahrer</td><td>Nach Postleitzahl Suchen</td><td>2026-11-27</td></tr>
+<tr><td>Freudenberg Home and Cleaning Solutions</td><td>Apprentice</td><td>GöRwihl</td><td>2026-11-27</td></tr>
+<tr><td>DekaBank Deutsche Girozentrale</td><td>Ki-trainee (w/m/d) It-asset Management & Compliance</td><td>Germany</td><td>2026-11-27</td></tr>
+<tr><td>Sun Chemical</td><td>Ausbildung Chemikant - Start 2027 (lud)</td><td>Unknown</td><td>2026-11-27</td></tr>
+<tr><td>Lidl & Kaufland Asia</td><td>Abiturientenprogramm Vertrieb Inkl. Handelsfachwirt (m/w/d)</td><td>Unknown</td><td>2026-11-27</td></tr>
+<tr><td>Clariant International</td><td>Ausbildungsplatz Chemielaborant (m/w/d) Am Standort Heufeld</td><td>Heufeld</td><td>2026-11-27</td></tr>
+<tr><td>Bosch Rexroth</td><td>Pflichtpraktikum Im Bereich Der Softwareentwicklung</td><td>Stuttgart +1</td><td>2026-11-27</td></tr>
+<tr><td>FUNKE Corporate IT GmbH</td><td>Berlin Fullstack Engineer Typescript & Aws (mwd)</td><td>Berlin</td><td>2026-11-27</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Berlin Softwareentwickler C _net Core (mwd) Berlin</td><td>Berlin</td><td>2026-11-27</td></tr>
+<tr><td>IMP Computersystem AG</td><td>Berlin Softwareentwickler (mwd) Berlin</td><td>Berlin</td><td>2026-11-27</td></tr>
+<tr><td>Nexus Schweiz GmbH</td><td>Ismaning Softwareentwickler C (mwd)</td><td>Munich</td><td>2026-11-27</td></tr>
+<tr><td>Fender</td><td>Software Engineer Ii, Applications</td><td>Hamburg</td><td>2026-11-27</td></tr>
+<tr><td>Jobgether</td><td>Data Analyst</td><td>Germany</td><td>2026-11-27</td></tr>
+<tr><td>thomas-group</td><td>Accountant (m/w)</td><td>Unknown</td><td>2026-11-27</td></tr>
+<tr><td>CGI</td><td>Context Engineer - Business Functional Analyst Banking (m/w/d)</td><td>Frankfurt Am Main</td><td>2026-11-27</td></tr>
+<tr><td>FANUC Europe</td><td>Repair Technician (m/f/d)</td><td>Echternach +1</td><td>2026-11-27</td></tr>
+<tr><td>Max Weishaupt GmbH</td><td>Kundendiensttechniker (m/w/d)</td><td>Heilbronn +2</td><td>2026-11-27</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Mechatroniker, Elektroniker M/w/d Als Servicetechniker Für Aufzüge</td><td>Koblenz +2</td><td>2026-11-27</td></tr>
+<tr><td>JD</td><td>Maintenance Engineer</td><td>North Rhine</td><td>2026-11-27</td></tr>
+<tr><td>Siemens AG</td><td>Leiter Field Service (w/m/d) – Electrification Und Automation</td><td>Germany</td><td>2026-11-27</td></tr>
+<tr><td>Mercedes-Benz</td><td>Mitarbeiter*in Instandhaltung Bereich Steuerungs- Und Elektrotechnik</td><td>Ludwigsfelde +1</td><td>2026-11-27</td></tr>
+<tr><td>Getinge</td><td>Servicetechniker Sw (m/w/d) Großraum Erfurt</td><td>Erfurt +1</td><td>2026-11-27</td></tr>
+<tr><td>Alfred Kaercher SE Co KG</td><td>Servicetechniker (m/w/d) Nürnberg</td><td>NüRnberg</td><td>2026-11-27</td></tr>
+<tr><td>Bosch Group</td><td>Sachbearbeiter Kundensupport Und Ersatzteileabwicklung (w/m/div.) - Befristet Für 2 Jahre</td><td>Gunzenhausen +1</td><td>2026-11-27</td></tr>
+<tr><td>Statkraft</td><td>Industriemechaniker (w/m/d)</td><td>Landesbergen</td><td>2026-11-27</td></tr>
+<tr><td>Konecranes</td><td>Konstruktionsmechaniker*in / Industriemechaniker*in Als Servicetechniker*in</td><td>DüSseldorf +1</td><td>2026-11-27</td></tr>
+<tr><td>Continental</td><td>Elektroniker mit Schwerpunkt Automatisierungstechnik für die Instandhaltung (m/w/d) - REF93292V</td><td>Hanover +1</td><td>2026-11-27</td></tr>
+<tr><td>Novelis</td><td>Ausbildung Als Anlagenmechaniker (m/w/d) Instandhaltung 2027</td><td>GöTtingen +1</td><td>2026-11-27</td></tr>
+<tr><td>cflex</td><td>Instandhaltungsmitarbeiter (m/w/d) In Der Mechanischen Werkstätte</td><td>Unknown +1</td><td>2026-11-27</td></tr>
+<tr><td>cflex</td><td>Elektroniker:in (m/w/d)</td><td>Pirk</td><td>2026-11-27</td></tr>
+<tr><td>Rewe Group</td><td>Verkäufer Mit Schließfunktion Vollzeit/teilzeit (m/w/d)</td><td>Wuppertal</td><td>2026-11-27</td></tr>
+<tr><td>Rewe Group</td><td>Aushilfe / Minijob Warenverräumung (m/w/d)</td><td>Cologne</td><td>2026-11-27</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Aushilfe, Ravensburg</td><td>Constance</td><td>2026-11-27</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Unna</td><td>Dortmund</td><td>2026-11-27</td></tr>
+<tr><td>JYSK</td><td>Verkäufer/in Teilzeit (m/w/d) – Lünen (30 Std)</td><td>Dortmund</td><td>2026-11-27</td></tr>
+<tr><td>OBI</td><td>Verkäufer Holz / Holzzuschnitt (alle Geschlechter)</td><td>Nuremberg</td><td>2026-11-27</td></tr>
+<tr><td>H&M</td><td>Verkäufer Teilzeit - Thier Galerie Dortmund (m/w/d)</td><td>Dortmund</td><td>2026-11-27</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkäufer (m/w/d), Teilzeit, Borken</td><td>Munster</td><td>2026-11-27</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Mülheim/ruhr</td><td>Dusseldorf</td><td>2026-11-27</td></tr>
+<tr><td>Tchibo GmbH</td><td>Verkaufsmitarbeiter (m/w/d), Teilzeit, Oberhausen</td><td>Dusseldorf</td><td>2026-11-27</td></tr>
+<tr><td>Amazon</td><td>Executive Assistant - 6 Month Contract, Strategic Supply Chain Management, EU F&S Sport</td><td>Milan +3</td><td>2026-11-27</td></tr>
+<tr><td>Chnetwork</td><td>Pr Coordinator (m/w/d)</td><td>Hamburg</td><td>2026-11-27</td></tr>
+<tr><td>Deloitte GmbH</td><td>(junior) Assistant Sekretariat Steuerberatung - Tax (m/w/d)</td><td>Munich</td><td>2026-11-27</td></tr>
+<tr><td>Infineon</td><td>Team Assistant (f/m/div)</td><td>Munich</td><td>2026-11-27</td></tr>
 </table>
