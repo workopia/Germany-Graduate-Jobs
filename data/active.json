@@ -1,12 +1,60 @@
 {
- "asOf": "2026-11-27",
- "count": 787,
+ "asOf": "2026-11-28",
+ "count": 793,
  "jobs": {
+  "ab2c53cf64499a906e7c94138cf928b2": {
+   "id": "ab2c53cf64499a906e7c94138cf928b2",
+   "company": "Deutz AG",
+   "role": "Köln Werkstudent (mwd) Corporate Governance Internes Kontrollsystem (iks) Nw 51149",
+   "location": "KöLn +1"
+  },
+  "50e8d5c68463e948e82d90b385370749": {
+   "id": "50e8d5c68463e948e82d90b385370749",
+   "company": "Bosch Group",
+   "role": "Praktikum Im Bereich Commercial Excellence",
+   "location": "MüNchen +1"
+  },
+  "7a9eaeb83f4d43a88ed4327d8cc6f25e": {
+   "id": "7a9eaeb83f4d43a88ed4327d8cc6f25e",
+   "company": "Allianz SE",
+   "role": "Intern - Allianz Consulting - Insurance Transformation (m/f/d)",
+   "location": "UnterföHring (Bei MüNchen)"
+  },
+  "9cbec733b69bfb6344dbcae142b4b9e9": {
+   "id": "9cbec733b69bfb6344dbcae142b4b9e9",
+   "company": "RWE AG",
+   "role": "Business Excellence Internship",
+   "location": "Wuppertal"
+  },
+  "9d644174de1566599ba4901759c06c58": {
+   "id": "9d644174de1566599ba4901759c06c58",
+   "company": "Bosch Group",
+   "role": "Praktikum In Personalmanagement",
+   "location": "Reutlingen +1"
+  },
+  "bd36c054fae550b7fb7767b881a934e0": {
+   "id": "bd36c054fae550b7fb7767b881a934e0",
+   "company": "Puma",
+   "role": "Internship Marketing Content Production",
+   "location": "Germany"
+  },
+  "346c0abe18e22dc4a61e037e3c620851": {
+   "id": "346c0abe18e22dc4a61e037e3c620851",
+   "company": "Qualcomm Technologies GmbH",
+   "role": "Fy27 Intern – Automated Driving Functions - 6 Months, Munich, germany",
+   "location": "Munich"
+  },
   "58a3ab74a3c2ff73e62b412e98dc9b1c": {
    "id": "58a3ab74a3c2ff73e62b412e98dc9b1c",
    "company": "Ferrero LADM",
    "role": "Praktikant Marketing (w/m/d)",
    "location": "Frankfurt Am Main"
+  },
+  "0bac64636cd288c0ca153f0eaed1cf2d": {
+   "id": "0bac64636cd288c0ca153f0eaed1cf2d",
+   "company": "createyourowncareer",
+   "role": "Bremen Praktikum Redaktion (wmd)",
+   "location": "Bremen"
   },
   "7f6b316d91ef6f0462a3f3ef9c8647bb": {
    "id": "7f6b316d91ef6f0462a3f3ef9c8647bb",
@@ -32,11 +80,23 @@
    "role": "Prospect Development Intern (customer Intelligence)/ Careerstart Internship Program 2027",
    "location": "Frankfurt Am Main"
   },
+  "38a17668e6323a8f9cb065380e6f4e1d": {
+   "id": "38a17668e6323a8f9cb065380e6f4e1d",
+   "company": "Tiffany & Co",
+   "role": "Intern Pr (m/f/d)",
+   "location": "MüNchen +1"
+  },
   "d6659d5c108dd0e1fe7ef4d62405ee75": {
    "id": "d6659d5c108dd0e1fe7ef4d62405ee75",
    "company": "FC Bayern Muenchen AG",
    "role": "Werkstudent Online Marketing (m/w/d)",
    "location": "Munich +1"
+  },
+  "3bd1700eac93ed75d103e1a4af8608a3": {
+   "id": "3bd1700eac93ed75d103e1a4af8608a3",
+   "company": "Tiffany & Co",
+   "role": "Intern Retail Operations (m/f/d)",
+   "location": "MüNchen +1"
   },
   "ee12286ea94a7c5b73a5b28b5cabaaff": {
    "id": "ee12286ea94a7c5b73a5b28b5cabaaff",
@@ -61,6 +121,12 @@
    "company": "HUGO BOSS AG",
    "role": "Internship Studio Outerwear & Leather Boss Ww (m/f/d)",
    "location": "Reutlingen"
+  },
+  "124360fb3cdad06b4e2ae88e9b19867a": {
+   "id": "124360fb3cdad06b4e2ae88e9b19867a",
+   "company": "Amazon",
+   "role": "Loss and Prevention Intern",
+   "location": "Pipeline"
   },
   "0c9d3d921e637c6db6d7641a592b94a0": {
    "id": "0c9d3d921e637c6db6d7641a592b94a0",
@@ -416,71 +482,101 @@
    "role": "Stellenbezeichnung: Praktikant Im Sozialpädagogischen Einführungsjahr Sej (m/w/d) Kinderhaus Farbenspiel",
    "location": "Munich"
   },
-  "9d6f91a502941d61c690038e87aedecb": {
-   "id": "9d6f91a502941d61c690038e87aedecb",
-   "company": "Apple",
-   "role": "Apple Services Internship - Germany",
-   "location": "Berlin"
-  },
-  "a3042b93e3c1d339e4884ee51ca49b22": {
-   "id": "a3042b93e3c1d339e4884ee51ca49b22",
-   "company": "849",
-   "role": "Performance Marketing Intern",
-   "location": "Frankfurt +1"
-  },
-  "cf53336569bc3022f4c6ddd4c8c5a639": {
-   "id": "cf53336569bc3022f4c6ddd4c8c5a639",
-   "company": "AbbVie",
-   "role": "Werkstudent (all Genders) Marketing Im Bereich Rheumatologie",
+  "5ee8f4c67d248eeebd6fd0c157d2f7fd": {
+   "id": "5ee8f4c67d248eeebd6fd0c157d2f7fd",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (m/w/d) Treasury Markets",
    "location": "Frankfurt Am Main"
   },
-  "2f56d69c82fdb02fe92f59fe09e4e039": {
-   "id": "2f56d69c82fdb02fe92f59fe09e4e039",
-   "company": "Emma – The Sleep Company",
-   "role": "Marketing Intern - (german Speaker)",
+  "93f73379bc1ba324dca5f618e7723d31": {
+   "id": "93f73379bc1ba324dca5f618e7723d31",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (w/m/d) Treasury Banksteuerung",
+   "location": "Frankfurt Am Main"
+  },
+  "f25eda4d550fad29b614bdfcebca3a79": {
+   "id": "f25eda4d550fad29b614bdfcebca3a79",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (w/d/m) Strukturierte Finanzierung - Auslandsgeschäft",
+   "location": "Frankfurt Am Main +1"
+  },
+  "793bd4f950b1369abf47fae51c14dc99": {
+   "id": "793bd4f950b1369abf47fae51c14dc99",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (m/w/d) Transaction Management",
+   "location": "Frankfurt Am Main +1"
+  },
+  "9e0d7129b65757471dbd9f6ef1de1fe5": {
+   "id": "9e0d7129b65757471dbd9f6ef1de1fe5",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "360° Trainee (d/m/w)",
+   "location": "Frankfurt Am Main +1"
+  },
+  "eea4554bd5b919324b43f263809e6e84": {
+   "id": "eea4554bd5b919324b43f263809e6e84",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (d/m/w) Investitionsförderung - Betreuung Fördermittel",
+   "location": "Hamburg"
+  },
+  "527a8858d5e884ce32fc67adf8eb3103": {
+   "id": "527a8858d5e884ce32fc67adf8eb3103",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee 4.0 (m/d/w) Operations - Plattformbetreuung & Change Management",
    "location": "Frankfurt +1"
   },
-  "1211d203c390de95a71081905afd65cd": {
-   "id": "1211d203c390de95a71081905afd65cd",
-   "company": "Kleinfelder",
-   "role": "Highway Design Internship",
-   "location": "New Castle"
+  "a891f240ae6525f71103f1b7b6d99bcd": {
+   "id": "a891f240ae6525f71103f1b7b6d99bcd",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (m/w/d) Konzern-revision",
+   "location": "Frankfurt Am Main"
   },
-  "034c808d4ee5d2d65db7043f887daac4": {
-   "id": "034c808d4ee5d2d65db7043f887daac4",
-   "company": "EssilorLuxottica SA",
-   "role": "Logistics Business Support Internship",
-   "location": "Sedico"
+  "ae1aa2ce6e01dfc272ab5ebf609c7f30": {
+   "id": "ae1aa2ce6e01dfc272ab5ebf609c7f30",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (m/d/w) Accounting & Financial Reporting",
+   "location": "Frankfurt Am Main"
   },
-  "cda1558fb0c26b7959f43e992c48418b": {
-   "id": "cda1558fb0c26b7959f43e992c48418b",
-   "company": "Everllence",
-   "role": "Schülerpraktikum: 30.03.2027 - 02.04.2027",
-   "location": "Augsburg"
+  "97dcdbfb2f2423cdc873b55b74cc6df2": {
+   "id": "97dcdbfb2f2423cdc873b55b74cc6df2",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (m/d/w) Corporate Banking Bayern",
+   "location": "MüNchen +1"
   },
-  "b707881c30ce81d28630c7c13d950047": {
-   "id": "b707881c30ce81d28630c7c13d950047",
-   "company": "Mercedes-AMG GmbH",
-   "role": "Amg Praktikanten Entwicklung Triebstrang Ab März 2027 (m/w/d)",
-   "location": "Affalterbach"
+  "567c73e82765fe153b0001c2591c94fe": {
+   "id": "567c73e82765fe153b0001c2591c94fe",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee 4.0 (w/d/m) It",
+   "location": "Frankfurt Am Main"
   },
-  "ca460297242ae0f9566517d59ae1c32f": {
-   "id": "ca460297242ae0f9566517d59ae1c32f",
-   "company": "Pfeiffer Vacuum GmbH",
-   "role": "Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)",
-   "location": "Maulburg"
+  "d88fa5019f35c271ffd56fd3d0db4cba": {
+   "id": "d88fa5019f35c271ffd56fd3d0db4cba",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (w/d/m) Corporate Banking Nord- Und Ostdeutschland",
+   "location": "Hamburg +1"
   },
-  "1cb499ae78a362353ccc005a410379ab": {
-   "id": "1cb499ae78a362353ccc005a410379ab",
-   "company": "Ernst & Young Global Ltd",
-   "role": "Praktikant Risk Consulting (w/m/d)",
-   "location": "Eschborn +4"
+  "cc849ac921e9478326124f30de51e6ec": {
+   "id": "cc849ac921e9478326124f30de51e6ec",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (d/w/m) Transaction Management - Vertrieb",
+   "location": "Frankfurt Am Main"
   },
-  "d28d1353f502f29c77222735c8be5b87": {
-   "id": "d28d1353f502f29c77222735c8be5b87",
-   "company": "Atlas Copco",
-   "role": "Digital Marketing & Content Innovation Intern",
-   "location": "Paderno Dugnano +1"
+  "eabf5503f731625e06989fce50858720": {
+   "id": "eabf5503f731625e06989fce50858720",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (d/w/m) Operations - Kapitalmarkt Services",
+   "location": "Dusseldorf"
+  },
+  "18852fa870e52c683dae27d6aece8e49": {
+   "id": "18852fa870e52c683dae27d6aece8e49",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Trainee (w/d/m) Kapitalmärkte Handel",
+   "location": "Frankfurt Am Main"
+  },
+  "c37a1e33bbe069b9affc690c0bf2d99a": {
+   "id": "c37a1e33bbe069b9affc690c0bf2d99a",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Trainee Zum Bereichsleiter Markt (gn)",
+   "location": "Vogelsdorf"
   },
   "24a5a5a6f3358cebd023284671788628": {
    "id": "24a5a5a6f3358cebd023284671788628",
@@ -680,12 +776,6 @@
    "role": "Auszubildender Maschinen & Anlagenführer (gn)",
    "location": "Cologne"
   },
-  "3d64b0c60036f84cfa3dd3868735aae4": {
-   "id": "3d64b0c60036f84cfa3dd3868735aae4",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Trainee Zum Bereichsleiter Markt (gn)",
-   "location": "Vogelsdorf"
-  },
   "23bc985e57110d79dd8d49cd3376cef8": {
    "id": "23bc985e57110d79dd8d49cd3376cef8",
    "company": "Knorr-Bremse AG",
@@ -872,95 +962,11 @@
    "role": "Asset Wealth Management Operations Legal Entity Management Associate",
    "location": "Newark"
   },
-  "df9c9e67bc48cb826311eca2f0e64dc2": {
-   "id": "df9c9e67bc48cb826311eca2f0e64dc2",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich R&d Semiconductors",
-   "location": "Gerlingen +1"
-  },
-  "49778b06cf57350052fd74443ba787ea": {
-   "id": "49778b06cf57350052fd74443ba787ea",
-   "company": "Dr. August Oetker Nahrungsmittel KG",
-   "role": "International Trainee (m/w/d) Corporate Development (strategy / M&a)",
-   "location": "Bielefeld +1"
-  },
-  "919192d9d09a8e9fc09fd9b449a3d962": {
-   "id": "919192d9d09a8e9fc09fd9b449a3d962",
-   "company": "Dr. August Oetker Nahrungsmittel KG",
-   "role": "International Trainee (m/w/d) Supply Chain Logistics",
-   "location": "Bielefeld +1"
-  },
-  "060720ceeaa55e4fcd9ed1b728762a11": {
-   "id": "060720ceeaa55e4fcd9ed1b728762a11",
-   "company": "OBI",
-   "role": "Trainee It-management (alle Geschlechter)",
-   "location": "Wermelskirchen +1"
-  },
-  "d9cb2052830db68c1b058ecce9b0e903": {
-   "id": "d9cb2052830db68c1b058ecce9b0e903",
-   "company": "MAN Truck & Bus SE",
-   "role": "Traineeprogramm Sales Bus (m/w/d) / Standort Frankfurt",
-   "location": "Frankfurt Am Main"
-  },
-  "5835489c4cfcd8b49acfaafec50a8d77": {
-   "id": "5835489c4cfcd8b49acfaafec50a8d77",
-   "company": "GPC Tools & Equipment Sydney",
-   "role": "Ausbildung Fachkraft Lagerlogistik (m/w/d)",
-   "location": "Chemnitz +1"
-  },
-  "a7628f3ce477a6a2c19d3a63ff4c6f96": {
-   "id": "a7628f3ce477a6a2c19d3a63ff4c6f96",
-   "company": "NKT",
-   "role": "Apprentice Electrical (m/f/d)",
-   "location": "Cologne +1"
-  },
-  "70cb504f0552ffec3d4ea50203ac4ee5": {
-   "id": "70cb504f0552ffec3d4ea50203ac4ee5",
-   "company": "NKT",
-   "role": "Apprenticeship As A Materials Tester (m/f/d)",
-   "location": "Cologne +1"
-  },
-  "aa2a6c87f36f72a1e3a2e88955430ca6": {
-   "id": "aa2a6c87f36f72a1e3a2e88955430ca6",
-   "company": "J.B. Hunt",
-   "role": "Manager Trainee",
-   "location": "Milford +1"
-  },
-  "b9ad2512990fdf86c663d17a45f4c299": {
-   "id": "b9ad2512990fdf86c663d17a45f4c299",
-   "company": "investmentbankinginternships.com",
-   "role": "Trainee Im Junior Expert Programme – Backoffice Systems & Process Design (w/m/d)",
-   "location": "Berlin"
-  },
-  "ccdf10d65b0c7652e57433e2dd1fe6c2": {
-   "id": "ccdf10d65b0c7652e57433e2dd1fe6c2",
-   "company": "Arvato Systems",
-   "role": "Trainee It-ams Energiewirtschaft (m/w/d)",
-   "location": "Leipzig +1"
-  },
-  "7f67cf08395456b83a1de8351e5ec135": {
-   "id": "7f67cf08395456b83a1de8351e5ec135",
-   "company": "Schindler Group",
-   "role": "Ausbildung Mechatroniker*in (m/w/d) 01.09.2027 In Arnsdorf",
-   "location": "Arnsdorf"
-  },
-  "5b6857051c175585362b751dcff38c70": {
-   "id": "5b6857051c175585362b751dcff38c70",
-   "company": "Bausch + Lomb",
-   "role": "Ausbildung Pharmakant/in (m/w/d)",
-   "location": "Berlin-Spandau +1"
-  },
-  "ef3c5826514232641655e1c2e96a48b4": {
-   "id": "ef3c5826514232641655e1c2e96a48b4",
-   "company": "Bosch Group",
-   "role": "Junior Managers Program (trainee) - Start Your Leadership Journey In R&d Powertrain Solutions & Home Comfort",
-   "location": "Gerlingen +1"
-  },
-  "9f566d695b580013ee7f093fd678076c": {
-   "id": "9f566d695b580013ee7f093fd678076c",
-   "company": "SIXT",
-   "role": "Management Trainee Filiale (m/w/d) Region West",
-   "location": "Bochum +1"
+  "fbd706bf82d681bf4ed9b263d1cec075": {
+   "id": "fbd706bf82d681bf4ed9b263d1cec075",
+   "company": "lidl",
+   "role": "Abiturientenprogramm Logistik Inkl. Logistikmeister 2027 (m/w/d)",
+   "location": "Heilbronn +1"
   },
   "f99e05c0d4fdeb39541c4184dca7bab1": {
    "id": "f99e05c0d4fdeb39541c4184dca7bab1",
@@ -1304,6 +1310,30 @@
    "role": "Early Career Analog Mixed-signal Modeling Software Engineer (m/f/d)",
    "location": "Germany"
   },
+  "65c4362b03821a1d42474c527d4c7609": {
+   "id": "65c4362b03821a1d42474c527d4c7609",
+   "company": "zdf",
+   "role": "Sap Softwareentwickler*in Fi / Abap",
+   "location": "Mainz +1"
+  },
+  "a69ef671f956eca8ff4ce98463763e64": {
+   "id": "a69ef671f956eca8ff4ce98463763e64",
+   "company": "Tabs",
+   "role": "It Mitarbeiter Im 2nd Level Support (m/w/d)",
+   "location": "St. Ingbert +1"
+  },
+  "f0f06a3280638c2bfb20f49795ac7a1e": {
+   "id": "f0f06a3280638c2bfb20f49795ac7a1e",
+   "company": "Accenture",
+   "role": "Software Engineer Frontend / Backend / Devops (all Genders)",
+   "location": "Kronberg +1"
+  },
+  "eb072aa28942651e479821a51c80ad98": {
+   "id": "eb072aa28942651e479821a51c80ad98",
+   "company": "Zeppelin",
+   "role": "Software Engineer Energy Solutions (m/w/d)",
+   "location": "Hamburg +1"
+  },
   "fa6852fa88a637e31e4bf728e1e85268": {
    "id": "fa6852fa88a637e31e4bf728e1e85268",
    "company": "Infios",
@@ -1321,6 +1351,12 @@
    "company": "Zurich Insurance Company Ltd",
    "role": "Software Entwickler Data (m/w/d)",
    "location": "KöLn +1"
+  },
+  "8efd794adecfbb9ab78418a79002c324": {
+   "id": "8efd794adecfbb9ab78418a79002c324",
+   "company": "Fivestars",
+   "role": "Backend Engineer - Cards",
+   "location": "Berlin"
   },
   "90f46abe0db9c3830be4cd049e0bd82e": {
    "id": "90f46abe0db9c3830be4cd049e0bd82e",
@@ -1754,41 +1790,35 @@
    "role": "Sap Abap Developer (m/f/d)",
    "location": "Unknown"
   },
-  "1ec4ca29516e1f95344354f9c7583fb8": {
-   "id": "1ec4ca29516e1f95344354f9c7583fb8",
-   "company": "tensordyne.ai",
-   "role": "Software Engineer – Cloud Services – Rust",
-   "location": "Munich"
+  "20f7a60502013b9c3ee0c5db4851b91a": {
+   "id": "20f7a60502013b9c3ee0c5db4851b91a",
+   "company": "DZ Bank AG Deutsche Zentral-Genossenschaftsbank",
+   "role": "Werkstudent (m/w/d) Data-analytics Im Internal Group Audit Frankfurt In 2027",
+   "location": "Frankfurt Am Main"
   },
-  "5041735b7562fe6b027ed72167f0d31f": {
-   "id": "5041735b7562fe6b027ed72167f0d31f",
-   "company": "RED Global",
-   "role": "Software-Entwickler - Elixir & Phoenix - Remote - 24 Monate",
-   "location": "Berlin"
+  "bd02c07b3e5587bc036835338c6f6ba8": {
+   "id": "bd02c07b3e5587bc036835338c6f6ba8",
+   "company": "Mercedes-Benz",
+   "role": "Werkstudent*in Digitalisierung Und Datenanalyse In Der Rohbauentwicklung",
+   "location": "Sindelfingen +1"
   },
-  "c513cc38d7b5a437c88dc90765c123d1": {
-   "id": "c513cc38d7b5a437c88dc90765c123d1",
-   "company": "SCHOTT Pharma AG & Co. KGaA",
-   "role": "Müllheim It Servicetechnikerin It Support Specialistin (mwd) Bw",
-   "location": "MüLlheim-HüGelheim"
-  },
-  "2e4fcaa613eae4c2c08c5fcb1b57d881": {
-   "id": "2e4fcaa613eae4c2c08c5fcb1b57d881",
-   "company": "NTT Data",
-   "role": "It Support Analyst (w/m/d) - Onsite",
-   "location": "Nachterstedt"
-  },
-  "40ab4c3176a23136520f75102f389c62": {
-   "id": "40ab4c3176a23136520f75102f389c62",
-   "company": "Jobgether",
-   "role": "Backend Engineer, Solving",
-   "location": "Germany"
+  "e0956c853ba2d9598751db11a83347c2": {
+   "id": "e0956c853ba2d9598751db11a83347c2",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in Business Analytics, Intelligence & Ai (pflicht-praktikum)",
+   "location": "Stuttgart +1"
   },
   "a8d8801c4e785910cb8ccf16aa8eadb3": {
    "id": "a8d8801c4e785910cb8ccf16aa8eadb3",
    "company": "MSD",
    "role": "Werkstudent (m/w/d) Digital Analytics & Ai Search",
    "location": "MüNchen +2"
+  },
+  "ef22cfbcf0cc40587acb480858826dd2": {
+   "id": "ef22cfbcf0cc40587acb480858826dd2",
+   "company": "Citco",
+   "role": "Citco Vilnius Internship Program Winter 2026/2027 – Business & Data Analyst (cosec Value Stream)",
+   "location": "Vilniaus Apskritis"
   },
   "e5c63c8bea24b08e6dd0553d30841ad1": {
    "id": "e5c63c8bea24b08e6dd0553d30841ad1",
@@ -2036,11 +2066,47 @@
    "role": "Graduate Applied AI Engineer",
    "location": "London +1"
   },
+  "1007fb00ba914a660acc85bdbadd7968": {
+   "id": "1007fb00ba914a660acc85bdbadd7968",
+   "company": "Infineon",
+   "role": "Doctoral Thesis - Generative Ai For Scenario-based Testing Of Automated Driving Systems (f/m/div)",
+   "location": "Munich +1"
+  },
+  "c85c09228a9866325a9dc427556d4f61": {
+   "id": "c85c09228a9866325a9dc427556d4f61",
+   "company": "envia Mitteldeutsche Energie AG",
+   "role": "Data Analyst Vertragsmanagement Energie (m/w/d)",
+   "location": "Kabelsketal"
+  },
+  "8140e98104557a012632e661df51a732": {
+   "id": "8140e98104557a012632e661df51a732",
+   "company": "Jobgether",
+   "role": "Snowflake Cortex Ai Engineer",
+   "location": "Germany"
+  },
+  "24675d103777b32c6ef66bcb5250ca5b": {
+   "id": "24675d103777b32c6ef66bcb5250ca5b",
+   "company": "Miele X B.V.",
+   "role": "Ai Engineer",
+   "location": "BraşOv"
+  },
+  "64a8672f15786814d9deb5ff0ba313cf": {
+   "id": "64a8672f15786814d9deb5ff0ba313cf",
+   "company": "Mercedes-Benz",
+   "role": "Student*in Masterarbeit Agentic Ai Zur Analyse Von Produktionsdaten (digitalisierung Produktion)",
+   "location": "Sindelfingen +1"
+  },
   "8add1d26de0c8fc56ae3f49962866483": {
    "id": "8add1d26de0c8fc56ae3f49962866483",
    "company": "Valmont Industries, Inc",
    "role": "Ai Developer (copilot Studio)",
    "location": "Bratislava"
+  },
+  "9c5dd12fde58bd1a867e900f84d40501": {
+   "id": "9c5dd12fde58bd1a867e900f84d40501",
+   "company": "Endress+Hauser Group",
+   "role": "Working Student (ai &amp; Software Engineering) (f/m/d)",
+   "location": "Freiburg +1"
   },
   "07ed608015da502781ba008686386209": {
    "id": "07ed608015da502781ba008686386209",
@@ -2480,41 +2546,17 @@
    "role": "Ki-applikationsingenieur / Ki-applikationstechniker (m/w/d)",
    "location": "SchöNberg"
   },
-  "78dbf9562470878fcb57d9468cb7516a": {
-   "id": "78dbf9562470878fcb57d9468cb7516a",
-   "company": "Jobgether",
-   "role": "Coding Specialist (fluent In Dutch) - Freelance Ai Trainer Project",
-   "location": "Germany"
+  "3f0c0cba701a550e276c33b430fe979c": {
+   "id": "3f0c0cba701a550e276c33b430fe979c",
+   "company": "Allianz SE",
+   "role": "Werkstudent Im Bereich Agiles Management Und Controlling (m/w/d)",
+   "location": "Munich"
   },
-  "d3f3b09caaeaa2656eccc1119acb131f": {
-   "id": "d3f3b09caaeaa2656eccc1119acb131f",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Ai Engineer (gn)",
-   "location": "76879"
-  },
-  "b93d8caf1ed6cce15c49fe30a0ecc5d8": {
-   "id": "b93d8caf1ed6cce15c49fe30a0ecc5d8",
-   "company": "KNDS Group",
-   "role": "Data Analyst (m/w/d) Procurement",
-   "location": "Kassel"
-  },
-  "fc681ad4550089e3721a34287793db4f": {
-   "id": "fc681ad4550089e3721a34287793db4f",
-   "company": "MULTIVAC Sepp Haggenmuller SE & Co. KG",
-   "role": "Data Analyst - Befristet (m/w/d)",
-   "location": "Wolfertschwenden"
-  },
-  "9d35f78ed816805b7d24f4e49e6d6c71": {
-   "id": "9d35f78ed816805b7d24f4e49e6d6c71",
-   "company": "Edag Engineering GmbH",
-   "role": "Junior Sap Data Analyst Inhouse (m/w/d)",
-   "location": "Unknown"
-  },
-  "47a9b3a92fb885a6e18c2f3499c82f6f": {
-   "id": "47a9b3a92fb885a6e18c2f3499c82f6f",
-   "company": "Jobgether",
-   "role": "Ai Research Engineer (kernel & Inference Optimization)",
-   "location": "Germany"
+  "fad8c9b7cfa7c9a1ef775a4c216e89b8": {
+   "id": "fad8c9b7cfa7c9a1ef775a4c216e89b8",
+   "company": "Mercedes-Benz",
+   "role": "Praktikant*in Launchmanagement Mercedes-benz (pflicht-praktikum)",
+   "location": "Stuttgart +1"
   },
   "d16f4c164962ff9827312030d579ab37": {
    "id": "d16f4c164962ff9827312030d579ab37",
@@ -2612,12 +2654,6 @@
    "role": "Werkstudent (m/w/d) Bi &amp; Analytics Hub - Business",
    "location": "Germany"
   },
-  "16a82adb105d4ed78deb929ec13b2d3e": {
-   "id": "16a82adb105d4ed78deb929ec13b2d3e",
-   "company": "Shiseido",
-   "role": "Werkstudent Business Analysis (m/w/d) In Düsseldorf, 20 Stunden/woche",
-   "location": "Dusseldorf"
-  },
   "8dc6e07c4f3ff8e3f4b8e230cb84a7c3": {
    "id": "8dc6e07c4f3ff8e3f4b8e230cb84a7c3",
    "company": "Amazon Commercial Services Pty Ltd - F47",
@@ -2636,11 +2672,47 @@
    "role": "Mint-absolvent Als Business Analyst (m/w/d)",
    "location": "Stuttgart +1"
   },
+  "e8cf6f78f3b008fd9622decacd33f3cd": {
+   "id": "e8cf6f78f3b008fd9622decacd33f3cd",
+   "company": "AmRest Sp. z o.o",
+   "role": "Buchhalter / Accountant (all Genders)",
+   "location": "Wo MöChtest Du Arbeiten?"
+  },
+  "30290bfccea0690e0a548e970111f245": {
+   "id": "30290bfccea0690e0a548e970111f245",
+   "company": "Deutsches Zentrum fuer Luft- und Raumfahrt e.V",
+   "role": "Wiss. Mitarbeiterin (w/m/d) - Analyse Und Modellierung Von Kritis-kapazitäten",
+   "location": "Germany"
+  },
+  "2d590696660488036cfc6c58cd6597b7": {
+   "id": "2d590696660488036cfc6c58cd6597b7",
+   "company": "Allianz SE",
+   "role": "Working Student - Allianz Consulting - Project Management (m/f/d)",
+   "location": "Munich"
+  },
+  "380c60d333fb9036fe983094465ddde8": {
+   "id": "380c60d333fb9036fe983094465ddde8",
+   "company": "FIS (Fidelity National Information Services)",
+   "role": "Business Analyst - Erträge & Steuern (m/w/d)",
+   "location": "Deu Mnch 18"
+  },
+  "aa661deb79a04410a825613922611cf7": {
+   "id": "aa661deb79a04410a825613922611cf7",
+   "company": "Expeditors International of Washington",
+   "role": "Lohnbuchhaltung / Sachbearbeitung / Vollzeit Oder Teilzeit 32h / Raunheim / (m/w/d)",
+   "location": "Frankfurt +1"
+  },
   "7b14575476f051a9a25c61e43cc67768": {
    "id": "7b14575476f051a9a25c61e43cc67768",
    "company": "Allianz SE",
    "role": "(re-)insurance Accountant (m/f/x) 1",
    "location": "MüNchen +1"
+  },
+  "dd829213b3f1102b249a28110f3bf341": {
+   "id": "dd829213b3f1102b249a28110f3bf341",
+   "company": "CGI",
+   "role": "Business Analyst – Financial Services & Ai (m/w/d)",
+   "location": "Eschborn +1"
   },
   "5398bbc43881f5c7d56c3e6618e649f8": {
    "id": "5398bbc43881f5c7d56c3e6618e649f8",
@@ -3080,42 +3152,6 @@
    "role": "Mathematiker (m/w/d) Betriebliche Altersversorgung Als Coach / Ausbilder (in Teilzeit)",
    "location": "Frankfurt Am Main"
   },
-  "a7c7eb7f5c54272cf11db327fc7a8291": {
-   "id": "a7c7eb7f5c54272cf11db327fc7a8291",
-   "company": "Sopra Steria",
-   "role": "Junior It-management Process Advisory (m/w/d)",
-   "location": "Bundesweit"
-  },
-  "ea6acc32669b4b1aae5ca854060715b7": {
-   "id": "ea6acc32669b4b1aae5ca854060715b7",
-   "company": "Deloitte GmbH",
-   "role": "Kaufmännischer Mitarbeiter Audit/wirtschaftsprüfung (m/w/d)",
-   "location": "Frankfurt (Main) +6"
-  },
-  "7739c35fcbe13cf15945d4f0773c6b87": {
-   "id": "7739c35fcbe13cf15945d4f0773c6b87",
-   "company": "Allianz Technology SE",
-   "role": "Business Analyst In-/exkasso (m/w/d)",
-   "location": "Unknown"
-  },
-  "5ff8cbf72fe11f0044b56edf42f73ffe": {
-   "id": "5ff8cbf72fe11f0044b56edf42f73ffe",
-   "company": "1KOMMA5°",
-   "role": "Sales Business Analyst – Revenue Operations (m/w/d) CRO Office",
-   "location": "Hamburg"
-  },
-  "0a8096b415db9ad97149c8afcb0a5fd5": {
-   "id": "0a8096b415db9ad97149c8afcb0a5fd5",
-   "company": "AXA UK",
-   "role": "Accountant (m/w/x)",
-   "location": "APDE-Koeln/Cologne"
-  },
-  "696f08e4353fb176410a97d76f0905db": {
-   "id": "696f08e4353fb176410a97d76f0905db",
-   "company": "Techsyndicate Inc",
-   "role": "Associate Partner - Consult Partner Mainframe",
-   "location": "Frankfurt Am Main"
-  },
   "e5d1ce343797818c604e4a3ec073bf3e": {
    "id": "e5d1ce343797818c604e4a3ec073bf3e",
    "company": "Bayada",
@@ -3284,6 +3320,90 @@
    "role": "Cra Ii - Oncology/neurology - Germany - Remote",
    "location": "Germany"
   },
+  "fe54ec6c9e91872de6b08382843643a6": {
+   "id": "fe54ec6c9e91872de6b08382843643a6",
+   "company": "Carrier Corporation",
+   "role": "Servicetechniker Im Außendienst (m/w/d) - München",
+   "location": "MüNchen +1"
+  },
+  "f4564c8316baf7cc3d908bd01bad6b0d": {
+   "id": "f4564c8316baf7cc3d908bd01bad6b0d",
+   "company": "Ariston Holding N.V",
+   "role": "Servicetechniker (m/w/d) Heiztechnik & Wärmepumpe In Stuttgart",
+   "location": "Stuttgart"
+  },
+  "a3e66b634a8814967942bc80b050aa3e": {
+   "id": "a3e66b634a8814967942bc80b050aa3e",
+   "company": "Bosch Group",
+   "role": "Maintenance Engineer Furnace (w/m/div.)",
+   "location": "Dresden +1"
+  },
+  "e0693811ef294f7ed03fcc38e75ffc81": {
+   "id": "e0693811ef294f7ed03fcc38e75ffc81",
+   "company": "Danaher Corporation",
+   "role": "Field Service Engineer (m/f/d) – Centrifugation Raum Frankfurt/würzburg/heilbronn",
+   "location": "Frankfurt +2"
+  },
+  "4e37c72630aedd4d61a8858b6d6e01cf": {
+   "id": "4e37c72630aedd4d61a8858b6d6e01cf",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Kundendiensttechniker Mobiler Brandschutz (m/w/d)",
+   "location": "Koeln +1"
+  },
+  "0b97976e148a22d1dd6dd8409886e36b": {
+   "id": "0b97976e148a22d1dd6dd8409886e36b",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicemonteur Sicherheitstechnik (m/w/d)",
+   "location": "Hannover +1"
+  },
+  "5bd9657073cd37c30e117cf8dbdedddb": {
+   "id": "5bd9657073cd37c30e117cf8dbdedddb",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicemonteur (m/w/d) Sicherheitstechnik",
+   "location": "Stuttgart +2"
+  },
+  "17b9eccaa3b8831581be47589e249e9b": {
+   "id": "17b9eccaa3b8831581be47589e249e9b",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicetechniker (m/w/d) Feuerschutz",
+   "location": "Munich +1"
+  },
+  "805ddaea9cf9c11a7dfbcf20c6316e0b": {
+   "id": "805ddaea9cf9c11a7dfbcf20c6316e0b",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicetechniker (m/w/d) Sicherheitstechnik",
+   "location": "Freiburg Im Breisgau"
+  },
+  "0d33ecb3ac838ee09e08c907bf09b57b": {
+   "id": "0d33ecb3ac838ee09e08c907bf09b57b",
+   "company": "Johnson Controls OpenBlue",
+   "role": "Servicetechniker Industriekälte (w/m/d)",
+   "location": "Freiburg +3"
+  },
+  "7996e70d91415a3f592e6647a1cfd645": {
+   "id": "7996e70d91415a3f592e6647a1cfd645",
+   "company": "Agilent Technologies",
+   "role": "Field Service Operations Coordinator (m/f/d)",
+   "location": "Waldbronn +1"
+  },
+  "06cc4c4ff78681ffb63117062dc55200": {
+   "id": "06cc4c4ff78681ffb63117062dc55200",
+   "company": "Carrier Corporation",
+   "role": "Servicetechniker Im Außendienst (m/w/d) - Region Frankfurt",
+   "location": "Frankfurt A. M. +1"
+  },
+  "fff79f4aef0b94b39f03bfac27aa036c": {
+   "id": "fff79f4aef0b94b39f03bfac27aa036c",
+   "company": "Trumpf",
+   "role": "Servicetechniker (w/m/d) Nationaler Außendienst (region Fulda)",
+   "location": "Stuttgart"
+  },
+  "757f42b756df88be16629b8fd9df7fc2": {
+   "id": "757f42b756df88be16629b8fd9df7fc2",
+   "company": "KONE GmbH",
+   "role": "Technischer Spezialist M/w/d Service",
+   "location": "Offenbach +3"
+  },
   "264fd4d40f50a5ec3467c38ba59f1ace": {
    "id": "264fd4d40f50a5ec3467c38ba59f1ace",
    "company": "Vonovia SE",
@@ -3313,6 +3433,12 @@
    "company": "Max Weishaupt GmbH",
    "role": "Kundendiensttechniker (m/w/d)",
    "location": "Germany"
+  },
+  "0c56826e3ad697839e18795ee24feaf3": {
+   "id": "0c56826e3ad697839e18795ee24feaf3",
+   "company": "tabel-personal.de",
+   "role": "Servicetechniker Für Lichttechnik (m/w/d) - Bis Zu 22,00€ Stunde + Benefits + Sonderzahlungen",
+   "location": "Berlin"
   },
   "26ea05fed6252ab1b639a7d2553d8189": {
    "id": "26ea05fed6252ab1b639a7d2553d8189",
@@ -3674,95 +3800,47 @@
    "role": "Ausbildung Mechatroniker:in Für Dem Service An Windenergieanlagen (m/w/d) - Fehmarn 2027",
    "location": "Fehmarn +1"
   },
-  "a4d9dd03ab8c9ed66a9ce76de4b1dcc1": {
-   "id": "a4d9dd03ab8c9ed66a9ce76de4b1dcc1",
-   "company": "Nordex SE",
-   "role": "Servicetechniker (m/w/d) Windenergieanlagen (norddeutschland)",
-   "location": "Hamburg +2"
+  "f456febc13867de5a22b2e056aa9a383": {
+   "id": "f456febc13867de5a22b2e056aa9a383",
+   "company": "Tchibo GmbH",
+   "role": "Ausbildung Zum Kaufmann Im Einzelhandel 2027 (m/w/d) Berlin (spandau)",
+   "location": "Berlin"
   },
-  "c72797c95241d10f55732c2af6293233": {
-   "id": "c72797c95241d10f55732c2af6293233",
-   "company": "Nordex SE",
-   "role": "Ausbildung Mechatroniker:in Für Dem Service An Windenergieanlagen - Flex. Standort Deutschlandweit",
-   "location": "18059"
+  "632ac817260608a02853e24783d1e60b": {
+   "id": "632ac817260608a02853e24783d1e60b",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Mitarbeiter Logistik / Lager / Versand (gn) Vollzeit Oder Teilzeit",
+   "location": "Hannover +2"
   },
-  "6b0d48f1a7fec1f15778844c861f569c": {
-   "id": "6b0d48f1a7fec1f15778844c861f569c",
-   "company": "Bechtle AG",
-   "role": "It Servicetechniker 2nd Level Support (w/m/d)",
-   "location": "Frankfurt Am Main +2"
+  "8de6351efc70ba49c9a3962ceae4e1cd": {
+   "id": "8de6351efc70ba49c9a3962ceae4e1cd",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Holz / Baustoffe / Baufertigteile (gn) Vollzeit Oder Teilzeit",
+   "location": "Berlin"
   },
-  "6ee408e463a4eef79d520dd6360f0038": {
-   "id": "6ee408e463a4eef79d520dd6360f0038",
-   "company": "Zwart Techniek",
-   "role": "Servicetechniker (m/w/d) Für Notstromanlagen",
-   "location": "Frankfurt Am Main"
+  "44a5344ac34dd2c4ff7cd537ef978d15": {
+   "id": "44a5344ac34dd2c4ff7cd537ef978d15",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Garten (gn)",
+   "location": "Dusseldorf"
   },
-  "94744685943ed566615422e3f117be3a": {
-   "id": "94744685943ed566615422e3f117be3a",
-   "company": "Liebherr Machines Bulle SA",
-   "role": "Servicetechniker Für Baumaschinen In Der Werkstatt (m/w/d)",
-   "location": "MüNchen-Hohenlinden"
+  "a5295f69b8139fbd873ed278c151eb94": {
+   "id": "a5295f69b8139fbd873ed278c151eb94",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Eisenwaren / Werkzeuge / Elektro (gn) Vollzeit Oder Teilzeit",
+   "location": "Berlin"
   },
-  "ea199762b6e53386093f43b3111858c0": {
-   "id": "ea199762b6e53386093f43b3111858c0",
-   "company": "Getinge AB",
-   "role": "Servicetechniker/in - Acute Care Therapies - Region Gomaringen",
-   "location": "Karlsruhe"
+  "6a31544dfd9b2f93d5b83827ad62cf9f": {
+   "id": "6a31544dfd9b2f93d5b83827ad62cf9f",
+   "company": "Hornbach Baumarkt AG",
+   "role": "Verkäufer Elektro (gn)",
+   "location": "Dortmund"
   },
-  "8223865c9da3fd8dcea423ff0b602b0f": {
-   "id": "8223865c9da3fd8dcea423ff0b602b0f",
-   "company": "ARBURG GmbH und Co KG",
-   "role": "Rednitzhembach Servicetechniker (mwd) Region Straubingdeggendorfregensburg By",
-   "location": "Rednitzhembach +3"
-  },
-  "f8bf7798c4d59a4f7f3e9e92241221d3": {
-   "id": "f8bf7798c4d59a4f7f3e9e92241221d3",
-   "company": "ARBURG GmbH und Co KG",
-   "role": "Deutschland Servicetechniker (mwd) Region Chemnitzzwickau Nw",
-   "location": "Chemnitz +1"
-  },
-  "352e6a90ff25c95caf9fa87b00e79f9c": {
-   "id": "352e6a90ff25c95caf9fa87b00e79f9c",
-   "company": "Power Solutions",
-   "role": "Montierer / Anlagenbediener (m/w/d)",
-   "location": "Friedrichshafen +1"
-  },
-  "21acdba327cf21223c9374a8733d04c4": {
-   "id": "21acdba327cf21223c9374a8733d04c4",
-   "company": "Rolls-Royce Motor Cars",
-   "role": "Montierer / Anlagenbediener (m/w/d)",
-   "location": "Friedrichshafen +1"
-  },
-  "cd3eac8f25c982ab58cfc5c29d91283c": {
-   "id": "cd3eac8f25c982ab58cfc5c29d91283c",
-   "company": "TRUMPF SE + Co. KG",
-   "role": "Servicetechniker (w/m/d) Im Nationalen Außendienst (region Hannover)",
-   "location": "Hannover +1"
-  },
-  "ca3fbeed7c38c1396d9b2873db646066": {
-   "id": "ca3fbeed7c38c1396d9b2873db646066",
-   "company": "Fortrea",
-   "role": "Start Up Maintenance Specialist Dach Region",
-   "location": "Munich +1"
-  },
-  "8b9b9584ddd97829ba7bcc3d3124b1f4": {
-   "id": "8b9b9584ddd97829ba7bcc3d3124b1f4",
-   "company": "KION North America Corporation",
-   "role": "Field Service Engineer",
-   "location": "Avelleda"
-  },
-  "5f0bafdc340a2b7b9e7bb542bf2f7680": {
-   "id": "5f0bafdc340a2b7b9e7bb542bf2f7680",
-   "company": "KION North America Corporation",
-   "role": "Servicetechniker (m/w/d)",
-   "location": "Memmingen +2"
-  },
-  "9dcae649153b859b1e2142eff5dd7f21": {
-   "id": "9dcae649153b859b1e2142eff5dd7f21",
-   "company": "KION North America Corporation",
-   "role": "Jr-0082178 Ausbildung Zum Mechatroniker Als Servicetechniker (m/w/d) In Würzburg - Start: 01.09.2027",
-   "location": "WüRzburg +2"
+  "af034596dd20ec64dc9be852de3daf53": {
+   "id": "af034596dd20ec64dc9be852de3daf53",
+   "company": "Nilfisk",
+   "role": "Warehouse Assistent",
+   "location": "Bellenberg"
   },
   "02dab0393690b91c1ff11ef823c5ec40": {
    "id": "02dab0393690b91c1ff11ef823c5ec40",
@@ -3986,12 +4064,6 @@
    "role": "Urban Outfitters Sales Associate / Mitarbeiter In Im Verkauf - Hamburg, Germany",
    "location": "Hamburg"
   },
-  "7c27fe10cd381429efcc5e018ce57fea": {
-   "id": "7c27fe10cd381429efcc5e018ce57fea",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Elektro (gn)",
-   "location": "Dortmund"
-  },
   "15468ca506fe2c755877a2e2f2b700d0": {
    "id": "15468ca506fe2c755877a2e2f2b700d0",
    "company": "Mercedes-Benz",
@@ -4087,12 +4159,6 @@
    "company": "Skechers U.S.A.",
    "role": "Verkäufer (m/w/d) Als Wochenendaushilfe - Berlin Wustermark",
    "location": "Berlin"
-  },
-  "36f3da8d52444e62bc7fc3943ddcdccd": {
-   "id": "36f3da8d52444e62bc7fc3943ddcdccd",
-   "company": "Hornbach Baumarkt AG",
-   "role": "Verkäufer Garten (gn)",
-   "location": "Dusseldorf"
   },
   "8a420c0eab5c1947c13933cc17c92d2b": {
    "id": "8a420c0eab5c1947c13933cc17c92d2b",
@@ -4213,36 +4279,6 @@
    "company": "SIXT",
    "role": "Verkaufsberater / Kundenberater Autovermietung (m/w/d) Teilzeit",
    "location": "Dusseldorf"
-  },
-  "7906a470a7b6f5145a076b97d2c92a84": {
-   "id": "7906a470a7b6f5145a076b97d2c92a84",
-   "company": "H&M",
-   "role": "Verkäufer M/w/d 37,5h",
-   "location": "Munich"
-  },
-  "d5def21e8895c696900b25d2d6721827": {
-   "id": "d5def21e8895c696900b25d2d6721827",
-   "company": "H&M",
-   "role": "Verkäufer M/w/d 20h",
-   "location": "Cologne"
-  },
-  "1ed46d6697e1e7102fff7bb5e1a1d030": {
-   "id": "1ed46d6697e1e7102fff7bb5e1a1d030",
-   "company": "Sandoz",
-   "role": "Associate Warehouse & Incoming Goods (m/w/d)",
-   "location": "Holzkirchen +1"
-  },
-  "82f7f6332a2c5f3d323f116ab3060169": {
-   "id": "82f7f6332a2c5f3d323f116ab3060169",
-   "company": "Telefonica",
-   "role": "Verkäufer / Kundenberater (m/w/d) O2 Shop Dortmund",
-   "location": "Dortmund"
-  },
-  "eb46735c1df93da55687c629bf80bc33": {
-   "id": "eb46735c1df93da55687c629bf80bc33",
-   "company": "Rewe Group",
-   "role": "Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)",
-   "location": "Hamburg"
   },
   "f562bcdf0530aba496da6065458a6c0f": {
    "id": "f562bcdf0530aba496da6065458a6c0f",

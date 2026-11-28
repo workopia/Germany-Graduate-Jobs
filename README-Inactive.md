@@ -12008,4 +12008,71 @@
 <tr><td>Chnetwork</td><td>Pr Coordinator (m/w/d)</td><td>Hamburg</td><td>2026-11-27</td></tr>
 <tr><td>Deloitte GmbH</td><td>(junior) Assistant Sekretariat Steuerberatung - Tax (m/w/d)</td><td>Munich</td><td>2026-11-27</td></tr>
 <tr><td>Infineon</td><td>Team Assistant (f/m/div)</td><td>Munich</td><td>2026-11-27</td></tr>
+<tr><td>Apple</td><td>Apple Services Internship - Germany</td><td>Berlin</td><td>2026-11-28</td></tr>
+<tr><td>849</td><td>Performance Marketing Intern</td><td>Frankfurt +1</td><td>2026-11-28</td></tr>
+<tr><td>AbbVie</td><td>Werkstudent (all Genders) Marketing Im Bereich Rheumatologie</td><td>Frankfurt Am Main</td><td>2026-11-28</td></tr>
+<tr><td>Emma – The Sleep Company</td><td>Marketing Intern - (german Speaker)</td><td>Frankfurt +1</td><td>2026-11-28</td></tr>
+<tr><td>Kleinfelder</td><td>Highway Design Internship</td><td>New Castle</td><td>2026-11-28</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Logistics Business Support Internship</td><td>Sedico</td><td>2026-11-28</td></tr>
+<tr><td>Everllence</td><td>Schülerpraktikum: 30.03.2027 - 02.04.2027</td><td>Augsburg</td><td>2026-11-28</td></tr>
+<tr><td>Mercedes-AMG GmbH</td><td>Amg Praktikanten Entwicklung Triebstrang Ab März 2027 (m/w/d)</td><td>Affalterbach</td><td>2026-11-28</td></tr>
+<tr><td>Pfeiffer Vacuum GmbH</td><td>Praktikant / Abschlussarbeit Terminologie / Corporate Language (m/w/d)</td><td>Maulburg</td><td>2026-11-28</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Praktikant Risk Consulting (w/m/d)</td><td>Eschborn +4</td><td>2026-11-28</td></tr>
+<tr><td>Atlas Copco</td><td>Digital Marketing & Content Innovation Intern</td><td>Paderno Dugnano +1</td><td>2026-11-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Trainee Zum Bereichsleiter Markt (gn)</td><td>Vogelsdorf</td><td>2026-11-28</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Starte Deine Leadership Journey Im Bereich R&d Semiconductors</td><td>Gerlingen +1</td><td>2026-11-28</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>International Trainee (m/w/d) Corporate Development (strategy / M&a)</td><td>Bielefeld +1</td><td>2026-11-28</td></tr>
+<tr><td>Dr. August Oetker Nahrungsmittel KG</td><td>International Trainee (m/w/d) Supply Chain Logistics</td><td>Bielefeld +1</td><td>2026-11-28</td></tr>
+<tr><td>OBI</td><td>Trainee It-management (alle Geschlechter)</td><td>Wermelskirchen +1</td><td>2026-11-28</td></tr>
+<tr><td>MAN Truck & Bus SE</td><td>Traineeprogramm Sales Bus (m/w/d) / Standort Frankfurt</td><td>Frankfurt Am Main</td><td>2026-11-28</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Ausbildung Fachkraft Lagerlogistik (m/w/d)</td><td>Chemnitz +1</td><td>2026-11-28</td></tr>
+<tr><td>NKT</td><td>Apprentice Electrical (m/f/d)</td><td>Cologne +1</td><td>2026-11-28</td></tr>
+<tr><td>NKT</td><td>Apprenticeship As A Materials Tester (m/f/d)</td><td>Cologne +1</td><td>2026-11-28</td></tr>
+<tr><td>J.B. Hunt</td><td>Manager Trainee</td><td>Milford +1</td><td>2026-11-28</td></tr>
+<tr><td>investmentbankinginternships.com</td><td>Trainee Im Junior Expert Programme – Backoffice Systems & Process Design (w/m/d)</td><td>Berlin</td><td>2026-11-28</td></tr>
+<tr><td>Arvato Systems</td><td>Trainee It-ams Energiewirtschaft (m/w/d)</td><td>Leipzig +1</td><td>2026-11-28</td></tr>
+<tr><td>Schindler Group</td><td>Ausbildung Mechatroniker*in (m/w/d) 01.09.2027 In Arnsdorf</td><td>Arnsdorf</td><td>2026-11-28</td></tr>
+<tr><td>Bausch + Lomb</td><td>Ausbildung Pharmakant/in (m/w/d)</td><td>Berlin-Spandau +1</td><td>2026-11-28</td></tr>
+<tr><td>Bosch Group</td><td>Junior Managers Program (trainee) - Start Your Leadership Journey In R&d Powertrain Solutions & Home Comfort</td><td>Gerlingen +1</td><td>2026-11-28</td></tr>
+<tr><td>SIXT</td><td>Management Trainee Filiale (m/w/d) Region West</td><td>Bochum +1</td><td>2026-11-28</td></tr>
+<tr><td>tensordyne.ai</td><td>Software Engineer – Cloud Services – Rust</td><td>Munich</td><td>2026-11-28</td></tr>
+<tr><td>RED Global</td><td>Software-Entwickler - Elixir & Phoenix - Remote - 24 Monate</td><td>Berlin</td><td>2026-11-28</td></tr>
+<tr><td>SCHOTT Pharma AG & Co. KGaA</td><td>Müllheim It Servicetechnikerin It Support Specialistin (mwd) Bw</td><td>MüLlheim-HüGelheim</td><td>2026-11-28</td></tr>
+<tr><td>NTT Data</td><td>It Support Analyst (w/m/d) - Onsite</td><td>Nachterstedt</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Backend Engineer, Solving</td><td>Germany</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Coding Specialist (fluent In Dutch) - Freelance Ai Trainer Project</td><td>Germany</td><td>2026-11-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Ai Engineer (gn)</td><td>76879</td><td>2026-11-28</td></tr>
+<tr><td>KNDS Group</td><td>Data Analyst (m/w/d) Procurement</td><td>Kassel</td><td>2026-11-28</td></tr>
+<tr><td>MULTIVAC Sepp Haggenmuller SE & Co. KG</td><td>Data Analyst - Befristet (m/w/d)</td><td>Wolfertschwenden</td><td>2026-11-28</td></tr>
+<tr><td>Edag Engineering GmbH</td><td>Junior Sap Data Analyst Inhouse (m/w/d)</td><td>Unknown</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Ai Research Engineer (kernel & Inference Optimization)</td><td>Germany</td><td>2026-11-28</td></tr>
+<tr><td>Shiseido</td><td>Werkstudent Business Analysis (m/w/d) In Düsseldorf, 20 Stunden/woche</td><td>Dusseldorf</td><td>2026-11-28</td></tr>
+<tr><td>Sopra Steria</td><td>Junior It-management Process Advisory (m/w/d)</td><td>Bundesweit</td><td>2026-11-28</td></tr>
+<tr><td>Deloitte GmbH</td><td>Kaufmännischer Mitarbeiter Audit/wirtschaftsprüfung (m/w/d)</td><td>Frankfurt (Main) +6</td><td>2026-11-28</td></tr>
+<tr><td>Allianz Technology SE</td><td>Business Analyst In-/exkasso (m/w/d)</td><td>Unknown</td><td>2026-11-28</td></tr>
+<tr><td>1KOMMA5°</td><td>Sales Business Analyst – Revenue Operations (m/w/d) CRO Office</td><td>Hamburg</td><td>2026-11-28</td></tr>
+<tr><td>AXA UK</td><td>Accountant (m/w/x)</td><td>APDE-Koeln/Cologne</td><td>2026-11-28</td></tr>
+<tr><td>Techsyndicate Inc</td><td>Associate Partner - Consult Partner Mainframe</td><td>Frankfurt Am Main</td><td>2026-11-28</td></tr>
+<tr><td>Nordex SE</td><td>Servicetechniker (m/w/d) Windenergieanlagen (norddeutschland)</td><td>Hamburg +2</td><td>2026-11-28</td></tr>
+<tr><td>Nordex SE</td><td>Ausbildung Mechatroniker:in Für Dem Service An Windenergieanlagen - Flex. Standort Deutschlandweit</td><td>18059</td><td>2026-11-28</td></tr>
+<tr><td>Bechtle AG</td><td>It Servicetechniker 2nd Level Support (w/m/d)</td><td>Frankfurt Am Main +2</td><td>2026-11-28</td></tr>
+<tr><td>Zwart Techniek</td><td>Servicetechniker (m/w/d) Für Notstromanlagen</td><td>Frankfurt Am Main</td><td>2026-11-28</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Servicetechniker Für Baumaschinen In Der Werkstatt (m/w/d)</td><td>MüNchen-Hohenlinden</td><td>2026-11-28</td></tr>
+<tr><td>Getinge AB</td><td>Servicetechniker/in - Acute Care Therapies - Region Gomaringen</td><td>Karlsruhe</td><td>2026-11-28</td></tr>
+<tr><td>ARBURG GmbH und Co KG</td><td>Rednitzhembach Servicetechniker (mwd) Region Straubingdeggendorfregensburg By</td><td>Rednitzhembach +3</td><td>2026-11-28</td></tr>
+<tr><td>ARBURG GmbH und Co KG</td><td>Deutschland Servicetechniker (mwd) Region Chemnitzzwickau Nw</td><td>Chemnitz +1</td><td>2026-11-28</td></tr>
+<tr><td>Power Solutions</td><td>Montierer / Anlagenbediener (m/w/d)</td><td>Friedrichshafen +1</td><td>2026-11-28</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Montierer / Anlagenbediener (m/w/d)</td><td>Friedrichshafen +1</td><td>2026-11-28</td></tr>
+<tr><td>TRUMPF SE + Co. KG</td><td>Servicetechniker (w/m/d) Im Nationalen Außendienst (region Hannover)</td><td>Hannover +1</td><td>2026-11-28</td></tr>
+<tr><td>Fortrea</td><td>Start Up Maintenance Specialist Dach Region</td><td>Munich +1</td><td>2026-11-28</td></tr>
+<tr><td>KION North America Corporation</td><td>Field Service Engineer</td><td>Avelleda</td><td>2026-11-28</td></tr>
+<tr><td>KION North America Corporation</td><td>Servicetechniker (m/w/d)</td><td>Memmingen +2</td><td>2026-11-28</td></tr>
+<tr><td>KION North America Corporation</td><td>Jr-0082178 Ausbildung Zum Mechatroniker Als Servicetechniker (m/w/d) In Würzburg - Start: 01.09.2027</td><td>WüRzburg +2</td><td>2026-11-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Elektro (gn)</td><td>Dortmund</td><td>2026-11-28</td></tr>
+<tr><td>Hornbach Baumarkt AG</td><td>Verkäufer Garten (gn)</td><td>Dusseldorf</td><td>2026-11-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 37,5h</td><td>Munich</td><td>2026-11-28</td></tr>
+<tr><td>H&M</td><td>Verkäufer M/w/d 20h</td><td>Cologne</td><td>2026-11-28</td></tr>
+<tr><td>Sandoz</td><td>Associate Warehouse & Incoming Goods (m/w/d)</td><td>Holzkirchen +1</td><td>2026-11-28</td></tr>
+<tr><td>Telefonica</td><td>Verkäufer / Kundenberater (m/w/d) O2 Shop Dortmund</td><td>Dortmund</td><td>2026-11-28</td></tr>
+<tr><td>Rewe Group</td><td>Fachverkäufer Zoofachhandel Und Heimtierbedarf (m/w/d)</td><td>Hamburg</td><td>2026-11-28</td></tr>
 </table>
